@@ -42,10 +42,18 @@ Translation_CK3/
 - [宗教](translated/zh/Religion.md)
 - [圣地](translated/zh/Holy_sites.md)
 - [教条](translated/zh/Tenets.md)
+- [传统](translated/zh/Traditions.md)
+
+### 御前会议与社交
+- [御前会议](translated/zh/Council.md)
+- [术语与缩写](translated/zh/Jargon.md)
 
 ### 数据与修正
 - [宝物](translated/zh/Artifacts.md)
 - [修正](translated/zh/Modifiers.md)
+
+### 角色与开局
+- [有趣的角色](translated/zh/Interesting_characters.md)
 
 ### DLC与其他
 - [DLC 可下载内容](translated/zh/Downloadable_content.md)
