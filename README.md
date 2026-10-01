@@ -41,6 +41,11 @@ Translation_CK3/
 ### 宗教与文化
 - [宗教](translated/zh/Religion.md)
 - [圣地](translated/zh/Holy_sites.md)
+- [教条](translated/zh/Tenets.md)
+
+### 数据与修正
+- [宝物](translated/zh/Artifacts.md)
+- [修正](translated/zh/Modifiers.md)
 
 ### DLC与其他
 - [DLC 可下载内容](translated/zh/Downloadable_content.md)
