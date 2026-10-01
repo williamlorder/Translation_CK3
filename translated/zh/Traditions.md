@@ -1,78 +1,78 @@
-# 传统（传统s）
+# 传统（Traditions）
 
-> 来源：https://ck3.paradoxwikis.com/传统s
+> 来源：https://ck3.paradoxwikis.com/Traditions
 > 许可协议：CC BY-SA 3.0（Paradox Wikis）
 > 本文为《十字军之王3》PC版的内容翻译，基于英文维基页面。
 
 请帮助验证或更新本文的较旧部分。至少部分内容最后一次验证是在1.18版本。本文仅适用于《十字军之王3》PC版。
 
-传统（传统s）代表一种文化（文化）的主要风俗，并可提供各种效果。 一种文化在部落时代最多可以拥有5个传统，每进入一个新时代将获得一个额外的传统槽位。 Adding a tradition costs 2000  威望, which may be increased by the following:
+传统（Traditions）代表一种文化（Culture）的主要风俗，并可提供各种效果。 一种文化在部落时代最多可以拥有5个传统，每进入一个新时代将获得一个额外的传统槽位。 添加一个传统需要花费2000威望（Prestige），以下情况可能会增加费用：
 
-- 如果文化没有该传统偏好的文化精神（文化精神），则+2000。
+- 如果文化没有该传统偏好的文化精神（Ethos），则+2000。
 - 如果可选条件未满足，则+3000。这不适用于AI文化领袖。
-在御前宫廷（御前宫廷）DLC中，替换一个传统会使最终费用增加50%，建立时间增加25%。
-建立传统所需的时间取决于拥有该文化的伯爵领（伯爵领）数量。该文化拥有的伯爵领越少，速度越快。建立传统的最长时间为30年。
+在御前宫廷（Royal Court）DLC中，替换一个传统会使最终费用增加50%，建立时间增加25%。
+建立传统所需的时间取决于拥有该文化的伯爵领（County）数量。该文化拥有的伯爵领越少，速度越快。建立传统的最长时间为30年。
 
 需要注意的是，许多传统与其他传统互斥。绕过这一限制的唯一方法是通过文化融合（Hybridization）与拥有另一传统的文化进行融合。
 
-## 领地传统（Realm traditions）
+## 领地传统（Realm Traditions）
 
-| **传统** | **效果** | **必要条件** | **可选条件** | **偏好文化精神** | **General** | **角色s** | **Counties** | **地产s** | **农耕
+| **传统** | **效果** | **必要条件** | **可选条件** | **偏好文化精神** | **通用** | **角色** | **伯爵领** | **地产** | **农耕
 
 这种文化以农耕为本，其土地为饥饿的军队生产充足的粮食。虽然不必为食物而奋斗意味着可以征召大量农民入伍，但这也意味着每个士兵不如来自更严酷地区的人那样充满斗志。** | 这种文化以农耕为本，其土地为饥饿的军队生产充足的粮食。虽然不必为食物而奋斗意味着可以征召大量农民入伍，但这也意味着每个士兵不如来自更严酷地区的人那样充满斗志。 | 知足特质更常见
  儿童在军事教育方面表现往往略差。
- Diligent and  Patient 有额外加成:
- +20% 地产税收 in 农田
- +20% 地产税收 in 冲积平原
- Athletic 有额外加成:
+ 勤勉和 耐心 有额外加成:
+ +20% 地产税收的农田
+ +20% 地产税收的冲积平原
+ 健壮 有额外加成:
  +5% 伯爵领生育增长
- +20% 发展度增长 in 农田
- +20% 发展度增长 in 冲积平原 - 知足特质更常见
+ +20% 发展度增长的农田
+ +20% 发展度增长的冲积平原 - 知足特质更常见
 - 儿童在军事教育方面表现往往略差。
-- Diligent and  Patient 有额外加成:
- +20% 地产税收 in 农田
- +20% 地产税收 in 冲积平原
-- +20% 地产税收 in 农田
-- +20% 地产税收 in 冲积平原
-- Athletic 有额外加成:
+- 勤勉和 耐心 有额外加成:
+ +20% 地产税收的农田
+ +20% 地产税收的冲积平原
+- +20% 地产税收的农田
+- +20% 地产税收的冲积平原
+- 健壮 有额外加成:
  +5% 伯爵领生育增长
- +20% 发展度增长 in 农田
- +20% 发展度增长 in 冲积平原
+ +20% 发展度增长的农田
+ +20% 发展度增长的冲积平原
 - +5% 伯爵领生育增长
-- +20% 发展度增长 in 农田
-- +20% 发展度增长 in 冲积平原
+- +20% 发展度增长的农田
+- +20% 发展度增长的冲积平原
 | -2 勇武
- +25% 常备军 招募费用
- −22 Floodplain 危险度 - -2 勇武
-- +25% 常备军 招募费用
-- −22 Floodplain 危险度
-| +30% 发展度增长 in 农田
- −10% 建筑建造费用 in 农田
- +10% 征召兵规模 in 农田
- +30% 发展度增长 in 冲积平原
- −10% 建筑建造费用 in 冲积平原
- +10% 征召兵规模 in 冲积平原 - +30% 发展度增长 in 农田
-- −10% 建筑建造费用 in 农田
-- +10% 征召兵规模 in 农田
-- +30% 发展度增长 in 冲积平原
-- −10% 建筑建造费用 in 冲积平原
-- +10% 征召兵规模 in 冲积平原
-| 文化存在于拥有以下地形的伯爵领中： either:
- 农田
- 冲积平原
+ +25% 常备军招募费用
+ −22 冲积平原 危险度 - -2 勇武
+- +25% 常备军招募费用
+- −22 冲积平原 危险度
+| +30% 发展度增长的农田
+ −10% 建筑建造费用的农田
+ +10% 征召兵规模的农田
+ +30% 发展度增长的冲积平原
+ −10% 建筑建造费用的冲积平原
+ +10% 征召兵规模的冲积平原 - +30% 发展度增长的农田
+- −10% 建筑建造费用的农田
+- +10% 征召兵规模的农田
+- +30% 发展度增长的冲积平原
+- −10% 建筑建造费用的冲积平原
+- +10% 征召兵规模的冲积平原
+| 文化存在于拥有以下地形的伯爵领中： 以下之一：
+ 农田
+ 冲积平原
 
  精耕细作传统
-  游牧 - 文化存在于拥有以下地形的伯爵领中： either:
- 农田
- 冲积平原
+  游牧 - 文化存在于拥有以下地形的伯爵领中： 以下之一：
+ 农田
+ 冲积平原
 - 农田
 - 冲积平原
 - 精耕细作传统
 - 游牧
-| The 文化至少存在于 5 counties with either:
- 农田
- 冲积平原 - 农田
- 冲积平原
+|文化至少存在于 5 拥有以下地形的伯爵领中：:
+ 农田
+ 冲积平原 - 农田
+ 冲积平原
 - 农田
 - 冲积平原
 | 官僚
@@ -80,7 +80,7 @@
 礼仪
 平等
 灵性
-Stoic - Bureaucratic
+坚毅 - 官僚
 - 集体
 - 礼仪
 - 平等
@@ -88,23 +88,23 @@ Stoic - Bureaucratic
 - 坚毅
 | **阿姆哈拉高地人
 
-阿姆哈拉高地非常适合农耕，只要知道如何以最好的方式处理事务。世世代代以来，这个民族在这种环境中生活和劳作，在发展自己传统和习俗的同时蓬勃发展。** | 阿姆哈拉高地非常适合农耕，只要知道如何以最好的方式处理事务。世世代代以来，这个民族在这种环境中生活和劳作，在发展自己传统和习俗的同时蓬勃发展。 | Sarawit innovation (中世纪盛期)
+阿姆哈拉高地非常适合农耕，只要知道如何以最好的方式处理事务。世世代代以来，这个民族在这种环境中生活和劳作，在发展自己传统和习俗的同时蓬勃发展。** | 阿姆哈拉高地非常适合农耕，只要知道如何以最好的方式处理事务。世世代代以来，这个民族在这种环境中生活和劳作，在发展自己传统和习俗的同时蓬勃发展。 | 萨拉维特 革新 (中世纪盛期)
  可以阉割囚犯
- Hill Farms 有额外加成 in 此文化的伯爵领:
- +1% 骑士效率 per Hill Farms level
- +1% 常备军反制效率 per Hill Farms level
- +0.5% 征召兵规模 per Hill Farms level
- +2 Defender 优势 per Hill Farms level - Sarawit innovation (中世纪盛期)
+ 丘陵农场 有额外加成的此文化的伯爵领:
+ +1% 骑士效用每丘陵农场等级
+ +1% 常备军克制效率每丘陵农场等级
+ +0.5% 征召兵规模每丘陵农场等级
+ +2 防御方优势每丘陵农场等级 - 萨拉维特 革新 (中世纪盛期)
 - 可以阉割囚犯
-- Hill Farms 有额外加成 in 此文化的伯爵领:
- +1% 骑士效率 per Hill Farms level
- +1% 常备军反制效率 per Hill Farms level
- +0.5% 征召兵规模 per Hill Farms level
- +2 Defender 优势 per Hill Farms level
-- +1% 骑士效率 per Hill Farms level
-- +1% 常备军反制效率 per Hill Farms level
-- +0.5% 征召兵规模 per Hill Farms level
-- +2 Defender 优势 per Hill Farms level
+- 丘陵农场 有额外加成的此文化的伯爵领:
+ +1% 骑士效用每丘陵农场等级
+ +1% 常备军克制效率每丘陵农场等级
+ +0.5% 征召兵规模每丘陵农场等级
+ +2 防御方优势每丘陵农场等级
+- +1% 骑士效用每丘陵农场等级
+- +1% 常备军克制效率每丘陵农场等级
+- +0.5% 征召兵规模每丘陵农场等级
+- +2 防御方优势每丘陵农场等级
 | +5 丘陵 优势
  −45 丘陵 危险度
  −23 山地 危险度
@@ -112,63 +112,63 @@ Stoic - Bureaucratic
 - −45 丘陵 危险度
 - −23 山地 危险度
 - −23 沙漠山地 危险度
-| +20% 发展度增长 in 丘陵 | −10% 建筑建造费用 in 丘陵
- −10% 地产建造费用 in 丘陵 - −10% 建筑建造费用 in 丘陵
-- −10% 地产建造费用 in 丘陵
+| +20% 发展度增长的丘陵 | −10% 建筑建造费用的丘陵
+ −10% 地产 建造费用的丘陵 - −10% 建筑建造费用的丘陵
+- −10% 地产 建造费用的丘陵
 | Ethiopian 文化或后裔
  文化存在于拥有以下地形的伯爵领中：:
- 丘陵
+ 丘陵
 
  丘陵居民传统 - Ethiopian 文化或后裔
 - 文化存在于拥有以下地形的伯爵领中：:
- 丘陵
+ 丘陵
 - 丘陵
 - 丘陵居民传统
 | 30% 的文化存在于拥有以下地形的伯爵领中：:
- 丘陵 - 30% 的文化存在于拥有以下地形的伯爵领中：:
- 丘陵
+ 丘陵 - 30% 的文化存在于拥有以下地形的伯爵领中：:
+ 丘陵
 - 丘陵
 | 灵性 | **古老矿工
 
-这种文化一直被原材料、矿石和未经切割的宝石所环绕。他们善于寻找采矿开挖地点。** | 这种文化一直被原材料、矿石和未经切割的宝石所环绕。他们善于寻找采矿开挖地点。 | Quarries 有额外加成 in 此文化的伯爵领:
- +0.25/+0.4/+0.55/+0.7/+0.85/+1/+1.15/+1.3 税收 随之缩放 Quarries level
- Quarries can always be constructed in 此文化的伯爵领 - Quarries 有额外加成 in 此文化的伯爵领:
- +0.25/+0.4/+0.55/+0.7/+0.85/+1/+1.15/+1.3 税收 随之缩放 Quarries level
-- +0.25/+0.4/+0.55/+0.7/+0.85/+1/+1.15/+1.3 税收 随之缩放 Quarries level
-- Quarries can always be constructed in 此文化的伯爵领
-| Cornish or Gur culture | **精明外交家
+这种文化一直被原材料、矿石和未经切割的宝石所环绕。他们善于寻找采矿开挖地点。** | 这种文化一直被原材料、矿石和未经切割的宝石所环绕。他们善于寻找采矿开挖地点。 | 采石场 有额外加成的此文化的伯爵领:
+ +0.25/+0.4/+0.55/+0.7/+0.85/+1/+1.15/+1.3 税收 随之缩放 采石场等级
+ 采石场可以always be constructed的此文化的伯爵领 - 采石场 有额外加成的此文化的伯爵领:
+ +0.25/+0.4/+0.55/+0.7/+0.85/+1/+1.15/+1.3 税收 随之缩放 采石场等级
+- +0.25/+0.4/+0.55/+0.7/+0.85/+1/+1.15/+1.3 税收 随之缩放 采石场等级
+- 采石场可以always be constructed的此文化的伯爵领
+| Cornish或Gur culture | **精明外交家
 
 在这种文化中，人们普遍认为，能够不战而屈人之兵才是优越性的最纯粹表达。** | 在这种文化中，人们普遍认为，能够不战而屈人之兵才是优越性的最纯粹表达。 | 不能攻击盟友
  不能在停战期间攻击
- +50 Alliance Negotiation Acceptance
- +10 White Peace Acceptance
- +1 Foreign Language Limit
- The Diplomat 特质 有额外加成
+ +50 联盟 Negotiation 接纳度
+ +10 白色和平接受度
+ +1 外语上限
+Diplomat 特质 有额外加成
  +2 外交
  +10 独立统治者好感度
  +10 封臣好感度
- 解锁 Purchase Truce Interaction
- Improves the Bounties for Whispers Countermeasure (tier 4) - 不能攻击盟友
+ 解锁 购买 停战 互动
+ Improves悬赏流言 对策 (tier 4) - 不能攻击盟友
 - 不能在停战期间攻击
-- +50 Alliance Negotiation Acceptance
-- +10 White Peace Acceptance
-- +1 Foreign Language Limit
-- The Diplomat 特质 有额外加成
+- +50 联盟 Negotiation 接纳度
+- +10 白色和平接受度
+- +1 外语上限
+-Diplomat 特质 有额外加成
  +2 外交
  +10 独立统治者好感度
  +10 封臣好感度
 - +2 外交
 - +10 独立统治者好感度
 - +10 封臣好感度
-- 解锁 Purchase Truce Interaction
-- Improves the Bounties for Whispers Countermeasure (tier 4)
-| 学习语言阶段时长: 20 days faster per 阴谋阶段 - 学习语言阶段时长: 20 days faster per 阴谋阶段
+- 解锁 购买 停战 互动
+- Improves悬赏流言 对策 (tier 4)
+| 学习语言阶段时长: 20 days faster每阴谋阶段 - 学习语言阶段时长: 20 days faster每阴谋阶段
 | 官僚
 集体
 礼仪
 平等
 灵性
-Stoic - Bureaucratic
+坚毅 - 官僚
 - 集体
 - 礼仪
 - 平等
@@ -176,38 +176,38 @@ Stoic - Bureaucratic
 - 坚毅
 | **酿酒文化
 
-这种文化认为酿酒和饮酒在节日庆典和日常生活中都扮演着重要角色。** | 这种文化认为酿酒和饮酒在节日庆典和日常生活中都扮演着重要角色。 | 解锁 Breweries 建筑线 for City 地产s
- +2 民众好感度 per Farms & Fields level
- +2 民众好感度 per Manor Houses level - 解锁 Breweries 建筑线 for City 地产s
-- +2 民众好感度 per Farms & Fields level
-- +2 民众好感度 per Manor Houses level
-| Mansions or Crop Fields are present in at least 5 counties of this culture | 灵性 | **城堡守护者
+这种文化认为酿酒和饮酒在节日庆典和日常生活中都扮演着重要角色。** | 这种文化认为酿酒和饮酒在节日庆典和日常生活中都扮演着重要角色。 | 解锁 Breweries 建筑线对于城市 地产
+ +2 民众好感度每农场与田地等级
+ +2 民众好感度每庄园等级 - 解锁 Breweries 建筑线对于城市 地产
+- +2 民众好感度每农场与田地等级
+- +2 民众好感度每庄园等级
+| Mansions或Crop 田地是present的至少 5 伯爵领的这种文化| 灵性 | **城堡守护者
 
-进攻并非好的防御。好的防御是在已知世界上拥有最多的城堡。** | 进攻并非好的防御。好的防御是在已知世界上拥有最多的城堡。 | +5 Defender 优势 per Castle 地产 level
- +5 Defender 优势 per Temple Citadel level
- +0.2/+0.3/+0.4/+0.5 每月威望 随之缩放 Castle 地产 level
- +0.01 每月声望 per Castle 地产 level
- +0.2/+0.3/+0.4/+0.5 每月威望 随之缩放 Temple Citadel level
- +0.01 每月声望 per Temple Citadel level
+进攻并非好的防御。好的防御是在已知世界上拥有最多的城堡。** | 进攻并非好的防御。好的防御是在已知世界上拥有最多的城堡。 | +5 防御方优势每城堡 地产等级
+ +5 防御方优势每神殿 城塞等级
+ +0.2/+0.3/+0.4/+0.5 每月威望 随之缩放 城堡 地产等级
+ +0.01 每月声望每城堡 地产等级
+ +0.2/+0.3/+0.4/+0.5 每月威望 随之缩放 神殿 城塞等级
+ +0.01 每月声望每神殿 城塞等级
  +0.5 每月威望 if  Architect
- AI角色更可能 construct Castle 地产s
- AI角色更可能 construct buildings that improve 要塞等级 - +5 Defender 优势 per Castle 地产 level
-- +5 Defender 优势 per Temple Citadel level
-- +0.2/+0.3/+0.4/+0.5 每月威望 随之缩放 Castle 地产 level
-- +0.01 每月声望 per Castle 地产 level
-- +0.2/+0.3/+0.4/+0.5 每月威望 随之缩放 Temple Citadel level
-- +0.01 每月声望 per Temple Citadel level
+ AI角色更可能 construct 城堡 地产
+ AI角色更可能 construct buildings该improve 要塞等级 - +5 防御方优势每城堡 地产等级
+- +5 防御方优势每神殿 城塞等级
+- +0.2/+0.3/+0.4/+0.5 每月威望 随之缩放 城堡 地产等级
+- +0.01 每月声望每城堡 地产等级
+- +0.2/+0.3/+0.4/+0.5 每月威望 随之缩放 神殿 城塞等级
+- +0.01 每月声望每神殿 城塞等级
 - +0.5 每月威望 if  Architect
-- AI角色更可能 construct Castle 地产s
-- AI角色更可能 construct buildings that improve 要塞等级
-| +10% Castle 地产建造时间
- +20% Castle 地产建造费用 - +10% Castle 地产建造时间
-- +20% Castle 地产建造费用
+- AI角色更可能 construct 城堡 地产
+- AI角色更可能 construct buildings该improve 要塞等级
+| +10% 城堡 地产 建造时间
+ +20% 城堡 地产 建造费用 - +10% 城堡 地产 建造时间
+- +20% 城堡 地产 建造费用
 | 行政
-  氏族
-  封建
-  功绩
-  Sōryō
+  氏族
+  封建
+  功绩
+  Sōryō
 
  城市守护者传统 - 行政
 - 氏族
@@ -215,28 +215,28 @@ Stoic - Bureaucratic
 - 功绩
 - Sōryō
 - 城市守护者传统
-| Battlements innovation | 好战
+| Battlements 革新 | 好战
 官僚
-Stoic - Bellicose
+坚毅 - 好战
 - 官僚
 - 坚毅
 | **城市守护者
 
-城市是这种文化跳动的都市之心，他们希望每一座都市都成为举世瞩目的璀璨明珠。** | 城市是这种文化跳动的都市之心，他们希望每一座都市都成为举世瞩目的璀璨明珠。 | The Guilds 建筑线 可以提前一个时代建造
- +5 民众好感度 per City 地产 level
- AI角色更可能 construct City 地产s
+城市是这种文化跳动的都市之心，他们希望每一座都市都成为举世瞩目的璀璨明珠。** | 城市是这种文化跳动的都市之心，他们希望每一座都市都成为举世瞩目的璀璨明珠。 |Guilds 建筑线 可以提前一个时代建造
+ +5 民众好感度每城市 地产等级
+ AI角色更可能 construct 城市 地产
  +0.5 每月威望 if  Architect
- Watermills,  Windmills, or  Caravanserai 可以在以下地形建造： City 地产s after discovering the  Windmills innovation - The Guilds 建筑线 可以提前一个时代建造
-- +5 民众好感度 per City 地产 level
-- AI角色更可能 construct City 地产s
+ 水磨坊,  风车坊,或 商队旅馆 可以在以下地形建造： 城市 地产 after discovering 风车坊 革新 -Guilds 建筑线 可以提前一个时代建造
+- +5 民众好感度每城市 地产等级
+- AI角色更可能 construct 城市 地产
 - +0.5 每月威望 if  Architect
-- Watermills,  Windmills, or  Caravanserai 可以在以下地形建造： City 地产s after discovering the  Windmills innovation
-| −25% City Buildings 建造时间 - −25% City Buildings 建造时间
+- 水磨坊,  风车坊,或 商队旅馆 可以在以下地形建造： 城市 地产 after discovering 风车坊 革新
+| −25% 城市 建筑 建造时间 - −25% 城市 建筑 建造时间
 | 行政
-  氏族
-  封建
-  功绩
-  Sōryō
+  氏族
+  封建
+  功绩
+  Sōryō
 
  城堡守护者传统 - 行政
 - 氏族
@@ -244,159 +244,159 @@ Stoic - Bellicose
 - 功绩
 - Sōryō
 - 城堡守护者传统
-| 集体 Government innovation | 官僚
+| 集体 政府 革新 | 官僚
 礼仪
-Egalitarian - Bureaucratic
+平等 - 官僚
 - 礼仪
 - 平等
 | **集体土地
 
-个人拥有土地的观念对这种文化来说是陌生的；土地属于所有人，为了共同利益。** | 个人拥有土地的观念对这种文化来说是陌生的；土地属于所有人，为了共同利益。 | +30 控制 to counties granted to Lowborn characters
- Lowborn characters gain the Peasant Leader trait when granted a 伯爵领
- +15%/+20%/+25%/+30%/+35%/+40%/+45%/+50% 常备军 伤害 随之缩放 Farms & Fields level for stationed 常备军
- +15%/+20%/+25%/+30%/+35%/+40%/+45%/+50% 常备军 伤害 随之缩放 Farms & Fields level for stationed 常备军 - +30 控制 to counties granted to Lowborn characters
-- Lowborn characters gain the Peasant Leader trait when granted a 伯爵领
-- +15%/+20%/+25%/+30%/+35%/+40%/+45%/+50% 常备军 伤害 随之缩放 Farms & Fields level for stationed 常备军
-- +15%/+20%/+25%/+30%/+35%/+40%/+45%/+50% 常备军 伤害 随之缩放 Farms & Fields level for stationed 常备军
+个人拥有土地的观念对这种文化来说是陌生的；土地属于所有人，为了共同利益。** | 个人拥有土地的观念对这种文化来说是陌生的；土地属于所有人，为了共同利益。 | +30 控制 to 伯爵领 granted to Lowborn characters
+ Lowborn characters gainPeasant 领导者特质当granted一个伯爵领
+ +15%/+20%/+25%/+30%/+35%/+40%/+45%/+50% 常备军伤害 随之缩放 农场与田地等级对于驻扎的 常备军
+ +15%/+20%/+25%/+30%/+35%/+40%/+45%/+50% 常备军伤害 随之缩放 农场与田地等级对于驻扎的 常备军 - +30 控制 to 伯爵领 granted to Lowborn characters
+- Lowborn characters gainPeasant 领导者特质当granted一个伯爵领
+- +15%/+20%/+25%/+30%/+35%/+40%/+45%/+50% 常备军伤害 随之缩放 农场与田地等级对于驻扎的 常备军
+- +15%/+20%/+25%/+30%/+35%/+40%/+45%/+50% 常备军伤害 随之缩放 农场与田地等级对于驻扎的 常备军
 | +20% 建筑建造时间
  +10% 发展度增长
  −20% 控制增长 - +20% 建筑建造时间
 - +10% 发展度增长
 - −20% 控制增长
 | 游牧 - 游牧
-| 文化 has at least 2 Rulers with the Peasant Leader trait | 集体
+| 文化至少有 2 统治者与Peasant 领导者特质 | 集体
 平等
-Stoic - Communal
+坚毅 - 集体
 - 平等
 - 坚毅
 | **宫廷宦官
 
 这种文化在宫廷中大量使用宦官，其职位从家仆到行政官僚甚至军事指挥官。没有欲望的人容易获得信任。** | 这种文化在宫廷中大量使用宦官，其职位从家仆到行政官僚甚至军事指挥官。没有欲望的人容易获得信任。 | 可以阉割囚犯
- The Eunuch 特质 有额外加成
- +2 管理 if Eunuch
+宦官 特质 有额外加成
+ +2 管理 if 宦官
  +2 谋略
  +2 学识
- +50% 每月影响力
+ +50% 每月 影响力
  +10 领主好感度
  −10 封臣好感度
- The Beardless Eunuch 特质 有额外加成
+无须 宦官 特质 有额外加成
  +1 军事
  +3 谋略
  +2 学识
- +0.1 每月影响力
- +50% 每月影响力
+ +0.1 每月 影响力
+ +50% 每月 影响力
  +20 领主好感度
  −10 封臣好感度
- 可以授予 Chief Eunuch 宫廷职位
- 解锁 Castrate Kin Interaction - 可以阉割囚犯
-- The Eunuch 特质 有额外加成
- +2 管理 if Eunuch
+ 可以授予 首领 宦官 宫廷职位
+ 解锁 阉割亲属互动 - 可以阉割囚犯
+-宦官 特质 有额外加成
+ +2 管理 if 宦官
  +2 谋略
  +2 学识
- +50% 每月影响力
+ +50% 每月 影响力
  +10 领主好感度
  −10 封臣好感度
-- +2 管理 if Eunuch
+- +2 管理 if 宦官
 - +2 谋略
 - +2 学识
-- +50% 每月影响力
+- +50% 每月 影响力
 - +10 领主好感度
 - −10 封臣好感度
-- The Beardless Eunuch 特质 有额外加成
+-无须 宦官 特质 有额外加成
  +1 军事
  +3 谋略
  +2 学识
- +0.1 每月影响力
- +50% 每月影响力
+ +0.1 每月 影响力
+ +50% 每月 影响力
  +20 领主好感度
  −10 封臣好感度
 - +1 军事
 - +3 谋略
 - +2 学识
-- +0.1 每月影响力
-- +50% 每月影响力
+- +0.1 每月 影响力
+- +50% 每月 影响力
 - +20 领主好感度
 - −10 封臣好感度
-- 可以授予 Chief Eunuch 宫廷职位
-- 解锁 Castrate Kin Interaction
-| 封臣, Courtier or Councilor with either trait:
- Eunuch
- Beardless Eunuch
+- 可以授予 首领 宦官 宫廷职位
+- 解锁 阉割亲属互动
+| 封臣, 廷臣或Councilor与either特质:
+ 宦官
+ 无须 宦官
 
- 拜占庭传统传统 - 封臣, Courtier or Councilor with either trait:
- Eunuch
- Beardless Eunuch
-- Eunuch
-- Beardless Eunuch
+ 拜占庭传统传统 - 封臣, 廷臣或Councilor与either特质:
+ 宦官
+ 无须 宦官
+- 宦官
+- 无须 宦官
 - 拜占庭传统传统
-| Councilor with either trait:
- Eunuch
- Beardless Eunuch - Councilor with either trait:
- Eunuch
- Beardless Eunuch
-- Eunuch
-- Beardless Eunuch
+| Councilor与either特质:
+ 宦官
+ 无须 宦官 - Councilor与either特质:
+ 宦官
+ 无须 宦官
+- 宦官
+- 无须 宦官
 | 集体
 礼仪
-Spiritual - Communal
+灵性 - 集体
 - 礼仪
 - 灵性
 | **文化交融
 
 这种文化的成员经常与其他文化的人生活在一起。通过接触，他们已经善于将外国语言、传统和习俗融入自己的生活中。** | 这种文化的成员经常与其他文化的人生活在一起。通过接触，他们已经善于将外国语言、传统和习俗融入自己的生活中。 | −75% 混合文化创建费用
- AI角色更可能 use the 学习语言阴谋
- +25% 文化接纳度增长 - −75% 混合文化创建费用
-- AI角色更可能 use the 学习语言阴谋
-- +25% 文化接纳度增长
-| +1 Max 学习语言阴谋s
- 学习语言阶段时长: 20 days faster per 阴谋阶段 - +1 Max 学习语言阴谋s
-- 学习语言阶段时长: 20 days faster per 阴谋阶段
-| 御前宫廷DLC | At least 30% of the realm does not have the same culture | 集体
-Egalitarian - Communal
+ AI角色更可能 use学习语言阴谋
+ +25% 文化 接纳度 增长 - −75% 混合文化创建费用
+- AI角色更可能 use学习语言阴谋
+- +25% 文化 接纳度 增长
+| +1 Max Learn 语言 阴谋
+ 学习语言阶段时长: 20 days faster每阴谋阶段 - +1 Max Learn 语言 阴谋
+- 学习语言阶段时长: 20 days faster每阴谋阶段
+| 御前宫廷 DLC | At least 30%的realm 没有相同 culture | 集体
+平等 - 集体
 - 平等
 | **旱地居民
 
-这种文化习惯于生活在干旱气候中，知道在哪里找水以及如何耕作土地。** | 这种文化习惯于生活在干旱气候中，知道在哪里找水以及如何耕作土地。 | 沙漠 Agriculture 建筑线 有额外加成 in 此文化的伯爵领:
- +0.0625/+0.1/+0.1375/+0.175/+0.2125/+0.25/+0.2875/+0.325 税收 随之缩放 沙漠 Agriculture level
- −1% Light Cavalry and Camel Cavalry 维护费 per 沙漠 Agriculture level
- −1% Light Cavalry and Camel Cavalry 招募费用 per 沙漠 Agriculture level
- Increased Hunt Success Chance in 旱地 and 沙漠 - 沙漠 Agriculture 建筑线 有额外加成 in 此文化的伯爵领:
- +0.0625/+0.1/+0.1375/+0.175/+0.2125/+0.25/+0.2875/+0.325 税收 随之缩放 沙漠 Agriculture level
- −1% Light Cavalry and Camel Cavalry 维护费 per 沙漠 Agriculture level
- −1% Light Cavalry and Camel Cavalry 招募费用 per 沙漠 Agriculture level
-- +0.0625/+0.1/+0.1375/+0.175/+0.2125/+0.25/+0.2875/+0.325 税收 随之缩放 沙漠 Agriculture level
-- −1% Light Cavalry and Camel Cavalry 维护费 per 沙漠 Agriculture level
-- −1% Light Cavalry and Camel Cavalry 招募费用 per 沙漠 Agriculture level
-- Increased Hunt Success Chance in 旱地 and 沙漠
+这种文化习惯于生活在干旱气候中，知道在哪里找水以及如何耕作土地。** | 这种文化习惯于生活在干旱气候中，知道在哪里找水以及如何耕作土地。 | 沙漠 农业 建筑线 有额外加成的此文化的伯爵领:
+ +0.0625/+0.1/+0.1375/+0.175/+0.2125/+0.25/+0.2875/+0.325 税收 随之缩放 沙漠 农业等级
+ −1% 轻骑兵和骆驼兵 骑兵 维护费每沙漠 农业等级
+ −1% 轻骑兵和骆驼兵 骑兵 招募费用每沙漠 农业等级
+ 增加 狩猎 成功几率的旱地和沙漠 - 沙漠 农业 建筑线 有额外加成的此文化的伯爵领:
+ +0.0625/+0.1/+0.1375/+0.175/+0.2125/+0.25/+0.2875/+0.325 税收 随之缩放 沙漠 农业等级
+ −1% 轻骑兵和骆驼兵 骑兵 维护费每沙漠 农业等级
+ −1% 轻骑兵和骆驼兵 骑兵 招募费用每沙漠 农业等级
+- +0.0625/+0.1/+0.1375/+0.175/+0.2125/+0.25/+0.2875/+0.325 税收 随之缩放 沙漠 农业等级
+- −1% 轻骑兵和骆驼兵 骑兵 维护费每沙漠 农业等级
+- −1% 轻骑兵和骆驼兵 骑兵 招募费用每沙漠 农业等级
+- 增加 狩猎 成功几率的旱地和沙漠
 | -32 沙漠 危险度
-+10% 伯爵领生育增长 in 沙漠
++10% 伯爵领生育增长的沙漠
  -42 沙漠山地 危险度
  -22 旱地 危险度
-+10% 伯爵领生育增长 in 旱地 - -32 沙漠 危险度
-- +10% 伯爵领生育增长 in 沙漠
++10% 伯爵领生育增长的旱地 - -32 沙漠 危险度
+- +10% 伯爵领生育增长的沙漠
 - -42 沙漠山地 危险度
 - -22 旱地 危险度
-- +10% 伯爵领生育增长 in 旱地
-| +35% 发展度增长 in 沙漠
- +15% 发展度增长 in 旱地 - +35% 发展度增长 in 沙漠
-- +15% 发展度增长 in 旱地
-| −10% Building and 地产建造费用 in 沙漠 and 旱地 - −10% Building and 地产建造费用 in 沙漠 and 旱地
-| 文化存在于拥有以下地形的伯爵领中： either:
- 沙漠
- 旱地
+- +10% 伯爵领生育增长的旱地
+| +35% 发展度增长的沙漠
+ +15% 发展度增长的旱地 - +35% 发展度增长的沙漠
+- +15% 发展度增长的旱地
+| −10% 建筑和地产 建造费用的沙漠和旱地 - −10% 建筑和地产 建造费用的沙漠和旱地
+| 文化存在于拥有以下地形的伯爵领中： 以下之一：
+ 沙漠
+ 旱地
 
- 灌溉专家传统 - 文化存在于拥有以下地形的伯爵领中： either:
- 沙漠
- 旱地
+ 灌溉专家传统 - 文化存在于拥有以下地形的伯爵领中： 以下之一：
+ 沙漠
+ 旱地
 - 沙漠
 - 旱地
 - 灌溉专家传统
-| 30% 的文化存在于拥有以下地形的伯爵领中： 沙漠 or 旱地 | 官僚
+| 30% 的文化存在于拥有以下地形的伯爵领中： 沙漠或旱地 | 官僚
 集体
 礼仪
 平等
 灵性
-Stoic - Bureaucratic
+坚毅 - 官僚
 - 集体
 - 礼仪
 - 平等
@@ -405,176 +405,176 @@ Stoic - Bureaucratic
 | **东罗马遗产
 
 罗马帝国的军事组织在这种文化中仍然记忆犹新。职业军队比征召部队更受青睐。** | 罗马帝国的军事组织在这种文化中仍然记忆犹新。职业军队比征召部队更受青睐。 | 可以招募 Cataphracts 常备军 - 可以招募 Cataphracts 常备军
-| −15% 常备军 招募费用
- −15% 常备军 维护费
+| −15% 常备军招募费用
+ −15% 常备军维护费
  −25% 征召兵规模
  −25% 征召兵补充速率
- +2 最大编制 Heavy Infantry 军团
- +2 最大编制 Heavy Cavalry 军团 - −15% 常备军 招募费用
-- −15% 常备军 维护费
+ +2 最大编制 重步兵 军团
+ +2 最大编制 重骑兵 军团 - −15% 常备军招募费用
+- −15% 常备军维护费
 - −25% 征召兵规模
 - −25% 征召兵补充速率
-- +2 最大编制 Heavy Infantry 军团
-- +2 最大编制 Heavy Cavalry 军团
-| Byzantine or Caucasian
+- +2 最大编制 重步兵 军团
+- +2 最大编制 重骑兵 军团
+| 拜占庭或Caucasian
 
-  权力之路DLC - Byzantine or Caucasian
+  权力之路DLC - 拜占庭或Caucasian
 - 权力之路DLC
-| 文化 has at least 50 Counties de jure part of Byzantine 帝国 | 好战
+| 文化至少有 50 伯爵领 de jure part的拜占庭 帝国 | 好战
 礼仪
-Egalitarian - Bellicose
+平等 - 好战
 - 礼仪
 - 平等
 | **平等继承
 
-这种文化有统治者在所有子女之间平分土地的历史，甚至包括那些通常会被排除在外的人。** | 这种文化有统治者在所有子女之间平分土地的历史，甚至包括那些通常会被排除在外的人。 | 可以颁布 Equal Gender Law - 可以颁布 Equal Gender Law
-| Removes the ruler gender opinion penalty - Removes the ruler gender opinion penalty
+这种文化有统治者在所有子女之间平分土地的历史，甚至包括那些通常会被排除在外的人。** | 这种文化有统治者在所有子女之间平分土地的历史，甚至包括那些通常会被排除在外的人。 | 可以颁布 Equal 性别法 - 可以颁布 Equal 性别法
+| Removesruler gender 好感度惩罚 - Removesruler gender 好感度惩罚
 | 战士女王传统
- Warrior Kings tradition - 战士女王传统
-- Warrior Kings tradition
-| 文化 has at least 3 male and 3 female rulers | 平等 | **崇尚待客
+ 战士 Kings tradition - 战士女王传统
+- 战士 Kings tradition
+| 文化至少有 3 male和3 female rulers | 平等 | **崇尚待客
 
-在这种文化中，统治者以张开双臂欢迎任何来到其宫廷的人而闻名，并以壮观的方式款待宾客和访客。** | 在这种文化中，统治者以张开双臂欢迎任何来到其宫廷的人而闻名，并以壮观的方式款待宾客和访客。 | −25 Courtiers and Guests Acceptance for Hostile Schemes against rulers
+在这种文化中，统治者以张开双臂欢迎任何来到其宫廷的人而闻名，并以壮观的方式款待宾客和访客。** | 在这种文化中，统治者以张开双臂欢迎任何来到其宫廷的人而闻名，并以壮观的方式款待宾客和访客。 | −25 廷臣和宾客 接纳度对于Hostile 阴谋对抗rulers
  −20% 宫廷职位薪资费用
- −20% Guest 招募费用
- +25 角色s of this 文化 are more willing to send away, take, and return Hostages - −25 Courtiers and Guests Acceptance for Hostile Schemes against rulers
+ −20% 宾客 招募费用
+ +25 角色此文化是更 willing to send away, take,和return Hostages - −25 廷臣和宾客 接纳度对于Hostile 阴谋对抗rulers
 - −20% 宫廷职位薪资费用
-- −20% Guest 招募费用
-- +25 角色s of this 文化 are more willing to send away, take, and return Hostages
-| +10 廷臣和宾客好感度
- +5% 个人阴谋成功几率 - +10 廷臣和宾客好感度
+- −20% 宾客 招募费用
+- +25 角色此文化是更 willing to send away, take,和return Hostages
+| +10 廷臣和宾客 好感度
+ +5% 个人阴谋成功几率 - +10 廷臣和宾客 好感度
 - +5% 个人阴谋成功几率
-| Iranian 遗产 | 集体
+| 伊朗 遗产 | 集体
 礼仪
-Spiritual - Communal
+灵性 - 集体
 - 礼仪
 - 灵性
 | **家族事业
 
-这种文化鼓励商业沿着家族路线发展，每一代人从上一代人那里继承工具和技术，建立起强大的祖传专业传统。** | 这种文化鼓励商业沿着家族路线发展，每一代人从上一代人那里继承工具和技术，建立起强大的祖传专业传统。 | +10% Progress Speed for Councilor Tasks for Close Family Members
- +10% Skill Impact for Councilor Tasks for Close Family members
- +20 宫廷职位能力 for Close Family Members
- −150 威望 for revoking a 伯爵领 from a Close Family Member
- −350 威望 for revoking a 公爵领 from a Close Family Member
- −750 威望 for revoking a 王国 from a Close Family Member - +10% Progress Speed for Councilor Tasks for Close Family Members
-- +10% Skill Impact for Councilor Tasks for Close Family members
-- +20 宫廷职位能力 for Close Family Members
-- −150 威望 for revoking a 伯爵领 from a Close Family Member
-- −350 威望 for revoking a 公爵领 from a Close Family Member
-- −750 威望 for revoking a 王国 from a Close Family Member
-| +5 Close Family 好感度 | At least 10 Close Family members | 80 好感度 with 50% of all Close Family Members | 集体
-Ceremonious - Communal
+这种文化鼓励商业沿着家族路线发展，每一代人从上一代人那里继承工具和技术，建立起强大的祖传专业传统。** | 这种文化鼓励商业沿着家族路线发展，每一代人从上一代人那里继承工具和技术，建立起强大的祖传专业传统。 | +10% Progress 速度对于Councilor Tasks对于近 家族 成员
+ +10% 技能 Impact对于Councilor Tasks对于近 家族 members
+ +20 宫廷职位能力对于近 家族 成员
+ −150 威望 for撤销a 伯爵领来自一个近 家族 成员
+ −350 威望 for撤销a 公爵领来自一个近 家族 成员
+ −750 威望 for撤销a 王国来自一个近 家族 成员 - +10% Progress 速度对于Councilor Tasks对于近 家族 成员
+- +10% 技能 Impact对于Councilor Tasks对于近 家族 members
+- +20 宫廷职位能力对于近 家族 成员
+- −150 威望 for撤销a 伯爵领来自一个近 家族 成员
+- −350 威望 for撤销a 公爵领来自一个近 家族 成员
+- −750 威望 for撤销a 王国来自一个近 家族 成员
+| +5 近 家族 好感度 | At least 10 近 家族 members | 80 好感度与50%的all 近 家族 成员 | 集体
+礼仪 - 集体
 - 礼仪
 | **狂热的神殿建造者
 
-这种文化认为建造神殿是通往神圣的最直接道路。虔诚的统治者被期望建造许多宏伟的神殿。** | 这种文化认为建造神殿是通往神圣的最直接道路。虔诚的统治者被期望建造许多宏伟的神殿。 | +5 Fervor when constructing a Temple 地产
- +5 Fervor when constructing a Temple Citadel 地产
- +2 Fervor when upgrading a Temple 地产
- +2 Fervor when upgrading a Temple Citadel 地产
- +750 威望 when constructing a Temple 地产
- +750 威望 when constructing a Temple Citadel 地产
+这种文化认为建造神殿是通往神圣的最直接道路。虔诚的统治者被期望建造许多宏伟的神殿。** | 这种文化认为建造神殿是通往神圣的最直接道路。虔诚的统治者被期望建造许多宏伟的神殿。 | +5 热忱当建造a 神殿 地产
+ +5 热忱当建造a 神殿 城塞 地产
+ +2 热忱当升级a 神殿 地产
+ +2 热忱当升级a 神殿 城塞 地产
+ +750 威望当建造a 神殿 地产
+ +750 威望当建造a 神殿 城塞 地产
  各种特质给予 temple construction bonuses
- −5% Temple 地产和建筑建造时间 if Conscientious Scribe
- −10% Temple 地产和建筑建造时间 if Insightful Thinker or Scholar
- −15% Temple 地产和建筑建造时间 if Astute Intellectual
- −20% Temple 地产和建筑建造时间 if Mastermind Philosopher or Diligent
- +20% Temple 地产和建筑建造费用 if Cynical
- −5% Temple Buildings 建造费用 if Mastermind Philosopher
- −5% Temple 地产和建筑建造费用 if Scholar or Wise Man
- −10% Temple 地产和建筑建造费用 if Theologian or Mystic
- −15% Temple 地产和建筑建造费用 if Humble or Miracle Worker
- −25% Temple 地产和建筑建造费用 if Zealous
-Temple 地产s can be upgraded one Era early
-Temple Citadel 地产s can be upgraded one Era early
-Temple 地产s can be constructed by 部落 Rulers - +5 Fervor when constructing a Temple 地产
-- +5 Fervor when constructing a Temple Citadel 地产
-- +2 Fervor when upgrading a Temple 地产
-- +2 Fervor when upgrading a Temple Citadel 地产
-- +750 威望 when constructing a Temple 地产
-- +750 威望 when constructing a Temple Citadel 地产
+ −5% 神殿 地产和建筑 建造时间 if 尽责 书吏
+ −10% 神殿 地产和建筑 建造时间 if 洞察 思想家或学者
+ −15% 神殿 地产和建筑 建造时间 if 精明 知性
+ −20% 神殿 地产和建筑 建造时间 if 策士 哲学家或勤勉
+ +20% 神殿 地产和建筑 建造费用 if 愤世嫉俗
+ −5% 神殿 建筑 建造费用 if 策士 哲学家
+ −5% 神殿 地产和建筑 建造费用 if 学者或智者
+ −10% 神殿 地产和建筑 建造费用 if 神学家或神秘主义者
+ −15% 神殿 地产和建筑 建造费用 if 谦逊或奇迹 工匠
+ −25% 神殿 地产和建筑 建造费用 if 狂热
+神殿 地产可以被upgraded一个时代 early
+神殿 城塞 地产可以被upgraded一个时代 early
+神殿 地产可以被constructed by 部落 统治者 - +5 热忱当建造a 神殿 地产
+- +5 热忱当建造a 神殿 城塞 地产
+- +2 热忱当升级a 神殿 地产
+- +2 热忱当升级a 神殿 城塞 地产
+- +750 威望当建造a 神殿 地产
+- +750 威望当建造a 神殿 城塞 地产
 - 各种特质给予 temple construction bonuses
- −5% Temple 地产和建筑建造时间 if Conscientious Scribe
- −10% Temple 地产和建筑建造时间 if Insightful Thinker or Scholar
- −15% Temple 地产和建筑建造时间 if Astute Intellectual
- −20% Temple 地产和建筑建造时间 if Mastermind Philosopher or Diligent
- +20% Temple 地产和建筑建造费用 if Cynical
- −5% Temple Buildings 建造费用 if Mastermind Philosopher
- −5% Temple 地产和建筑建造费用 if Scholar or Wise Man
- −10% Temple 地产和建筑建造费用 if Theologian or Mystic
- −15% Temple 地产和建筑建造费用 if Humble or Miracle Worker
- −25% Temple 地产和建筑建造费用 if Zealous
-- −5% Temple 地产和建筑建造时间 if Conscientious Scribe
-- −10% Temple 地产和建筑建造时间 if Insightful Thinker or Scholar
-- −15% Temple 地产和建筑建造时间 if Astute Intellectual
-- −20% Temple 地产和建筑建造时间 if Mastermind Philosopher or Diligent
-- +20% Temple 地产和建筑建造费用 if Cynical
-- −5% Temple Buildings 建造费用 if Mastermind Philosopher
-- −5% Temple 地产和建筑建造费用 if Scholar or Wise Man
-- −10% Temple 地产和建筑建造费用 if Theologian or Mystic
-- −15% Temple 地产和建筑建造费用 if Humble or Miracle Worker
-- −25% Temple 地产和建筑建造费用 if Zealous
-- Temple 地产s can be upgraded one Era early
-- Temple Citadel 地产s can be upgraded one Era early
-- Temple 地产s can be constructed by 部落 Rulers
-| +10% Temple Buildings 建造费用 - +10% Temple Buildings 建造费用
-| At least 20% of the culture's holdings are temple holdings
+ −5% 神殿 地产和建筑 建造时间 if 尽责 书吏
+ −10% 神殿 地产和建筑 建造时间 if 洞察 思想家或学者
+ −15% 神殿 地产和建筑 建造时间 if 精明 知性
+ −20% 神殿 地产和建筑 建造时间 if 策士 哲学家或勤勉
+ +20% 神殿 地产和建筑 建造费用 if 愤世嫉俗
+ −5% 神殿 建筑 建造费用 if 策士 哲学家
+ −5% 神殿 地产和建筑 建造费用 if 学者或智者
+ −10% 神殿 地产和建筑 建造费用 if 神学家或神秘主义者
+ −15% 神殿 地产和建筑 建造费用 if 谦逊或奇迹 工匠
+ −25% 神殿 地产和建筑 建造费用 if 狂热
+- −5% 神殿 地产和建筑 建造时间 if 尽责 书吏
+- −10% 神殿 地产和建筑 建造时间 if 洞察 思想家或学者
+- −15% 神殿 地产和建筑 建造时间 if 精明 知性
+- −20% 神殿 地产和建筑 建造时间 if 策士 哲学家或勤勉
+- +20% 神殿 地产和建筑 建造费用 if 愤世嫉俗
+- −5% 神殿 建筑 建造费用 if 策士 哲学家
+- −5% 神殿 地产和建筑 建造费用 if 学者或智者
+- −10% 神殿 地产和建筑 建造费用 if 神学家或神秘主义者
+- −15% 神殿 地产和建筑 建造费用 if 谦逊或奇迹 工匠
+- −25% 神殿 地产和建筑 建造费用 if 狂热
+- 神殿 地产可以被upgraded一个时代 early
+- 神殿 城塞 地产可以被upgraded一个时代 early
+- 神殿 地产可以被constructed by 部落 统治者
+| +10% 神殿 建筑 建造费用 - +10% 神殿 建筑 建造费用
+| At least 20%的文化's holdings是temple holdings
 
-  nomadic - At least 20% of the culture's holdings are temple holdings
+  nomadic - At least 20%的文化's holdings是temple holdings
 - nomadic
-| 文化 has at least 5 Rulers with the Zealous trait | 集体
+| 文化至少有 5 统治者与狂热特质 | 集体
 灵性
-Stoic - Communal
+坚毅 - 集体
 - 灵性
 - 坚毅
 | **森林居民
 
-这种文化生活在广阔森林附近，知道如何搜寻其丰富的资源。** | 这种文化生活在广阔森林附近，知道如何搜寻其丰富的资源。 | 森林ries 有额外加成 in 此文化的伯爵领
- +2% Archers and Skirmishers 伤害 per 森林ry level
- −2% 伯爵领建造速度 per 森林ry level
- −1% 伯爵领建造费用 per 森林ry level
- Increased Hunt Success Chance in 森林 and 针叶林
- Wood Pastures unlock the first four tiers of  Watermills 建筑线 - 森林ries 有额外加成 in 此文化的伯爵领
- +2% Archers and Skirmishers 伤害 per 森林ry level
- −2% 伯爵领建造速度 per 森林ry level
- −1% 伯爵领建造费用 per 森林ry level
-- +2% Archers and Skirmishers 伤害 per 森林ry level
-- −2% 伯爵领建造速度 per 森林ry level
-- −1% 伯爵领建造费用 per 森林ry level
-- Increased Hunt Success Chance in 森林 and 针叶林
-- Wood Pastures unlock the first four tiers of  Watermills 建筑线
+这种文化生活在广阔森林附近，知道如何搜寻其丰富的资源。** | 这种文化生活在广阔森林附近，知道如何搜寻其丰富的资源。 | Forestries 有额外加成的此文化的伯爵领
+ +2% 弓箭手和散兵 伤害每林业等级
+ −2% 伯爵领 建造 速度每林业等级
+ −1% 伯爵领 建造 费用每林业等级
+ 增加 狩猎 成功几率的森林和针叶林
+ 林间牧场 unlockfirst four tiers的 水磨坊 建筑线 - Forestries 有额外加成的此文化的伯爵领
+ +2% 弓箭手和散兵 伤害每林业等级
+ −2% 伯爵领 建造 速度每林业等级
+ −1% 伯爵领 建造 费用每林业等级
+- +2% 弓箭手和散兵 伤害每林业等级
+- −2% 伯爵领 建造 速度每林业等级
+- −1% 伯爵领 建造 费用每林业等级
+- 增加 狩猎 成功几率的森林和针叶林
+- 林间牧场 unlockfirst four tiers的 水磨坊 建筑线
 | -31 森林 危险度
-+10% 伯爵领生育增长 in 森林
++10% 伯爵领生育增长的森林
  -37 针叶林 危险度
-+10% 伯爵领生育增长 in 针叶林 - -31 森林 危险度
-- +10% 伯爵领生育增长 in 森林
++10% 伯爵领生育增长的针叶林 - -31 森林 危险度
+- +10% 伯爵领生育增长的森林
 - -37 针叶林 危险度
-- +10% 伯爵领生育增长 in 针叶林
-| +15% 发展度增长 in 森林 and 针叶林 - +15% 发展度增长 in 森林 and 针叶林
-| −10% 地产和建筑建造费用 in 森林 and 针叶林 - −10% 地产和建筑建造费用 in 森林 and 针叶林
+- +10% 伯爵领生育增长的针叶林
+| +15% 发展度增长的森林和针叶林 - +15% 发展度增长的森林和针叶林
+| −10% 地产和建筑 建造费用的森林和针叶林 - −10% 地产和建筑 建造费用的森林和针叶林
 | 文化存在于拥有以下地形的伯爵领中：:
- 森林
- 针叶林
+ 森林
+ 针叶林
 
- Baltic 遗产
- Balto-Finnic 遗产
- Volga-Finnic 遗产
+ 波罗的海 遗产
+ Balto-芬兰 遗产
+ 伏尔加-芬兰 遗产
  Ugro-Permian 遗产
  森林守卫传统 - 文化存在于拥有以下地形的伯爵领中：:
- 森林
- 针叶林
+ 森林
+ 针叶林
 - 森林
 - 针叶林
-- Baltic 遗产
-- Balto-Finnic 遗产
-- Volga-Finnic 遗产
+- 波罗的海 遗产
+- Balto-芬兰 遗产
+- 伏尔加-芬兰 遗产
 - Ugro-Permian 遗产
 - 森林守卫传统
-| 30% 的文化存在于拥有以下地形的伯爵领中： 森林 or 针叶林 | 官僚
+| 30% 的文化存在于拥有以下地形的伯爵领中： 森林或针叶林 | 官僚
 集体
 礼仪
 平等
 灵性
-Stoic - Bureaucratic
+坚毅 - 官僚
 - 集体
 - 礼仪
 - 平等
@@ -582,88 +582,88 @@ Stoic - Bureaucratic
 - 坚毅
 | **园林建筑师
 
-这种文化有着建造和维护各种花园的悠久传统，为自己建造了一座小天堂。** | 这种文化有着建造和维护各种花园的悠久传统，为自己建造了一座小天堂。 | Can construct Royal Gardens duchy buildings
- 可以授予 Court Gardener 宫廷职位
- 解锁 Recruit Gardener decision - Can construct Royal Gardens duchy buildings
-- 可以授予 Court Gardener 宫廷职位
-- 解锁 Recruit Gardener decision
-| 游牧 | At least 10 counties with 沙漠 Agriculture, Orchards or Farms & Fields buildings | 集体
+这种文化有着建造和维护各种花园的悠久传统，为自己建造了一座小天堂。** | 这种文化有着建造和维护各种花园的悠久传统，为自己建造了一座小天堂。 | 可以建造 皇家花园公爵领建筑
+ 可以授予 宫廷 园丁 宫廷职位
+ 解锁 招募园丁决定 - 可以建造 皇家花园公爵领建筑
+- 可以授予 宫廷 园丁 宫廷职位
+- 解锁 招募园丁决定
+| 游牧 | At least 10 伯爵领与沙漠 农业, 果园或农场与田地 buildings | 集体
 礼仪
-Spiritual - Communal
+灵性 - 集体
 - 礼仪
 - 灵性
 | **世袭等级制
 
-在这种文化中根深蒂固的观念是：领导权由血统传承，贵族被石头城堡所束缚，封建结构不可动摇。他们不会轻易忘记那些违反封建法则的人。** | 在这种文化中根深蒂固的观念是：领导权由血统传承，贵族被石头城堡所束缚，封建结构不可动摇。他们不会轻易忘记那些违反封建法则的人。 | −10 封建 好感度 for Education traits (Level 1)
- The Loyal 特质 is more valued
+在这种文化中根深蒂固的观念是：领导权由血统传承，贵族被石头城堡所束缚，封建结构不可动摇。他们不会轻易忘记那些违反封建法则的人。** | 在这种文化中根深蒂固的观念是：领导权由血统传承，贵族被石头城堡所束缚，封建结构不可动摇。他们不会轻易忘记那些违反封建法则的人。 | −10 封建 好感度对于教育特质 (等级 1)
+忠诚 特质是更 valued
  +0.10 每月威望
- +5 同文化好感度 - −10 封建 好感度 for Education traits (Level 1)
-- The Loyal 特质 is more valued
+ +5 同文化好感度 - −10 封建 好感度对于教育特质 (等级 1)
+-忠诚 特质是更 valued
  +0.10 每月威望
  +5 同文化好感度
 - +0.10 每月威望
 - +5 同文化好感度
 | −50% 暴政降低
  +25% 长期统治加成
- −5% Castle 地产建造费用
- +10% 封建 封臣 税收 Contribution - −50% 暴政降低
+ −5% 城堡 地产 建造费用
+ +10% 封建 封臣 税收 贡献 - −50% 暴政降低
 - +25% 长期统治加成
-- −5% Castle 地产建造费用
-- +10% 封建 封臣 税收 Contribution
-| 封建 | 王国 or greater with at least 10 vassals - 王国 or greater with at least 10 vassals
+- −5% 城堡 地产 建造费用
+- +10% 封建 封臣 税收 贡献
+| 封建 | 王国或greater与至少 10 vassals - 王国或greater与至少 10 vassals
 | 礼仪
-Spiritual - Ceremonious
+灵性 - 礼仪
 - 灵性
 | **隐秘城市
 
-无论是在丛林树上还是受到天然迷宫的保护，外国人甚至可能不知道这种文化的城市存在，更不用说知道如何围攻它们了。** | 无论是在丛林树上还是受到天然迷宫的保护，外国人甚至可能不知道这种文化的城市存在，更不用说知道如何围攻它们了。 | +1 要塞等级 for Castles in 丛林 每等级
- +2 要塞等级 for 部落 holds in 丛林 每等级
- +1 要塞等级 for Temple Citadels in 丛林 每等级 - +1 要塞等级 for Castles in 丛林 每等级
-- +2 要塞等级 for 部落 holds in 丛林 每等级
-- +1 要塞等级 for Temple Citadels in 丛林 每等级
+无论是在丛林树上还是受到天然迷宫的保护，外国人甚至可能不知道这种文化的城市存在，更不用说知道如何围攻它们了。** | 无论是在丛林树上还是受到天然迷宫的保护，外国人甚至可能不知道这种文化的城市存在，更不用说知道如何围攻它们了。 | +1 要塞等级对于Castles的丛林 每等级
+ +2 要塞等级对于部落 holds的丛林 每等级
+ +1 要塞等级对于神殿 Citadels的丛林 每等级 - +1 要塞等级对于Castles的丛林 每等级
+- +2 要塞等级对于部落 holds的丛林 每等级
+- +1 要塞等级对于神殿 Citadels的丛林 每等级
 | -65 丛林 危险度 - -65 丛林 危险度
-| +35% 发展度增长 in 丛林 Terrain | −10% 地产和建筑建造费用 in 丛林 Terrain | Akan or Yoruba 遗产
+| +35% 发展度增长的丛林 地形 | −10% 地产和建筑 建造费用的丛林 地形 | 阿坎或Yoruba 遗产
  文化存在于拥有以下地形的伯爵领中：:
- 丛林
+ 丛林
 
- 丛林居民传统 - Akan or Yoruba 遗产
+ 丛林居民传统 - 阿坎或Yoruba 遗产
 - 文化存在于拥有以下地形的伯爵领中：:
- 丛林
+ 丛林
 - 丛林
 - 丛林居民传统
 | 30% 的文化存在于拥有以下地形的伯爵领中： 丛林 | 官僚 | **丘陵居民
 
-这种文化以丘陵为家，知道如何有效地耕作其土地。** | 这种文化以丘陵为家，知道如何有效地耕作其土地。 | Hill Farms 有额外加成 in 此文化的伯爵领:
- +1% 骑士效率 per Hill Farms level
- +1% 常备军反制效率 per Hill Farms level
- +0.5% 征召兵规模 per Hill Farms level
- +2 Defender 优势 per Hill Farms level
- Increased Hunt Success Chance in 丘陵
-Vegetable Fields Building unlocks the first four tiers of Windmills 建筑线 - Hill Farms 有额外加成 in 此文化的伯爵领:
- +1% 骑士效率 per Hill Farms level
- +1% 常备军反制效率 per Hill Farms level
- +0.5% 征召兵规模 per Hill Farms level
- +2 Defender 优势 per Hill Farms level
-- +1% 骑士效率 per Hill Farms level
-- +1% 常备军反制效率 per Hill Farms level
-- +0.5% 征召兵规模 per Hill Farms level
-- +2 Defender 优势 per Hill Farms level
-- Increased Hunt Success Chance in 丘陵
-- Vegetable Fields Building unlocks the first four tiers of Windmills 建筑线
+这种文化以丘陵为家，知道如何有效地耕作其土地。** | 这种文化以丘陵为家，知道如何有效地耕作其土地。 | 丘陵农场 有额外加成的此文化的伯爵领:
+ +1% 骑士效用每丘陵农场等级
+ +1% 常备军克制效率每丘陵农场等级
+ +0.5% 征召兵规模每丘陵农场等级
+ +2 防御方优势每丘陵农场等级
+ 增加 狩猎 成功几率的丘陵
+Vegetable 田地 建筑 unlocksfirst four tiers的风车坊 建筑线 - 丘陵农场 有额外加成的此文化的伯爵领:
+ +1% 骑士效用每丘陵农场等级
+ +1% 常备军克制效率每丘陵农场等级
+ +0.5% 征召兵规模每丘陵农场等级
+ +2 防御方优势每丘陵农场等级
+- +1% 骑士效用每丘陵农场等级
+- +1% 常备军克制效率每丘陵农场等级
+- +0.5% 征召兵规模每丘陵农场等级
+- +2 防御方优势每丘陵农场等级
+- 增加 狩猎 成功几率的丘陵
+- Vegetable 田地 建筑 unlocksfirst four tiers的风车坊 建筑线
 | -31 丘陵 危险度
- +5% 伯爵领生育增长 in 丘陵 - -31 丘陵 危险度
-- +5% 伯爵领生育增长 in 丘陵
-| +20% 发展度增长 in 丘陵 | −10% 建筑建造费用 in 丘陵
- −10% 地产建造费用 in 丘陵
- +0.1 伯爵领生育增长 in 丘陵 - −10% 建筑建造费用 in 丘陵
-- −10% 地产建造费用 in 丘陵
-- +0.1 伯爵领生育增长 in 丘陵
+ +5% 伯爵领生育增长的丘陵 - -31 丘陵 危险度
+- +5% 伯爵领生育增长的丘陵
+| +20% 发展度增长的丘陵 | −10% 建筑建造费用的丘陵
+ −10% 地产 建造费用的丘陵
+ +0.1 伯爵领生育增长的丘陵 - −10% 建筑建造费用的丘陵
+- −10% 地产 建造费用的丘陵
+- +0.1 伯爵领生育增长的丘陵
 | 文化存在于拥有以下地形的伯爵领中：:
- 丘陵
+ 丘陵
 
  Ethiopian 文化或后裔
  阿姆哈拉高地人传统 - 文化存在于拥有以下地形的伯爵领中：:
- 丘陵
+ 丘陵
 - 丘陵
 - Ethiopian 文化或后裔
 - 阿姆哈拉高地人传统
@@ -672,7 +672,7 @@ Vegetable Fields Building unlocks the first four tiers of Windmills 建筑线 - 
 礼仪
 平等
 灵性
-Stoic - Bureaucratic
+坚毅 - 官僚
 - 集体
 - 礼仪
 - 平等
@@ -680,70 +680,70 @@ Stoic - Bureaucratic
 - 坚毅
 | **孤立主义
 
-这种文化倾向于自我封闭，不常向外看。** | 这种文化倾向于自我封闭，不常向外看。 | Courtiers of the same culture are less likely to become wanderers
- −50 Marriage Acceptance towards other 文化s
- AI角色永远不会 offer marriage to characters of a different culture
- Convert to Local 文化 causes 60  stress
- Will cause 40  stress if they have one of these traits:
- Compassionate,  Diligent,  Fickle,  Gregarious,  Humble,  Trusting
- 角色s of this 文化 have a higher chance of Plagues not spreading into their lands
- Improves the Bounties for Whispers Countermeasure (tier 3)
- Improves the Bounties for Whispers Countermeasure (tier 3)
- −35% 文化接纳度增长 - Courtiers of the same culture are less likely to become wanderers
-- −50 Marriage Acceptance towards other 文化s
-- AI角色永远不会 offer marriage to characters of a different culture
-- Convert to Local 文化 causes 60  stress
- Will cause 40  stress if they have one of these traits:
- Compassionate,  Diligent,  Fickle,  Gregarious,  Humble,  Trusting
-- Will cause 40  stress if they have one of these traits:
- Compassionate,  Diligent,  Fickle,  Gregarious,  Humble,  Trusting
-- Compassionate,  Diligent,  Fickle,  Gregarious,  Humble,  Trusting
-- 角色s of this 文化 have a higher chance of Plagues not spreading into their lands
-- Improves the Bounties for Whispers Countermeasure (tier 3)
-- Improves the Bounties for Whispers Countermeasure (tier 3)
-- −35% 文化接纳度增长
+这种文化倾向于自我封闭，不常向外看。** | 这种文化倾向于自我封闭，不常向外看。 | 廷臣的相同 culture是更不可能 to become wanderers
+ −50 婚姻 接纳度 towards其他文化
+ AI角色永远不会 offer marriage to characters的一个different culture
+ 皈依 to 本地 文化 causes 60  stress
+ 将 cause 40  stress if they拥有one的these特质:
+ 仁慈,  勤勉,  善变,  合群,  谦逊,  信任
+ 角色此文化拥有a更高chance的Plagues不spreading into其lands
+ Improves悬赏流言 对策 (tier 3)
+ Improves悬赏流言 对策 (tier 3)
+ −35% 文化 接纳度 增长 - 廷臣的相同 culture是更不可能 to become wanderers
+- −50 婚姻 接纳度 towards其他文化
+- AI角色永远不会 offer marriage to characters的一个different culture
+- 皈依 to 本地 文化 causes 60  stress
+ 将 cause 40  stress if they拥有one的these特质:
+ 仁慈,  勤勉,  善变,  合群,  谦逊,  信任
+- 将 cause 40  stress if they拥有one的these特质:
+ 仁慈,  勤勉,  善变,  合群,  谦逊,  信任
+- 仁慈,  勤勉,  善变,  合群,  谦逊,  信任
+- 角色此文化拥有a更高chance的Plagues不spreading into其lands
+- Improves悬赏流言 对策 (tier 3)
+- Improves悬赏流言 对策 (tier 3)
+- −35% 文化 接纳度 增长
 | −25% 外交范围
  +5 同文化好感度
  AI角色更不太可能 declare war - −25% 外交范围
 - +5 同文化好感度
 - AI角色更不太可能 declare war
-| +0.5 每月控制 | Inward Perfection 传统
- Cultural Primacy 传统 - Inward Perfection 传统
-- Cultural Primacy 传统
-| Below 40 文化接纳度 with all neighbor cultures | 集体
+| +0.5 每月 控制 | 内在 Perfection 传统
+ 文化 至上 传统 - 内在 Perfection 传统
+- 文化 至上 传统
+| Below 40 文化 接纳度与all neighbor cultures | 集体
 灵性
-Stoic - Communal
+坚毅 - 集体
 - 灵性
 - 坚毅
 | **丛林居民
 
-This culture lives close to the jungle, and knows how to harvest its riches.** | This culture lives close to the jungle, and knows how to harvest its riches. | Outposts 有额外加成 in 此文化的伯爵领:
- −1% Archer and Skirmisher 维护费 per Outposts level
- −1% Archer and Skirmisher 招募费用 per Outposts level
- +1% 征召兵规模 per Outposts level
- +0.125/+0.2/+0.275/+0.35/+0.425/+0.5/+0.575/+0.65 税收 随之缩放 Outposts level
- Increased Hunt Success Chance in 丛林 - Outposts 有额外加成 in 此文化的伯爵领:
- −1% Archer and Skirmisher 维护费 per Outposts level
- −1% Archer and Skirmisher 招募费用 per Outposts level
- +1% 征召兵规模 per Outposts level
- +0.125/+0.2/+0.275/+0.35/+0.425/+0.5/+0.575/+0.65 税收 随之缩放 Outposts level
-- −1% Archer and Skirmisher 维护费 per Outposts level
-- −1% Archer and Skirmisher 招募费用 per Outposts level
-- +1% 征召兵规模 per Outposts level
-- +0.125/+0.2/+0.275/+0.35/+0.425/+0.5/+0.575/+0.65 税收 随之缩放 Outposts level
-- Increased Hunt Success Chance in 丛林
-| −42 丛林 危险度 | +25% 发展度增长 in 丛林 | −10% 建筑建造费用 in 丛林
- −10% 地产建造费用 in 丛林 - −10% 建筑建造费用 in 丛林
-- −10% 地产建造费用 in 丛林
+这种文化lives close到jungle,和knows how to harvest其riches.** | 这种文化lives close到jungle,和knows how to harvest其riches. | 前哨站 有额外加成的此文化的伯爵领:
+ −1% 弓箭手和散兵 维护费每前哨站等级
+ −1% 弓箭手和散兵 招募费用每前哨站等级
+ +1% 征召兵规模每前哨站等级
+ +0.125/+0.2/+0.275/+0.35/+0.425/+0.5/+0.575/+0.65 税收 随之缩放 前哨站等级
+ 增加 狩猎 成功几率的丛林 - 前哨站 有额外加成的此文化的伯爵领:
+ −1% 弓箭手和散兵 维护费每前哨站等级
+ −1% 弓箭手和散兵 招募费用每前哨站等级
+ +1% 征召兵规模每前哨站等级
+ +0.125/+0.2/+0.275/+0.35/+0.425/+0.5/+0.575/+0.65 税收 随之缩放 前哨站等级
+- −1% 弓箭手和散兵 维护费每前哨站等级
+- −1% 弓箭手和散兵 招募费用每前哨站等级
+- +1% 征召兵规模每前哨站等级
+- +0.125/+0.2/+0.275/+0.35/+0.425/+0.5/+0.575/+0.65 税收 随之缩放 前哨站等级
+- 增加 狩猎 成功几率的丛林
+| −42 丛林 危险度 | +25% 发展度增长的丛林 | −10% 建筑建造费用的丛林
+ −10% 地产 建造费用的丛林 - −10% 建筑建造费用的丛林
+- −10% 地产 建造费用的丛林
 | 文化存在于拥有以下地形的伯爵领中：:
- 丛林
+ 丛林
 
- Akan 遗产
+ 阿坎 遗产
  Yoruba 遗产
  隐秘城市传统 - 文化存在于拥有以下地形的伯爵领中：:
- 丛林
+ 丛林
 - 丛林
-- Akan 遗产
+- 阿坎 遗产
 - Yoruba 遗产
 - 隐秘城市传统
 | 30% 的文化存在于拥有以下地形的伯爵领中： 丛林 | 官僚
@@ -751,7 +751,7 @@ This culture lives close to the jungle, and knows how to harvest its riches.** |
 礼仪
 平等
 灵性
-Stoic - Bureaucratic
+坚毅 - 官僚
 - 集体
 - 礼仪
 - 平等
@@ -759,276 +759,276 @@ Stoic - Bureaucratic
 - 坚毅
 | **法制主义
 
-This culture regards the rule of law and its codification as being the most important parameter of a civilized society.** | This culture regards the rule of law and its codification as being the most important parameter of a civilized society. | −50% Law Cost Penalty from Realm Size
- 儿童更可能获得 Just trait
- Just 有额外加成:
+这种文化将法治及其法典化视为文明社会最重要的标准。** | 这种文化将法治及其法典化视为文明社会最重要的标准。 | −50% 法律 费用 惩罚来自领地 规模
+ 儿童更可能获得 公正特质
+ 公正 有额外加成:
  +5% 每月威望
- +1 外交 每等级 of Fame
- +20 封臣 Acceptance of Rightful Punishments
- Just 有额外加成:
+ +1 外交每等级的声名
+ +20 封臣 接纳度的Rightful Punishments
+ 公正 有额外加成:
  +25% 长期统治加成
-解锁 Yurt of the Laws internal upgrade for 游牧 Domiciles - −50% Law Cost Penalty from Realm Size
-- 儿童更可能获得 Just trait
-- Just 有额外加成:
+解锁 Yurt的Laws internal upgrade对于游牧 Domiciles - −50% 法律 费用 惩罚来自领地 规模
+- 儿童更可能获得 公正特质
+- 公正 有额外加成:
  +5% 每月威望
- +1 外交 每等级 of Fame
+ +1 外交每等级的声名
 - +5% 每月威望
-- +1 外交 每等级 of Fame
-- +20 封臣 Acceptance of Rightful Punishments
-- Just 有额外加成:
+- +1 外交每等级的声名
+- +20 封臣 接纳度的Rightful Punishments
+- 公正 有额外加成:
  +25% 长期统治加成
 - +25% 长期统治加成
-- 解锁 Yurt of the Laws internal upgrade for 游牧 Domiciles
-| −1% 每月威望 per 恐惧值
+- 解锁 Yurt的Laws internal upgrade对于游牧 Domiciles
+| −1% 每月威望每恐惧值
  +25% 暴政增长
- +30 封臣 Limit
- −30% Title Creation Cost
- +1 税收 Jurisdiction - −1% 每月威望 per 恐惧值
+ +30 封臣 上限
+ −30% 头衔 Creation 费用
+ +1 税收 Jurisdiction - −1% 每月威望每恐惧值
 - +25% 暴政增长
-- +30 封臣 Limit
-- −30% Title Creation Cost
+- +30 封臣 上限
+- −30% 头衔 Creation 费用
 - +1 税收 Jurisdiction
-| 信仰 has a Head of 信仰 | Bailiffs innovation
- Communal Government innovation - Bailiffs innovation
-- Communal Government innovation
+| 信仰拥有a 首领的信仰 | 法警 革新
+ 集体 政府 革新 - 法警 革新
+- 集体 政府 革新
 | 集体
 礼仪
-Egalitarian - Communal
+平等 - 集体
 - 礼仪
 - 平等
 | **驯顺臣民
 
-Who's to say what freedom is? One king is much like another, regardless of culture. True freedom comes from learning how to live with any liege.** | Who's to say what freedom is? One king is much like another, regardless of culture. True freedom comes from learning how to live with any liege. | 封臣s of this 文化 do not consider differing 信仰 or 文化 when joining Factions
- 封臣s of this 文化 will often learn the Language of their 领主
- -50% Harder to Promote 文化 in 此文化的伯爵领 unless you share a Heritage
- +30% Easier to Promote 文化 in 此文化的伯爵领 if you share a Heritage
+谁能定义自由？一个国王与另一个国王大同小异，不分文化。真正的自由来自学会与任何领主共处。** | 谁能定义自由？一个国王与另一个国王大同小异，不分文化。真正的自由来自学会与任何领主共处。 | 封臣此文化不会consider differing 信仰或文化当joining 派系
+ 封臣此文化将often learn语言的其 领主
+ -50% 更难 推广文化的此文化的伯爵领 unless you share一个遗产
+ +30% Easier to 推广文化的此文化的伯爵领 if you share一个遗产
  More likely to attract wandering 骑士
- +200% Available Mercenary Companies
- +25% 文化接纳度增长 - 封臣s of this 文化 do not consider differing 信仰 or 文化 when joining Factions
-- 封臣s of this 文化 will often learn the Language of their 领主
-- -50% Harder to Promote 文化 in 此文化的伯爵领 unless you share a Heritage
-- +30% Easier to Promote 文化 in 此文化的伯爵领 if you share a Heritage
+ +200% 可用的 雇佣兵 Companies
+ +25% 文化 接纳度 增长 - 封臣此文化不会consider differing 信仰或文化当joining 派系
+- 封臣此文化将often learn语言的其 领主
+- -50% 更难 推广文化的此文化的伯爵领 unless you share一个遗产
+- +30% Easier to 推广文化的此文化的伯爵领 if you share一个遗产
 - More likely to attract wandering 骑士
-- +200% Available Mercenary Companies
-- +25% 文化接纳度增长
-| -50% Mercenary Hire Cost
+- +200% 可用的 雇佣兵 Companies
+- +25% 文化 接纳度 增长
+| -50% 雇佣兵 雇佣 费用
  +10 不同文化好感度
- No Negative 好感度 of Other 文化s
- +25% 封臣 征召兵 Contribution - -50% Mercenary Hire Cost
+ No 负面 好感度的Other 文化
+ +25% 封臣 征召兵 贡献 - -50% 雇佣兵 雇佣 费用
 - +10 不同文化好感度
-- No Negative 好感度 of Other 文化s
-- +25% 封臣 征召兵 Contribution
+- No 负面 好感度的Other 文化
+- +25% 封臣 征召兵 贡献
 | 伊比利亚的命运DLC
- Iberian Heritage - 伊比利亚的命运DLC
-- Iberian Heritage
+ 伊比利亚 遗产 - 伊比利亚的命运DLC
+- 伊比利亚 遗产
 | 礼仪
-Egalitarian - Ceremonious
+平等 - 礼仪
 - 平等
 | **婚姻仪式
 
-For this culture, the union of two people in marriage is considered a highly public and ritualistic affair.** | For this culture, the union of two people in marriage is considered a highly public and ritualistic affair. | +25% Skills from Spouse Councilor Tasks
-Stat values are now always rounded up instead of down
- +10 Marriage Acceptance
- Cannot Divorce
+对于这种文化而言，两个人的婚姻结合被视为一种高度公开且具有仪式性的事务。** | 对于这种文化而言，两个人的婚姻结合被视为一种高度公开且具有仪式性的事务。 | +25% Skills来自配偶 Councilor Tasks
+Stat values是now always rounded up 而不是 down
+ +10 婚姻 接纳度
+ 不能 Divorce
  −10 同文化好感度 towards Fornicators
  −15 同文化好感度 towards Adulterers
- −50% 敌对阴谋成功几率 towards Spouses - +25% Skills from Spouse Councilor Tasks
-Stat values are now always rounded up instead of down
-- Stat values are now always rounded up instead of down
-- +10 Marriage Acceptance
-- Cannot Divorce
+ −50% 敌对阴谋成功几率 towards 配偶 - +25% Skills来自配偶 Councilor Tasks
+Stat values是now always rounded up 而不是 down
+- Stat values是now always rounded up 而不是 down
+- +10 婚姻 接纳度
+- 不能 Divorce
 - −10 同文化好感度 towards Fornicators
 - −15 同文化好感度 towards Adulterers
-- −50% 敌对阴谋成功几率 towards Spouses
-| 文化 has less than 5 rulers with the Adulterer trait | 集体
+- −50% 敌对阴谋成功几率 towards 配偶
+| 文化拥有less than 5 rulers与Adulterer特质 | 集体
 礼仪
-Spiritual - Communal
+灵性 - 集体
 - 礼仪
 - 灵性
 | **海洋重商主义
 
-The world may be ruled by armies, but this culture knows that it is truly controlled by whoever dominates the flow of gold across the seas.** | The world may be ruled by armies, but this culture knows that it is truly controlled by whoever dominates the flow of gold across the seas. | The Trade ports 建筑线 可以提前一个时代建造
+The world可以be ruled by armies,但这种文化knows该it是truly controlled by whoever dominatesflow的gold acrossseas.** |world可以be ruled by armies,但这种文化knows该it是truly controlled by whoever dominatesflow的gold acrossseas. |Trade ports 建筑线 可以提前一个时代建造
  +10% 海岸 地产 税收
- Avaricious provides additional bonuses:
+ Avaricious provides 额外的 bonuses:
  +2 管理
- +10% Monthly 税收 - The Trade ports 建筑线 可以提前一个时代建造
+ +10% 每月 税收 -Trade ports 建筑线 可以提前一个时代建造
 - +10% 海岸 地产 税收
-- Avaricious provides additional bonuses:
+- Avaricious provides 额外的 bonuses:
  +2 管理
- +10% Monthly 税收
+ +10% 每月 税收
 - +2 管理
-- +10% Monthly 税收
-| −25 Sea 危险度
- +10 Republic 封臣好感度 - −25 Sea 危险度
-- +10 Republic 封臣好感度
-| 文化 is present in a 沿海 county | At least 30% 的文化存在于沿海伯爵领中 | 官僚
+- +10% 每月 税收
+| −25 海 危险度
+ +10 共和 封臣好感度 - −25 海 危险度
+- +10 共和 封臣好感度
+| 文化存在在一个沿海 county | At least 30% 的文化存在于沿海伯爵领中 | 官僚
 平等
-Stoic - Bureaucratic
+坚毅 - 官僚
 - 平等
 - 坚毅
 | **母系社会
 
-This culture enforces a matriarchal hierarchy, where the ruling class is overwhelmingly comprised of women.** | This culture enforces a matriarchal hierarchy, where the ruling class is overwhelmingly comprised of women. | 可以颁布 Female Only Gender Law
- 可以颁布 Female Preference Gender Law - 可以颁布 Female Only Gender Law
-- 可以颁布 Female Preference Gender Law
-| +10 好感度 of Female Rulers
- −10 好感度 of Male Rulers - +10 好感度 of Female Rulers
-- −10 好感度 of Male Rulers
-| Female Dominated faith doctrine or Senegambian, Akan, West african, Yoruba, Nubian, Daju, descendant.
+这种文化实行母系等级制度，统治阶层绝大多数由女性组成。** | 这种文化实行母系等级制度，统治阶层绝大多数由女性组成。 | 可以颁布 女性 仅 性别法
+ 可以颁布 女性 偏好 性别法 - 可以颁布 女性 仅 性别法
+- 可以颁布 女性 偏好 性别法
+| +10 好感度的女性 统治者
+ −10 好感度的男性 统治者 - +10 好感度的女性 统治者
+- −10 好感度的男性 统治者
+| 女性 Dominated faith doctrine或Senegambian, 阿坎, 西方 african, Yoruba, Nubian, Daju, descendant.
 
  Game rule inversed gender equality
  战士女王传统
- Male Only Succession
- Male Preference Succession - Female Dominated faith doctrine or Senegambian, Akan, West african, Yoruba, Nubian, Daju, descendant.
+ 男性 仅 继承
+ 男性 偏好 继承 - 女性 Dominated faith doctrine或Senegambian, 阿坎, 西方 african, Yoruba, Nubian, Daju, descendant.
 - Game rule inversed gender equality
 - 战士女王传统
-- Male Only Succession
-- Male Preference Succession
-| 文化 has 5 at least female rulers | 平等 | **Metalworkers
+- 男性 仅 继承
+- 男性 偏好 继承
+| 文化拥有5 至少 female rulers | 平等 | **Metalworkers
 
-This culture has enjoyed easy access to iron for centuries. Over time they have developed their understanding of metal to such a degree that their name has become a byword for durable and high quality arms and armor.** | This culture has enjoyed easy access to iron for centuries. Over time they have developed their understanding of metal to such a degree that their name has become a byword for durable and high quality arms and armor. | Royal Armories buildings 有额外加成 in 此文化的伯爵领:
- +15% 骑士效率 per Royal Armories level
- +2/+3/+4 勇武 随之缩放 Royal Armories level
- -10%/-15%/-20% Building and 地产建造费用 随之缩放 Royal Armories level
- Crown Smithies buildings 有额外加成 in 此文化的伯爵领:
- +25% 补给上限 per Crown Smithies level
- +2/+3/+4 勇武 随之缩放 Crown Smithies level
- +3%/+5%/+8% Heavy Infantry and Spearmen 韧性 随之缩放 Crown Smithies level
+这种文化数百年来一直轻易获取铁矿。随着时间推移，他们对金属的理解已经达到了如此高度，以至于他们的名字已成为耐用和高品质武器盔甲的代名词。** | 这种文化数百年来一直轻易获取铁矿。随着时间推移，他们对金属的理解已经达到了如此高度，以至于他们的名字已成为耐用和高品质武器盔甲的代名词。 | 皇家 军械库 buildings 有额外加成的此文化的伯爵领:
+ +15% 骑士效用每皇家 军械库等级
+ +2/+3/+4 勇武 随之缩放 皇家 军械库等级
+ -10%/-15%/-20% 建筑和地产 建造费用 随之缩放 皇家 军械库等级
+ 王冠 铁匠铺 buildings 有额外加成的此文化的伯爵领:
+ +25% 补给上限每王冠 铁匠铺等级
+ +2/+3/+4 勇武 随之缩放 王冠 铁匠铺等级
+ +3%/+5%/+8% 重步兵和枪兵 韧性 随之缩放 王冠 铁匠铺等级
  Blacksmith buildings 可以提前一个时代建造
- 解锁 portable Forge internal upgrade for the nomadic Domicile
- 解锁 Commission Metal Artifact Decision - Royal Armories buildings 有额外加成 in 此文化的伯爵领:
- +15% 骑士效率 per Royal Armories level
- +2/+3/+4 勇武 随之缩放 Royal Armories level
- -10%/-15%/-20% Building and 地产建造费用 随之缩放 Royal Armories level
-- +15% 骑士效率 per Royal Armories level
-- +2/+3/+4 勇武 随之缩放 Royal Armories level
-- -10%/-15%/-20% Building and 地产建造费用 随之缩放 Royal Armories level
-- Crown Smithies buildings 有额外加成 in 此文化的伯爵领:
- +25% 补给上限 per Crown Smithies level
- +2/+3/+4 勇武 随之缩放 Crown Smithies level
- +3%/+5%/+8% Heavy Infantry and Spearmen 韧性 随之缩放 Crown Smithies level
-- +25% 补给上限 per Crown Smithies level
-- +2/+3/+4 勇武 随之缩放 Crown Smithies level
-- +3%/+5%/+8% Heavy Infantry and Spearmen 韧性 随之缩放 Crown Smithies level
+ 解锁 portable Forge internal upgrade对于nomadic Domicile
+ 解锁 委托 金属工艺品 决定 - 皇家 军械库 buildings 有额外加成的此文化的伯爵领:
+ +15% 骑士效用每皇家 军械库等级
+ +2/+3/+4 勇武 随之缩放 皇家 军械库等级
+ -10%/-15%/-20% 建筑和地产 建造费用 随之缩放 皇家 军械库等级
+- +15% 骑士效用每皇家 军械库等级
+- +2/+3/+4 勇武 随之缩放 皇家 军械库等级
+- -10%/-15%/-20% 建筑和地产 建造费用 随之缩放 皇家 军械库等级
+- 王冠 铁匠铺 buildings 有额外加成的此文化的伯爵领:
+ +25% 补给上限每王冠 铁匠铺等级
+ +2/+3/+4 勇武 随之缩放 王冠 铁匠铺等级
+ +3%/+5%/+8% 重步兵和枪兵 韧性 随之缩放 王冠 铁匠铺等级
+- +25% 补给上限每王冠 铁匠铺等级
+- +2/+3/+4 勇武 随之缩放 王冠 铁匠铺等级
+- +3%/+5%/+8% 重步兵和枪兵 韧性 随之缩放 王冠 铁匠铺等级
 - Blacksmith buildings 可以提前一个时代建造
-- 解锁 portable Forge internal upgrade for the nomadic Domicile
-- 解锁 Commission Metal Artifact Decision
-| +10.00% Army 金币 维护费
+- 解锁 portable Forge internal upgrade对于nomadic Domicile
+- 解锁 委托 金属工艺品 决定
+| +10.00% 军队 金币 维护费
  +2 征召兵 韧性
- +10% 常备军 韧性
- +10% 游牧 Horde 韧性 - +10.00% Army 金币 维护费
+ +10% 常备军韧性
+ +10% 游牧 部落 韧性 - +10.00% 军队 金币 维护费
 - +2 征召兵 韧性
-- +10% 常备军 韧性
-- +10% 游牧 Horde 韧性
-| 文化 is present in a 伯爵领 with a Mine | 官僚
+- +10% 常备军韧性
+- +10% 游牧 部落 韧性
+| 文化存在在一个伯爵领与一个Mine | 官僚
 集体
-Stoic - Bureaucratic
+坚毅 - 官僚
 - 集体
 - 坚毅
 | **修道院社区
 
-This culture has a long history of sending noble progeny to serve the faith. Revered political thinkers often arise from the monastic orders.** | This culture has a long history of sending noble progeny to serve the faith. Revered political thinkers often arise from the monastic orders. | 儿童更可能获得 Temperate trait
- Temperate 有额外加成:
+这种文化有着悠久的将贵族后代送去侍奉信仰的历史。受人尊敬的政治思想家往往出自修道院团体。** | 这种文化有着悠久的将贵族后代送去侍奉信仰的历史。受人尊敬的政治思想家往往出自修道院团体。 | 儿童更可能获得 节制特质
+ 节制 有额外加成:
  +10 同文化好感度
  +0.5 每月虔诚
- Devoted 有额外加成:
+ 虔诚的 有额外加成:
  +3 学识
- +20 aptitude for High Almoner
- +20 aptitude for Court Brahmin
- +25 Ask to Take Vows Acceptance for adults
- +125 Ask to Take Vows Acceptance for children
- The Monasteries 建筑线 can be built one Era early
- The Monasteries 建筑线 provide additional 学识 bonuses
+ +20 aptitude对于High Almoner
+ +20 aptitude对于宫廷 Brahmin
+ +25 Ask to Take Vows 接纳度对于adults
+ +125 Ask to Take Vows 接纳度对于children
+修道院 建筑线可以被built一个时代 early
+修道院 建筑线 provide 额外的 学识 bonuses
  +10%/+10%/+20%/+20%/+30%/+30%/+40%/+40% 学识 生活方式经验
- +0/+1/+1/+2/+2/+3/+3/+4 学识 - 儿童更可能获得 Temperate trait
-- Temperate 有额外加成:
+ +0/+1/+1/+2/+2/+3/+3/+4 学识 - 儿童更可能获得 节制特质
+- 节制 有额外加成:
  +10 同文化好感度
  +0.5 每月虔诚
 - +10 同文化好感度
 - +0.5 每月虔诚
-- Devoted 有额外加成:
+- 虔诚的 有额外加成:
  +3 学识
- +20 aptitude for High Almoner
- +20 aptitude for Court Brahmin
+ +20 aptitude对于High Almoner
+ +20 aptitude对于宫廷 Brahmin
 - +3 学识
-- +20 aptitude for High Almoner
-- +20 aptitude for Court Brahmin
-- +25 Ask to Take Vows Acceptance for adults
-- +125 Ask to Take Vows Acceptance for children
-- The Monasteries 建筑线 can be built one Era early
-- The Monasteries 建筑线 provide additional 学识 bonuses
+- +20 aptitude对于High Almoner
+- +20 aptitude对于宫廷 Brahmin
+- +25 Ask to Take Vows 接纳度对于adults
+- +125 Ask to Take Vows 接纳度对于children
+-修道院 建筑线可以被built一个时代 early
+-修道院 建筑线 provide 额外的 学识 bonuses
  +10%/+10%/+20%/+20%/+30%/+30%/+40%/+40% 学识 生活方式经验
  +0/+1/+1/+2/+2/+3/+3/+4 学识
 - +10%/+10%/+20%/+20%/+30%/+30%/+40%/+40% 学识 生活方式经验
 - +0/+1/+1/+2/+2/+3/+3/+4 学识
-| 信仰 has Monasticism tenet
+| 信仰拥有Monasticism tenet
 
-  nomadic - 信仰 has Monasticism tenet
+  nomadic - 信仰拥有Monasticism tenet
 - nomadic
-| Devoted Servant level of devotion | 集体
-Spiritual - Communal
+| 虔诚的 Servant等级的devotion | 集体
+灵性 - 集体
 - 灵性
 | **山地家园
 
-This culture knows how to live and thrive on plateaus near the harsh slopes of mountains.** | This culture knows how to live and thrive on plateaus near the harsh slopes of mountains. | Quarries 有额外加成 in 此文化的伯爵领:
- −1% Heavy Infantry, Spearmen, and Heavy Cavalry 维护费 per Quarries level
- −1% Men-At-Arms 招募费用 per Quarries level
- +1% 征召兵规模 per Quarries level
- +350 威望 for constructing in 山地 and 沙漠山地
- Increased Hunt Success Chance in 山地 and 沙漠山地 - Quarries 有额外加成 in 此文化的伯爵领:
- −1% Heavy Infantry, Spearmen, and Heavy Cavalry 维护费 per Quarries level
- −1% Men-At-Arms 招募费用 per Quarries level
- +1% 征召兵规模 per Quarries level
-- −1% Heavy Infantry, Spearmen, and Heavy Cavalry 维护费 per Quarries level
-- −1% Men-At-Arms 招募费用 per Quarries level
-- +1% 征召兵规模 per Quarries level
-- +350 威望 for constructing in 山地 and 沙漠山地
-- Increased Hunt Success Chance in 山地 and 沙漠山地
+这种文化深知how to live和thrive on plateaus nearharsh slopes的mountains.** | 这种文化深知how to live和thrive on plateaus nearharsh slopes的mountains. | 采石场 有额外加成的此文化的伯爵领:
+ −1% 重步兵, 枪兵,和重骑兵 维护费每采石场等级
+ −1% Men-At-兵器 招募费用每采石场等级
+ +1% 征召兵规模每采石场等级
+ +350 威望对于constructing的山地和沙漠山地
+ 增加 狩猎 成功几率的山地和沙漠山地 - 采石场 有额外加成的此文化的伯爵领:
+ −1% 重步兵, 枪兵,和重骑兵 维护费每采石场等级
+ −1% Men-At-兵器 招募费用每采石场等级
+ +1% 征召兵规模每采石场等级
+- −1% 重步兵, 枪兵,和重骑兵 维护费每采石场等级
+- −1% Men-At-兵器 招募费用每采石场等级
+- +1% 征召兵规模每采石场等级
+- +350 威望对于constructing的山地和沙漠山地
+- 增加 狩猎 成功几率的山地和沙漠山地
 | −42 山地 危险度
- +20% 伯爵领生育增长 in 山地
+ +20% 伯爵领生育增长的山地
  −42 沙漠山地 危险度
- +20% 伯爵领生育增长 in 沙漠山地 - −42 山地 危险度
-- +20% 伯爵领生育增长 in 山地
+ +20% 伯爵领生育增长的沙漠山地 - −42 山地 危险度
+- +20% 伯爵领生育增长的山地
 - −42 沙漠山地 危险度
-- +20% 伯爵领生育增长 in 沙漠山地
-| +20% 发展度增长 in 山地
- +35% 发展度增长 in 沙漠山地 - +20% 发展度增长 in 山地
-- +35% 发展度增长 in 沙漠山地
-| −10% 地产和建筑建造费用 in 山地
- −10% 地产和建筑建造费用 in 沙漠山地 - −10% 地产和建筑建造费用 in 山地
-- −10% 地产和建筑建造费用 in 沙漠山地
-| 文化存在于拥有以下地形的伯爵领中： either:
- 山地
- 沙漠山地
+- +20% 伯爵领生育增长的沙漠山地
+| +20% 发展度增长的山地
+ +35% 发展度增长的沙漠山地 - +20% 发展度增长的山地
+- +35% 发展度增长的沙漠山地
+| −10% 地产和建筑 建造费用的山地
+ −10% 地产和建筑 建造费用的沙漠山地 - −10% 地产和建筑 建造费用的山地
+- −10% 地产和建筑 建造费用的沙漠山地
+| 文化存在于拥有以下地形的伯爵领中： 以下之一：
+ 山地
+ 沙漠山地
 
  Arabic 遗产
  Berber 遗产
- Tibetan 遗产
+ 藏族 遗产
  Qiangic 遗产
- West Slavic 遗产
+ 西方 斯拉夫 遗产
  喜马拉雅定居者传统
  山地乡村主义传统
  山地放牧传统
- 文化 cannot be present in the Himalayas - 文化存在于拥有以下地形的伯爵领中： either:
- 山地
- 沙漠山地
+ 文化不能be present在Himalayas - 文化存在于拥有以下地形的伯爵领中： 以下之一：
+ 山地
+ 沙漠山地
 - 山地
 - 沙漠山地
 - Arabic 遗产
 - Berber 遗产
-- Tibetan 遗产
+- 藏族 遗产
 - Qiangic 遗产
-- West Slavic 遗产
+- 西方 斯拉夫 遗产
 - 喜马拉雅定居者传统
 - 山地乡村主义传统
 - 山地放牧传统
-- 文化 cannot be present in the Himalayas
-| 30% 的文化存在于拥有以下地形的伯爵领中： 山地 or 沙漠山地 | 官僚
+- 文化不能be present在Himalayas
+| 30% 的文化存在于拥有以下地形的伯爵领中： 山地或沙漠山地 | 官僚
 集体
 礼仪
 平等
 灵性
-Stoic - Bureaucratic
+坚毅 - 官僚
 - 集体
 - 礼仪
 - 平等
@@ -1036,304 +1036,304 @@ Stoic - Bureaucratic
 - 坚毅
 | **宫廷政治
 
-Powerful eunuchs and silk-robed sycophants man a vast political apparatus, impressing with fineries, flattering with honors, and plotting viciously in the name of advancement.** | Powerful eunuchs and silk-robed sycophants man a vast political apparatus, impressing with fineries, flattering with honors, and plotting viciously in the name of advancement. | Can take the Found the Varangian Guard decision
- 可以招募 Varangian Guards 常备军
+权势熏天的宦官和身着丝袍的谄媚者掌管着庞大的政治机器，以华服示人、以荣誉奉承、以升迁之名恶毒地策划阴谋。** | 权势熏天的宦官和身着丝袍的谄媚者掌管着庞大的政治机器，以华服示人、以荣誉奉承、以升迁之名恶毒地策划阴谋。 | 可以takeFound瓦良格 卫队 decision
+ 可以招募 瓦良格卫队 常备军
  可以授予 Akolouthos 宫廷职位
- -10 Bodyguard Aptitude
+ -10 Bodyguard 能力
  可以致盲囚犯
  可以阉割囚犯
- The Eunuch 特质 有额外加成
- +2 管理 if Eunuch
+宦官 特质 有额外加成
+ +2 管理 if 宦官
  +2 谋略
  +2 学识
- +50% 每月影响力
+ +50% 每月 影响力
  +10 领主好感度
  −10 封臣好感度
- The Beardless Eunuch 特质 有额外加成
+无须 宦官 特质 有额外加成
  +1 军事
  +3 谋略
  +2 学识
- +0.1 每月影响力
- +50% 每月影响力
+ +0.1 每月 影响力
+ +50% 每月 影响力
  +20 领主好感度
  −10 封臣好感度
- 可以授予 Chief Eunuch 宫廷职位
- 解锁 Castrate Kin interaction
- Ambitious trait 更常见
- 角色s with negative physical traits cannot use Claim Casus Belli on characters of this culture
- 角色s with negative physical traits receive fewer elective votes
- Improves Withdraw from View Countermeasure (tier 2)
- -1 每月影响力 for  Disfigured characters
- -0.35 每月影响力 for  Maimed,  One-Eyed and  One-Legged characters
- -0.25 每月影响力 for  Shy and  Trusting characters
- +0.10 每月影响力 for  Loyal characters
- +0.15 每月影响力 for  Arbitrary and  Paranoid characters
- +0.25 每月影响力 for  Deceitful characters
- +0.35 每月影响力 for  Ambitious characters - Can take the Found the Varangian Guard decision
- 可以招募 Varangian Guards 常备军
+ 可以授予 首领 宦官 宫廷职位
+ 解锁 Castrate 亲属 interaction
+ 野心特质 更常见
+ 角色与negative physical特质不能use 宣称 宣战理由 on characters此文化
+ 角色与negative physical特质 receive fewer elective votes
+ Improves Withdraw来自View 对策 (tier 2)
+ -1 每月 影响力对于 Disfigured characters
+ -0.35 每月 影响力对于 残废,  独眼和 独腿 characters
+ -0.25 每月 影响力对于 害羞和 信任 characters
+ +0.10 每月 影响力对于 忠诚 characters
+ +0.15 每月 影响力对于 Arbitrary和 多疑 characters
+ +0.25 每月 影响力对于 欺诈 characters
+ +0.35 每月 影响力对于 野心 characters - 可以takeFound瓦良格 卫队 decision
+ 可以招募 瓦良格卫队 常备军
  可以授予 Akolouthos 宫廷职位
-- 可以招募 Varangian Guards 常备军
+- 可以招募 瓦良格卫队 常备军
 - 可以授予 Akolouthos 宫廷职位
-- -10 Bodyguard Aptitude
+- -10 Bodyguard 能力
 - 可以致盲囚犯
 - 可以阉割囚犯
-- The Eunuch 特质 有额外加成
- +2 管理 if Eunuch
+-宦官 特质 有额外加成
+ +2 管理 if 宦官
  +2 谋略
  +2 学识
- +50% 每月影响力
+ +50% 每月 影响力
  +10 领主好感度
  −10 封臣好感度
-- +2 管理 if Eunuch
+- +2 管理 if 宦官
 - +2 谋略
 - +2 学识
-- +50% 每月影响力
+- +50% 每月 影响力
 - +10 领主好感度
 - −10 封臣好感度
-- The Beardless Eunuch 特质 有额外加成
+-无须 宦官 特质 有额外加成
  +1 军事
  +3 谋略
  +2 学识
- +0.1 每月影响力
- +50% 每月影响力
+ +0.1 每月 影响力
+ +50% 每月 影响力
  +20 领主好感度
  −10 封臣好感度
 - +1 军事
 - +3 谋略
 - +2 学识
-- +0.1 每月影响力
-- +50% 每月影响力
+- +0.1 每月 影响力
+- +50% 每月 影响力
 - +20 领主好感度
 - −10 封臣好感度
-- 可以授予 Chief Eunuch 宫廷职位
-- 解锁 Castrate Kin interaction
-- Ambitious trait 更常见
-- 角色s with negative physical traits cannot use Claim Casus Belli on characters of this culture
-- 角色s with negative physical traits receive fewer elective votes
-- Improves Withdraw from View Countermeasure (tier 2)
-- -1 每月影响力 for  Disfigured characters
-- -0.35 每月影响力 for  Maimed,  One-Eyed and  One-Legged characters
-- -0.25 每月影响力 for  Shy and  Trusting characters
-- +0.10 每月影响力 for  Loyal characters
-- +0.15 每月影响力 for  Arbitrary and  Paranoid characters
-- +0.25 每月影响力 for  Deceitful characters
-- +0.35 每月影响力 for  Ambitious characters
+- 可以授予 首领 宦官 宫廷职位
+- 解锁 Castrate 亲属 interaction
+- 野心特质 更常见
+- 角色与negative physical特质不能use 宣称 宣战理由 on characters此文化
+- 角色与negative physical特质 receive fewer elective votes
+- Improves Withdraw来自View 对策 (tier 2)
+- -1 每月 影响力对于 Disfigured characters
+- -0.35 每月 影响力对于 残废,  独眼和 独腿 characters
+- -0.25 每月 影响力对于 害羞和 信任 characters
+- +0.10 每月 影响力对于 忠诚 characters
+- +0.15 每月 影响力对于 Arbitrary和 多疑 characters
+- +0.25 每月 影响力对于 欺诈 characters
+- +0.35 每月 影响力对于 野心 characters
 | -10 days Personal 阴谋阶段 Length
  -10 days Political 阴谋阶段 Length
- +20% Monthly 宫廷威严 Change - -10 days Personal 阴谋阶段 Length
+ +20% 每月 宫廷威严 Change - -10 days Personal 阴谋阶段 Length
 - -10 days Political 阴谋阶段 Length
-- +20% Monthly 宫廷威严 Change
+- +20% 每月 宫廷威严 Change
 | 权力之路DLC
 
  拜占庭传统传统
  宫廷宦官传统
  仁慈致盲传统
-One of:
- Eastern Roman 遗产
- Greek culture
- 文化 has hybridized with Greek 文化
- Byzantine 帝国 title
- Roman 帝国 title - 权力之路DLC
+以下之一：
+ 东方的 罗马 遗产
+ 希腊 culture
+ 文化拥有混合了 希腊 文化
+ 拜占庭 帝国 title
+ 罗马 帝国 title - 权力之路DLC
 - 拜占庭传统传统
 - 宫廷宦官传统
 - 仁慈致盲传统
-- One of:
- Eastern Roman 遗产
- Greek culture
- 文化 has hybridized with Greek 文化
- Byzantine 帝国 title
- Roman 帝国 title
-- Eastern Roman 遗产
-- Greek culture
-- 文化 has hybridized with Greek 文化
-- Byzantine 帝国 title
-- Roman 帝国 title
-| 宫廷威严 at least 8 | 官僚
+- 以下之一：
+ 东方的 罗马 遗产
+ 希腊 culture
+ 文化拥有混合了 希腊 文化
+ 拜占庭 帝国 title
+ 罗马 帝国 title
+- 东方的 罗马 遗产
+- 希腊 culture
+- 文化拥有混合了 希腊 文化
+- 拜占庭 帝国 title
+- 罗马 帝国 title
+| 宫廷威严 至少 8 | 官僚
 礼仪
-Spiritual - Bureaucratic
+灵性 - 官僚
 - 礼仪
 - 灵性
 | **地方主义
 
-City residents of this culture are fiercely competitive and independent. They invest a lot of money and energy to make sure that their city is the grandest.** | City residents of this culture are fiercely competitive and independent. They invest a lot of money and energy to make sure that their city is the grandest. | +1% 地产税收 per City 地产 level
- +5% Monthly 发展度 per City 地产 level
- +25% 征召兵规模 per City 地产 level
- −25% 每月控制 per City 地产 in the 伯爵领
- Parochial 封臣s more common
- City buildings can be upgraded one Era earlier - +1% 地产税收 per City 地产 level
-- +5% Monthly 发展度 per City 地产 level
-- +25% 征召兵规模 per City 地产 level
-- −25% 每月控制 per City 地产 in the 伯爵领
-- Parochial 封臣s more common
-- City buildings can be upgraded one Era earlier
-| −5% City 地产和建筑建造费用
- −20 Parochial 封臣好感度
- +10% Parochial 封臣 税收 Contribution
- +10% Parochial 封臣 征召兵 Contribution
- −20Minor Landholder 封臣好感度 - −5% City 地产和建筑建造费用
-- −20 Parochial 封臣好感度
-- +10% Parochial 封臣 税收 Contribution
-- +10% Parochial 封臣 征召兵 Contribution
+城市 residents的这种文化是 fiercely competitive和independent. 他们invest一个lot的money和energy to make sure that其city isgrandest.** | 城市 residents的这种文化是 fiercely competitive和independent. 他们invest一个lot的money和energy to make sure that其city isgrandest. | +1% 地产税收每城市 地产等级
+ +5% 每月 发展度每城市 地产等级
+ +25% 征召兵规模每城市 地产等级
+ −25% 每月 控制每城市 地产在伯爵领
+ 教区 封臣 更常见
+ 城市 buildings可以被upgraded一个时代 earlier - +1% 地产税收每城市 地产等级
+- +5% 每月 发展度每城市 地产等级
+- +25% 征召兵规模每城市 地产等级
+- −25% 每月 控制每城市 地产在伯爵领
+- 教区 封臣 更常见
+- 城市 buildings可以被upgraded一个时代 earlier
+| −5% 城市 地产和建筑 建造费用
+ −20 教区 封臣好感度
+ +10% 教区 封臣 税收 贡献
+ +10% 教区 封臣 征召兵 贡献
+ −20Minor Landholder 封臣好感度 - −5% 城市 地产和建筑 建造费用
+- −20 教区 封臣好感度
+- +10% 教区 封臣 税收 贡献
+- +10% 教区 封臣 征召兵 贡献
 - −20Minor Landholder 封臣好感度
-| Latin 遗产 or descendant
-  nomadic
- Republican Legacy 传统 - Latin 遗产 or descendant
+| Latin 遗产或descendant
+  nomadic
+ Republican Legacy 传统 - Latin 遗产或descendant
 - nomadic
 - Republican Legacy 传统
-| Have a city holding in at least 90% of counties that share your culture within your realm | 集体
+| Have一个city holding的至少 90%的伯爵领该share your culture在...之内your realm | 集体
 礼仪
-Spiritual - Communal
+灵性 - 集体
 - 礼仪
 - 灵性
 | **牧民传统
 
-This culture is at home in wide and open terrain, where they herd large groups of animals.** | This culture is at home in wide and open terrain, where they herd large groups of animals. | Cattle Pastures 有额外加成 in 此文化的伯爵领:
- −1% Light Cavalry 维护费 per Pastoral Lands level
- +0.5% 地产税收 per Pastoral Lands level
- +0.5% 征召兵规模 per Pastoral Lands level
- +2 Defender 优势 per Pastoral Lands level
- Coops building unlocks the first four tiers of Manor Houses
- Herder +0.35 伯爵领 Fertility growth in counties owned by herders - Cattle Pastures 有额外加成 in 此文化的伯爵领:
- −1% Light Cavalry 维护费 per Pastoral Lands level
- +0.5% 地产税收 per Pastoral Lands level
- +0.5% 征召兵规模 per Pastoral Lands level
- +2 Defender 优势 per Pastoral Lands level
-- −1% Light Cavalry 维护费 per Pastoral Lands level
-- +0.5% 地产税收 per Pastoral Lands level
-- +0.5% 征召兵规模 per Pastoral Lands level
-- +2 Defender 优势 per Pastoral Lands level
-- Coops building unlocks the first four tiers of Manor Houses
-- Herder +0.35 伯爵领 Fertility growth in counties owned by herders
+这种文化at home的wide和open terrain, where他们herd large groups的animals.** | 这种文化at home的wide和open terrain, where他们herd large groups的animals. | Cattle 牧场 有额外加成的此文化的伯爵领:
+ −1% 轻骑兵 维护费每牧场等级
+ +0.5% 地产税收每牧场等级
+ +0.5% 征召兵规模每牧场等级
+ +2 防御方优势每牧场等级
+ Coops building unlocksfirst four tiers的庄园
+ Herder +0.35 伯爵领生育 growth的伯爵领 owned by herders - Cattle 牧场 有额外加成的此文化的伯爵领:
+ −1% 轻骑兵 维护费每牧场等级
+ +0.5% 地产税收每牧场等级
+ +0.5% 征召兵规模每牧场等级
+ +2 防御方优势每牧场等级
+- −1% 轻骑兵 维护费每牧场等级
+- +0.5% 地产税收每牧场等级
+- +0.5% 征召兵规模每牧场等级
+- +2 防御方优势每牧场等级
+- Coops building unlocksfirst four tiers的庄园
+- Herder +0.35 伯爵领生育 growth的伯爵领 owned by herders
 | +1 勇武
- Small Disease Resistance
- +10% 伯爵领生育增长 in 平原
- +10% 伯爵领生育增长 in 沙漠
- +10% 伯爵领生育增长 in 草原
- +10% 伯爵领生育增长 in 旱地 - +1 勇武
-- Small Disease Resistance
-- +10% 伯爵领生育增长 in 平原
-- +10% 伯爵领生育增长 in 沙漠
-- +10% 伯爵领生育增长 in 草原
-- +10% 伯爵领生育增长 in 旱地
-| 40% 的文化存在于拥有以下地形的伯爵领中： 平原 or 草原 | 60% 的文化存在于拥有以下地形的伯爵领中： 平原 or 草原 | 好战
+ 小 Disease 抵抗
+ +10% 伯爵领生育增长的平原
+ +10% 伯爵领生育增长的沙漠
+ +10% 伯爵领生育增长的草原
+ +10% 伯爵领生育增长的旱地 - +1 勇武
+- 小 Disease 抵抗
+- +10% 伯爵领生育增长的平原
+- +10% 伯爵领生育增长的沙漠
+- +10% 伯爵领生育增长的草原
+- +10% 伯爵领生育增长的旱地
+| 40% 的文化存在于拥有以下地形的伯爵领中： 平原或草原 | 60% 的文化存在于拥有以下地形的伯爵领中： 平原或草原 | 好战
 集体
-Stoic - Bellicose
+坚毅 - 好战
 - 集体
 - 坚毅
 | **围垦地
 
-This culture has a long tradition of reclaiming land from the surrounding sea. This allows them to utilize what would normally be a shallow seabed for farming and construction.** | This culture has a long tradition of reclaiming land from the surrounding sea. This allows them to utilize what would normally be a shallow seabed for farming and construction. | 解锁 Adaptive Militia innovation (中世纪盛期)
- Pastoral Lands, Farms & Fields, Wetland Farms, Manor Houses, and Orchards 有额外加成 in 沿海 此文化的伯爵领:
- +0.5% 地产税收 per Pastoral Lands level in 沿海 baronies
- +0.5% 征召兵规模 per Pastoral Lands level in 沿海 baronies
- +2%/+3%/+4%/+5%/+6%/+7%/+8%/+9% 地产税收 随之缩放 Farms & Fields level in 沿海 baronies
- +2%/+3%/+4%/+5%/+6%/+7%/+8%/+9% 地产税收 随之缩放 Wetland Farms level in 沿海 baronies
- +2%/+3%/+4%/+5%/+6%/+6%/+7%/+8% 地产税收 随之缩放 Manor Houses level in 沿海 baronies
- +1% 地产税收 per Orchards level in 沿海 baronies
- +0%/+0%/+10%/+10%/+10%/+10%/+10%/+10% 补给上限 随之缩放 Orchards level in 沿海 baronies
- −10% 建造时间 in 沿海 baronies - 解锁 Adaptive Militia innovation (中世纪盛期)
-- Pastoral Lands, Farms & Fields, Wetland Farms, Manor Houses, and Orchards 有额外加成 in 沿海 此文化的伯爵领:
- +0.5% 地产税收 per Pastoral Lands level in 沿海 baronies
- +0.5% 征召兵规模 per Pastoral Lands level in 沿海 baronies
- +2%/+3%/+4%/+5%/+6%/+7%/+8%/+9% 地产税收 随之缩放 Farms & Fields level in 沿海 baronies
- +2%/+3%/+4%/+5%/+6%/+7%/+8%/+9% 地产税收 随之缩放 Wetland Farms level in 沿海 baronies
- +2%/+3%/+4%/+5%/+6%/+6%/+7%/+8% 地产税收 随之缩放 Manor Houses level in 沿海 baronies
- +1% 地产税收 per Orchards level in 沿海 baronies
- +0%/+0%/+10%/+10%/+10%/+10%/+10%/+10% 补给上限 随之缩放 Orchards level in 沿海 baronies
-- +0.5% 地产税收 per Pastoral Lands level in 沿海 baronies
-- +0.5% 征召兵规模 per Pastoral Lands level in 沿海 baronies
-- +2%/+3%/+4%/+5%/+6%/+7%/+8%/+9% 地产税收 随之缩放 Farms & Fields level in 沿海 baronies
-- +2%/+3%/+4%/+5%/+6%/+7%/+8%/+9% 地产税收 随之缩放 Wetland Farms level in 沿海 baronies
-- +2%/+3%/+4%/+5%/+6%/+6%/+7%/+8% 地产税收 随之缩放 Manor Houses level in 沿海 baronies
-- +1% 地产税收 per Orchards level in 沿海 baronies
-- +0%/+0%/+10%/+10%/+10%/+10%/+10%/+10% 补给上限 随之缩放 Orchards level in 沿海 baronies
-- −10% 建造时间 in 沿海 baronies
-| −25 海岸 Sea
+这种文化有着悠久的围海造田传统。这使他们能够利用通常是浅海海床的区域进行耕作和建设。** | 这种文化有着悠久的围海造田传统。这使他们能够利用通常是浅海海床的区域进行耕作和建设。 | 解锁 Adaptive 民兵 革新 (中世纪盛期)
+ 牧场, 农场与田地, 湿地农场, 庄园,和果园 有额外加成的沿海 此文化的伯爵领:
+ +0.5% 地产税收每牧场等级的沿海 男爵领
+ +0.5% 征召兵规模每牧场等级的沿海 男爵领
+ +2%/+3%/+4%/+5%/+6%/+7%/+8%/+9% 地产税收 随之缩放 农场与田地等级的沿海 男爵领
+ +2%/+3%/+4%/+5%/+6%/+7%/+8%/+9% 地产税收 随之缩放 湿地农场等级的沿海 男爵领
+ +2%/+3%/+4%/+5%/+6%/+6%/+7%/+8% 地产税收 随之缩放 庄园等级的沿海 男爵领
+ +1% 地产税收每果园等级的沿海 男爵领
+ +0%/+0%/+10%/+10%/+10%/+10%/+10%/+10% 补给上限 随之缩放 果园等级的沿海 男爵领
+ −10% 建造时间的沿海 男爵领 - 解锁 Adaptive 民兵 革新 (中世纪盛期)
+- 牧场, 农场与田地, 湿地农场, 庄园,和果园 有额外加成的沿海 此文化的伯爵领:
+ +0.5% 地产税收每牧场等级的沿海 男爵领
+ +0.5% 征召兵规模每牧场等级的沿海 男爵领
+ +2%/+3%/+4%/+5%/+6%/+7%/+8%/+9% 地产税收 随之缩放 农场与田地等级的沿海 男爵领
+ +2%/+3%/+4%/+5%/+6%/+7%/+8%/+9% 地产税收 随之缩放 湿地农场等级的沿海 男爵领
+ +2%/+3%/+4%/+5%/+6%/+6%/+7%/+8% 地产税收 随之缩放 庄园等级的沿海 男爵领
+ +1% 地产税收每果园等级的沿海 男爵领
+ +0%/+0%/+10%/+10%/+10%/+10%/+10%/+10% 补给上限 随之缩放 果园等级的沿海 男爵领
+- +0.5% 地产税收每牧场等级的沿海 男爵领
+- +0.5% 征召兵规模每牧场等级的沿海 男爵领
+- +2%/+3%/+4%/+5%/+6%/+7%/+8%/+9% 地产税收 随之缩放 农场与田地等级的沿海 男爵领
+- +2%/+3%/+4%/+5%/+6%/+7%/+8%/+9% 地产税收 随之缩放 湿地农场等级的沿海 男爵领
+- +2%/+3%/+4%/+5%/+6%/+6%/+7%/+8% 地产税收 随之缩放 庄园等级的沿海 男爵领
+- +1% 地产税收每果园等级的沿海 男爵领
+- +0%/+0%/+10%/+10%/+10%/+10%/+10%/+10% 补给上限 随之缩放 果园等级的沿海 男爵领
+- −10% 建造时间的沿海 男爵领
+| −25 海岸 海
  −42 湿地
  −22 冲积平原
- +20% Skirmisher 伤害
- +20% Skirmisher 掩护 - −25 海岸 Sea
+ +20% 散兵 伤害
+ +20% 散兵 掩护 - −25 海岸 海
 - −42 湿地
 - −22 冲积平原
-- +20% Skirmisher 伤害
-- +20% Skirmisher 掩护
+- +20% 散兵 伤害
+- +20% 散兵 掩护
 | Dutch 文化或后裔
- 文化 is present in a 沿海 county - Dutch 文化或后裔
-- 文化 is present in a 沿海 county
+ 文化存在在一个沿海 county - Dutch 文化或后裔
+- 文化存在在一个沿海 county
 | 30% 的文化存在于沿海伯爵领中 | 官僚
 集体
-Stoic - Bureaucratic
+坚毅 - 官僚
 - 集体
 - 坚毅
 | **共和遗产
 
-This culture has a long history of republican values, where the urban classes are just as important as the rural landholders.** | This culture has a long history of republican values, where the urban classes are just as important as the rural landholders. | Can create up to 4 Count Republic 封臣s
- Can unlock the Pike Columns innovation (中世纪盛期)
- +1% 税收es from City 地产s 每等级
- +5% 发展度增长 from City 地产s 每等级
- +25% 征召兵 from City 地产s 每等级
- −25% 控制 from City 地产s
- Republic 封臣s above Baron give more
+这种文化有着悠久的共和价值观历史，城市阶层与农村地主同等重要。** | 这种文化有着悠久的共和价值观历史，城市阶层与农村地主同等重要。 | 可以create up to 4 伯爵 共和 封臣
+ 可以unlockPike Columns 革新 (中世纪盛期)
+ +1% 税收来自城市 地产 每等级
+ +5% 发展度增长来自城市 地产 每等级
+ +25% 征召兵来自城市 地产 每等级
+ −25% 控制来自城市 地产
+ 共和 封臣 above Baron give more
  +30% tax
  +15% 征召兵
- Parochial 封臣s more common
- City buildings can be upgraded one Era earlier - Can create up to 4 Count Republic 封臣s
-- Can unlock the Pike Columns innovation (中世纪盛期)
-- +1% 税收es from City 地产s 每等级
-- +5% 发展度增长 from City 地产s 每等级
-- +25% 征召兵 from City 地产s 每等级
-- −25% 控制 from City 地产s
-- Republic 封臣s above Baron give more
+ 教区 封臣 更常见
+ 城市 buildings可以被upgraded一个时代 earlier - 可以create up to 4 伯爵 共和 封臣
+- 可以unlockPike Columns 革新 (中世纪盛期)
+- +1% 税收来自城市 地产 每等级
+- +5% 发展度增长来自城市 地产 每等级
+- +25% 征召兵来自城市 地产 每等级
+- −25% 控制来自城市 地产
+- 共和 封臣 above Baron give more
  +30% tax
  +15% 征召兵
 - +30% tax
 - +15% 征召兵
-- Parochial 封臣s more common
-- City buildings can be upgraded one Era earlier
-| −5% City 地产和建筑建造费用
- −20 Parochial 封臣好感度
- +10% Parochial 封臣 税收 Contribution
- +10% Parochial 封臣 征召兵 Contribution
- −20 Minor Landholder 封臣好感度 - −5% City 地产和建筑建造费用
-- −20 Parochial 封臣好感度
-- +10% Parochial 封臣 税收 Contribution
-- +10% Parochial 封臣 征召兵 Contribution
-- −20 Minor Landholder 封臣好感度
-| Latin 遗产 or descendant
+- 教区 封臣 更常见
+- 城市 buildings可以被upgraded一个时代 earlier
+| −5% 城市 地产和建筑 建造费用
+ −20 教区 封臣好感度
+ +10% 教区 封臣 税收 贡献
+ +10% 教区 封臣 征召兵 贡献
+ −20 次要 Landholder 封臣好感度 - −5% 城市 地产和建筑 建造费用
+- −20 教区 封臣好感度
+- +10% 教区 封臣 税收 贡献
+- +10% 教区 封臣 征召兵 贡献
+- −20 次要 Landholder 封臣好感度
+| Latin 遗产或descendant
 
  地方主义传统
-  nomadic - Latin 遗产 or descendant
+  nomadic - Latin 遗产或descendant
 - 地方主义传统
 - nomadic
-| At least 90% of the counties with culture have a city | 集体
+| At least 90%的伯爵领与culture拥有一个city | 集体
 礼仪
-Spiritual - Communal
+灵性 - 集体
 - 礼仪
 - 灵性
 | **稻作文化
 
-Rice is the lifeblood of this culture. Through diligent labor and agricultural know-how, their harvests are rich as long as they control suitable lands for their crop. As a result, their economic prosperity and military might soar high above their less advanced neighbors.** | Rice is the lifeblood of this culture. Through diligent labor and agricultural know-how, their harvests are rich as long as they control suitable lands for their crop. As a result, their economic prosperity and military might soar high above their less advanced neighbors. | All Paddy Fields 建筑线 may be built an Era early
-The Paddy Fields and Manor Houses 建筑线 may be built in 丘陵 and 丛林 - All Paddy Fields 建筑线 may be built an Era early
-- The Paddy Fields and Manor Houses 建筑线 may be built in 丘陵 and 丛林
-| +30% 发展度增长 in Terraced 丘陵
- -10% 建筑建造费用 in Terraced 丘陵
- +10% 征召兵规模 in Terraced 丘陵 - +30% 发展度增长 in Terraced 丘陵
-- -10% 建筑建造费用 in Terraced 丘陵
-- +10% 征召兵规模 in Terraced 丘陵
+稻米是这种文化的命脉。通过勤劳的劳动和农业技术，只要他们控制着适合种植的土地，收成就会十分丰厚。因此，他们的经济繁荣和军事力量远超其落后的邻居。** | 稻米是这种文化的命脉。通过勤劳的劳动和农业技术，只要他们控制着适合种植的土地，收成就会十分丰厚。因此，他们的经济繁荣和军事力量远超其落后的邻居。 | 所有 Paddy 田地 建筑线可以be built一个时代 early
+The Paddy 田地和庄园 建筑线可以be built的丘陵和丛林 - 所有 Paddy 田地 建筑线可以be built一个时代 early
+-Paddy 田地和庄园 建筑线可以be built的丘陵和丛林
+| +30% 发展度增长的梯田 丘陵
+ -10% 建筑建造费用的梯田 丘陵
+ +10% 征召兵规模的梯田 丘陵 - +30% 发展度增长的梯田 丘陵
+- -10% 建筑建造费用的梯田 丘陵
+- +10% 征召兵规模的梯田 丘陵
 | 天下DLC
  Intensive Farming 传统
- At least one county of this culture must have:
- Terraced 丘陵 - 天下DLC
+ At least一个county的这种文化必须拥有:
+ 梯田 丘陵 - 天下DLC
 - Intensive Farming 传统
-- At least one county of this culture must have:
- Terraced 丘陵
-- Terraced 丘陵
-| The 文化至少存在于 3 counties with  Terraced 丘陵 terrain | 官僚
+- At least一个county的这种文化必须拥有:
+ 梯田 丘陵
+- 梯田 丘陵
+|文化至少存在于 3 伯爵领与 梯田 丘陵 terrain | 官僚
 集体
 礼仪
 平等
 灵性
-Stoic - Bureaucratic
+坚毅 - 官僚
 - 集体
 - 礼仪
 - 平等
@@ -1341,256 +1341,256 @@ Stoic - Bureaucratic
 - 坚毅
 | **统治种姓
 
-Rulers of this culture are used to lording over subjects that are not their own culture. They know how to effectively suppress revolts, though at the cost of public perception.** | Rulers of this culture are used to lording over subjects that are not their own culture. They know how to effectively suppress revolts, though at the cost of public perception. | Different 文化 and Populist Factions are less common
- +300% 威望 Cost from Convert to Local 文化 Decision
- AI rulers are less likely to convert culture
- −25% 文化接纳度增长 - Different 文化 and Populist Factions are less common
-- +300% 威望 Cost from Convert to Local 文化 Decision
-- AI rulers are less likely to convert culture
-- −25% 文化接纳度增长
+统治者的这种文化是 used to lording over subjects that是not其own culture. 他们know how to effectively suppress revolts, though在cost的public perception.** | 统治者的这种文化是 used to lording over subjects that是not其own culture. 他们know how to effectively suppress revolts, though在cost的public perception. | 不同 文化和Populist 派系是更少见
+ +300% 威望 费用来自皈依 to 本地 文化 决定
+ AI rulers是更不可能 to convert culture
+ −25% 文化 接纳度 增长 - 不同 文化和Populist 派系是更少见
+- +300% 威望 费用来自皈依 to 本地 文化 决定
+- AI rulers是更不可能 to convert culture
+- −25% 文化 接纳度 增长
 | −30% 恐惧值 Decay
- +0.3 Monthly 恐惧值 per 暴政
- +25% Siege Progress against Revolts - −30% 恐惧值 Decay
-- +0.3 Monthly 恐惧值 per 暴政
-- +25% Siege Progress against Revolts
-| Any councilor with a different culture, excluding spouse | 礼仪
-Spiritual - Ceremonious
+ +0.3 每月 恐惧值每暴政
+ +25% 围城进度对抗Revolts - −30% 恐惧值 Decay
+- +0.3 每月 恐惧值每暴政
+- +25% 围城进度对抗Revolts
+| Any councilor与一个different culture, excluding spouse | 礼仪
+灵性 - 礼仪
 - 灵性
 | **国家赎金
 
-Every soldier goes into battle ready to risk life and limb for their liege! Does it not behoove the liege to offer them some guarantee of safety, regardless of station, should they be captured in the field?** | Every soldier goes into battle ready to risk life and limb for their liege! Does it not behoove the liege to offer them some guarantee of safety, regardless of station, should they be captured in the field? | 骑士 in Battle die less often but are captured more often
- 角色s with a 领主 of this 文化 are more likely to be captured in Sieges
- +50% ransom for barons, counts, dukes - 骑士 in Battle die less often but are captured more often
-- 角色s with a 领主 of this 文化 are more likely to be captured in Sieges
-- +50% ransom for barons, counts, dukes
-| −25% Monthly income while at war
- −50% 友军死亡人数 - −25% Monthly income while at war
+Every soldier goes到battle ready to risk life和limb对于其 liege! Does it不behooveliege to offer them一些guarantee的safety, regardless的station, should他们be captured在field?** | Every soldier goes到battle ready to risk life和limb对于其 liege! Does it不behooveliege to offer them一些guarantee的safety, regardless的station, should他们be captured在field? | 骑士的Battle die less often but是captured更多often
+ 角色与一个领主此文化是更可能 to be captured的Sieges
+ +50% ransom对于barons, counts, dukes - 骑士的Battle die less often but是captured更多often
+- 角色与一个领主此文化是更可能 to be captured的Sieges
+- +50% ransom对于barons, counts, dukes
+| −25% 每月 income while at war
+ −50% 友军死亡人数 - −25% 每月 income while at war
 - −50% 友军死亡人数
 | +10% 征召兵规模 - +10% 征召兵规模
-| 伊比利亚的命运DLC | Iberian Heritage or Cultural Head speaks  Iberian Vulgar | 好战
-Communal - Bellicose
+| 伊比利亚的命运DLC | 伊比利亚 遗产或文化 首领 speaks  伊比利亚 Vulgar | 好战
+集体 - 好战
 - 集体
 | **坚定传统主义者
 
-传统 is tradition, it is immovable and unchangeable. We must be ready and willing to stand up for what makes us who we are.** | 传统 is tradition, it is immovable and unchangeable. We must be ready and willing to stand up for what makes us who we are. | 儿童更可能获得 Stubborn trait
- +300% Convert to Local 文化 Decision Cost
+传统是tradition, it是immovable和unchangeable. We must be ready和willing to stand up对于what makes us who we are.** | 传统是tradition, it是immovable和unchangeable. We must be ready和willing to stand up对于what makes us who we are. | 儿童更可能获得 固执特质
+ +300% 皈依 to 本地 文化 决定 费用
  +100% cultural acceptance cost to hybridize
- Convert to Local 文化 causes 60  stress
- Will cause 40  stress if they have one of these traits:
- Compassionate,  Diligent,  Fickle,  Gregarious,  Humble,  Trusting - 儿童更可能获得 Stubborn trait
-- +300% Convert to Local 文化 Decision Cost
+ 皈依 to 本地 文化 causes 60  stress
+ 将 cause 40  stress if they拥有one的these特质:
+ 仁慈,  勤勉,  善变,  合群,  谦逊,  信任 - 儿童更可能获得 固执特质
+- +300% 皈依 to 本地 文化 决定 费用
 - +100% cultural acceptance cost to hybridize
-- Convert to Local 文化 causes 60  stress
- Will cause 40  stress if they have one of these traits:
- Compassionate,  Diligent,  Fickle,  Gregarious,  Humble,  Trusting
-- Will cause 40  stress if they have one of these traits:
- Compassionate,  Diligent,  Fickle,  Gregarious,  Humble,  Trusting
-- Compassionate,  Diligent,  Fickle,  Gregarious,  Humble,  Trusting
-| +5 控制led Territory Defender 优势
- +0.30 每月控制
- −5% 文化瞩目进度 - +5 控制led Territory Defender 优势
-- +0.30 每月控制
+- 皈依 to 本地 文化 causes 60  stress
+ 将 cause 40  stress if they拥有one的these特质:
+ 仁慈,  勤勉,  善变,  合群,  谦逊,  信任
+- 将 cause 40  stress if they拥有one的these特质:
+ 仁慈,  勤勉,  善变,  合群,  谦逊,  信任
+- 仁慈,  勤勉,  善变,  合群,  谦逊,  信任
+| +5 控制领土防御优势
+ +0.30 每月 控制
+ −5% 文化瞩目进度 - +5 控制领土防御优势
+- +0.30 每月 控制
 - −5% 文化瞩目进度
-| 御前宫廷DLC
+| 御前宫廷 DLC
 
- Fierce Independence 传统 - 御前宫廷DLC
+ Fierce Independence 传统 - 御前宫廷 DLC
 - Fierce Independence 传统
-| Entire realm shares the same culture | 集体
+| Entire realm shares相同 culture | 集体
 灵性
-Stoic - Communal
+坚毅 - 集体
 - 灵性
 - 坚毅
 | **部落团结
 
-This culture emphasizes the familial and communal bonds its people share, pushing them to remember their shared 遗产.** | This culture emphasizes the familial and communal bonds its people share, pushing them to remember their shared 遗产. | Family Hierarch 有额外加成:
+这种文化强调人民之间的家庭和社区纽带，推动他们铭记共同的遗产。** | 这种文化强调人民之间的家庭和社区纽带，推动他们铭记共同的遗产。 | 家族 Hierarch 有额外加成:
  +10% 征召兵
  +1 每月威望
- +30% 个人阴谋成功几率 with House Members
- +75 威望 for granting a 伯爵领 to a House Member
- +150 威望 for granting a 公爵领 to a House Member
- +350 威望 for granting a 王国 to a House Member
- +750 威望 for granting an 帝国 to a House Member
- −150 威望 for revoking a 伯爵领 from a House Member
- −350 威望 for revoking a 公爵领 from a House Member
- −750 威望 for revoking a 王国 from a House Member
- The Loyal 特质 is more valued
+ +30% 个人阴谋成功几率与家族 成员
+ +75 威望 for授予a 伯爵领到一个家族 成员
+ +150 威望 for授予a 公爵领到一个家族 成员
+ +350 威望 for授予a 王国到一个家族 成员
+ +750 威望 for授予an 帝国到一个家族 成员
+ −150 威望 for撤销a 伯爵领来自一个家族 成员
+ −350 威望 for撤销a 公爵领来自一个家族 成员
+ −750 威望 for撤销a 王国来自一个家族 成员
+忠诚 特质是更 valued
  +0.10 每月威望
  +5 同文化好感度
- The tribal hold 有额外加成 when stationed - Family Hierarch 有额外加成:
+tribal hold 有额外加成当驻扎的 - 家族 Hierarch 有额外加成:
  +10% 征召兵
  +1 每月威望
 - +10% 征召兵
 - +1 每月威望
-- +30% 个人阴谋成功几率 with House Members
-- +75 威望 for granting a 伯爵领 to a House Member
-- +150 威望 for granting a 公爵领 to a House Member
-- +350 威望 for granting a 王国 to a House Member
-- +750 威望 for granting an 帝国 to a House Member
-- −150 威望 for revoking a 伯爵领 from a House Member
-- −350 威望 for revoking a 公爵领 from a House Member
-- −750 威望 for revoking a 王国 from a House Member
-- The Loyal 特质 is more valued
+- +30% 个人阴谋成功几率与家族 成员
+- +75 威望 for授予a 伯爵领到一个家族 成员
+- +150 威望 for授予a 公爵领到一个家族 成员
+- +350 威望 for授予a 王国到一个家族 成员
+- +750 威望 for授予an 帝国到一个家族 成员
+- −150 威望 for撤销a 伯爵领来自一个家族 成员
+- −350 威望 for撤销a 公爵领来自一个家族 成员
+- −750 威望 for撤销a 王国来自一个家族 成员
+-忠诚 特质是更 valued
  +0.10 每月威望
  +5 同文化好感度
 - +0.10 每月威望
 - +5 同文化好感度
-- The tribal hold 有额外加成 when stationed
+-tribal hold 有额外加成当驻扎的
 | −5 领主好感度
  +10 家族好感度 - −5 领主好感度
 - +10 家族好感度
-| 部落 or 氏族 government
+| 部落或氏族 government
 
- Gaelic 文化或后裔
- Scottish 文化或后裔 - 部落 or 氏族 government
-- Gaelic 文化或后裔
+ 盖尔 文化或后裔
+ Scottish 文化或后裔 - 部落或氏族 government
+- 盖尔 文化或后裔
 - Scottish 文化或后裔
-| At least 3 House Members are a friend | 集体
+| At least 3 家族 成员s是一个friend | 集体
 灵性
-Stoic - Communal
+坚毅 - 集体
 - 灵性
 - 坚毅
 | **湿地居民
 
-This culture has mastered the bogs and marshes. Though life is at times a battle against mold, they have learned to use the peat to their advantage.** | This culture has mastered the bogs and marshes. Though life is at times a battle against mold, they have learned to use the peat to their advantage. | Wetland Farms 有额外加成 in 此文化的伯爵领:
- −1% 建筑建造费用 per Wetland Farms level
- −2% 建筑建造时间 per Wetland Farms level
- Increased Hunt Success Chance in 湿地 and 冲积平原 - Wetland Farms 有额外加成 in 此文化的伯爵领:
- −1% 建筑建造费用 per Wetland Farms level
- −2% 建筑建造时间 per Wetland Farms level
-- −1% 建筑建造费用 per Wetland Farms level
-- −2% 建筑建造时间 per Wetland Farms level
-- Increased Hunt Success Chance in 湿地 and 冲积平原
+这种文化已经精通沼泽和湿地。尽管生活有时是与霉菌的战斗，但他们已经学会利用泥炭为己所用。** | 这种文化已经精通沼泽和湿地。尽管生活有时是与霉菌的战斗，但他们已经学会利用泥炭为己所用。 | 湿地农场 有额外加成的此文化的伯爵领:
+ −1% 建筑建造费用每湿地农场等级
+ −2% 建筑建造时间每湿地农场等级
+ 增加 狩猎 成功几率的湿地和冲积平原 - 湿地农场 有额外加成的此文化的伯爵领:
+ −1% 建筑建造费用每湿地农场等级
+ −2% 建筑建造时间每湿地农场等级
+- −1% 建筑建造费用每湿地农场等级
+- −2% 建筑建造时间每湿地农场等级
+- 增加 狩猎 成功几率的湿地和冲积平原
 | +10 湿地 优势
  −65 湿地
  −35 冲积平原 - +10 湿地 优势
 - −65 湿地
 - −35 冲积平原
-| +25% 发展度增长 in 湿地 | −15% 地产和建筑建造费用 in 湿地
- +25% 补给上限 in 湿地
- +10% 征召兵规模 in 湿地 - −15% 地产和建筑建造费用 in 湿地
-- +25% 补给上限 in 湿地
-- +10% 征召兵规模 in 湿地
+| +25% 发展度增长的湿地 | −15% 地产和建筑 建造费用的湿地
+ +25% 补给上限的湿地
+ +10% 征召兵规模的湿地 - −15% 地产和建筑 建造费用的湿地
+- +25% 补给上限的湿地
+- +10% 征召兵规模的湿地
 | 文化存在于拥有以下地形的伯爵领中：:
- 湿地
+ 湿地
 
-  游牧 - 文化存在于拥有以下地形的伯爵领中：:
- 湿地
+  游牧 - 文化存在于拥有以下地形的伯爵领中：:
+ 湿地
 - 湿地
 - 游牧
-| 文化至少存在于 3 counties with 湿地 | 官僚
+| 文化至少存在于 3 伯爵领与湿地 | 官僚
 集体
 礼仪
 平等
 灵性
-Stoic - Bureaucratic
+坚毅 - 官僚
 - 集体
 - 礼仪
 - 平等
 - 灵性
 - 坚毅
 
-## 战争传统（Warfare traditions）
+## 战争传统（Warfare Traditions）
 
-| **传统** | **效果** | **必要条件** | **可选条件** | **偏好文化精神** | **General** | **角色s** | **地产s** | **适应性散兵
+| **传统** | **效果** | **必要条件** | **可选条件** | **偏好文化精神** | **通用** | **角色** | **地产** | **适应性散兵
 
-这种文化知道如何在任何环境中有效部署散兵。** | 这种文化知道如何在任何环境中有效部署散兵。 | The Militia Camps 建筑线 可以提前一个时代建造
- +40% 伤害 for stationed Skirmishers for Nomads[1]
- +40% 伤害 for stationed Archers for Nomads
- +40% 韧性 for stationed Archers for Nomads - The Militia Camps 建筑线 可以提前一个时代建造
-- +40% 伤害 for stationed Skirmishers for Nomads[1]
-- +40% 伤害 for stationed Archers for Nomads
-- +40% 韧性 for stationed Archers for Nomads
-| −25% Enemy Defensive 优势
- +15% Archer 伤害
- +15% Archer 韧性
- −5% Archer 维护费
- +15% Skirmisher 伤害
- +20% Skirmisher 韧性
- −5% Skirmisher 维护费 - −25% Enemy Defensive 优势
-- +15% Archer 伤害
-- +15% Archer 韧性
-- −5% Archer 维护费
-- +15% Skirmisher 伤害
-- +20% Skirmisher 韧性
-- −5% Skirmisher 维护费
+这种文化深知如何在任何环境中有效地部署散兵。** | 这种文化深知如何在任何环境中有效地部署散兵。 |民兵营地 建筑线 可以提前一个时代建造
+ +40% 伤害对于驻扎的 散兵对于游牧民[1]
+ +40% 伤害对于驻扎的 弓箭手对于游牧民
+ +40% 韧性对于驻扎的 弓箭手对于游牧民 -民兵营地 建筑线 可以提前一个时代建造
+- +40% 伤害对于驻扎的 散兵对于游牧民[1]
+- +40% 伤害对于驻扎的 弓箭手对于游牧民
+- +40% 韧性对于驻扎的 弓箭手对于游牧民
+| −25% Enemy 防御性 优势
+ +15% 弓箭手 伤害
+ +15% 弓箭手 韧性
+ −5% 弓箭手 维护费
+ +15% 散兵 伤害
+ +20% 散兵 韧性
+ −5% 散兵 维护费 - −25% Enemy 防御性 优势
+- +15% 弓箭手 伤害
+- +15% 弓箭手 韧性
+- −5% 弓箭手 维护费
+- +15% 散兵 伤害
+- +20% 散兵 韧性
+- −5% 散兵 维护费
 | Both:
- 500 Archers
- 500 Skirmishers - Both:
- 500 Archers
- 500 Skirmishers
-- 500 Archers
-- 500 Skirmishers
+ 500 弓箭手
+ 500 散兵 - Both:
+ 500 弓箭手
+ 500 散兵
+- 500 弓箭手
+- 500 散兵
 | 好战
 灵性
-Stoic - Bellicose
+坚毅 - 好战
 - 灵性
 - 坚毅
 | **战场掠夺者
 
-在这种文化中，战斗不是为了威望，而是为了利润。如果你无力支付战争费用，谁还在乎自己的地位？** | 在这种文化中，战斗不是为了威望，而是为了利润。如果你无力支付战争费用，谁还在乎自己的地位？ | +1 金币 per 100 死亡人数
- -75% 威望 and Fame from battles - +1 金币 per 100 死亡人数
-- -75% 威望 and Fame from battles
-| +75% 军队掠夺容量 | 文化 has  3 counts or above rulers with the Reaver trait | 好战
-Bureaucratic - Bellicose
+在这种文化中，战斗不是为了声望而战，而是为了利益。如果你付不起战争的费用，谁在乎你的地位呢？** | 在这种文化中，战斗不是为了声望而战，而是为了利益。如果你付不起战争的费用，谁在乎你的地位呢？ | +1 金币每100 死亡人数
+ -75% 威望和声名来自battles - +1 金币每100 死亡人数
+- -75% 威望和声名来自battles
+| +75% 军队掠夺容量 | 文化拥有 3 counts或above rulers与掠夺者特质 | 好战
+官僚 - 好战
 - 官僚
 | **沿海战士
 
-我们一直被海岸线所吸引。海风的刺激、海鸥的啼叫、熏鱼的气味……什么战士会选择远离水域和它的自由？** | 我们一直被海岸线所吸引。海风的刺激、海鸥的啼叫、熏鱼的气味……什么战士会选择远离水域和它的自由？ | 可以招募 Bondi 常备军
+我们一直被海岸线所吸引。海风的刺激、海鸥的鸣叫、熏鱼的气味……哪个战士会选择远离水域和它所带来的自由？** | 我们一直被海岸线所吸引。海风的刺激、海鸥的鸣叫、熏鱼的气味……哪个战士会选择远离水域和它所带来的自由？ | 可以招募 Bondi 常备军
  可以招募 Vigmen 常备军
- 可以招募 Varangian Veterans 常备军
+ 可以招募 瓦良格 Veterans 常备军
  可以招募 Huscarls 常备军
  某些特质给予 威望:
- Hale +0.25 每月威望
+ 健壮的 +0.25 每月威望
  Robust +0.5 每月威望
  Giant +0.5 每月威望
  Herculean +1 每月威望
- Strong +1 每月威望
- +1% Chance to be born with the Strong trait for each 5 勇武
- +15%/+20%/+25%/... 常备军 韧性 for stationed 常备军 随之缩放 Tradeport level
- The Tradeport 建筑线 可以在以下地形建造： 沿海 部落 地产s
- Allows the Become Adventurer decision
- AI characters are much more likely to become Adventurers - 可以招募 Bondi 常备军
+ 强 +1 每月威望
+ +1% 几率 to be born与强特质对于each 5 勇武
+ +15%/+20%/+25%/... 常备军韧性对于驻扎的 常备军 随之缩放 贸易港等级
+贸易港 建筑线 可以在以下地形建造： 沿海 部落 地产
+ AllowsBecome 冒险者 decision
+ AI characters是更 更可能 to become 冒险者 - 可以招募 Bondi 常备军
 - 可以招募 Vigmen 常备军
-- 可以招募 Varangian Veterans 常备军
+- 可以招募 瓦良格 Veterans 常备军
 - 可以招募 Huscarls 常备军
 - 某些特质给予 威望:
- Hale +0.25 每月威望
+ 健壮的 +0.25 每月威望
  Robust +0.5 每月威望
  Giant +0.5 每月威望
  Herculean +1 每月威望
- Strong +1 每月威望
-- Hale +0.25 每月威望
+ 强 +1 每月威望
+- 健壮的 +0.25 每月威望
 - Robust +0.5 每月威望
 - Giant +0.5 每月威望
 - Herculean +1 每月威望
-- Strong +1 每月威望
-- +1% Chance to be born with the Strong trait for each 5 勇武
-- +15%/+20%/+25%/... 常备军 韧性 for stationed 常备军 随之缩放 Tradeport level
-- The Tradeport 建筑线 可以在以下地形建造： 沿海 部落 地产s
-- Allows the Become Adventurer decision
-- AI characters are much more likely to become Adventurers
-| -45 Sea 危险度
- -45 海岸 Sea 危险度
- -10% 森林 Provisions Use
- -10% 针叶林 Provisions Use - -45 Sea 危险度
-- -45 海岸 Sea 危险度
-- -10% 森林 Provisions Use
-- -10% 针叶林 Provisions Use
-| 北方领主DLC
+- 强 +1 每月威望
+- +1% 几率 to be born与强特质对于each 5 勇武
+- +15%/+20%/+25%/... 常备军韧性对于驻扎的 常备军 随之缩放 贸易港等级
+-贸易港 建筑线 可以在以下地形建造： 沿海 部落 地产
+- AllowsBecome 冒险者 decision
+- AI characters是更 更可能 to become 冒险者
+| -45 海 危险度
+ -45 海岸 海 危险度
+ -10% 森林 给养 Use
+ -10% 针叶林 给养 Use - -45 海 危险度
+- -45 海岸 海 危险度
+- -10% 森林 给养 Use
+- -10% 针叶林 给养 Use
+| 北方的 领主 DLC
  Both:
- North Germanic 遗产
- 文化 is present in a 沿海 county
+ 北日耳曼 遗产
+ 文化存在在一个沿海 county
 
  尚武文化传统
  航海者传统
  Hird tradition
  海上生活方式传统
-  游牧 - 北方领主DLC
+  游牧 - 北方的 领主 DLC
 - Both:
- North Germanic 遗产
- 文化 is present in a 沿海 county
-- North Germanic 遗产
-- 文化 is present in a 沿海 county
+ 北日耳曼 遗产
+ 文化存在在一个沿海 county
+- 北日耳曼 遗产
+- 文化存在在一个沿海 county
 - 尚武文化传统
 - 航海者传统
 - Hird tradition
@@ -1598,971 +1598,971 @@ Bureaucratic - Bellicose
 - 游牧
 | 30% 的文化存在于沿海伯爵领中 | 好战 | **森林 Fighters
 
-This culture is well-versed at fighting in forests.** | This culture is well-versed at fighting in forests. | 森林 Fighter trait 更常见. [2]
- Some 特质s 有额外加成 in 森林 and 针叶林:
- Deceitful +2 优势
- Hunter +1 优势
- Hunter +1 优势 per Venator track level
- Rough Terrain Expert +1 优势
- Rough Terrain Expert +1 优势 每等级
- Wrathful +2 Maximum Battle Roll
- Fickle +2 Maximum Battle Roll
- Impatient +1 Maximum Battle Roll
- Aggressive Attacker +1 Maximum Battle Roll
- Aggressive Attacker +1 Maximum Battle Roll per tier
- Reckless +1 Maximum Battle Roll
- Reckless +1 Maximum Battle Roll per tier
- Patient +2 Minimum Battle Roll
- Paranoid +2 Minimum Battle Roll
- Calm +1 Minimum Battle Roll
- Cautious Leader +1 Minimum Battle Roll
- Cautious Leader +1 Minimum Battle Roll per tier
- Unyielding Defender +1 Minimum Battle Roll
- Unyielding Defender +1 Minimum Battle Roll per tier
- Herbalist −50% Attrition Taken
- Logistician −10% Attrition Taken
- Logistician −10% Attrition Taken per tier
- +40% 伤害 for 常备军 stationed in 森林 or 针叶林 for Nomads
- +40% 韧性 for 常备军 stationed in 森林 or 针叶林 for Nomads - 森林 Fighter trait 更常见. [2]
-- Some 特质s 有额外加成 in 森林 and 针叶林:
- Deceitful +2 优势
- Hunter +1 优势
- Hunter +1 优势 per Venator track level
- Rough Terrain Expert +1 优势
- Rough Terrain Expert +1 优势 每等级
- Wrathful +2 Maximum Battle Roll
- Fickle +2 Maximum Battle Roll
- Impatient +1 Maximum Battle Roll
- Aggressive Attacker +1 Maximum Battle Roll
- Aggressive Attacker +1 Maximum Battle Roll per tier
- Reckless +1 Maximum Battle Roll
- Reckless +1 Maximum Battle Roll per tier
- Patient +2 Minimum Battle Roll
- Paranoid +2 Minimum Battle Roll
- Calm +1 Minimum Battle Roll
- Cautious Leader +1 Minimum Battle Roll
- Cautious Leader +1 Minimum Battle Roll per tier
- Unyielding Defender +1 Minimum Battle Roll
- Unyielding Defender +1 Minimum Battle Roll per tier
- Herbalist −50% Attrition Taken
- Logistician −10% Attrition Taken
- Logistician −10% Attrition Taken per tier
-- Deceitful +2 优势
-- Hunter +1 优势
-- Hunter +1 优势 per Venator track level
-- Rough Terrain Expert +1 优势
-- Rough Terrain Expert +1 优势 每等级
-- Wrathful +2 Maximum Battle Roll
-- Fickle +2 Maximum Battle Roll
-- Impatient +1 Maximum Battle Roll
-- Aggressive Attacker +1 Maximum Battle Roll
-- Aggressive Attacker +1 Maximum Battle Roll per tier
-- Reckless +1 Maximum Battle Roll
-- Reckless +1 Maximum Battle Roll per tier
-- Patient +2 Minimum Battle Roll
-- Paranoid +2 Minimum Battle Roll
-- Calm +1 Minimum Battle Roll
-- Cautious Leader +1 Minimum Battle Roll
-- Cautious Leader +1 Minimum Battle Roll per tier
-- Unyielding Defender +1 Minimum Battle Roll
-- Unyielding Defender +1 Minimum Battle Roll per tier
-- Herbalist −50% Attrition Taken
-- Logistician −10% Attrition Taken
-- Logistician −10% Attrition Taken per tier
-- +40% 伤害 for 常备军 stationed in 森林 or 针叶林 for Nomads
-- +40% 韧性 for 常备军 stationed in 森林 or 针叶林 for Nomads
+这种文化well-versed at fighting的forests.** | 这种文化well-versed at fighting的forests. | 森林 Fighter特质 更常见. [2]
+ Some 特质 有额外加成的森林和针叶林:
+ 欺诈 +2 优势
+ 猎人 +1 优势
+ 猎人 +1 优势每Venator track等级
+ 崎岖地形 专精 +1 优势
+ 崎岖地形 专精 +1 优势 每等级
+ 暴怒 +2 最大 战斗骰
+ 善变 +2 最大 战斗骰
+ 急躁 +1 最大 战斗骰
+ 进攻性进攻方 +1 最大 战斗骰
+ 进攻性进攻方 +1 最大 战斗骰 每阶
+ 鲁莽 +1 最大 战斗骰
+ 鲁莽 +1 最大 战斗骰 每阶
+ 耐心 +2 最小 战斗骰
+ 多疑 +2 最小 战斗骰
+ 冷静 +1 最小 战斗骰
+ 谨慎 领导者 +1 最小 战斗骰
+ 谨慎 领导者 +1 最小 战斗骰 每阶
+ 不屈防御方 +1 最小 战斗骰
+ 不屈防御方 +1 最小 战斗骰 每阶
+ 草药师 −50% 损耗 受到的
+ 后勤家 −10% 损耗 受到的
+ 后勤家 −10% 损耗 受到的 每阶
+ +40% 伤害对于常备军 驻扎的的森林或针叶林对于游牧民
+ +40% 韧性对于常备军 驻扎的的森林或针叶林对于游牧民 - 森林 Fighter特质 更常见. [2]
+- Some 特质 有额外加成的森林和针叶林:
+ 欺诈 +2 优势
+ 猎人 +1 优势
+ 猎人 +1 优势每Venator track等级
+ 崎岖地形 专精 +1 优势
+ 崎岖地形 专精 +1 优势 每等级
+ 暴怒 +2 最大 战斗骰
+ 善变 +2 最大 战斗骰
+ 急躁 +1 最大 战斗骰
+ 进攻性进攻方 +1 最大 战斗骰
+ 进攻性进攻方 +1 最大 战斗骰 每阶
+ 鲁莽 +1 最大 战斗骰
+ 鲁莽 +1 最大 战斗骰 每阶
+ 耐心 +2 最小 战斗骰
+ 多疑 +2 最小 战斗骰
+ 冷静 +1 最小 战斗骰
+ 谨慎 领导者 +1 最小 战斗骰
+ 谨慎 领导者 +1 最小 战斗骰 每阶
+ 不屈防御方 +1 最小 战斗骰
+ 不屈防御方 +1 最小 战斗骰 每阶
+ 草药师 −50% 损耗 受到的
+ 后勤家 −10% 损耗 受到的
+ 后勤家 −10% 损耗 受到的 每阶
+- 欺诈 +2 优势
+- 猎人 +1 优势
+- 猎人 +1 优势每Venator track等级
+- 崎岖地形 专精 +1 优势
+- 崎岖地形 专精 +1 优势 每等级
+- 暴怒 +2 最大 战斗骰
+- 善变 +2 最大 战斗骰
+- 急躁 +1 最大 战斗骰
+- 进攻性进攻方 +1 最大 战斗骰
+- 进攻性进攻方 +1 最大 战斗骰 每阶
+- 鲁莽 +1 最大 战斗骰
+- 鲁莽 +1 最大 战斗骰 每阶
+- 耐心 +2 最小 战斗骰
+- 多疑 +2 最小 战斗骰
+- 冷静 +1 最小 战斗骰
+- 谨慎 领导者 +1 最小 战斗骰
+- 谨慎 领导者 +1 最小 战斗骰 每阶
+- 不屈防御方 +1 最小 战斗骰
+- 不屈防御方 +1 最小 战斗骰 每阶
+- 草药师 −50% 损耗 受到的
+- 后勤家 −10% 损耗 受到的
+- 后勤家 −10% 损耗 受到的 每阶
+- +40% 伤害对于常备军 驻扎的的森林或针叶林对于游牧民
+- +40% 韧性对于常备军 驻扎的的森林或针叶林对于游牧民
 | −13 森林 危险度
  −19 针叶林 危险度 - −13 森林 危险度
 - −19 针叶林 危险度
-| +25% 补给上限 in 森林
- +10% 征召兵规模 in 森林
- +25% 补给上限 in 针叶林
- +10% 征召兵规模 in 针叶林 - +25% 补给上限 in 森林
-- +10% 征召兵规模 in 森林
-- +25% 补给上限 in 针叶林
-- +10% 征召兵规模 in 针叶林
-| 文化存在于拥有以下地形的伯爵领中： either:
- 森林
- 针叶林
+| +25% 补给上限的森林
+ +10% 征召兵规模的森林
+ +25% 补给上限的针叶林
+ +10% 征召兵规模的针叶林 - +25% 补给上限的森林
+- +10% 征召兵规模的森林
+- +25% 补给上限的针叶林
+- +10% 征召兵规模的针叶林
+| 文化存在于拥有以下地形的伯爵领中： 以下之一：
+ 森林
+ 针叶林
 
- 和平主义者传统 - 文化存在于拥有以下地形的伯爵领中： either:
- 森林
- 针叶林
+ 和平主义者传统 - 文化存在于拥有以下地形的伯爵领中： 以下之一：
+ 森林
+ 针叶林
 - 森林
 - 针叶林
 - 和平主义者传统
-| 30% 的文化存在于拥有以下地形的伯爵领中： either:
- 森林
- 针叶林 - 30% 的文化存在于拥有以下地形的伯爵领中： either:
- 森林
- 针叶林
+| 30% 的文化存在于拥有以下地形的伯爵领中： 以下之一：
+ 森林
+ 针叶林 - 30% 的文化存在于拥有以下地形的伯爵领中： 以下之一：
+ 森林
+ 针叶林
 - 森林
 - 针叶林
 | 好战
 集体
-Stoic - Bellicose
+坚毅 - 好战
 - 集体
 - 坚毅
 | **阵型战斗专家
 
-This culture knows how to create synergy between different types of units by use of efficient protective formations.** | This culture knows how to create synergy between different types of units by use of efficient protective formations. | The Barracks 建筑线 可以提前一个时代建造
- Strategist trait 有额外加成:
- +4 Maximum Battle Roll
- −20% Enemy Defensive 优势 - The Barracks 建筑线 可以提前一个时代建造
-- Strategist trait 有额外加成:
- +4 Maximum Battle Roll
- −20% Enemy Defensive 优势
-- +4 Maximum Battle Roll
-- −20% Enemy Defensive 优势
-| −15% 追击 Efficiency
- +15% 常备军反制效率
- +15% Spearmen 伤害
- +20% Spearmen 韧性
- +10% Archer 伤害
- +15% Archer 韧性
- +5% 游牧 Horde 伤害
- +5% 游牧 Horde 韧性 - −15% 追击 Efficiency
-- +15% 常备军反制效率
-- +15% Spearmen 伤害
-- +20% Spearmen 韧性
-- +10% Archer 伤害
-- +15% Archer 韧性
-- +5% 游牧 Horde 伤害
-- +5% 游牧 Horde 韧性
+这种文化深知如何通过有效的防御阵型在不同类型的部队之间创造协同效应。** | 这种文化深知如何通过有效的防御阵型在不同类型的部队之间创造协同效应。 |兵营 建筑线 可以提前一个时代建造
+ Strategist特质 有额外加成:
+ +4 最大 战斗骰
+ −20% Enemy 防御性 优势 -兵营 建筑线 可以提前一个时代建造
+- Strategist特质 有额外加成:
+ +4 最大 战斗骰
+ −20% Enemy 防御性 优势
+- +4 最大 战斗骰
+- −20% Enemy 防御性 优势
+| −15% 追击 效率
+ +15% 常备军克制效率
+ +15% 枪兵 伤害
+ +20% 枪兵 韧性
+ +10% 弓箭手 伤害
+ +15% 弓箭手 韧性
+ +5% 游牧 部落 伤害
+ +5% 游牧 部落 韧性 - −15% 追击 效率
+- +15% 常备军克制效率
+- +15% 枪兵 伤害
+- +20% 枪兵 韧性
+- +10% 弓箭手 伤害
+- +15% 弓箭手 韧性
+- +5% 游牧 部落 伤害
+- +5% 游牧 部落 韧性
 | Both:
- 500 Archers
- 500 Spearmen - Both:
- 500 Archers
- 500 Spearmen
-- 500 Archers
-- 500 Spearmen
+ 500 弓箭手
+ 500 枪兵 - Both:
+ 500 弓箭手
+ 500 枪兵
+- 500 弓箭手
+- 500 枪兵
 | 好战
 礼仪
-Communal - Bellicose
+集体 - 好战
 - 礼仪
 - 集体
 | **节俭铸甲师
 
-While a set of high-quality armor might save one life, having ten decent sets might win a battle.** | While a set of high-quality armor might save one life, having ten decent sets might win a battle. | The Invite 骑士 Decision has a cooldown of 2 years
- The Invite 骑士 Decision invites 2 more knights
- −50% Invite 骑士 Decision prestige cost
- −50% Recruit to Court Interaction gold cost - The Invite 骑士 Decision has a cooldown of 2 years
-- The Invite 骑士 Decision invites 2 more knights
-- −50% Invite 骑士 Decision prestige cost
-- −50% Recruit to Court Interaction gold cost
-| −25% 常备军 招募费用
- −25% Army 金币 维护费
+虽然一套高品质的盔甲可能拯救一条生命，但拥有十套像样的盔甲可能赢得一场战斗。** | 虽然一套高品质的盔甲可能拯救一条生命，但拥有十套像样的盔甲可能赢得一场战斗。 |邀请 骑士 决定拥有一个cooldown的2 years
+邀请 骑士 决定 invites 2更多knights
+ −50% 邀请 骑士 决定 prestige cost
+ −50% 招募 to 宫廷 互动 gold cost -邀请 骑士 决定拥有一个cooldown的2 years
+-邀请 骑士 决定 invites 2更多knights
+- −50% 邀请 骑士 决定 prestige cost
+- −50% 招募 to 宫廷 互动 gold cost
+| −25% 常备军招募费用
+ −25% 军队 金币 维护费
  −2 征召兵 韧性
-  +5 骑士数量
- −40% 骑士效率
- +3 Max number of of 常备军 军团
+  +5 Number的骑士
+ −40% 骑士效用
+ +3 Max number的of 常备军 军团
  +10% 征召兵规模
- −25% Heavy Infantry 韧性
- −15% Spearmen 韧性
- −30% Heavy Cavalry 韧性 - −25% 常备军 招募费用
-- −25% Army 金币 维护费
+ −25% 重步兵 韧性
+ −15% 枪兵 韧性
+ −30% 重骑兵 韧性 - −25% 常备军招募费用
+- −25% 军队 金币 维护费
 - −2 征召兵 韧性
-- +5 骑士数量
-- −40% 骑士效率
-- +3 Max number of of 常备军 军团
+- +5 Number的骑士
+- −40% 骑士效用
+- +3 Max number的of 常备军 军团
 - +10% 征召兵规模
-- −25% Heavy Infantry 韧性
-- −15% Spearmen 韧性
-- −30% Heavy Cavalry 韧性
+- −25% 重步兵 韧性
+- −15% 枪兵 韧性
+- −30% 重骑兵 韧性
 | Both:
- 500 Archers
- 500 Skirmishers - Both:
- 500 Archers
- 500 Skirmishers
-- 500 Archers
-- 500 Skirmishers
+ 500 弓箭手
+ 500 散兵 - Both:
+ 500 弓箭手
+ 500 散兵
+- 500 弓箭手
+- 500 散兵
 | 好战
 集体
-Stoic - Bellicose
+坚毅 - 好战
 - 集体
 - 坚毅
 | **高地战士
 
-Warriors of this culture fight well in the slopes and valleys of their hilly homes.** | Warriors of this culture fight well in the slopes and valleys of their hilly homes. | Rough Terrain Expert trait 更常见. [2]
- 解锁 Recruit Hill Specialist decision
- Some 特质s have bonuses in 丘陵:
- Brave +4 优势
- Content +2 优势
- Vengeful +5 Maximum Combat Roll
- Aggressive Attacker +1 Maximum Battle Roll
- Aggressive Attacker +1 Maximum Battle Roll per tier
- Flexible Leader +1 Maximum Battle Roll
- Flexible Leader +1 Maximum Battle Roll per tier
- Stubborn +5 Minimum Combat Roll
- Paranoid +2 Minimum Combat Roll
- Unyielding Defender +1 Minimum Battle Roll
- Unyielding Defender +1 Minimum Battle Roll per tier
- Rough Terrain Expert +1 Minimum Battle Roll
- Rough Terrain Expert +1 Minimum Battle Roll per tier
- Brave −25% Attrition Taken
- Military Engineer −10% Attrition Taken
- Military Engineer −10% Attrition Taken per tier - Rough Terrain Expert trait 更常见. [2]
-- 解锁 Recruit Hill Specialist decision
-- Some 特质s have bonuses in 丘陵:
- Brave +4 优势
- Content +2 优势
- Vengeful +5 Maximum Combat Roll
- Aggressive Attacker +1 Maximum Battle Roll
- Aggressive Attacker +1 Maximum Battle Roll per tier
- Flexible Leader +1 Maximum Battle Roll
- Flexible Leader +1 Maximum Battle Roll per tier
- Stubborn +5 Minimum Combat Roll
- Paranoid +2 Minimum Combat Roll
- Unyielding Defender +1 Minimum Battle Roll
- Unyielding Defender +1 Minimum Battle Roll per tier
- Rough Terrain Expert +1 Minimum Battle Roll
- Rough Terrain Expert +1 Minimum Battle Roll per tier
- Brave −25% Attrition Taken
- Military Engineer −10% Attrition Taken
- Military Engineer −10% Attrition Taken per tier
-- Brave +4 优势
-- Content +2 优势
-- Vengeful +5 Maximum Combat Roll
-- Aggressive Attacker +1 Maximum Battle Roll
-- Aggressive Attacker +1 Maximum Battle Roll per tier
-- Flexible Leader +1 Maximum Battle Roll
-- Flexible Leader +1 Maximum Battle Roll per tier
-- Stubborn +5 Minimum Combat Roll
-- Paranoid +2 Minimum Combat Roll
-- Unyielding Defender +1 Minimum Battle Roll
-- Unyielding Defender +1 Minimum Battle Roll per tier
-- Rough Terrain Expert +1 Minimum Battle Roll
-- Rough Terrain Expert +1 Minimum Battle Roll per tier
-- Brave −25% Attrition Taken
-- Military Engineer −10% Attrition Taken
-- Military Engineer −10% Attrition Taken per tier
+战士的这种文化fight well在slopes和valleys的其 hilly homes.** | 战士的这种文化fight well在slopes和valleys的其 hilly homes. | 崎岖地形 专精特质 更常见. [2]
+ 解锁 招募 Hill 专精 decision
+ Some 特质拥有bonuses的丘陵:
+ 勇敢 +4 优势
+ 知足 +2 优势
+ 复仇 +5 最大 战斗 骰
+ 进攻性进攻方 +1 最大 战斗骰
+ 进攻性进攻方 +1 最大 战斗骰 每阶
+ 灵活 领导者 +1 最大 战斗骰
+ 灵活 领导者 +1 最大 战斗骰 每阶
+ 固执 +5 最小 战斗 骰
+ 多疑 +2 最小 战斗 骰
+ 不屈防御方 +1 最小 战斗骰
+ 不屈防御方 +1 最小 战斗骰 每阶
+ 崎岖地形 专精 +1 最小 战斗骰
+ 崎岖地形 专精 +1 最小 战斗骰 每阶
+ 勇敢 −25% 损耗 受到的
+ 军事 工程师 −10% 损耗 受到的
+ 军事 工程师 −10% 损耗 受到的 每阶 - 崎岖地形 专精特质 更常见. [2]
+- 解锁 招募 Hill 专精 decision
+- Some 特质拥有bonuses的丘陵:
+ 勇敢 +4 优势
+ 知足 +2 优势
+ 复仇 +5 最大 战斗 骰
+ 进攻性进攻方 +1 最大 战斗骰
+ 进攻性进攻方 +1 最大 战斗骰 每阶
+ 灵活 领导者 +1 最大 战斗骰
+ 灵活 领导者 +1 最大 战斗骰 每阶
+ 固执 +5 最小 战斗 骰
+ 多疑 +2 最小 战斗 骰
+ 不屈防御方 +1 最小 战斗骰
+ 不屈防御方 +1 最小 战斗骰 每阶
+ 崎岖地形 专精 +1 最小 战斗骰
+ 崎岖地形 专精 +1 最小 战斗骰 每阶
+ 勇敢 −25% 损耗 受到的
+ 军事 工程师 −10% 损耗 受到的
+ 军事 工程师 −10% 损耗 受到的 每阶
+- 勇敢 +4 优势
+- 知足 +2 优势
+- 复仇 +5 最大 战斗 骰
+- 进攻性进攻方 +1 最大 战斗骰
+- 进攻性进攻方 +1 最大 战斗骰 每阶
+- 灵活 领导者 +1 最大 战斗骰
+- 灵活 领导者 +1 最大 战斗骰 每阶
+- 固执 +5 最小 战斗 骰
+- 多疑 +2 最小 战斗 骰
+- 不屈防御方 +1 最小 战斗骰
+- 不屈防御方 +1 最小 战斗骰 每阶
+- 崎岖地形 专精 +1 最小 战斗骰
+- 崎岖地形 专精 +1 最小 战斗骰 每阶
+- 勇敢 −25% 损耗 受到的
+- 军事 工程师 −10% 损耗 受到的
+- 军事 工程师 −10% 损耗 受到的 每阶
 | −13 丘陵 危险度 - −13 丘陵 危险度
-| +25% 补给上限 in 丘陵
- +10% 征召兵规模 in 丘陵 - +25% 补给上限 in 丘陵
-- +10% 征召兵规模 in 丘陵
+| +25% 补给上限的丘陵
+ +10% 征召兵规模的丘陵 - +25% 补给上限的丘陵
+- +10% 征召兵规模的丘陵
 | 文化存在于拥有以下地形的伯爵领中：:
- 丘陵
+ 丘陵
 
- Guinean Uplander 遗产
+ 几内亚 Uplander 遗产
  高地散兵战传统
  和平主义者传统 - 文化存在于拥有以下地形的伯爵领中：:
 - 丘陵
-- Guinean Uplander 遗产
+- 几内亚 Uplander 遗产
 - 高地散兵战传统
 - 和平主义者传统
 | 30% 的文化存在于拥有以下地形的伯爵领中： 丘陵 | 好战
 集体
-Stoic - Bellicose
+坚毅 - 好战
 - 集体
 - 坚毅
 | **打了就跑战术家
 
-This culture has mastered the use of lightly-armored units to hit the enemy hard, and then fall back.** | This culture has mastered the use of lightly-armored units to hit the enemy hard, and then fall back. | +40% damage for stationed 常备军 for Nomads | −10% 撤退损失
+这种文化已经精通使用轻装部队重击敌人，然后撤退的战术。** | 这种文化已经精通使用轻装部队重击敌人，然后撤退的战术。 | +40% damage对于驻扎的 常备军对于游牧民 | −10% 撤退损失
  −10% 友军死亡人数
- +20% Light Cavalry 伤害
- +25% Light Cavalry 掩护
- +20% Skirmisher 伤害
- +25% Skirmisher 掩护
- +20% 游牧 Horde 伤害
- +25% 游牧 Horde 掩护 - −10% 撤退损失
+ +20% 轻骑兵 伤害
+ +25% 轻骑兵 掩护
+ +20% 散兵 伤害
+ +25% 散兵 掩护
+ +20% 游牧 部落 伤害
+ +25% 游牧 部落 掩护 - −10% 撤退损失
 - −10% 友军死亡人数
-- +20% Light Cavalry 伤害
-- +25% Light Cavalry 掩护
-- +20% Skirmisher 伤害
-- +25% Skirmisher 掩护
-- +20% 游牧 Horde 伤害
-- +25% 游牧 Horde 掩护
+- +20% 轻骑兵 伤害
+- +25% 轻骑兵 掩护
+- +20% 散兵 伤害
+- +25% 散兵 掩护
+- +20% 游牧 部落 伤害
+- +25% 游牧 部落 掩护
 | Magyar 遗产
- South Slavic 遗产
- West Slavic 遗产
+ 南方 斯拉夫 遗产
+ 西方 斯拉夫 遗产
  科尼突袭传统 - Magyar 遗产
-- South Slavic 遗产
-- West Slavic 遗产
+- 南方 斯拉夫 遗产
+- 西方 斯拉夫 遗产
 - 科尼突袭传统
-| 500 Light Cavalry
- 500 Skirmishers - 500 Light Cavalry
-- 500 Skirmishers
+| 500 轻骑兵
+ 500 散兵 - 500 轻骑兵
+- 500 散兵
 | 好战
 平等
-Spiritual - Bellicose
+灵性 - 好战
 - 平等
 - 灵性
 | **马匹育种者
 
-This culture has painstakingly accumulated knowledge and experience in the fine art and science of horse breeding. Whether destriers or coursers, the horses of these people are renowned for their superiority.** | This culture has painstakingly accumulated knowledge and experience in the fine art and science of horse breeding. Whether destriers or coursers, the horses of these people are renowned for their superiority. | Stables 建筑线 可以提前一个时代建造
-解锁 Finest Horses internal upgrade for 游牧 domicile - Stables 建筑线 可以提前一个时代建造
-- 解锁 Finest Horses internal upgrade for 游牧 domicile
-| +2.0% Herd conversion into 游牧 Horde
- −15% Light Cavalry 维护费
- −25% Light Cavalry 招募费用
- −15% Heavy Cavalry 维护费
- −25% Heavy Cavalry 招募费用
- −15% Archer Cavalry 维护费
- −25% Archer Cavalry 招募费用 - +2.0% Herd conversion into 游牧 Horde
-- −15% Light Cavalry 维护费
-- −25% Light Cavalry 招募费用
-- −15% Heavy Cavalry 维护费
-- −25% Heavy Cavalry 招募费用
-- −15% Archer Cavalry 维护费
-- −25% Archer Cavalry 招募费用
-| One of:
- 文化 has access to unique Light Cavalry 常备军
- 文化 has access to unique Heavy Cavalry 常备军
- 文化 has access to unique Archer Cavalry 常备军
- 游牧 - One of:
- 文化 has access to unique Light Cavalry 常备军
- 文化 has access to unique Heavy Cavalry 常备军
- 文化 has access to unique Archer Cavalry 常备军
- 游牧
-- 文化 has access to unique Light Cavalry 常备军
-- 文化 has access to unique Heavy Cavalry 常备军
-- 文化 has access to unique Archer Cavalry 常备军
+这种文化在马匹繁殖的精妙艺术和科学方面积累了大量的知识和经验。无论是战马还是轻骑马，这些人的马匹都以其优越性而闻名。** | 这种文化在马匹繁殖的精妙艺术和科学方面积累了大量的知识和经验。无论是战马还是轻骑马，这些人的马匹都以其优越性而闻名。 | Stables 建筑线 可以提前一个时代建造
+解锁 Finest Horses internal upgrade对于游牧 domicile - Stables 建筑线 可以提前一个时代建造
+- 解锁 Finest Horses internal upgrade对于游牧 domicile
+| +2.0% 畜群 conversion到游牧 部落
+ −15% 轻骑兵 维护费
+ −25% 轻骑兵 招募费用
+ −15% 重骑兵 维护费
+ −25% 重骑兵 招募费用
+ −15% 弓箭手 骑兵 维护费
+ −25% 弓箭手 骑兵 招募费用 - +2.0% 畜群 conversion到游牧 部落
+- −15% 轻骑兵 维护费
+- −25% 轻骑兵 招募费用
+- −15% 重骑兵 维护费
+- −25% 重骑兵 招募费用
+- −15% 弓箭手 骑兵 维护费
+- −25% 弓箭手 骑兵 招募费用
+| 以下之一：
+ 文化拥有access to unique 轻骑兵 常备军
+ 文化拥有access to unique 重骑兵 常备军
+ 文化拥有access to unique 弓箭手 骑兵 常备军
+ 游牧 - 以下之一：
+ 文化拥有access to unique 轻骑兵 常备军
+ 文化拥有access to unique 重骑兵 常备军
+ 文化拥有access to unique 弓箭手 骑兵 常备军
+ 游牧
+- 文化拥有access to unique 轻骑兵 常备军
+- 文化拥有access to unique 重骑兵 常备军
+- 文化拥有access to unique 弓箭手 骑兵 常备军
 - 游牧
-| One of:
- 800 Light Cavalry
- 400 Heavy Cavalry
- 800 Archer Cavalry - One of:
- 800 Light Cavalry
- 400 Heavy Cavalry
- 800 Archer Cavalry
-- 800 Light Cavalry
-- 400 Heavy Cavalry
-- 800 Archer Cavalry
+| 以下之一：
+ 800 轻骑兵
+ 400 重骑兵
+ 800 弓箭手 骑兵 - 以下之一：
+ 800 轻骑兵
+ 400 重骑兵
+ 800 弓箭手 骑兵
+- 800 轻骑兵
+- 400 重骑兵
+- 800 弓箭手 骑兵
 | 好战
 集体
-Stoic - Bellicose
+坚毅 - 好战
 - 集体
 - 坚毅
 | **丛林战士
 
-Warriors of this culture know well how to traverse treacherous jungles.** | Warriors of this culture know well how to traverse treacherous jungles. | 丛林 Stalker trait 更常见. [2]
- Some 特质s 有额外加成 in 丛林:
- Deceitful +2 优势
- Hunter +1 优势
- Hunter +1 优势 per Venator track level
- Rough Terrain Expert +1 优势
- Rough Terrain Expert +1 优势 每等级
- Wrathful +2 Maximum Battle Roll
- Fickle +2 Maximum Battle Roll
- Impatient +1 Maximum Battle Roll
- Aggressive Attacker +1 Maximum Battle Roll
- Aggressive Attacker +1 Maximum Battle Roll per tier
- Reckless +1 Maximum Battle Roll
- Reckless +1 Maximum Battle Roll per tier
- Patient +2 Minimum Battle Roll
- Paranoid +2 Minimum Battle Roll
- Calm +1 Minimum Battle Roll
- Unyielding Defender +1 Minimum Battle Roll
- Unyielding Defender +1 Minimum Battle Roll per tier
- Cautious Leader +1 Minimum Battle Roll
- Cautious Leader +1 Minimum Battle Roll per tier
- 丛林 Stalker +1 Minimum Battle Roll
- 丛林 Stalker +1 Minimum Battle Roll per tier
- Herbalist −50% Attrition Taken
- Logistician −10% Attrition Taken
- Logistician −10% Attrition Taken per tier
- 解锁 Recruit 丛林 Specialist decision - 丛林 Stalker trait 更常见. [2]
-- Some 特质s 有额外加成 in 丛林:
- Deceitful +2 优势
- Hunter +1 优势
- Hunter +1 优势 per Venator track level
- Rough Terrain Expert +1 优势
- Rough Terrain Expert +1 优势 每等级
- Wrathful +2 Maximum Battle Roll
- Fickle +2 Maximum Battle Roll
- Impatient +1 Maximum Battle Roll
- Aggressive Attacker +1 Maximum Battle Roll
- Aggressive Attacker +1 Maximum Battle Roll per tier
- Reckless +1 Maximum Battle Roll
- Reckless +1 Maximum Battle Roll per tier
- Patient +2 Minimum Battle Roll
- Paranoid +2 Minimum Battle Roll
- Calm +1 Minimum Battle Roll
- Unyielding Defender +1 Minimum Battle Roll
- Unyielding Defender +1 Minimum Battle Roll per tier
- Cautious Leader +1 Minimum Battle Roll
- Cautious Leader +1 Minimum Battle Roll per tier
- 丛林 Stalker +1 Minimum Battle Roll
- 丛林 Stalker +1 Minimum Battle Roll per tier
- Herbalist −50% Attrition Taken
- Logistician −10% Attrition Taken
- Logistician −10% Attrition Taken per tier
-- Deceitful +2 优势
-- Hunter +1 优势
-- Hunter +1 优势 per Venator track level
-- Rough Terrain Expert +1 优势
-- Rough Terrain Expert +1 优势 每等级
-- Wrathful +2 Maximum Battle Roll
-- Fickle +2 Maximum Battle Roll
-- Impatient +1 Maximum Battle Roll
-- Aggressive Attacker +1 Maximum Battle Roll
-- Aggressive Attacker +1 Maximum Battle Roll per tier
-- Reckless +1 Maximum Battle Roll
-- Reckless +1 Maximum Battle Roll per tier
-- Patient +2 Minimum Battle Roll
-- Paranoid +2 Minimum Battle Roll
-- Calm +1 Minimum Battle Roll
-- Unyielding Defender +1 Minimum Battle Roll
-- Unyielding Defender +1 Minimum Battle Roll per tier
-- Cautious Leader +1 Minimum Battle Roll
-- Cautious Leader +1 Minimum Battle Roll per tier
-- 丛林 Stalker +1 Minimum Battle Roll
-- 丛林 Stalker +1 Minimum Battle Roll per tier
-- Herbalist −50% Attrition Taken
-- Logistician −10% Attrition Taken
-- Logistician −10% Attrition Taken per tier
-- 解锁 Recruit 丛林 Specialist decision
+战士的这种文化know well how to traverse treacherous jungles.** | 战士的这种文化know well how to traverse treacherous jungles. | 丛林 潜行者特质 更常见. [2]
+ Some 特质 有额外加成的丛林:
+ 欺诈 +2 优势
+ 猎人 +1 优势
+ 猎人 +1 优势每Venator track等级
+ 崎岖地形 专精 +1 优势
+ 崎岖地形 专精 +1 优势 每等级
+ 暴怒 +2 最大 战斗骰
+ 善变 +2 最大 战斗骰
+ 急躁 +1 最大 战斗骰
+ 进攻性进攻方 +1 最大 战斗骰
+ 进攻性进攻方 +1 最大 战斗骰 每阶
+ 鲁莽 +1 最大 战斗骰
+ 鲁莽 +1 最大 战斗骰 每阶
+ 耐心 +2 最小 战斗骰
+ 多疑 +2 最小 战斗骰
+ 冷静 +1 最小 战斗骰
+ 不屈防御方 +1 最小 战斗骰
+ 不屈防御方 +1 最小 战斗骰 每阶
+ 谨慎 领导者 +1 最小 战斗骰
+ 谨慎 领导者 +1 最小 战斗骰 每阶
+ 丛林 潜行者 +1 最小 战斗骰
+ 丛林 潜行者 +1 最小 战斗骰 每阶
+ 草药师 −50% 损耗 受到的
+ 后勤家 −10% 损耗 受到的
+ 后勤家 −10% 损耗 受到的 每阶
+ 解锁 招募 丛林 专精 decision - 丛林 潜行者特质 更常见. [2]
+- Some 特质 有额外加成的丛林:
+ 欺诈 +2 优势
+ 猎人 +1 优势
+ 猎人 +1 优势每Venator track等级
+ 崎岖地形 专精 +1 优势
+ 崎岖地形 专精 +1 优势 每等级
+ 暴怒 +2 最大 战斗骰
+ 善变 +2 最大 战斗骰
+ 急躁 +1 最大 战斗骰
+ 进攻性进攻方 +1 最大 战斗骰
+ 进攻性进攻方 +1 最大 战斗骰 每阶
+ 鲁莽 +1 最大 战斗骰
+ 鲁莽 +1 最大 战斗骰 每阶
+ 耐心 +2 最小 战斗骰
+ 多疑 +2 最小 战斗骰
+ 冷静 +1 最小 战斗骰
+ 不屈防御方 +1 最小 战斗骰
+ 不屈防御方 +1 最小 战斗骰 每阶
+ 谨慎 领导者 +1 最小 战斗骰
+ 谨慎 领导者 +1 最小 战斗骰 每阶
+ 丛林 潜行者 +1 最小 战斗骰
+ 丛林 潜行者 +1 最小 战斗骰 每阶
+ 草药师 −50% 损耗 受到的
+ 后勤家 −10% 损耗 受到的
+ 后勤家 −10% 损耗 受到的 每阶
+- 欺诈 +2 优势
+- 猎人 +1 优势
+- 猎人 +1 优势每Venator track等级
+- 崎岖地形 专精 +1 优势
+- 崎岖地形 专精 +1 优势 每等级
+- 暴怒 +2 最大 战斗骰
+- 善变 +2 最大 战斗骰
+- 急躁 +1 最大 战斗骰
+- 进攻性进攻方 +1 最大 战斗骰
+- 进攻性进攻方 +1 最大 战斗骰 每阶
+- 鲁莽 +1 最大 战斗骰
+- 鲁莽 +1 最大 战斗骰 每阶
+- 耐心 +2 最小 战斗骰
+- 多疑 +2 最小 战斗骰
+- 冷静 +1 最小 战斗骰
+- 不屈防御方 +1 最小 战斗骰
+- 不屈防御方 +1 最小 战斗骰 每阶
+- 谨慎 领导者 +1 最小 战斗骰
+- 谨慎 领导者 +1 最小 战斗骰 每阶
+- 丛林 潜行者 +1 最小 战斗骰
+- 丛林 潜行者 +1 最小 战斗骰 每阶
+- 草药师 −50% 损耗 受到的
+- 后勤家 −10% 损耗 受到的
+- 后勤家 −10% 损耗 受到的 每阶
+- 解锁 招募 丛林 专精 decision
 | −23 丛林 危险度 - −23 丛林 危险度
-| +25% 补给上限 in 丛林
- +10% 征召兵规模 in 丛林 - +25% 补给上限 in 丛林
-- +10% 征召兵规模 in 丛林
+| +25% 补给上限的丛林
+ +10% 征召兵规模的丛林 - +25% 补给上限的丛林
+- +10% 征召兵规模的丛林
 | 文化存在于拥有以下地形的伯爵领中： 丛林
 
- Akan 遗产
+ 阿坎 遗产
  Niger Delta 遗产
  丛林狩猎传统
  和平主义者传统 - 文化存在于拥有以下地形的伯爵领中： 丛林
-- Akan 遗产
+- 阿坎 遗产
 - Niger Delta 遗产
 - 丛林狩猎传统
 - 和平主义者传统
 | 30% 的文化存在于拥有以下地形的伯爵领中： 丛林 | 好战
 集体
-Stoic - Bellicose
+坚毅 - 好战
 - 集体
 - 坚毅
 | **长弓竞赛
 
-This culture favors a bow more powerful than most could draw, and practicing with them once a week is as dear as any ritual of worship everywhere from the most rural villages to the largest urban metropoles.** | This culture favors a bow more powerful than most could draw, and practicing with them once a week is as dear as any ritual of worship everywhere from the most rural villages to the largest urban metropoles. | 可以招募 Longbowmen 常备军
- Longbowmen 常备军 get increasingly better every era:
- +10 伤害 per era excluding 部落
- +2 韧性 per era excluding 部落 - 可以招募 Longbowmen 常备军
-- Longbowmen 常备军 get increasingly better every era:
- +10 伤害 per era excluding 部落
- +2 韧性 per era excluding 部落
-- +10 伤害 per era excluding 部落
-- +2 韧性 per era excluding 部落
-| −2 最大编制 Spearmen 军团
- +4 最大编制 Archer 军团
- −2 最大编制 Heavy Cavalry 军团 - −2 最大编制 Spearmen 军团
-- +4 最大编制 Archer 军团
-- −2 最大编制 Heavy Cavalry 军团
-| One of:
- Brythonic 遗产
- Goidelic 遗产
- West Germanic 遗产 - One of:
- Brythonic 遗产
- Goidelic 遗产
- West Germanic 遗产
-- Brythonic 遗产
-- Goidelic 遗产
-- West Germanic 遗产
-| 1200 Archers | 官僚
-Stoic - Bureaucratic
+这种文化偏好一种比大多数人能拉开的更强大的弓，每周练习一次与任何崇拜仪式一样重要，从最偏远的村庄到最大的城市都是如此。** | 这种文化偏好一种比大多数人能拉开的更强大的弓，每周练习一次与任何崇拜仪式一样重要，从最偏远的村庄到最大的城市都是如此。 | 可以招募 Longbowmen 常备军
+ Longbowmen 常备军 get increasingly better every 时代:
+ +10 伤害每时代 excluding 部落
+ +2 韧性每时代 excluding 部落 - 可以招募 Longbowmen 常备军
+- Longbowmen 常备军 get increasingly better every 时代:
+ +10 伤害每时代 excluding 部落
+ +2 韧性每时代 excluding 部落
+- +10 伤害每时代 excluding 部落
+- +2 韧性每时代 excluding 部落
+| −2 最大编制 枪兵 军团
+ +4 最大编制 弓箭手 军团
+ −2 最大编制 重骑兵 军团 - −2 最大编制 枪兵 军团
+- +4 最大编制 弓箭手 军团
+- −2 最大编制 重骑兵 军团
+| 以下之一：
+ 布里索尼克 遗产
+ 盖尔 遗产
+ 西方 日耳曼 遗产 - 以下之一：
+ 布里索尼克 遗产
+ 盖尔 遗产
+ 西方 日耳曼 遗产
+- 布里索尼克 遗产
+- 盖尔 遗产
+- 西方 日耳曼 遗产
+| 1200 弓箭手 | 官僚
+坚毅 - 官僚
 - 坚毅
 | **灵活入侵者
 
-We will take your lands, your children, your traditions, and your future!.** | We will take your lands, your children, your traditions, and your future!. | Creating a 混合文化 requires 50% less 文化接纳度
+我们将夺取你的土地、你的子女、你的传统和你的未来！.** | 我们将夺取你的土地、你的子女、你的传统和你的未来！. | 创建一个混合文化 requires 50% less 文化 接纳度
  −75% 混合文化创建费用
- −75% Convert to Local 文化 decision cost - Creating a 混合文化 requires 50% less 文化接纳度
+ −75% 皈依 to 本地 文化 decision cost - 创建一个混合文化 requires 50% less 文化 接纳度
 - −75% 混合文化创建费用
-- −75% Convert to Local 文化 decision cost
-| −20% Different 信仰 民众好感度
- −20% 信仰 Conversion Cost - −20% Different 信仰 民众好感度
-- −20% 信仰 Conversion Cost
-| 御前宫廷DLC
- 文化 is present in the 草原 region
+- −75% 皈依 to 本地 文化 decision cost
+| −20% 不同 信仰 民众好感度
+ −20% 信仰 皈依 费用 - −20% 不同 信仰 民众好感度
+- −20% 信仰 皈依 费用
+| 御前宫廷 DLC
+ 文化存在在草原 region
 
  和平主义者传统
-  游牧 - 御前宫廷DLC
-- 文化 is present in the 草原 region
+  游牧 - 御前宫廷 DLC
+- 文化存在在草原 region
 - 和平主义者传统
 - 游牧
-| One of:
- Mongolic 遗产
- Turkic 遗产 - One of:
- Mongolic 遗产
- Turkic 遗产
-- Mongolic 遗产
-- Turkic 遗产
+| 以下之一：
+ 蒙古 遗产
+ 突厥 遗产 - 以下之一：
+ 蒙古 遗产
+ 突厥 遗产
+- 蒙古 遗产
+- 突厥 遗产
 | 好战
 官僚
-Egalitarian - Bellicose
+平等 - 好战
 - 官僚
 - 平等
 | **登山者
 
-Soldiers of this culture carry all they need to traverse mountains.** | Soldiers of this culture carry all they need to traverse mountains. | Rough Terrain Expert trait 更常见. [2]
- In 山地 and 沙漠山地:
- Arrogant +2 优势
- Ambitious +2 优势
- Rough Terrain Expert +2 优势 (desert mountains only)
- Rough Terrain Expert +2 优势 per tier (desert mountains only)
- Unyielding Defender +1 优势
- Unyielding Defender +1 优势 per tier
- Brave +3 Maximum Battle Roll
- Wrathful +2 Maximum Battle Roll
- Rough Terrain Expert +1 Maximum Battle Roll
- Rough Terrain Expert +1 Maximum Battle Roll per tier
- Reckless +1 Maximum Battle Roll per tier
- Stubborn +2 Minimum Battle Roll
- Calm +1 Minimum Battle Roll
- Flexible Leader +1 Minimum Battle Roll
- Flexible Leader +1 Minimum Battle Roll per tier
- Humble −25% Attrition Taken
- Organizer −50% Attrition Taken
- Organizer −50% Attrition Taken per tier
- Logistician −15% Attrition Taken
- Logistician −15% Attrition Taken per tier
- Military Engineer −10% Attrition Taken
- Military Engineer −10% Attrition Taken per tier
- 解锁 Recruit 山地 Specialist decision
- +20% 伤害 for 常备军 stationed in 山地 or 沙漠山地 for Nomads
- +20% 韧性 for 常备军 stationed in 山地 or 沙漠山地 for Nomads - Rough Terrain Expert trait 更常见. [2]
-- In 山地 and 沙漠山地:
- Arrogant +2 优势
- Ambitious +2 优势
- Rough Terrain Expert +2 优势 (desert mountains only)
- Rough Terrain Expert +2 优势 per tier (desert mountains only)
- Unyielding Defender +1 优势
- Unyielding Defender +1 优势 per tier
- Brave +3 Maximum Battle Roll
- Wrathful +2 Maximum Battle Roll
- Rough Terrain Expert +1 Maximum Battle Roll
- Rough Terrain Expert +1 Maximum Battle Roll per tier
- Reckless +1 Maximum Battle Roll per tier
- Stubborn +2 Minimum Battle Roll
- Calm +1 Minimum Battle Roll
- Flexible Leader +1 Minimum Battle Roll
- Flexible Leader +1 Minimum Battle Roll per tier
- Humble −25% Attrition Taken
- Organizer −50% Attrition Taken
- Organizer −50% Attrition Taken per tier
- Logistician −15% Attrition Taken
- Logistician −15% Attrition Taken per tier
- Military Engineer −10% Attrition Taken
- Military Engineer −10% Attrition Taken per tier
-- Arrogant +2 优势
-- Ambitious +2 优势
-- Rough Terrain Expert +2 优势 (desert mountains only)
-- Rough Terrain Expert +2 优势 per tier (desert mountains only)
-- Unyielding Defender +1 优势
-- Unyielding Defender +1 优势 per tier
-- Brave +3 Maximum Battle Roll
-- Wrathful +2 Maximum Battle Roll
-- Rough Terrain Expert +1 Maximum Battle Roll
-- Rough Terrain Expert +1 Maximum Battle Roll per tier
-- Reckless +1 Maximum Battle Roll per tier
-- Stubborn +2 Minimum Battle Roll
-- Calm +1 Minimum Battle Roll
-- Flexible Leader +1 Minimum Battle Roll
-- Flexible Leader +1 Minimum Battle Roll per tier
-- Humble −25% Attrition Taken
-- Organizer −50% Attrition Taken
-- Organizer −50% Attrition Taken per tier
-- Logistician −15% Attrition Taken
-- Logistician −15% Attrition Taken per tier
-- Military Engineer −10% Attrition Taken
-- Military Engineer −10% Attrition Taken per tier
-- 解锁 Recruit 山地 Specialist decision
-- +20% 伤害 for 常备军 stationed in 山地 or 沙漠山地 for Nomads
-- +20% 韧性 for 常备军 stationed in 山地 or 沙漠山地 for Nomads
+士兵的这种文化carry所有they need to traverse mountains.** | 士兵的这种文化carry所有they need to traverse mountains. | 崎岖地形 专精特质 更常见. [2]
+ In 山地和沙漠山地:
+ 傲慢 +2 优势
+ 野心 +2 优势
+ 崎岖地形 专精 +2 优势 (desert mountains only)
+ 崎岖地形 专精 +2 优势 每阶 (desert mountains only)
+ 不屈防御方 +1 优势
+ 不屈防御方 +1 优势 每阶
+ 勇敢 +3 最大 战斗骰
+ 暴怒 +2 最大 战斗骰
+ 崎岖地形 专精 +1 最大 战斗骰
+ 崎岖地形 专精 +1 最大 战斗骰 每阶
+ 鲁莽 +1 最大 战斗骰 每阶
+ 固执 +2 最小 战斗骰
+ 冷静 +1 最小 战斗骰
+ 灵活 领导者 +1 最小 战斗骰
+ 灵活 领导者 +1 最小 战斗骰 每阶
+ 谦逊 −25% 损耗 受到的
+ 组织者 −50% 损耗 受到的
+ 组织者 −50% 损耗 受到的 每阶
+ 后勤家 −15% 损耗 受到的
+ 后勤家 −15% 损耗 受到的 每阶
+ 军事 工程师 −10% 损耗 受到的
+ 军事 工程师 −10% 损耗 受到的 每阶
+ 解锁 招募 山地 专精 decision
+ +20% 伤害对于常备军 驻扎的的山地或沙漠山地对于游牧民
+ +20% 韧性对于常备军 驻扎的的山地或沙漠山地对于游牧民 - 崎岖地形 专精特质 更常见. [2]
+- In 山地和沙漠山地:
+ 傲慢 +2 优势
+ 野心 +2 优势
+ 崎岖地形 专精 +2 优势 (desert mountains only)
+ 崎岖地形 专精 +2 优势 每阶 (desert mountains only)
+ 不屈防御方 +1 优势
+ 不屈防御方 +1 优势 每阶
+ 勇敢 +3 最大 战斗骰
+ 暴怒 +2 最大 战斗骰
+ 崎岖地形 专精 +1 最大 战斗骰
+ 崎岖地形 专精 +1 最大 战斗骰 每阶
+ 鲁莽 +1 最大 战斗骰 每阶
+ 固执 +2 最小 战斗骰
+ 冷静 +1 最小 战斗骰
+ 灵活 领导者 +1 最小 战斗骰
+ 灵活 领导者 +1 最小 战斗骰 每阶
+ 谦逊 −25% 损耗 受到的
+ 组织者 −50% 损耗 受到的
+ 组织者 −50% 损耗 受到的 每阶
+ 后勤家 −15% 损耗 受到的
+ 后勤家 −15% 损耗 受到的 每阶
+ 军事 工程师 −10% 损耗 受到的
+ 军事 工程师 −10% 损耗 受到的 每阶
+- 傲慢 +2 优势
+- 野心 +2 优势
+- 崎岖地形 专精 +2 优势 (desert mountains only)
+- 崎岖地形 专精 +2 优势 每阶 (desert mountains only)
+- 不屈防御方 +1 优势
+- 不屈防御方 +1 优势 每阶
+- 勇敢 +3 最大 战斗骰
+- 暴怒 +2 最大 战斗骰
+- 崎岖地形 专精 +1 最大 战斗骰
+- 崎岖地形 专精 +1 最大 战斗骰 每阶
+- 鲁莽 +1 最大 战斗骰 每阶
+- 固执 +2 最小 战斗骰
+- 冷静 +1 最小 战斗骰
+- 灵活 领导者 +1 最小 战斗骰
+- 灵活 领导者 +1 最小 战斗骰 每阶
+- 谦逊 −25% 损耗 受到的
+- 组织者 −50% 损耗 受到的
+- 组织者 −50% 损耗 受到的 每阶
+- 后勤家 −15% 损耗 受到的
+- 后勤家 −15% 损耗 受到的 每阶
+- 军事 工程师 −10% 损耗 受到的
+- 军事 工程师 −10% 损耗 受到的 每阶
+- 解锁 招募 山地 专精 decision
+- +20% 伤害对于常备军 驻扎的的山地或沙漠山地对于游牧民
+- +20% 韧性对于常备军 驻扎的的山地或沙漠山地对于游牧民
 | -23 山地 危险度
  -23 沙漠山地 危险度 - -23 山地 危险度
 - -23 沙漠山地 危险度
-| +25% 补给上限 in 山地
- +10% 征召兵规模 in 山地
- +25% 补给上限 in 沙漠山地
- +10% 征召兵规模 in 沙漠山地 - +25% 补给上限 in 山地
-- +10% 征召兵规模 in 山地
-- +25% 补给上限 in 沙漠山地
-- +10% 征召兵规模 in 沙漠山地
-| 文化存在于拥有以下地形的伯爵领中： 山地 or 沙漠山地
+| +25% 补给上限的山地
+ +10% 征召兵规模的山地
+ +25% 补给上限的沙漠山地
+ +10% 征召兵规模的沙漠山地 - +25% 补给上限的山地
+- +10% 征召兵规模的山地
+- +25% 补给上限的沙漠山地
+- +10% 征召兵规模的沙漠山地
+| 文化存在于拥有以下地形的伯爵领中： 山地或沙漠山地
 
-  Horn African 遗产
-  East African 遗产
-  Georgian culture
-  文化 has hybridized with Georgian 文化
+  Horn 非洲 遗产
+  东方 非洲 遗产
+  格鲁吉亚 culture
+  文化拥有混合了 格鲁吉亚 文化
  高加索之狼传统
  山地散兵战传统
- 和平主义者传统 - 文化存在于拥有以下地形的伯爵领中： 山地 or 沙漠山地
-- Horn African 遗产
-- East African 遗产
-- Georgian culture
-- 文化 has hybridized with Georgian 文化
+ 和平主义者传统 - 文化存在于拥有以下地形的伯爵领中： 山地或沙漠山地
+- Horn 非洲 遗产
+- 东方 非洲 遗产
+- 格鲁吉亚 culture
+- 文化拥有混合了 格鲁吉亚 文化
 - 高加索之狼传统
 - 山地散兵战传统
 - 和平主义者传统
-| 30% 的文化存在于拥有以下地形的伯爵领中： 山地 or 沙漠山地 | 好战
+| 30% 的文化存在于拥有以下地形的伯爵领中： 山地或沙漠山地 | 好战
 集体
-Stoic - Bellicose
+坚毅 - 好战
 - 集体
 - 坚毅
 | **唯强者生存
 
-This culture places a strong emphasis on having a few, well-trained warriors. If you're not the best-of-the-best, you're not welcome to serve.** | This culture places a strong emphasis on having a few, well-trained warriors. If you're not the best-of-the-best, you're not welcome to serve. | 骑士 must have at least 12 prowess
- Aspiring Blademaster trait 有额外加成:
+这种文化非常强调拥有少数训练有素的战士。如果你不是精英中的精英，就不欢迎你来服役。** | 这种文化非常强调拥有少数训练有素的战士。如果你不是精英中的精英，就不欢迎你来服役。 | 骑士 必须拥有 至少 12 prowess
+ 见习剑术大师特质 有额外加成:
  +0.25/+0.5/+1 每月威望 每等级
  +5/+10/+15 吸引力好感度 每等级
- +1 prowess per 军事 Education trait level up to  +5 prowess - 骑士 must have at least 12 prowess
-- Aspiring Blademaster trait 有额外加成:
+ +1 prowess每军事 教育特质等级 up to  +5 prowess - 骑士 必须拥有 至少 12 prowess
+- 见习剑术大师特质 有额外加成:
  +0.25/+0.5/+1 每月威望 每等级
  +5/+10/+15 吸引力好感度 每等级
 - +0.25/+0.5/+1 每月威望 每等级
 - +5/+10/+15 吸引力好感度 每等级
-- +1 prowess per 军事 Education trait level up to  +5 prowess
-| +25% 常备军 招募费用
- +2 骑士数量
- +100% knight Effectiveness
+- +1 prowess每军事 教育特质等级 up to  +5 prowess
+| +25% 常备军招募费用
+ +2 Number的骑士
+ +100% knight 效用
  -2 最大编制 常备军 军团
- -1 Max number of 常备军 军团
- +10% 常备军 伤害
- +15% 常备军 韧性
- +20% 荣誉称号荣耀增长 - +25% 常备军 招募费用
-- +2 骑士数量
-- +100% knight Effectiveness
+ -1 Max number的常备军 军团
+ +10% 常备军伤害
+ +15% 常备军韧性
+ +20% 荣誉称号荣耀增长 - +25% 常备军招募费用
+- +2 Number的骑士
+- +100% knight 效用
 - -2 最大编制 常备军 军团
-- -1 Max number of 常备军 军团
-- +10% 常备军 伤害
-- +15% 常备军 韧性
-- +20% 荣誉称号荣耀增长
-| -25% 征召兵规模 | 平等 ethos | 6 骑士 with at least  12 勇武 | 好战
-Stoic - Bellicose
+- -1 Max number的常备军 军团
+- +10% 常备军伤害
+- +15% 常备军韧性
+- +20% 荣誉称号荣耀增长
+| -25% 征召兵规模 | 平等 ethos | 6 骑士与至少  12 勇武 | 好战
+坚毅 - 好战
 - 坚毅
 | **好斗
 
-Border conflicts are common for rulers of this culture. Land often changes hands in unjust ways.** | Border conflicts are common for rulers of this culture. Land often changes hands in unjust ways. | 解锁 Conquest Casus Belli
- Casus Belli require one Level of Fame less
- −20% Casus Belli Cost
+边境冲突对于这种文化的统治者来说很常见。土地经常以不公正的方式易手。** | 边境冲突对于这种文化的统治者来说很常见。土地经常以不公正的方式易手。 | 解锁 Conquest 宣战理由
+ 宣战理由 require一个等级的声名 less
+ −20% 宣战理由 费用
  +5 同文化好感度 if Disloyal
- Children are more likely to get the Disloyal trait - 解锁 Conquest Casus Belli
-- Casus Belli require one Level of Fame less
-- −20% Casus Belli Cost
+ 子嗣是更可能 to getDisloyal特质 - 解锁 Conquest 宣战理由
+- 宣战理由 require一个等级的声名 less
+- −20% 宣战理由 费用
 - +5 同文化好感度 if Disloyal
-- Children are more likely to get the Disloyal trait
+- 子嗣是更可能 to getDisloyal特质
 | −40% 控制增长 | 和平主义者传统 - 和平主义者传统
-| 文化 has 5 Rulers at war | 好战
-Spiritual - Bellicose
+| 文化拥有5 统治者 at war | 好战
+灵性 - 好战
 - 灵性
 | **英才识别
 
-"Kill me if you wish, but if you let me live, I shall serve you loyally."** | "Kill me if you wish, but if you let me live, I shall serve you loyally." | Bonuses to recruiting Prisoners:
+"如果你愿意就杀了我，但如果你让我活着，我将忠诚地为你效力。"** | "如果你愿意就杀了我，但如果你让我活着，我将忠诚地为你效力。" | Bonuses to recruiting 囚犯:
  +10 More likely to accept recruitment
  +50 好感度
- Becomes Obedient
- Gains a Strong Hook
- Invite 骑士 decision grants 骑士 with better 勇武
- Invite 骑士 decision grants 骑士 with a Blademaster trait
-Bonuses to granting Pardons:
+ 成为顺从
+ 获得a 强力把柄
+ 邀请 骑士 decision授予骑士与better 勇武
+ 邀请 骑士 decision授予骑士与一个剑术大师特质
+Bonuses to授予Pardons:
  +50 好感度
- Becomes Obedient
- Gains a Strong Hook - Bonuses to recruiting Prisoners:
+ 成为顺从
+ 获得a 强力把柄 - Bonuses to recruiting 囚犯:
  +10 More likely to accept recruitment
  +50 好感度
- Becomes Obedient
- Gains a Strong Hook
+ 成为顺从
+ 获得a 强力把柄
 - +10 More likely to accept recruitment
 - +50 好感度
-- Becomes Obedient
-- Gains a Strong Hook
-- Invite 骑士 decision grants 骑士 with better 勇武
-- Invite 骑士 decision grants 骑士 with a Blademaster trait
-- Bonuses to granting Pardons:
+- 成为顺从
+- 获得a 强力把柄
+- 邀请 骑士 decision授予骑士与better 勇武
+- 邀请 骑士 decision授予骑士与一个剑术大师特质
+- Bonuses to授予Pardons:
  +50 好感度
- Becomes Obedient
- Gains a Strong Hook
+ 成为顺从
+ 获得a 强力把柄
 - +50 好感度
-- Becomes Obedient
-- Gains a Strong Hook
-| +10% 荣誉称号荣耀进度 | 10 foreign prisoners with a skill of at least 12 | 好战
+- 成为顺从
+- 获得a 强力把柄
+| +10% 荣誉称号荣耀进度 | 10 foreign prisoners与一个skill的至少 12 | 好战
 礼仪
-Egalitarian - Bellicose
+平等 - 好战
 - 礼仪
 - 平等
 | **尊老敬贤
 
-This culture doesn't look down upon those who can no longer fight due to injury, instead they are celebrated as heroes and used as teachers.** | This culture doesn't look down upon those who can no longer fight due to injury, instead they are celebrated as heroes and used as teachers. | +10% 每月威望 if Scarred or One-Eyed
- +15% 每月威望 if Disfigured or One-Legged
- +20% 每月威望 if Maimed
- +5 同文化好感度 if Scarred or One-Eyed
- +10 同文化好感度 if Disfigured or One-Legged
- +15 同文化好感度 if Maimed
- Guardians can teach Commander 特质s to their Wards
- The Warrior Lodges 建筑线 can always be constructed in 此文化的伯爵领 - +10% 每月威望 if Scarred or One-Eyed
-- +15% 每月威望 if Disfigured or One-Legged
-- +20% 每月威望 if Maimed
-- +5 同文化好感度 if Scarred or One-Eyed
-- +10 同文化好感度 if Disfigured or One-Legged
-- +15 同文化好感度 if Maimed
-- Guardians can teach Commander 特质s to their Wards
-- The Warrior Lodges 建筑线 can always be constructed in 此文化的伯爵领
-| 文化 has 5 Disfigured, Maimed, One-Eyed, One-Legged or Scarred Rulers | 好战
+这种文化不会看不起那些因伤而无法继续战斗的人，相反他们被当作英雄来庆祝，并被用作教师。** | 这种文化不会看不起那些因伤而无法继续战斗的人，相反他们被当作英雄来庆祝，并被用作教师。 | +10% 每月威望 if Scarred或独眼
+ +15% 每月威望 if Disfigured或独腿
+ +20% 每月威望 if 残废
+ +5 同文化好感度 if Scarred或独眼
+ +10 同文化好感度 if Disfigured或独腿
+ +15 同文化好感度 if 残废
+ Guardians可以teach 指挥官 特质 to其Wards
+战士 会所 建筑线可以always be constructed的此文化的伯爵领 - +10% 每月威望 if Scarred或独眼
+- +15% 每月威望 if Disfigured或独腿
+- +20% 每月威望 if 残废
+- +5 同文化好感度 if Scarred或独眼
+- +10 同文化好感度 if Disfigured或独腿
+- +15 同文化好感度 if 残废
+- Guardians可以teach 指挥官 特质 to其Wards
+-战士 会所 建筑线可以always be constructed的此文化的伯爵领
+| 文化拥有5 Disfigured, 残废, 独眼, 独腿或Scarred 统治者 | 好战
 平等
-Stoic - Bellicose
+坚毅 - 好战
 - 平等
 - 坚毅
 | **坚定防御者
 
-Defending that which is one's own is of paramount importance to this culture.** | Defending that which is one's own is of paramount importance to this culture. | +10 Defensive War Peace Acceptance
- +100% 威望 from winning Defensive Wars
- +100% 金币 from winning Defensive Wars
- The Fortification lines of buildings can be built one era earlier
-解锁 Indomitable spirit feretory internal upgrade for nomadic domiciles - +10 Defensive War Peace Acceptance
-- +100% 威望 from winning Defensive Wars
-- +100% 金币 from winning Defensive Wars
-- The Fortification lines of buildings can be built one era earlier
-- 解锁 Indomitable spirit feretory internal upgrade for nomadic domiciles
-| +5 Defender 优势
- +5 控制led Territory Defender 优势
- +15% 游牧 Horde 韧性 - +5 Defender 优势
-- +5 控制led Territory Defender 优势
-- +15% 游牧 Horde 韧性
-| +25% 驻军规模 - +25% 驻军规模
-| Strategic Marches duchy building | 好战
+Defending该which是one's own is的paramount importance to此文化.** | Defending该which是one's own is的paramount importance to此文化. | +10 防御性 战争 和平 接纳度
+ +100% 威望来自winning 防御性 Wars
+ +100% 金币来自winning 防御性 Wars
+Fortification lines的buildings 可以提前一个时代建造
+解锁 Indomitable spirit feretory internal upgrade对于nomadic domiciles - +10 防御性 战争 和平 接纳度
+- +100% 威望来自winning 防御性 Wars
+- +100% 金币来自winning 防御性 Wars
+-Fortification lines的buildings 可以提前一个时代建造
+- 解锁 Indomitable spirit feretory internal upgrade对于nomadic domiciles
+| +5 防御方优势
+ +5 控制领土防御优势
+ +15% 游牧 部落 韧性 - +5 防御方优势
+- +5 控制领土防御优势
+- +15% 游牧 部落 韧性
+| +25% 驻军规模 - +25% 驻军规模
+| Strategic Marches 公爵领建筑 | 好战
 礼仪
-Stoic - Bellicose
+坚毅 - 好战
 - 礼仪
 - 坚毅
 | **站稳作战！
 
-Warriors from this culture are unyielding and unshakable. They do not fall back - even in the face of overwhelming odds, for better or for worse.** | Warriors from this culture are unyielding and unshakable. They do not fall back - even in the face of overwhelming odds, for better or for worse. | +20% 韧性 for stationed Archers for Nomads | +2 征召兵 韧性
+战士来自这种文化是 unyielding和unshakable. 他们do不fall back - even在face的overwhelming odds,对于better或for worse.** | 战士来自这种文化是 unyielding和unshakable. 他们do不fall back - even在face的overwhelming odds,对于better或for worse. | +20% 韧性对于驻扎的 弓箭手对于游牧民 | +2 征召兵 韧性
  +40% 友军死亡人数
- +8 Defender 优势
- +10% 常备军 韧性
- +10% Heavy Infantry 韧性
- +20% Spearmen 韧性
- +10% Heavy Cavalry 韧性 - +2 征召兵 韧性
+ +8 防御方优势
+ +10% 常备军韧性
+ +10% 重步兵 韧性
+ +20% 枪兵 韧性
+ +10% 重骑兵 韧性 - +2 征召兵 韧性
 - +40% 友军死亡人数
-- +8 Defender 优势
-- +10% 常备军 韧性
-- +10% Heavy Infantry 韧性
-- +20% Spearmen 韧性
-- +10% Heavy Cavalry 韧性
-| Israelite 遗产
- 防御战术传统 - Israelite 遗产
+- +8 防御方优势
+- +10% 常备军韧性
+- +10% 重步兵 韧性
+- +20% 枪兵 韧性
+- +10% 重骑兵 韧性
+| 以色列 遗产
+ 防御战术传统 - 以色列 遗产
 - 防御战术传统
-| 500 Heavy Infantry and 500 Spearmen | 好战
+| 500 重步兵和500 枪兵 | 好战
 灵性
-Stoic - Bellicose
+坚毅 - 好战
 - 灵性
 - 坚毅
 | **以众取胜
 
-This culture forsakes having elite troops, and instead favors massed armies.** | This culture forsakes having elite troops, and instead favors massed armies. | The Barracks and War Camps lines of buildings 有额外加成:
- +1 最大编制 常备军 regiments for 征召兵ing Grounds and Stone Barracks
- +2 最大编制 常备军 regiments for Mobile Camps and Smithies
- +3 最大编制 常备军 regiments for Training Grounds and Conscription Centers
- +4 最大编制 常备军 regiments for Permanent Barracks
- +1 最大编制 常备军 regiments for Warrior Lodges
-The Barracks also gain a  +% Stationed 常备军 伤害, being  +25% Stationed 常备军 伤害 at Conscription Centers
-The Barracks lose the following bonuses:
- +% Heavy Infantry 伤害
- +% Heavy Infantry 韧性
- +% Spearmen 伤害
- +% Spearmen 韧性
- Heavy Infantry, Heavy Cavalry and Elephant Cavalry 常备军 cannot be recruited - The Barracks and War Camps lines of buildings 有额外加成:
- +1 最大编制 常备军 regiments for 征召兵ing Grounds and Stone Barracks
- +2 最大编制 常备军 regiments for Mobile Camps and Smithies
- +3 最大编制 常备军 regiments for Training Grounds and Conscription Centers
- +4 最大编制 常备军 regiments for Permanent Barracks
- +1 最大编制 常备军 regiments for Warrior Lodges
-- +1 最大编制 常备军 regiments for 征召兵ing Grounds and Stone Barracks
-- +2 最大编制 常备军 regiments for Mobile Camps and Smithies
-- +3 最大编制 常备军 regiments for Training Grounds and Conscription Centers
-- +4 最大编制 常备军 regiments for Permanent Barracks
-- +1 最大编制 常备军 regiments for Warrior Lodges
-- The Barracks also gain a  +% Stationed 常备军 伤害, being  +25% Stationed 常备军 伤害 at Conscription Centers
-- The Barracks lose the following bonuses:
- +% Heavy Infantry 伤害
- +% Heavy Infantry 韧性
- +% Spearmen 伤害
- +% Spearmen 韧性
-- +% Heavy Infantry 伤害
-- +% Heavy Infantry 韧性
-- +% Spearmen 伤害
-- +% Spearmen 韧性
-- Heavy Infantry, Heavy Cavalry and Elephant Cavalry 常备军 cannot be recruited
-| +4.0% conversion into Horde Riders
- +50% 补给上限 - +4.0% conversion into Horde Riders
-- +50% 补给上限
-| +25% 征召兵规模 | 500 Archers
- 500 Skirmishers - 500 Archers
-- 500 Skirmishers
+这种文化forsakes having elite troops,和代替 favors massed armies.** | 这种文化forsakes having elite troops,和代替 favors massed armies. |兵营和战争 Camps lines的buildings 有额外加成:
+ +1 最大编制 常备军 regiments对于Levying Grounds和Stone 兵营
+ +2 最大编制 常备军 regiments对于Mobile Camps和铁匠铺
+ +3 最大编制 常备军 regiments对于Training Grounds和Conscription 中心
+ +4 最大编制 常备军 regiments对于Permanent 兵营
+ +1 最大编制 常备军 regiments对于战士 会所
+The 兵营也gain一个 +% 驻扎的 常备军伤害, being  +25% 驻扎的 常备军伤害 at Conscription 中心
+The 兵营 lose以下 bonuses:
+ +% 重步兵 伤害
+ +% 重步兵 韧性
+ +% 枪兵 伤害
+ +% 枪兵 韧性
+ 重步兵, 重骑兵和象骑兵 常备军不能be recruited -兵营和战争 Camps lines的buildings 有额外加成:
+ +1 最大编制 常备军 regiments对于Levying Grounds和Stone 兵营
+ +2 最大编制 常备军 regiments对于Mobile Camps和铁匠铺
+ +3 最大编制 常备军 regiments对于Training Grounds和Conscription 中心
+ +4 最大编制 常备军 regiments对于Permanent 兵营
+ +1 最大编制 常备军 regiments对于战士 会所
+- +1 最大编制 常备军 regiments对于Levying Grounds和Stone 兵营
+- +2 最大编制 常备军 regiments对于Mobile Camps和铁匠铺
+- +3 最大编制 常备军 regiments对于Training Grounds和Conscription 中心
+- +4 最大编制 常备军 regiments对于Permanent 兵营
+- +1 最大编制 常备军 regiments对于战士 会所
+-兵营也gain一个 +% 驻扎的 常备军伤害, being  +25% 驻扎的 常备军伤害 at Conscription 中心
+-兵营 lose以下 bonuses:
+ +% 重步兵 伤害
+ +% 重步兵 韧性
+ +% 枪兵 伤害
+ +% 枪兵 韧性
+- +% 重步兵 伤害
+- +% 重步兵 韧性
+- +% 枪兵 伤害
+- +% 枪兵 韧性
+- 重步兵, 重骑兵和象骑兵 常备军不能be recruited
+| +4.0% conversion到部落 骑手
+ +50% 补给上限 - +4.0% conversion到部落 骑手
+- +50% 补给上限
+| +25% 征召兵规模 | 500 弓箭手
+ 500 散兵 - 500 弓箭手
+- 500 散兵
 | 好战
-Spiritual - Bellicose
+灵性 - 好战
 - 灵性
 | **雇佣之剑
 
-This culture views mercenary work favorably and encourages warriors to seek glory as mercenaries in-between wars.** | This culture views mercenary work favorably and encourages warriors to seek glory as mercenaries in-between wars. | Wanderers gain 军事, 勇武, Blademaster or Commander traits over time
- 30% Yearly Chance for 骑士 in Mercenary Courts to gain 勇武
- Idle Courtiers are much more likely to become Wanderers
- 解锁 Offer Military Assistance Interaction
- Allows the Become Adventurer decision
- 角色s are much more likely to become Adventurers
- +100% Available Mercenary Companies - Wanderers gain 军事, 勇武, Blademaster or Commander traits over time
-- 30% Yearly Chance for 骑士 in Mercenary Courts to gain 勇武
-- Idle Courtiers are much more likely to become Wanderers
-- 解锁 Offer Military Assistance Interaction
-- Allows the Become Adventurer decision
-- 角色s are much more likely to become Adventurers
-- +100% Available Mercenary Companies
-| −15% Same 文化 Mercenary Hire Cost
+这种文化对雇佣兵工作持积极态度，鼓励战士在战争间隙作为雇佣兵寻求荣耀。** | 这种文化对雇佣兵工作持积极态度，鼓励战士在战争间隙作为雇佣兵寻求荣耀。 | 流浪者 gain 军事, 勇武, 剑术大师或指挥官特质 over time
+ 30% Yearly 几率对于骑士的雇佣兵 Courts to gain 勇武
+ 闲置 廷臣是更 更可能 to become 流浪者
+ 解锁 Offer 军事 Assistance 互动
+ AllowsBecome 冒险者 decision
+ 角色是更 更可能 to become 冒险者
+ +100% 可用的 雇佣兵 Companies - 流浪者 gain 军事, 勇武, 剑术大师或指挥官特质 over time
+- 30% Yearly 几率对于骑士的雇佣兵 Courts to gain 勇武
+- 闲置 廷臣是更 更可能 to become 流浪者
+- 解锁 Offer 军事 Assistance 互动
+- AllowsBecome 冒险者 decision
+- 角色是更 更可能 to become 冒险者
+- +100% 可用的 雇佣兵 Companies
+| −15% Same 文化 雇佣兵 雇佣 费用
  +10% 旅行速度
- +10% 旅行安全 - −15% Same 文化 Mercenary Hire Cost
+ +10% 旅行安全 - −15% Same 文化 雇佣兵 雇佣 费用
 - +10% 旅行速度
 - +10% 旅行安全
-| 文化 has 5 rulers with the Brilliant Strategist trait | 好战
+| 文化拥有5 rulers与Brilliant Strategist特质 | 好战
 集体
-Ceremonious - Bellicose
+礼仪 - 好战
 - 集体
 - 礼仪
 | **战士祭司
 
-This culture believes that if you choose to pursue theological studies, you must also be able to defend your faith.** | This culture believes that if you choose to pursue theological studies, you must also be able to defend your faith. | +1 勇武 每等级 of Devotion
+这种文化相信，如果你选择追求神学研究，你也必须能够捍卫你的信仰。** | 这种文化相信，如果你选择追求神学研究，你也必须能够捍卫你的信仰。 | +1 勇武每等级的虔诚
  某些特质给予 勇武:
- Wise man +1
- Conscientious Scribe +1
- Insightful Thinker +2
- Scholar +2
- Theologian +2
- Mystic +2 勇武
- Pilgrim +2 勇武
- Astute Intellectual +3
- Miracle Worker +3
- Devoted +3
- Mastermind Philosopher +4
- Erudite Oracle +4
- Members of the Clergy can serve as Commanders and 骑士
- The Monasteries 建筑线 provide additional 勇武 and 军事 bonuses:
- +1 勇武 every odd level
- +1 军事 every even level - +1 勇武 每等级 of Devotion
+ 智慧 man +1
+ 尽责 书吏 +1
+ 洞察 思想家 +2
+ 学者 +2
+ 神学家 +2
+ 神秘主义者 +2 勇武
+ 朝圣者 +2 勇武
+ 精明 知性 +3
+ 奇迹 工匠 +3
+ 虔诚的 +3
+ 策士 哲学家 +4
+ Erudite Oracle +4
+ 成员s的Clergy可以serve as 指挥官和骑士
+修道院 建筑线 provide 额外的 勇武和军事 bonuses:
+ +1 勇武 every odd等级
+ +1 军事 every even等级 - +1 勇武每等级的虔诚
 - 某些特质给予 勇武:
- Wise man +1
- Conscientious Scribe +1
- Insightful Thinker +2
- Scholar +2
- Theologian +2
- Mystic +2 勇武
- Pilgrim +2 勇武
- Astute Intellectual +3
- Miracle Worker +3
- Devoted +3
- Mastermind Philosopher +4
- Erudite Oracle +4
-- Wise man +1
-- Conscientious Scribe +1
-- Insightful Thinker +2
-- Scholar +2
-- Theologian +2
-- Mystic +2 勇武
-- Pilgrim +2 勇武
-- Astute Intellectual +3
-- Miracle Worker +3
-- Devoted +3
-- Mastermind Philosopher +4
+ 智慧 man +1
+ 尽责 书吏 +1
+ 洞察 思想家 +2
+ 学者 +2
+ 神学家 +2
+ 神秘主义者 +2 勇武
+ 朝圣者 +2 勇武
+ 精明 知性 +3
+ 奇迹 工匠 +3
+ 虔诚的 +3
+ 策士 哲学家 +4
+ Erudite Oracle +4
+- 智慧 man +1
+- 尽责 书吏 +1
+- 洞察 思想家 +2
+- 学者 +2
+- 神学家 +2
+- 神秘主义者 +2 勇武
+- 朝圣者 +2 勇武
+- 精明 知性 +3
+- 奇迹 工匠 +3
+- 虔诚的 +3
+- 策士 哲学家 +4
 - Erudite Oracle +4
-- Members of the Clergy can serve as Commanders and 骑士
-- The Monasteries 建筑线 provide additional 勇武 and 军事 bonuses:
- +1 勇武 every odd level
- +1 军事 every even level
-- +1 勇武 every odd level
-- +1 军事 every even level
-| 15 clergy characters of the same faith with 10 勇武 who cannot be knights | 好战
-Spiritual - Bellicose
+- 成员s的Clergy可以serve as 指挥官和骑士
+-修道院 建筑线 provide 额外的 勇武和军事 bonuses:
+ +1 勇武 every odd等级
+ +1 军事 every even等级
+- +1 勇武 every odd等级
+- +1 军事 every even等级
+| 15 clergy characters的相同 faith与10 勇武 who不能be knights | 好战
+灵性 - 好战
 - 灵性
 | **功勋战士
 
-This culture believes that if you've proven yourself capable as a warrior, you should be allowed to fight — no matter who you are.** | This culture believes that if you've proven yourself capable as a warrior, you should be allowed to fight — no matter who you are. | Most knighthood restrictions are lifted for characters with 10 or more 勇武
- 骑士 gain Blademaster traits more often in battles - Most knighthood restrictions are lifted for characters with 10 or more 勇武
-- 骑士 gain Blademaster traits more often in battles
-| +2 勇武 每等级 of Fame
- +10% 荣誉称号荣耀进度 - +2 勇武 每等级 of Fame
+这种文化相信，如果你已经证明自己是一名有能力的战士，你就应该被允许战斗——不管你是谁。** | 这种文化相信，如果你已经证明自己是一名有能力的战士，你就应该被允许战斗——不管你是谁。 | Most knighthood restrictions是lifted对于characters与10或更 勇武
+ 骑士 gain 剑术大师特质更多often的battles - Most knighthood restrictions是lifted对于characters与10或更 勇武
+- 骑士 gain 剑术大师特质更多often的battles
+| +2 勇武每等级的声名
+ +10% 荣誉称号荣耀进度 - +2 勇武每等级的声名
 - +10% 荣誉称号荣耀进度
-| 5 Courtiers with at least 10 勇武 who cannot be 骑士 | 好战
+| 5 廷臣与至少 10 勇武 who不能be 骑士 | 好战
 集体
-Egalitarian - Bellicose
+平等 - 好战
 - 集体
 - 平等
 | **干旱战士
 
-This culture has mastered the art of fighting in very dry climates.** | This culture has mastered the art of fighting in very dry climates. | 沙漠 Warrior trait 更常见. [2]
- In 沙漠 and 旱地:
- Vengeful +3 优势
- Zealous +2 优势
- Open Terrain Expert +1 优势
- Open Terrain Expert +1 优势 per tier
- Organizer +1 优势
- Organizer +1 优势 per tier
- Ambitious +3 Maximum Battle Roll
- Wrathful +2 Maximum Battle Roll
- Aggressive Attacker +1 Maximum Battle Roll
- Aggressive Attacker +1 Maximum Battle Roll per tier
- Reaver +1 Maximum Battle Roll
- Reaver +1 Maximum Battle Roll per tier
- Reckless +1 Maximum Battle Roll
- Reckless +1 Maximum Battle Roll per tier
- Diligent +2 Minimum Battle Roll
- Calm +2 Minimum Battle Roll
- Unyielding Defender +1 Minimum Battle Roll
- Unyielding Defender +1 Minimum Battle Roll per tier
- Humble −25% Attrition Taken
- Humble −20% Attrition Taken
- Honest −15% Attrition Taken
- Logistician −10% Attrition Taken
- Logistician −10% Attrition Taken per tier
- 解锁 Recruit Dry Terrain Specialist decision
-游牧 stationed 常备军 in 沙漠 and 旱地:
+这种文化拥有masteredart的fighting的very dry climates.** | 这种文化拥有masteredart的fighting的very dry climates. | 沙漠 战士特质 更常见. [2]
+ In 沙漠和旱地:
+ 复仇 +3 优势
+ 狂热 +2 优势
+ 开阔 地形 专精 +1 优势
+ 开阔 地形 专精 +1 优势 每阶
+ 组织者 +1 优势
+ 组织者 +1 优势 每阶
+ 野心 +3 最大 战斗骰
+ 暴怒 +2 最大 战斗骰
+ 进攻性进攻方 +1 最大 战斗骰
+ 进攻性进攻方 +1 最大 战斗骰 每阶
+ 掠夺者 +1 最大 战斗骰
+ 掠夺者 +1 最大 战斗骰 每阶
+ 鲁莽 +1 最大 战斗骰
+ 鲁莽 +1 最大 战斗骰 每阶
+ 勤勉 +2 最小 战斗骰
+ 冷静 +2 最小 战斗骰
+ 不屈防御方 +1 最小 战斗骰
+ 不屈防御方 +1 最小 战斗骰 每阶
+ 谦逊 −25% 损耗 受到的
+ 谦逊 −20% 损耗 受到的
+ 诚实 −15% 损耗 受到的
+ 后勤家 −10% 损耗 受到的
+ 后勤家 −10% 损耗 受到的 每阶
+ 解锁 招募 Dry 地形 专精 decision
+游牧 驻扎的 常备军的沙漠和旱地:
  +20% 伤害
- +20% 韧性 - 沙漠 Warrior trait 更常见. [2]
-- In 沙漠 and 旱地:
- Vengeful +3 优势
- Zealous +2 优势
- Open Terrain Expert +1 优势
- Open Terrain Expert +1 优势 per tier
- Organizer +1 优势
- Organizer +1 优势 per tier
- Ambitious +3 Maximum Battle Roll
- Wrathful +2 Maximum Battle Roll
- Aggressive Attacker +1 Maximum Battle Roll
- Aggressive Attacker +1 Maximum Battle Roll per tier
- Reaver +1 Maximum Battle Roll
- Reaver +1 Maximum Battle Roll per tier
- Reckless +1 Maximum Battle Roll
- Reckless +1 Maximum Battle Roll per tier
- Diligent +2 Minimum Battle Roll
- Calm +2 Minimum Battle Roll
- Unyielding Defender +1 Minimum Battle Roll
- Unyielding Defender +1 Minimum Battle Roll per tier
- Humble −25% Attrition Taken
- Humble −20% Attrition Taken
- Honest −15% Attrition Taken
- Logistician −10% Attrition Taken
- Logistician −10% Attrition Taken per tier
-- Vengeful +3 优势
-- Zealous +2 优势
-- Open Terrain Expert +1 优势
-- Open Terrain Expert +1 优势 per tier
-- Organizer +1 优势
-- Organizer +1 优势 per tier
-- Ambitious +3 Maximum Battle Roll
-- Wrathful +2 Maximum Battle Roll
-- Aggressive Attacker +1 Maximum Battle Roll
-- Aggressive Attacker +1 Maximum Battle Roll per tier
-- Reaver +1 Maximum Battle Roll
-- Reaver +1 Maximum Battle Roll per tier
-- Reckless +1 Maximum Battle Roll
-- Reckless +1 Maximum Battle Roll per tier
-- Diligent +2 Minimum Battle Roll
-- Calm +2 Minimum Battle Roll
-- Unyielding Defender +1 Minimum Battle Roll
-- Unyielding Defender +1 Minimum Battle Roll per tier
-- Humble −25% Attrition Taken
-- Humble −20% Attrition Taken
-- Honest −15% Attrition Taken
-- Logistician −10% Attrition Taken
-- Logistician −10% Attrition Taken per tier
-- 解锁 Recruit Dry Terrain Specialist decision
-- 游牧 stationed 常备军 in 沙漠 and 旱地:
+ +20% 韧性 - 沙漠 战士特质 更常见. [2]
+- In 沙漠和旱地:
+ 复仇 +3 优势
+ 狂热 +2 优势
+ 开阔 地形 专精 +1 优势
+ 开阔 地形 专精 +1 优势 每阶
+ 组织者 +1 优势
+ 组织者 +1 优势 每阶
+ 野心 +3 最大 战斗骰
+ 暴怒 +2 最大 战斗骰
+ 进攻性进攻方 +1 最大 战斗骰
+ 进攻性进攻方 +1 最大 战斗骰 每阶
+ 掠夺者 +1 最大 战斗骰
+ 掠夺者 +1 最大 战斗骰 每阶
+ 鲁莽 +1 最大 战斗骰
+ 鲁莽 +1 最大 战斗骰 每阶
+ 勤勉 +2 最小 战斗骰
+ 冷静 +2 最小 战斗骰
+ 不屈防御方 +1 最小 战斗骰
+ 不屈防御方 +1 最小 战斗骰 每阶
+ 谦逊 −25% 损耗 受到的
+ 谦逊 −20% 损耗 受到的
+ 诚实 −15% 损耗 受到的
+ 后勤家 −10% 损耗 受到的
+ 后勤家 −10% 损耗 受到的 每阶
+- 复仇 +3 优势
+- 狂热 +2 优势
+- 开阔 地形 专精 +1 优势
+- 开阔 地形 专精 +1 优势 每阶
+- 组织者 +1 优势
+- 组织者 +1 优势 每阶
+- 野心 +3 最大 战斗骰
+- 暴怒 +2 最大 战斗骰
+- 进攻性进攻方 +1 最大 战斗骰
+- 进攻性进攻方 +1 最大 战斗骰 每阶
+- 掠夺者 +1 最大 战斗骰
+- 掠夺者 +1 最大 战斗骰 每阶
+- 鲁莽 +1 最大 战斗骰
+- 鲁莽 +1 最大 战斗骰 每阶
+- 勤勉 +2 最小 战斗骰
+- 冷静 +2 最小 战斗骰
+- 不屈防御方 +1 最小 战斗骰
+- 不屈防御方 +1 最小 战斗骰 每阶
+- 谦逊 −25% 损耗 受到的
+- 谦逊 −20% 损耗 受到的
+- 诚实 −15% 损耗 受到的
+- 后勤家 −10% 损耗 受到的
+- 后勤家 −10% 损耗 受到的 每阶
+- 解锁 招募 Dry 地形 专精 decision
+- 游牧 驻扎的 常备军的沙漠和旱地:
 - +20% 伤害
 - +20% 韧性
 | -18 沙漠 危险度
@@ -2570,434 +2570,434 @@ This culture has mastered the art of fighting in very dry climates.** | This cul
  -13 旱地 危险度 - -18 沙漠 危险度
 - -23 沙漠山地 危险度
 - -13 旱地 危险度
-| +25% 补给上限 in 沙漠
- +25% 补给上限 in 旱地
- +10% 征召兵规模 in 沙漠
- +10% 征召兵规模 in 旱地 - +25% 补给上限 in 沙漠
-- +25% 补给上限 in 旱地
-- +10% 征召兵规模 in 沙漠
-- +10% 征召兵规模 in 旱地
-| 文化存在于拥有以下地形的伯爵领中： 沙漠 or 旱地
+| +25% 补给上限的沙漠
+ +25% 补给上限的旱地
+ +10% 征召兵规模的沙漠
+ +10% 征召兵规模的旱地 - +25% 补给上限的沙漠
+- +25% 补给上限的旱地
+- +10% 征召兵规模的沙漠
+- +10% 征召兵规模的旱地
+| 文化存在于拥有以下地形的伯爵领中： 沙漠或旱地
 
  Arabic 遗产
  穆巴里祖恩传统
- 和平主义者传统 - 文化存在于拥有以下地形的伯爵领中： 沙漠 or 旱地
+ 和平主义者传统 - 文化存在于拥有以下地形的伯爵领中： 沙漠或旱地
 - Arabic 遗产
 - 穆巴里祖恩传统
 - 和平主义者传统
-| 30% 的文化存在于拥有以下地形的伯爵领中： 沙漠 or 旱地 | 好战
+| 30% 的文化存在于拥有以下地形的伯爵领中： 沙漠或旱地 | 好战
 集体
-Stoic - Bellicose
+坚毅 - 好战
 - 集体
 - 坚毅
 | **寒冬战士
 
-This culture is used to the reality that harsh winds and bitter cold brings.** | This culture is used to the reality that harsh winds and bitter cold brings. | Winter Soldier trait 更常见. [2]
- In provinces affected by Winter:
- Diligent +10% 移动速度
- Brave +10% 移动速度
- Callous +10% 移动速度
- Stubborn +10% 移动速度
- Logistician +10% 移动速度
- Logistician +10% 移动速度 per tier
- Open Terrain Expert +10% 移动速度
- Open Terrain Expert +10% 移动速度 per tier
- Organizer +5% 移动速度
- Organizer +5% 移动速度 per tier
- Calm +3 优势
- Patient +3 优势
- Reaver +2 优势
- Reaver +2 优势 per tier
- Rough Terrain Expert +2 优势
- Rough Terrain Expert +2 优势 per tier
- Aggressive Attacker +1 优势
- Aggressive Attacker +1 优势 per tier
- Unyielding Defender +1 优势
- Unyielding Defender +1 优势 per tier
- 解锁 Recruit Winter Specialist decision - Winter Soldier trait 更常见. [2]
-- In provinces affected by Winter:
- Diligent +10% 移动速度
- Brave +10% 移动速度
- Callous +10% 移动速度
- Stubborn +10% 移动速度
- Logistician +10% 移动速度
- Logistician +10% 移动速度 per tier
- Open Terrain Expert +10% 移动速度
- Open Terrain Expert +10% 移动速度 per tier
- Organizer +5% 移动速度
- Organizer +5% 移动速度 per tier
- Calm +3 优势
- Patient +3 优势
- Reaver +2 优势
- Reaver +2 优势 per tier
- Rough Terrain Expert +2 优势
- Rough Terrain Expert +2 优势 per tier
- Aggressive Attacker +1 优势
- Aggressive Attacker +1 优势 per tier
- Unyielding Defender +1 优势
- Unyielding Defender +1 优势 per tier
-- Diligent +10% 移动速度
-- Brave +10% 移动速度
-- Callous +10% 移动速度
-- Stubborn +10% 移动速度
-- Logistician +10% 移动速度
-- Logistician +10% 移动速度 per tier
-- Open Terrain Expert +10% 移动速度
-- Open Terrain Expert +10% 移动速度 per tier
-- Organizer +5% 移动速度
-- Organizer +5% 移动速度 per tier
-- Calm +3 优势
-- Patient +3 优势
-- Reaver +2 优势
-- Reaver +2 优势 per tier
-- Rough Terrain Expert +2 优势
-- Rough Terrain Expert +2 优势 per tier
-- Aggressive Attacker +1 优势
-- Aggressive Attacker +1 优势 per tier
-- Unyielding Defender +1 优势
-- Unyielding Defender +1 优势 per tier
-- 解锁 Recruit Winter Specialist decision
+这种文化used到reality该harsh winds和bitter cold brings.** | 这种文化used到reality该harsh winds和bitter cold brings. | 冬季 士兵特质 更常见. [2]
+ In 省份 受到影响的 冬季:
+ 勤勉 +10% 移动速度
+ 勇敢 +10% 移动速度
+ 冷酷 +10% 移动速度
+ 固执 +10% 移动速度
+ 后勤家 +10% 移动速度
+ 后勤家 +10% 移动速度 每阶
+ 开阔 地形 专精 +10% 移动速度
+ 开阔 地形 专精 +10% 移动速度 每阶
+ 组织者 +5% 移动速度
+ 组织者 +5% 移动速度 每阶
+ 冷静 +3 优势
+ 耐心 +3 优势
+ 掠夺者 +2 优势
+ 掠夺者 +2 优势 每阶
+ 崎岖地形 专精 +2 优势
+ 崎岖地形 专精 +2 优势 每阶
+ 进攻性进攻方 +1 优势
+ 进攻性进攻方 +1 优势 每阶
+ 不屈防御方 +1 优势
+ 不屈防御方 +1 优势 每阶
+ 解锁 招募 冬季 专精 decision - 冬季 士兵特质 更常见. [2]
+- In 省份 受到影响的 冬季:
+ 勤勉 +10% 移动速度
+ 勇敢 +10% 移动速度
+ 冷酷 +10% 移动速度
+ 固执 +10% 移动速度
+ 后勤家 +10% 移动速度
+ 后勤家 +10% 移动速度 每阶
+ 开阔 地形 专精 +10% 移动速度
+ 开阔 地形 专精 +10% 移动速度 每阶
+ 组织者 +5% 移动速度
+ 组织者 +5% 移动速度 每阶
+ 冷静 +3 优势
+ 耐心 +3 优势
+ 掠夺者 +2 优势
+ 掠夺者 +2 优势 每阶
+ 崎岖地形 专精 +2 优势
+ 崎岖地形 专精 +2 优势 每阶
+ 进攻性进攻方 +1 优势
+ 进攻性进攻方 +1 优势 每阶
+ 不屈防御方 +1 优势
+ 不屈防御方 +1 优势 每阶
+- 勤勉 +10% 移动速度
+- 勇敢 +10% 移动速度
+- 冷酷 +10% 移动速度
+- 固执 +10% 移动速度
+- 后勤家 +10% 移动速度
+- 后勤家 +10% 移动速度 每阶
+- 开阔 地形 专精 +10% 移动速度
+- 开阔 地形 专精 +10% 移动速度 每阶
+- 组织者 +5% 移动速度
+- 组织者 +5% 移动速度 每阶
+- 冷静 +3 优势
+- 耐心 +3 优势
+- 掠夺者 +2 优势
+- 掠夺者 +2 优势 每阶
+- 崎岖地形 专精 +2 优势
+- 崎岖地形 专精 +2 优势 每阶
+- 进攻性进攻方 +1 优势
+- 进攻性进攻方 +1 优势 每阶
+- 不屈防御方 +1 优势
+- 不屈防御方 +1 优势 每阶
+- 解锁 招募 冬季 专精 decision
 | -19 针叶林 危险度 - -19 针叶林 危险度
-| 文化 is present in a county that gets Winter
+| 文化存在在一个county该gets 冬季
 
- 和平主义者传统 - 文化 is present in a county that gets Winter
+ 和平主义者传统 - 文化存在在一个county该gets 冬季
 - 和平主义者传统
-| 30% of culture is present in counties that gets Winter | 好战
+| 30%的culture存在的伯爵领该gets 冬季 | 好战
 集体
-Stoic - Bellicose
+坚毅 - 好战
 - 集体
 - 坚毅
 
-## 社会传统（Social traditions）
+## 社会传统（Social Traditions）
 
-| **传统** | **效果** | **必要条件** | **可选条件** | **偏好文化精神** | Avid Falconers繁殖、训练猎鹰和鹰隼等猛禽并以此狩猎是这种文化精英最负盛名的消遣之一。 | −50% Call Hunt Activity Cooldown (does not stack)
- +0.5 每月威望 for Hunters
- +5 朝堂封臣好感度 for Hunters
- 角色s gain more Falconer 特质 Experience
- +15% 追击 Efficiency for all stationed MAA
- Can construct Legendary Hunting Lodge after completing a Legend - −50% Call Hunt Activity Cooldown (does not stack)
-- +0.5 每月威望 for Hunters
-- +5 朝堂封臣好感度 for Hunters
-- 角色s gain more Falconer 特质 Experience
-- +15% 追击 Efficiency for all stationed MAA
-- Can construct Legendary Hunting Lodge after completing a Legend
+| **传统** | **效果** | **必要条件** | **可选条件** | **偏好文化精神** | 狂热驯鹰者——饲养、训练猛禽（如猎鹰和鹰）并与之狩猎的艺术，是这种文化精英阶层中最有声望的消遣之一。 | −50% 召集狩猎活动冷却时间 (不可叠加)
+ +0.5 每月威望对于猎人
+ +5 朝堂 封臣好感度对于猎人
+ 角色获得更多 驯鹰师特质经验
+ +15% 追击 效率对于所有驻扎的 常备军
+ 可以建造 传奇猎场 在完成传说后 - −50% 召集狩猎活动冷却时间 (不可叠加)
+- +0.5 每月威望对于猎人
+- +5 朝堂 封臣好感度对于猎人
+- 角色获得更多 驯鹰师特质经验
+- +15% 追击 效率对于所有驻扎的 常备军
+- 可以建造 传奇猎场 在完成传说后
 | 巡游与锦标赛DLC
- Vegetarianism tradition
+ 素食主义 tradition
  和平主义者传统 - 巡游与锦标赛DLC
-- Vegetarianism tradition
+- 素食主义 tradition
 - 和平主义者传统
 | 礼仪
-Stoic - Ceremonious
+坚毅 - 礼仪
 - 坚毅
-| Beacon of 学识作为希腊、印度和阿拉伯学术的交汇点，这种文化以科学进步为荣。 | 此文化的监护人更有效
- 解锁 Sponsor Research Project decision
- 可以授予  Court Scholar 宫廷职位
- +1 学识 每等级 of Devotion
- +20% Monthly 学识 生活方式经验
- +5% 文化瞩目进度 per 学识 Education trait level
- +10% 文化瞩目进度 if 文化 Head is Scholar
- 儿童获得以下特质的可能性提高3倍： Pensive trait
- 儿童获得以下特质的可能性降低3倍： Rowdy trait - 此文化的监护人更有效
-- 解锁 Sponsor Research Project decision
-- 可以授予  Court Scholar 宫廷职位
-- +1 学识 每等级 of Devotion
-- +20% Monthly 学识 生活方式经验
-- +5% 文化瞩目进度 per 学识 Education trait level
-- +10% 文化瞩目进度 if 文化 Head is Scholar
-- 儿童获得以下特质的可能性提高3倍： Pensive trait
-- 儿童获得以下特质的可能性降低3倍： Rowdy trait
+| 学识灯塔——作为希腊、印度和阿拉伯学术的汇聚点，这种文化以科学进步为荣。 | 此文化的监护人更有效
+ 解锁 资助研究项目决定
+ 可以授予  宫廷 学者 宫廷职位
+ +1 学识每等级的虔诚
+ +20% 每月 学识 生活方式经验
+ +5% 文化瞩目进度每学识 教育特质等级
+ +10% 文化瞩目进度 if 文化领袖是学者
+ 儿童获得以下特质的可能性提高3倍： 沉思特质
+ 儿童获得以下特质的可能性降低3倍： 粗暴特质 - 此文化的监护人更有效
+- 解锁 资助研究项目决定
+- 可以授予  宫廷 学者 宫廷职位
+- +1 学识每等级的虔诚
+- +20% 每月 学识 生活方式经验
+- +5% 文化瞩目进度每学识 教育特质等级
+- +10% 文化瞩目进度 if 文化领袖是学者
+- 儿童获得以下特质的可能性提高3倍： 沉思特质
+- 儿童获得以下特质的可能性降低3倍： 粗暴特质
 | 波斯遗产DLC
- Iranian 遗产
+ 伊朗 遗产
  哲学文化传统
- 尚武文化传统 - Iranian 遗产
+ 尚武文化传统 - 伊朗 遗产
 - 哲学文化传统
 - 尚武文化传统
-| 文化 has at least 5 Counts with the Scholar trait | 礼仪
+| 文化至少有 5 伯爵 拥有学者特质的 | 礼仪
 集体
-Spiritual - Ceremonious
+灵性 - 礼仪
 - 集体
 - 灵性
-| Charismatic这种文化的人民在外交事务方面表现出色，社交礼仪被看得比任何事情都重要。 | 60% Chance 外交 Education yields better outcomes
- 儿童获得以下特质的可能性提高3倍： Charming trait
- +15% Monthly 宫廷威严 Change
+| 魅力超群——The people的这种文化excel的diplomatic matters,和social etiquette是valued above所有else. | 60% 几率 外交 教育 yields better outcomes
+ 儿童获得以下特质的可能性提高3倍： Charming特质
+ +15% 每月 宫廷威严 Change
  +10% 个人阴谋成功几率
  +10% Enemy 敌对阴谋成功几率
- +10% 旅行安全 - 60% Chance 外交 Education yields better outcomes
-- 儿童获得以下特质的可能性提高3倍： Charming trait
-- +15% Monthly 宫廷威严 Change
+ +10% 旅行安全 - 60% 几率 外交 教育 yields better outcomes
+- 儿童获得以下特质的可能性提高3倍： Charming特质
+- +15% 每月 宫廷威严 Change
 - +10% 个人阴谋成功几率
 - +10% Enemy 敌对阴谋成功几率
 - +10% 旅行安全
-| 文化 has at least 5 Counts with the Grey Eminence trait | 集体
+| 文化至少有 5 伯爵与Grey Eminence特质 | 集体
 平等
-Stoic - Communal
+坚毅 - 集体
 - 平等
 - 坚毅
-| Charitable无论信仰如何，这种文化的人民都积极支持那些不太幸运的人。 | +5 通用好感度
- +20% 好感度 Gain from Send Gift
+| CharitableRegardless的faith, people的这种文化是 motivated to support那些less fortunate. | +5 一般好感度
+ +20% 好感度 增长来自Send Gift
  −3% 每月收入
- 儿童更可能获得 Compassionate trait
- 儿童更可能获得 Generous trait
- AI characters do not require reasons to send gifts - +5 通用好感度
-- +20% 好感度 Gain from Send Gift
+ 儿童更可能获得 仁慈特质
+ 儿童更可能获得 慷慨特质
+ AI characters不会require reasons to send gifts - +5 一般好感度
+- +20% 好感度 增长来自Send Gift
 - −3% 每月收入
-- 儿童更可能获得 Compassionate trait
-- 儿童更可能获得 Generous trait
-- AI characters do not require reasons to send gifts
-| 文化 has at least 5 Counts with the Generous trait | 集体
-Spiritual - Communal
+- 儿童更可能获得 仁慈特质
+- 儿童更可能获得 慷慨特质
+- AI characters不会require reasons to send gifts
+| 文化至少有 5 伯爵与慷慨特质 | 集体
+灵性 - 集体
 - 灵性
-| Chivalry这种文化将骑士精神和骑士行为准则作为规范行为的社会方法。武艺、责任、荣誉和道德备受推崇，蹩脚的诗歌和浪漫文学也是如此。 | Can Spar against own 骑士 in Single Combat to gain Modifiers
- AI角色更可能 start 浪漫阴谋s
- +50 声望 per successful 浪漫阴谋
- +40% 压力 per failed 浪漫阴谋
- +15 吸引力好感度 for  Poet 特质
- -10 Days Romance Phase Length for  Poet 特质
- -20 Days Romance Phase Length for  Gallant 特质
- Can hold a Joust Contests in a Grand Tournaments
- The 骑士-Errant 特质 有额外加成
+| 骑士精神——这种文化拥有embraced chivalry和chivalric codes的conduct作为一个social method的regulating behavior. 军事 prowess, duty, honor和morality是prized, as是bad poetry和romantic literature. | 可以Spar对抗own 骑士的单一 战斗 to gain Modifiers
+ AI角色更可能 start 浪漫 阴谋
+ +50 声望每successful 浪漫阴谋
+ +40% 压力每failed 浪漫阴谋
+ +15 吸引力好感度对于 诗人 特质
+ -10 Days 浪漫 Phase Length对于 诗人 特质
+ -20 Days 浪漫 Phase Length对于 Gallant 特质
+ 可以hold一个Joust Contests在一个Grand Tournaments
+骑士-Errant 特质 有额外加成
 
-All 角色s:
+所有 角色:
  +50% 暴政增长
- +10% 荣誉称号荣耀增长 - Can Spar against own 骑士 in Single Combat to gain Modifiers
-- AI角色更可能 start 浪漫阴谋s
-- +50 声望 per successful 浪漫阴谋
-- +40% 压力 per failed 浪漫阴谋
-- +15 吸引力好感度 for  Poet 特质
-- -10 Days Romance Phase Length for  Poet 特质
-- -20 Days Romance Phase Length for  Gallant 特质
-- Can hold a Joust Contests in a Grand Tournaments
-- The 骑士-Errant 特质 有额外加成
-- All 角色s:
+ +10% 荣誉称号荣耀增长 - 可以Spar对抗own 骑士的单一 战斗 to gain Modifiers
+- AI角色更可能 start 浪漫 阴谋
+- +50 声望每successful 浪漫阴谋
+- +40% 压力每failed 浪漫阴谋
+- +15 吸引力好感度对于 诗人 特质
+- -10 Days 浪漫 Phase Length对于 诗人 特质
+- -20 Days 浪漫 Phase Length对于 Gallant 特质
+- 可以hold一个Joust Contests在一个Grand Tournaments
+-骑士-Errant 特质 有额外加成
+- 所有 角色:
 - +50% 暴政增长
 - +10% 荣誉称号荣耀增长
-| 文化 originates from Western Europe | 6 骑士 with at least 12 勇武 | 好战
+| 文化 起源于 西方的 Europe | 6 骑士与至少 12 勇武 | 好战
 礼仪
-Egalitarian - Bellicose
+平等 - 好战
 - 礼仪
 - 平等
-| Cultivated Sophistication蛮族羡慕地注视着这种文化的华丽奢侈品和社会的精致修养。在优越感的驱使下，这种文化拒绝任何超出其世界性影响范围的矛盾。 | AI角色更不太可能 convert to local culture
- Gain stress when converting to local culture
- AI characters more likely to hybridize with this culture
- +20 发展度增长 when an Estate Building is constructed or upgraded
- 解锁 Adopt House Member interaction for 行政 House Head
-All 角色s:
- +10% 每月影响力
+| Cultivated SophisticationBarbarians gaze的envy upon此文化's resplendent luxuries,其society's sophistication. Fueled被一个sense的primacy, 这种文化rejects任何contradictions该lie outside其cosmopolitan sphere的influence. | AI角色更不太可能 convert to local culture
+ 增长 stress当converting to local culture
+ AI characters 更可能 to hybridize与此文化
+ +20 发展度增长当一个Estate 建筑是constructed或upgraded
+ 解锁 采用 家族 成员 interaction对于行政 家族 首领
+所有 角色:
+ +10% 每月 影响力
  +20% 外交范围
  -10% 文化瞩目进度 - AI角色更不太可能 convert to local culture
-- Gain stress when converting to local culture
-- AI characters more likely to hybridize with this culture
-- +20 发展度增长 when an Estate Building is constructed or upgraded
-- 解锁 Adopt House Member interaction for 行政 House Head
-- All 角色s:
- +10% 每月影响力
+- 增长 stress当converting to local culture
+- AI characters 更可能 to hybridize与此文化
+- +20 发展度增长当一个Estate 建筑是constructed或upgraded
+- 解锁 采用 家族 成员 interaction对于行政 家族 首领
+- 所有 角色:
+ +10% 每月 影响力
  +20% 外交范围
  -10% 文化瞩目进度
-- +10% 每月影响力
+- +10% 每月 影响力
 - +20% 外交范围
 - -10% 文化瞩目进度
 | 权力之路DLC
  行政 government - 权力之路DLC
 - 行政 government
-| 发展度 on capital is 30 or higher | 官僚
+| 发展度 on capital是30或higher | 官僚
 礼仪
-Spiritual - Bureaucratic
+灵性 - 官僚
 - 礼仪
 - 灵性
-| Dexterous Fishermen任何人都能捕鱼，但能够如此娴熟地捕鱼，无论潮汐或风向如何，每次都能收获丰盛，则是更罕见的才能。没有人比这些渔夫更了解海岸、陆地或海洋。 | +50% 补给容量
+| Dexterous FishermenAnyone可以fish,但to do so与such skill该any catch是bountiful, regardless的tide或wind,是一个rarer talent. No一个knowscoast, land或sea, better than这些fishermen. | +50% 补给容量
  +5 海岸 优势
- +1 Defender 优势 per 海岸 地产 level
- -25 海岸 Sea 危险度
- +15%/+20%/+25%/... 常备军 韧性 for stationed 常备军 随之缩放 Tradeport level - +50% 补给容量
+ +1 防御方优势每海岸 地产等级
+ -25 海岸 海 危险度
+ +15%/+20%/+25%/... 常备军韧性对于驻扎的 常备军 随之缩放 贸易港等级 - +50% 补给容量
 - +5 海岸 优势
-- +1 Defender 优势 per 海岸 地产 level
-- -25 海岸 Sea 危险度
-- +15%/+20%/+25%/... 常备军 韧性 for stationed 常备军 随之缩放 Tradeport level
-| 文化 is present in a 沿海 county | 30% 的文化存在于沿海伯爵领中 | 官僚
+- +1 防御方优势每海岸 地产等级
+- -25 海岸 海 危险度
+- +15%/+20%/+25%/... 常备军韧性对于驻扎的 常备军 随之缩放 贸易港等级
+| 文化存在在一个沿海 county | 30% 的文化存在于沿海伯爵领中 | 官僚
 集体
 礼仪
 平等
 灵性
-Stoic - Bureaucratic
+坚毅 - 官僚
 - 集体
 - 礼仪
 - 平等
 - 灵性
 - 坚毅
-| Diasporic这种文化的人民已经失去了他们曾经珍视的故土。他们中的一些人周游世界，寻找一个可以重新开始的地方。 | +1 Foreign Language Limit
- +50% Chance for Wanderers to learn a new Language
+| DiasporicPeople的这种文化have losthomeland他们once held dear. Some among them travelworld searching对于一个place where they可以begin anew. | +1 外语上限
+ +50% 几率对于流浪者 to learn一个new 语言
  +1 管理
  +1 学识
  +20% 外交范围
- No Negative 好感度 of Other 文化s
- Allows the Become Adventurer decision - +1 Foreign Language Limit
-- +50% Chance for Wanderers to learn a new Language
+ No 负面 好感度的Other 文化
+ AllowsBecome 冒险者 decision - +1 外语上限
+- +50% 几率对于流浪者 to learn一个new 语言
 - +1 管理
 - +1 学识
 - +20% 外交范围
-- No Negative 好感度 of Other 文化s
-- Allows the Become Adventurer decision
-| Israelite 遗产
- Cannot be picked - Israelite 遗产
-- Cannot be picked
-| All | Equitable在这种文化中，真理和公正的正义受到高度重视。 | 儿童更可能获得 Just trait
- 儿童更可能获得 Honest trait
- 角色s are more likely accept request for Hostages
- −30% 敌对阴谋力量 - 儿童更可能获得 Just trait
-- 儿童更可能获得 Honest trait
-- 角色s are more likely accept request for Hostages
+- No 负面 好感度的Other 文化
+- AllowsBecome 冒险者 decision
+| 以色列 遗产
+ 不能 be picked - 以色列 遗产
+- 不能 be picked
+| 所有 | 公正——In 这种文化truth和impartial justice是valued highly. | 儿童更可能获得 公正特质
+ 儿童更可能获得 诚实特质
+ 角色是更可能 accept request对于Hostages
+ −30% 敌对阴谋力量 - 儿童更可能获得 公正特质
+- 儿童更可能获得 诚实特质
+- 角色是更可能 accept request对于Hostages
 - −30% 敌对阴谋力量
-| 文化 has at least 5 Counts with the Just trait | 平等
-Stoic - Egalitarian
+| 文化至少有 5 伯爵与公正特质 | 平等
+坚毅 - 平等
 - 坚毅
-| Enlightened Magnates这种文化有着传奇的行政才能和诗歌技巧的遗产。一个好的统治者应该拥有两者的光辉融合——或者向拥有这些能力的人求教。 | The Poet trait 更常见. Only affects the AI and not the Player
- The Poet 特质 有额外加成
- +20 Court Poet Aptitude
- +15 税收 Collector's Aptitude
- 可以颁布  Dehqan 税收 Decree
- +1 Available  税收 Jurisdictions - The Poet trait 更常见. Only affects the AI and not the Player
-- The Poet 特质 有额外加成
-- +20 Court Poet Aptitude
-- +15 税收 Collector's Aptitude
-- 可以颁布  Dehqan 税收 Decree
-- +1 Available  税收 Jurisdictions
+| 开明权贵——这种文化拥有一个storied 遗产的administrative acumen和poetic skill. A good ruler should possess一个glorious mixture的both -或seek counsel与those who do. |诗人特质 更常见. 仅 affectsAI和notPlayer
+诗人 特质 有额外加成
+ +20 宫廷 诗人 能力
+ +15 税收 Collector's 能力
+ 可以颁布  Dehqan 税收 法令
+ +1 可用的  税收 Jurisdictions -诗人特质 更常见. 仅 affectsAI和notPlayer
+-诗人 特质 有额外加成
+- +20 宫廷 诗人 能力
+- +15 税收 Collector's 能力
+- 可以颁布  Dehqan 税收 法令
+- +1 可用的  税收 Jurisdictions
 | 波斯遗产DLC
- Iranian 遗产
- 精致诗歌传统 - Iranian 遗产
+ 伊朗 遗产
+ 精致诗歌传统 - 伊朗 遗产
 - 精致诗歌传统
-| 文化 has at least 3 Counts with the Poet trait | 礼仪
+| 文化至少有 3 伯爵与诗人特质 | 礼仪
 集体
-Spiritual - Ceremonious
+灵性 - 礼仪
 - 集体
 - 灵性
-| Expert Artisans这种文化中的孩子们通常继承父母的职业，跨越世代积累广泛的行业知识和技能。 | −10% 建筑建造费用
- Artisan and Weaver Inspirations create better Artifacts - −10% 建筑建造费用
-- Artisan and Weaver Inspirations create better Artifacts
-| 御前宫廷DLC | 文化 has at least 3 Counts who have or had an inspiration | 集体
+| 专精 ArtisansChildren的这种文化often carry在profession的其 parents, accumulating extensive knowledge和skill对于其 trade across generations. | −10% 建筑建造费用
+ Artisan和Weaver 灵感 create better 工艺品 - −10% 建筑建造费用
+- Artisan和Weaver 灵感 create better 工艺品
+| 御前宫廷 DLC | 文化至少有 3 伯爵 who have或had一个inspiration | 集体
 礼仪
-Spiritual - Communal
+灵性 - 集体
 - 礼仪
 - 灵性
-| Eye for an Eye在这种文化中，侮辱不会被遗忘，也不会被原谅。这里的人们可以长久地怀恨在心，复仇也带着激情进行。 | +10 自然恐惧值
+| 以眼还眼——In 这种文化slights是not to be forgotten, nor forgiven. Its people可以carry grudges对于long,和vengeance是carried out与一个passion. | +10 自然恐惧值
  +15% 敌对阴谋成功几率 towards Rivals
- +20% 敌对阴谋力量 if Vengeful
- +10 同文化好感度 if Vengeful
- −10 同文化好感度 if Forgiving
- 儿童更可能获得 Vengeful trait
- Vengeful characters form Rivalries easier - +10 自然恐惧值
+ +20% 敌对阴谋力量 if 复仇
+ +10 同文化好感度 if 复仇
+ −10 同文化好感度 if 宽恕
+ 儿童更可能获得 复仇特质
+ 复仇 characters form Rivalries easier - +10 自然恐惧值
 - +15% 敌对阴谋成功几率 towards Rivals
-- +20% 敌对阴谋力量 if Vengeful
-- +10 同文化好感度 if Vengeful
-- −10 同文化好感度 if Forgiving
-- 儿童更可能获得 Vengeful trait
-- Vengeful characters form Rivalries easier
-| 文化 has at least 5 Counts with the Vengeful trait | 好战
-Communal - Bellicose
+- +20% 敌对阴谋力量 if 复仇
+- +10 同文化好感度 if 复仇
+- −10 同文化好感度 if 宽恕
+- 儿童更可能获得 复仇特质
+- 复仇 characters form Rivalries easier
+| 文化至少有 5 伯爵与复仇特质 | 好战
+集体 - 好战
 - 集体
-| Forbearing在这种文化中，面对逆境保持耐心和克制是很常见的。 | −10% 压力增长
+| 宽容忍耐——In 这种文化being patient和restrained在face的adversity是common. | −10% 压力增长
  −5 自然恐惧值
- 儿童更可能获得 Calm trait
- 儿童更可能获得 Patient trait - −10% 压力增长
+ 儿童更可能获得 冷静特质
+ 儿童更可能获得 耐心特质 - −10% 压力增长
 - −5 自然恐惧值
-- 儿童更可能获得 Calm trait
-- 儿童更可能获得 Patient trait
-| 文化 has at least 5 Counts with the Patient trait | 灵性
-Stoic - Spiritual
+- 儿童更可能获得 冷静特质
+- 儿童更可能获得 耐心特质
+| 文化至少有 5 伯爵与耐心特质 | 灵性
+坚毅 - 灵性
 - 坚毅
-| Industrious这种文化教导并尊崇为社区勤劳工作的理念。 | +25 发展度增长 when a Building is constructed (up to once a year)
-TheWatermills andWindmills lines of Buildings 可以提前一个时代建造
+| 勤劳——这种文化teaches和enshrines ideas的industriousness和hard work on behalf的one's community. | +25 发展度增长当a 建筑是constructed (up to once一个year)
+TheWatermills andWindmills lines的建筑 可以提前一个时代建造
  +15% 压力增长
  −15% 建筑建造时间
- +15% 建造费用 - +25 发展度增长 when a Building is constructed (up to once a year)
-- TheWatermills andWindmills lines of Buildings 可以提前一个时代建造
+ +15% 建造费用 - +25 发展度增长当a 建筑是constructed (up to once一个year)
+- TheWatermills andWindmills lines的建筑 可以提前一个时代建造
 - +15% 压力增长
 - −15% 建筑建造时间
 - +15% 建造费用
-| 文化 has at least 5 Counts with the Diligent trait | 好战
+| 文化至少有 5 伯爵与勤勉特质 | 好战
 集体
-Stoic - Bellicose
+坚毅 - 好战
 - 集体
 - 坚毅
-| Life is just a Joke即使在砧板上头顶斧头，这种文化也会发出笑声。 | +5 同文化好感度 for Gregarious, Content, Cynical, Fickle and Eccentric characters
- −20 压力 when receiving a war declaration
- +50 AI Boldness - +5 同文化好感度 for Gregarious, Content, Cynical, Fickle and Eccentric characters
-- −20 压力 when receiving a war declaration
+| 人生如戏——这种文化would chuckle在chopping block与一个axe above其head. | +5 同文化好感度对于合群, 知足, 愤世嫉俗, 善变和Eccentric characters
+ −20 压力当receiving一个war declaration
+ +50 AI Boldness - +5 同文化好感度对于合群, 知足, 愤世嫉俗, 善变和Eccentric characters
+- −20 压力当receiving一个war declaration
 - +50 AI Boldness
-| 文化 has at least 5 Counts with the Cynical trait | 集体
-Stoic - Communal
+| 文化至少有 5 伯爵与愤世嫉俗特质 | 集体
+坚毅 - 集体
 - 坚毅
-| Loyal Subjects对于这种文化来说，为领主和国家服务既高尚又正义——是一种责任和特权，而非贪婪的安排或不受欢迎的负担。 | +50% 学习语言成功几率 towards 领主
+| 忠诚臣民——For此文化, serving one's liege和country是both noble和just -一个duty和一个privilege, rather than一个avaricious arrangement或一个unwanted burden. | +50% 学习语言成功几率 towards 领主
  +10 领主好感度
  +5 民众好感度
- 封臣s of this 文化 do not consider 信仰 or 文化 when joining Factions
- 封臣s of this 文化 often learn the Language of their 领主
- 封臣s of this 文化 are more likely to accept an request for Hostages from their 领主 - +50% 学习语言成功几率 towards 领主
+ 封臣此文化不会consider 信仰或文化当joining 派系
+ 封臣此文化 often learn语言的其 领主
+ 封臣此文化是更可能 to accept一个request对于Hostages来自其 领主 - +50% 学习语言成功几率 towards 领主
 - +10 领主好感度
 - +5 民众好感度
-- 封臣s of this 文化 do not consider 信仰 or 文化 when joining Factions
-- 封臣s of this 文化 often learn the Language of their 领主
-- 封臣s of this 文化 are more likely to accept an request for Hostages from their 领主
-| 文化 has at least 3 Count 封臣s of a different culture 领主 | 好战
+- 封臣此文化不会consider 信仰或文化当joining 派系
+- 封臣此文化 often learn语言的其 领主
+- 封臣此文化是更可能 to accept一个request对于Hostages来自其 领主
+| 文化至少有 3 伯爵 封臣的一个different culture 领主 | 好战
 集体
-Stoic - Bellicose
+坚毅 - 好战
 - 集体
 - 坚毅
-| 军事 Admiration那些愿意拿起剑为自己的文化而战的人值得钦佩。无论胜算如何。 | 可以使用 Single Combat duels
- +2 骑士数量
- +5 伤害抗性 for 勇武
+| 军事 AdmirationThose who是willing to take up sword和fight对于其 culture是worthy的admiration. No matterodds. | 可以使用 单一 战斗 duels
+ +2 Number的骑士
+ +5 伤害抗性对于勇武
  +10% 荣誉称号荣耀进度
- +1 同文化好感度 per 军事 or 勇武 Education trait level
- +2 吸引力好感度 per 军事 Education trait level
- +0.1 每月威望 per 勇武 Education trait level
- +1 同文化好感度 per 勇武 Education trait level
- +5 吸引力好感度 per Blademaster trait level
- −15 同文化好感度 for Cravens and Contents
- +5 骑士受伤几率 - 可以使用 Single Combat duels
-- +2 骑士数量
-- +5 伤害抗性 for 勇武
+ +1 同文化好感度每军事或勇武 教育特质等级
+ +2 吸引力好感度每军事 教育特质等级
+ +0.1 每月威望每勇武 教育特质等级
+ +1 同文化好感度每勇武 教育特质等级
+ +5 吸引力好感度每剑术大师特质等级
+ −15 同文化好感度对于Cravens和Contents
+ +5 骑士 伤害 几率 - 可以使用 单一 战斗 duels
+- +2 Number的骑士
+- +5 伤害抗性对于勇武
 - +10% 荣誉称号荣耀进度
-- +1 同文化好感度 per 军事 or 勇武 Education trait level
-- +2 吸引力好感度 per 军事 Education trait level
-- +0.1 每月威望 per 勇武 Education trait level
-- +1 同文化好感度 per 勇武 Education trait level
-- +5 吸引力好感度 per Blademaster trait level
-- −15 同文化好感度 for Cravens and Contents
-- +5 骑士受伤几率
+- +1 同文化好感度每军事或勇武 教育特质等级
+- +2 吸引力好感度每军事 教育特质等级
+- +0.1 每月威望每勇武 教育特质等级
+- +1 同文化好感度每勇武 教育特质等级
+- +5 吸引力好感度每剑术大师特质等级
+- −15 同文化好感度对于Cravens和Contents
+- +5 骑士 伤害 几率
 | 武功歌传统
  亲兵卫队传统
  弗图瓦传统
  和平主义者传统
- 信仰 has Pacifism tenet
- 信仰 has Dharmic Pacifism tenet
- East Slavic 遗产
- Frankish 遗产
- Iranian 遗产 - 武功歌传统
+ 信仰拥有和平主义 tenet
+ 信仰拥有法性 和平主义 tenet
+ 东方 斯拉夫 遗产
+ 法兰克 遗产
+ 伊朗 遗产 - 武功歌传统
 - 亲兵卫队传统
 - 弗图瓦传统
 - 和平主义者传统
-- 信仰 has Pacifism tenet
-- 信仰 has Dharmic Pacifism tenet
-- East Slavic 遗产
-- Frankish 遗产
-- Iranian 遗产
-| 6 骑士 with at least 12 勇武 | 好战
-Stoic - Bellicose
+- 信仰拥有和平主义 tenet
+- 信仰拥有法性 和平主义 tenet
+- 东方 斯拉夫 遗产
+- 法兰克 遗产
+- 伊朗 遗产
+| 6 骑士与至少 12 勇武 | 好战
+坚毅 - 好战
 - 坚毅
-| Mendicant Mystics这种文化中的圣人坚信信仰应该在田野中传播，他们最虔诚的人经常在世界各地游历。 | +2% 每月收入 for Wise Men and Wise Women
- +4% 每月收入 for Mystics
- +8% 每月收入 for Miracle Workers
- AI更可能获得 the Mystic 特质s. Does NOT affect the Player at all.
- Wandering Mystic events are more likely
- +10% 旅行速度 - +2% 每月收入 for Wise Men and Wise Women
-- +4% 每月收入 for Mystics
-- +8% 每月收入 for Miracle Workers
-- AI更可能获得 the Mystic 特质s. Does NOT affect the Player at all.
-- Wandering Mystic events are more likely
+| 游方神秘主义者——The holy people的这种文化believe strongly thatfaith should be ministered在field,和其 most devout frequently wanderworld. | +2% 每月收入对于智慧 Men和智慧 Women
+ +4% 每月收入对于Mystics
+ +8% 每月收入对于奇迹 Workers
+ AI更可能获得神秘主义者 特质. Does NOT affectPlayer at all.
+ Wandering 神秘主义者 events是更可能
+ +10% 旅行速度 - +2% 每月收入对于智慧 Men和智慧 Women
+- +4% 每月收入对于Mystics
+- +8% 每月收入对于奇迹 Workers
+- AI更可能获得神秘主义者 特质. Does NOT affectPlayer at all.
+- Wandering 神秘主义者 events是更可能
 - +10% 旅行速度
-| 文化 has at least 3 Counts with the Wise Man/Woman, Mystic or Miracle Worker trait | 集体
-Spiritual - Communal
+| 文化至少有 3 伯爵与智者/Woman, 神秘主义者或奇迹 工匠特质 | 集体
+灵性 - 集体
 - 灵性
-| Modest这种文化崇尚谦逊，不应占据太多空间或认为自己比别人优越。 | 儿童更可能获得 Temperate trait
+| 谦逊——这种文化重视modesty,一个should不take up too 更 space或think oneself better than others. | 儿童更可能获得 节制特质
  某些特质给予 bonuses
    +10%
    +10%
@@ -3005,7 +3005,7 @@ Spiritual - Communal
    +10%
    +10%
  −10% 每月威望
- −15 同文化好感度 if Ambitious - 儿童更可能获得 Temperate trait
+ −15 同文化好感度 if 野心 - 儿童更可能获得 节制特质
 - 某些特质给予 bonuses
 - +10%
 - +10%
@@ -3013,1408 +3013,1408 @@ Spiritual - Communal
 - +10%
 - +10%
 - −10% 每月威望
-- −15 同文化好感度 if Ambitious
-| 文化 has at least 5 Counts with the Temperate trait | 坚毅
-Spiritual - Stoic
+- −15 同文化好感度 if 野心
+| 文化至少有 5 伯爵与节制特质 | 坚毅
+灵性 - 坚毅
 - 灵性
-| Musical Theorists这种文化几乎把音乐视为神圣的语言，因此许多人从小就开始从事崇高而受人尊崇的音乐学习。 | +20 Court Musician Aptitude
- +35 好感度 Bonus from Feasts if employing a Court Musician
- +10% Monthly 外交 生活方式经验 if Gregarious - +20 Court Musician Aptitude
-- +35 好感度 Bonus from Feasts if employing a Court Musician
-- +10% Monthly 外交 生活方式经验 if Gregarious
-| 御前宫廷DLC | 文化 has at least 3 Counts with the Poet trait | 集体
+| 音乐理论家——这种文化treats music almost作为language的divine,和thus many individuals take upnoble和celebrated pursuit的musical study来自一个young age. | +20 宫廷 Musician 能力
+ +35 好感度 加成来自宴会 if employing一个宫廷 Musician
+ +10% 每月 外交 生活方式经验 if 合群 - +20 宫廷 Musician 能力
+- +35 好感度 加成来自宴会 if employing一个宫廷 Musician
+- +10% 每月 外交 生活方式经验 if 合群
+| 御前宫廷 DLC | 文化至少有 3 伯爵与诗人特质 | 集体
 礼仪
-Spiritual - Communal
+灵性 - 集体
 - 礼仪
 - 灵性
-| Noble Adoption在这个社会中，将孤儿收养到贵族家庭是很常见的。盟约之血浓于子宫之水。 | Can offer adoption to children who are not directly related to any Rulers
- Adoption does not cost  威望 or  声望
- 此文化的监护人更有效 - Can offer adoption to children who are not directly related to any Rulers
-- Adoption does not cost  威望 or  声望
+| Noble AdoptionAdopting orphaned children到noble houses是commonplace在此society.blood的covenant是thicker thanwater的womb. | 可以offer adoption to children who是not directly related to任何统治者
+ 收养不会cost  威望或 声望
+ 此文化的监护人更有效 - 可以offer adoption to children who是not directly related to任何统治者
+- 收养不会cost  威望或 声望
 - 此文化的监护人更有效
-| Adoption game rule set to Forbidden | 朝堂
+| 收养 game rule set to Forbidden | 朝堂
 集体
-Spiritual - Courtly
+灵性 - 朝堂
 - 集体
 - 灵性
-| Northern Stories生活通过故事的视角来体验、讲述和铭记。我们说什么，以及别人怎么说我们，与我们做什么同样重要。我们铭记这一点，这在我们的故事中有所体现。 | 解锁 Raise a Runestone decision
- The Poet trait 更常见. Only affects the AI and not the Player.
- +5% 每月威望 for Poets
- +10% 个人阴谋成功几率 for Poets
+| 北方的 StoriesLife是lived, told,和remembered throughlens的tales. What we say,和what people say about us, matters as 更 as what we do. We remember that,和it shows的our stories. | 解锁 Raise一个Runestone decision
+诗人特质 更常见. 仅 affectsAI和notPlayer.
+ +5% 每月威望对于诗人
+ +10% 个人阴谋成功几率对于诗人
  此文化的监护人更有效
- 角色s can tell stories via events— giving +1 skill point each time.
- +10% Legend Spread Chance
- −15% 阴谋隐秘度 - 解锁 Raise a Runestone decision
-- The Poet trait 更常见. Only affects the AI and not the Player.
- +5% 每月威望 for Poets
- +10% 个人阴谋成功几率 for Poets
-- +5% 每月威望 for Poets
-- +10% 个人阴谋成功几率 for Poets
+ 角色可以tell stories via events— giving +1 skill point每个time.
+ +10% 传说 传播 几率
+ −15% 阴谋隐秘度 - 解锁 Raise一个Runestone decision
+-诗人特质 更常见. 仅 affectsAI和notPlayer.
+ +5% 每月威望对于诗人
+ +10% 个人阴谋成功几率对于诗人
+- +5% 每月威望对于诗人
+- +10% 个人阴谋成功几率对于诗人
 - 此文化的监护人更有效
-- 角色s can tell stories via events— giving +1 skill point each time.
-- +10% Legend Spread Chance
+- 角色可以tell stories via events— giving +1 skill point每个time.
+- +10% 传说 传播 几率
 - −15% 阴谋隐秘度
-| 北方领主DLC
- North Germanic 遗产
+| 北方的 领主 DLC
+ 北日耳曼 遗产
  精致诗歌传统
- 说书人传统 - 北方领主DLC
-- North Germanic 遗产
+ 说书人传统 - 北方的 领主 DLC
+- 北日耳曼 遗产
 - 精致诗歌传统
 - 说书人传统
-| 文化 has at least 3 Counts with the Poet trait | 好战
-Bureaucratic - Bellicose
+| 文化至少有 3 伯爵与诗人特质 | 好战
+官僚 - 好战
 - 官僚
-| Nudists这种文化的追随者不相信需要保护身体免受自然的侵袭，而是选择以造物主创造他们时的样子生活。 | 角色s of this 文化 will be nude
- Lustful 特质 更不常见
+| NudistsAdherents的这种文化do不believe的protecting one's body来自elements, opting 代替 to live as其creator made them. | 角色此文化将be nude
+ Lustful 特质 更不常见
  -10% 压力增长
- +5 优势 in 丛林
+ +5 优势的丛林
  -42 丛林 危险度
- +20% 发展度增长 in 丛林
- +100% 补给上限 in 丛林
- -75% 丛林 Provisions Use
- +15% 丛林 Barter Goods - 角色s of this 文化 will be nude
+ +20% 发展度增长的丛林
+ +100% 补给上限的丛林
+ -75% 丛林 给养 Use
+ +15% 丛林 Barter Goods - 角色此文化将be nude
 - Lustful 特质 更不常见
 - -10% 压力增长
-- +5 优势 in 丛林
+- +5 优势的丛林
 - -42 丛林 危险度
-- +20% 发展度增长 in 丛林
-- +100% 补给上限 in 丛林
-- -75% 丛林 Provisions Use
+- +20% 发展度增长的丛林
+- +100% 补给上限的丛林
+- -75% 丛林 给养 Use
 - +15% 丛林 Barter Goods
-| At least 3 rulers of this culture have either:
- Sponsored at least one inspiration of a courtier or guest
- Completed an inspiration of themselves - At least 3 rulers of this culture have either:
- Sponsored at least one inspiration of a courtier or guest
- Completed an inspiration of themselves
-- Sponsored at least one inspiration of a courtier or guest
-- Completed an inspiration of themselves
+| At least 3 rulers的这种文化have 以下之一：
+ Sponsored 至少一个inspiration的一个courtier或guest
+ Completed一个inspiration的themselves - At least 3 rulers的这种文化have 以下之一：
+ Sponsored 至少一个inspiration的一个courtier或guest
+ Completed一个inspiration的themselves
+- Sponsored 至少一个inspiration的一个courtier或guest
+- Completed一个inspiration的themselves
 | 朝堂
 集体
-Spiritual - Courtly
+灵性 - 朝堂
 - 集体
 - 灵性
-| Pacifists对于这种文化来说，使用武力永远无法被正当化。只有走非暴力之路，人们才能真正和平地生活。 | +10% 发展度增长
+| 和平主义者——For此文化,use的force可以never be justified. 仅 by pursuing一个path的non-violence可以people truly live的peace. | +10% 发展度增长
  +10 民众好感度
- −25% Conversion Cost towards faiths with pacifism tenets
+ −25% 皈依 费用 towards faiths与pacifism tenets
  −1 军事
- −20% Monthly 军事 生活方式经验
+ −20% 每月 军事 生活方式经验
  AI角色更不太可能 declare war
- -5 危险度 in holdings of this culture - +10% 发展度增长
+ -5 危险度的holdings的这种文化- +10% 发展度增长
 - +10 民众好感度
-- −25% Conversion Cost towards faiths with pacifism tenets
+- −25% 皈依 费用 towards faiths与pacifism tenets
 - −1 军事
-- −20% Monthly 军事 生活方式经验
+- −20% 每月 军事 生活方式经验
 - AI角色更不太可能 declare war
-- -5 危险度 in holdings of this culture
+- -5 危险度的holdings此文化
 | 好战 ethos | At peace | 平等
-Spiritual - Egalitarian
+灵性 - 平等
 - 灵性
-| Performative Honor荣誉确实是与生俱来的，但荣誉也通过行动来赢得和失去。通过追寻和复仇侮辱，或者未能如此，士兵们沦为渣滓，而小子们成长为战士。 | 角色s can gain the Shieldmaiden / Shieldswain traits
- 可以使用 Trial-by-Combat duels
- +1 骑士数量
+| Performative HonorHonor是born, yes,但honor是also earned和lost through deeds. By pursuing和avenging slights,或failing to, soldiers fade to scum while whelps grow到warriors. | 角色可以gainShieldmaiden / Shieldswain特质
+ 可以使用 Trial-by-战斗 duels
+ +1 Number的骑士
  +10% 荣誉称号荣耀进度
- −0.5 每月威望 if Craven
+ −0.5 每月威望 if 怯懦
  −10 同文化好感度 if Delicate
- −15 同文化好感度 if Frail, Weak or Spindly
- −20 同文化好感度 if Feeble - 角色s can gain the Shieldmaiden / Shieldswain traits
-- 可以使用 Trial-by-Combat duels
-- +1 骑士数量
+ −15 同文化好感度 if Frail, Weak或Spindly
+ −20 同文化好感度 if Feeble - 角色可以gainShieldmaiden / Shieldswain特质
+- 可以使用 Trial-by-战斗 duels
+- +1 Number的骑士
 - +10% 荣誉称号荣耀进度
-- −0.5 每月威望 if Craven
+- −0.5 每月威望 if 怯懦
 - −10 同文化好感度 if Delicate
-- −15 同文化好感度 if Frail, Weak or Spindly
+- −15 同文化好感度 if Frail, Weak或Spindly
 - −20 同文化好感度 if Feeble
-| 北方领主DLC
- North Germanic 遗产
- 决斗裁判传统 - 北方领主DLC
-- North Germanic 遗产
+| 北方的 领主 DLC
+ 北日耳曼 遗产
+ 决斗裁判传统 - 北方的 领主 DLC
+- 北日耳曼 遗产
 - 决斗裁判传统
-| 5 Courtiers with 10 勇武 who cannot be 骑士 | 好战 | Philosopher 文化这种文化推崇思考和自我反省。 | +1 学识 每等级 of Fame
- +20% Monthly 学识 生活方式经验
- +5% 文化瞩目进度 per 学识 Education trait level
- +10% 文化瞩目进度 if 文化 Head is Scholar
- 儿童获得以下特质的可能性提高3倍： Pensive trait
- 儿童获得以下特质的可能性降低3倍： Rowdy trait - +1 学识 每等级 of Fame
-- +20% Monthly 学识 生活方式经验
-- +5% 文化瞩目进度 per 学识 Education trait level
-- +10% 文化瞩目进度 if 文化 Head is Scholar
-- 儿童获得以下特质的可能性提高3倍： Pensive trait
-- 儿童获得以下特质的可能性降低3倍： Rowdy trait
+| 5 廷臣与10 勇武 who不能be 骑士 | 好战 | 哲学文化——这种文化promotes thought和self-reflection. | +1 学识每等级的声名
+ +20% 每月 学识 生活方式经验
+ +5% 文化瞩目进度每学识 教育特质等级
+ +10% 文化瞩目进度 if 文化领袖是学者
+ 儿童获得以下特质的可能性提高3倍： 沉思特质
+ 儿童获得以下特质的可能性降低3倍： 粗暴特质 - +1 学识每等级的声名
+- +20% 每月 学识 生活方式经验
+- +5% 文化瞩目进度每学识 教育特质等级
+- +10% 文化瞩目进度 if 文化领袖是学者
+- 儿童获得以下特质的可能性提高3倍： 沉思特质
+- 儿童获得以下特质的可能性降低3倍： 粗暴特质
 | 好战 ethos
- 尚武文化传统 - Bellicose ethos
+ 尚武文化传统 - 好战 ethos
 - 尚武文化传统
-| 文化 has at least 5 Counts with the Scholar trait | 集体
+| 文化至少有 5 伯爵 拥有学者特质的 | 集体
 礼仪
-Spiritual - Communal
+灵性 - 集体
 - 礼仪
 - 灵性
-| Practiced Pirates冲击港口、放火焚烧、拿走所有没有被钉住的东西可能不高尚，但确实有利可图。 | Can Raid and Raid Overseas if Count or Duke OR if realm size is ≤ 12
+| Practiced PiratesStorming一个port, setting it ablaze,和taking everything该isn't nailed down可以not be noble,但it是profitable. | 可以劫掠和劫掠 Overseas if 伯爵或公爵 OR if realm size是≤ 12
  +25% 军队掠夺容量
- −1.5 威望 per 1 Loot if the character does not have 部落 Government - Can Raid and Raid Overseas if Count or Duke OR if realm size is ≤ 12
+ −1.5 威望每1 Loot ifcharacter 没有 部落 政府 - 可以劫掠和劫掠 Overseas if 伯爵或公爵 OR if realm size是≤ 12
 - +25% 军队掠夺容量
-- −1.5 威望 per 1 Loot if the character does not have 部落 Government
+- −1.5 威望每1 Loot ifcharacter 没有 部落 政府
 | 50% 的文化存在于沿海伯爵领中 | 70% 的文化存在于沿海伯爵领中 | 好战 - 好战
-| Prolific Hunters出于经济需要，或者也许是社会期望，这种文化已经将其狩猎实践精炼成精确而近乎美丽的艺术。 | −50% Call Hunt Activity Cooldown
- +0.5 每月威望 for Novice Hunters
- +1 每月威望 for Hunters
- +1.5 每月威望 for Master Hunters
- Higher chance to gain or improve Hunter traits
-The Hunter traits are based on a hidden value called hunter_lifestyle_progress. This value increases with hunts. Further information can be found in the reference [3]
- +15% 旅行速度 - −50% Call Hunt Activity Cooldown
-- +0.5 每月威望 for Novice Hunters
-- +1 每月威望 for Hunters
-- +1.5 每月威望 for Master Hunters
-- Higher chance to gain or improve Hunter traits
-- The Hunter traits are based on a hidden value called hunter_lifestyle_progress. This value increases with hunts. Further information can be found in the reference [3]
+| Prolific HuntersDriven by economic necessity,或perhaps social expectation, 这种文化has refined其hunting practices to precise和almost beautiful art. | −50% 召集狩猎活动冷却时间
+ +0.5 每月威望对于Novice 猎人
+ +1 每月威望对于猎人
+ +1.5 每月威望对于Master 猎人
+ Higher chance to gain或improve 猎人特质
+The 猎人特质是based在一个hidden value called hunter_lifestyle_progress. This value increases与hunts. Further information可以被found在reference [3]
+ +15% 旅行速度 - −50% 召集狩猎活动冷却时间
+- +0.5 每月威望对于Novice 猎人
+- +1 每月威望对于猎人
+- +1.5 每月威望对于Master 猎人
+- Higher chance to gain或improve 猎人特质
+-猎人特质是based在一个hidden value called hunter_lifestyle_progress. This value increases与hunts. Further information可以被found在reference [3]
 - +15% 旅行速度
-| Vegetarianism tradition
+| 素食主义 tradition
  和平主义者传统
- 信仰 has Pacifism tenet
- 信仰 has Dharmic Pacifism tenet - Vegetarianism tradition
+ 信仰拥有和平主义 tenet
+ 信仰拥有法性 和平主义 tenet - 素食主义 tradition
 - 和平主义者传统
-- 信仰 has Pacifism tenet
-- 信仰 has Dharmic Pacifism tenet
-| 文化 has at least 5 Counts with the Novice Hunter, Hunter or Master Hunter trait | 好战
+- 信仰拥有和平主义 tenet
+- 信仰拥有法性 和平主义 tenet
+| 文化至少有 5 伯爵与Novice 猎人, 猎人或Master 猎人特质 | 好战
 灵性
-Stoic - Bellicose
+坚毅 - 好战
 - 灵性
 - 坚毅
-| Refined Poetry在这种文化中，诗歌被认为是一种高尚的艺术，许多人花时间将文字与意义和思想编织在一起。 | +20 Court Poet Aptitude
- +5% 每月威望 for Poets
- +10% 个人阴谋成功几率 for Poets
- +5% Legend Spread Chance
- The Poet trait 更常见. Only affects the AI and not the Player. - +20 Court Poet Aptitude
-- +5% 每月威望 for Poets
-- +10% 个人阴谋成功几率 for Poets
-- +5% Legend Spread Chance
-- The Poet trait 更常见. Only affects the AI and not the Player.
-| 北方故事传统 | 文化 has at least 3 Counts with the Poet trait | 集体
+| Refined PoetryPoetry是considered一个noble art在此文化,和many spend其time piecing words together与meaning和thought. | +20 宫廷 诗人 能力
+ +5% 每月威望对于诗人
+ +10% 个人阴谋成功几率对于诗人
+ +5% 传说 传播 几率
+诗人特质 更常见. 仅 affectsAI和notPlayer. - +20 宫廷 诗人 能力
+- +5% 每月威望对于诗人
+- +10% 个人阴谋成功几率对于诗人
+- +5% 传说 传播 几率
+-诗人特质 更常见. 仅 affectsAI和notPlayer.
+| 北方故事传统 | 文化至少有 3 伯爵与诗人特质 | 集体
 礼仪
-Spiritual - Communal
+灵性 - 集体
 - 礼仪
 - 灵性
-| Ritualized Friendship血浓于水，但美酒让生活更美好。 | Automatic access to the Befriend Scheme
- May ask Friends to become Best Friends
- Best Friends receive Strong Hooks on each other but gain 压力 when using them
- Best Friends can use an interaction to gain bonus Skills via Modifiers at the cost of extra 压力
- +20 阴谋力量 against Friends
- +40 阴谋力量 against Best Friends - Automatic access to the Befriend Scheme
-- May ask Friends to become Best Friends
-- Best Friends receive Strong Hooks on each other but gain 压力 when using them
-- Best Friends can use an interaction to gain bonus Skills via Modifiers at the cost of extra 压力
-- +20 阴谋力量 against Friends
-- +40 阴谋力量 against Best Friends
+| Ritualized FriendshipBlood可以be thicker than water,但wine makes对于better living. | Automatic access到Befriend 阴谋
+ 可以ask 朋友 to become 最佳 朋友
+ 最佳 朋友 receive 强 把柄 on每个other但gain 压力当using them
+ 最佳 朋友可以use一个interaction to gain bonus Skills via Modifiers在cost的额外 压力
+ +20 阴谋力量对抗朋友
+ +40 阴谋力量对抗最佳 朋友 - Automatic access到Befriend 阴谋
+- 可以ask 朋友 to become 最佳 朋友
+- 最佳 朋友 receive 强 把柄 on每个other但gain 压力当using them
+- 最佳 朋友可以use一个interaction to gain bonus Skills via Modifiers在cost的额外 压力
+- +20 阴谋力量对抗朋友
+- +40 阴谋力量对抗最佳 朋友
 | 伊比利亚的命运DLC
- Have at least one Friend - 伊比利亚的命运DLC
-Have at least one Friend
+ Have 至少一个Friend - 伊比利亚的命运DLC
+Have 至少一个Friend
 
-| Have at least three Friends | All | Seafarers对于这种文化来说，大海的召唤太强烈了，无法抗拒。他们为航行而生，如同梦境般在清澈的海洋上航行，或者驾驭汹涌风暴的浪尖。 | −85% 登船费用
- -45 Sea 危险度
- +0.10 每月控制 for Tradeport levels 1/2
- +0.15 每月控制 for Tradeport levels 3/4
- +0.20 每月控制 for Tradeport levels 5/6
- +0.25 每月控制 for Tradeport levels 7/8
- +1 最大编制 常备军 regiments for Tradeport levels 4/5
- +2 最大编制 常备军 regiments for Tradeport levels 6/7
- +3 最大编制 常备军 regiments for Tradeport level 8
- +2% 征召兵规模 per Tradeport level
+| Have 至少 three 朋友 | 所有 | 航海者——For此文化,call的sea是too strong to resist,和they live to sail like一个dream在一个crystal clear ocean,或ride在crest的一个wild raging storm. | −85% 登船费用
+ -45 海 危险度
+ +0.10 每月 控制对于贸易港等级 1/2
+ +0.15 每月 控制对于贸易港等级 3/4
+ +0.20 每月 控制对于贸易港等级 5/6
+ +0.25 每月 控制对于贸易港等级 7/8
+ +1 最大编制 常备军 regiments对于贸易港等级 4/5
+ +2 最大编制 常备军 regiments对于贸易港等级 6/7
+ +3 最大编制 常备军 regiments对于贸易港等级 8
+ +2% 征召兵规模每贸易港等级
  可以在大型河流上航行
- The Tradeport 建筑线 可以在以下地形建造： 沿海 部落 地产s - −85% 登船费用
-- -45 Sea 危险度
-- +0.10 每月控制 for Tradeport levels 1/2
-- +0.15 每月控制 for Tradeport levels 3/4
-- +0.20 每月控制 for Tradeport levels 5/6
-- +0.25 每月控制 for Tradeport levels 7/8
-- +1 最大编制 常备军 regiments for Tradeport levels 4/5
-- +2 最大编制 常备军 regiments for Tradeport levels 6/7
-- +3 最大编制 常备军 regiments for Tradeport level 8
-- +2% 征召兵规模 per Tradeport level
+贸易港 建筑线 可以在以下地形建造： 沿海 部落 地产 - −85% 登船费用
+- -45 海 危险度
+- +0.10 每月 控制对于贸易港等级 1/2
+- +0.15 每月 控制对于贸易港等级 3/4
+- +0.20 每月 控制对于贸易港等级 5/6
+- +0.25 每月 控制对于贸易港等级 7/8
+- +1 最大编制 常备军 regiments对于贸易港等级 4/5
+- +2 最大编制 常备军 regiments对于贸易港等级 6/7
+- +3 最大编制 常备军 regiments对于贸易港等级 8
+- +2% 征召兵规模每贸易港等级
 - 可以在大型河流上航行
-- The Tradeport 建筑线 可以在以下地形建造： 沿海 部落 地产s
+-贸易港 建筑线 可以在以下地形建造： 沿海 部落 地产
 | 50% 的文化存在于沿海伯爵领中
  沿海战士传统 - 50% 的文化存在于沿海伯爵领中
 - 沿海战士传统
 | 70% 的文化存在于沿海伯爵领中 | 好战
 官僚
-Spiritual - Bellicose
+灵性 - 好战
 - 官僚
 - 灵性
-| Spartan这种文化不重视权力的外在装饰——仪式、财富、无意义的装饰。这种文化更关注权力本身，最好是以高耸的城墙和要塞的形式。 | −10% Castle 地产和建筑建造费用
- −10% Castle 地产和建筑建造时间
+| 斯巴达式——这种文化doesn't prizetrappings的power -ceremony,wealth,pointless decoration. 这种文化更 interested的power itself, preferably在form的towering walls和keeps. | −10% 城堡 地产和建筑 建造费用
+ −10% 城堡 地产和建筑 建造时间
  −35% 每月威望
- -20 朝堂封臣好感度 - −10% Castle 地产和建筑建造费用
-- −10% Castle 地产和建筑建造时间
+ -20 朝堂 封臣好感度 - −10% 城堡 地产和建筑 建造费用
+- −10% 城堡 地产和建筑 建造时间
 - −35% 每月威望
-- -20 朝堂封臣好感度
-| 部落 Government | Disgraced, Established or Distinguished level of fame | 集体
-Stoic - Communal
+- -20 朝堂 封臣好感度
+| 部落 政府 | Disgraced, Established或Distinguished等级的fame | 集体
+坚毅 - 集体
 - 坚毅
-| Storytellers这种文化有着强大而持久的口头传统。过去通过仪式化的讲故事来保存，过去的英雄和传说代代相传。 | 此文化的监护人更有效
- 角色s can tell stories via events— giving +1 skill point each time.
- +5% Legend Spread Chance
+| 说书人——这种文化拥有一个strong和persistent oral tradition.past是preserved through ritualistic storytelling, whereheroes和legends的past是passed down through generations. | 此文化的监护人更有效
+ 角色可以tell stories via events— giving +1 skill point每个time.
+ +5% 传说 传播 几率
  −15% 阴谋隐秘度 - 此文化的监护人更有效
-- 角色s can tell stories via events— giving +1 skill point each time.
-- +5% Legend Spread Chance
+- 角色可以tell stories via events— giving +1 skill point每个time.
+- +5% 传说 传播 几率
 - −15% 阴谋隐秘度
-| 北方故事传统 | 文化 has at least 3 Counts with the Poet trait | 集体
+| 北方故事传统 | 文化至少有 3 伯爵与诗人特质 | 集体
 礼仪
-Stoic - Communal
+坚毅 - 集体
 - 礼仪
 - 坚毅
-| Strong Believers这种文化的人民对其信仰特别狂热和虔诚。 | +30% 伯爵领改宗抗性
- −50 Conversion Acceptance for characters of this 文化
+| 坚定信徒——The people的这种文化是 particularly zealous和dedicated to其faith. | +30% 伯爵领 皈依 抵抗
+ −50 皈依 接纳度对于characters此文化
  −15 不同信仰好感度
- 儿童更可能获得 Humble trait
- 儿童更可能获得 Zealous trait - +30% 伯爵领改宗抗性
-- −50 Conversion Acceptance for characters of this 文化
+ 儿童更可能获得 谦逊特质
+ 儿童更可能获得 狂热特质 - +30% 伯爵领 皈依 抵抗
+- −50 皈依 接纳度对于characters此文化
 - −15 不同信仰好感度
-- 儿童更可能获得 Humble trait
-- 儿童更可能获得 Zealous trait
-| 文化 has at least 5 Counts with the Zealous trait | 集体
-Spiritual - Communal
+- 儿童更可能获得 谦逊特质
+- 儿童更可能获得 狂热特质
+| 文化至少有 5 伯爵与狂热特质 | 集体
+灵性 - 集体
 - 灵性
-| The Right to Prove虽然并非所有人天生就是战士，但凭借正确的勇气和强壮的剑臂，任何人都可以展示自己内心的战士，并在行动中成为一名战士。 | 角色s can gain the Shieldmaiden / Shieldswain traits
- +25% 骑士效率
- −2 骑士数量 - 角色s can gain the Shieldmaiden / Shieldswain traits
-- +25% 骑士效率
-- −2 骑士数量
-| 北方领主DLC
- 荣誉展现传统 - 北方领主DLC
+|Right to ProveThough not所有是 born fighters,与right mettle和一个strong sword-arm, any可以show themselves一个warrior at heart和so become one的deed. | 角色可以gainShieldmaiden / Shieldswain特质
+ +25% 骑士效用
+ −2 Number的骑士 - 角色可以gainShieldmaiden / Shieldswain特质
+- +25% 骑士效用
+- −2 Number的骑士
+| 北方的 领主 DLC
+ 荣誉展现传统 - 北方的 领主 DLC
 - 荣誉展现传统
-| 5 Courtiers with 10 勇武 who cannot be 骑士 | 好战
+| 5 廷臣与10 勇武 who不能be 骑士 | 好战
 集体
-Egalitarian - Bellicose
+平等 - 好战
 - 集体
 - 平等
-| Trials-by-Combat言语是懦夫代替武器的手段。当纠纷可以用刀剑更快更公正地解决时，为什么要把正义交给腐朽的法律和腐败的法官？ | 可以使用 Trial-by-Combat duels
- +1 骑士数量
- +2 学识 for Aspiring Blademasters
- +4 学识 for Blademasters
- +6 学识 for legendary Blademasters
- −0.5 每月威望 if Craven - 可以使用 Trial-by-Combat duels
-- +1 骑士数量
-- +2 学识 for Aspiring Blademasters
-- +4 学识 for Blademasters
-- +6 学识 for legendary Blademasters
-- −0.5 每月威望 if Craven
-| 北方领主DLC
- North Germanic 遗产
+| Trials-by-CombatWords是一个coward's substitute对于weapons. Why leave justice to decrepit laws和corrupt magistrates当disputes可以被settled faster和fairer与blade? | 可以使用 Trial-by-战斗 duels
+ +1 Number的骑士
+ +2 学识对于见习 Blademasters
+ +4 学识对于Blademasters
+ +6 学识对于legendary Blademasters
+ −0.5 每月威望 if 怯懦 - 可以使用 Trial-by-战斗 duels
+- +1 Number的骑士
+- +2 学识对于见习 Blademasters
+- +4 学识对于Blademasters
+- +6 学识对于legendary Blademasters
+- −0.5 每月威望 if 怯懦
+| 北方的 领主 DLC
+ 北日耳曼 遗产
 
- 荣誉展现传统 - 北方领主DLC
-North Germanic 遗产
+ 荣誉展现传统 - 北方的 领主 DLC
+北日耳曼 遗产
 
 - 荣誉展现传统
-| 文化 has at least 3 Counts with the Brilliant Strategist trait and 10 学识 | 好战
+| 文化至少有 3 伯爵与Brilliant Strategist特质和10 学识 | 好战
 礼仪
-Stoic - Bellicose
+坚毅 - 好战
 - 礼仪
 - 坚毅
-| Vegetarians这种文化已经发展出对食用动物肉类的强烈厌恶，并在整个社会中实行素食主义。 | +10% 发展度增长 in 平原 Terrain
- Small Health Boost
- Cannot use the Call Hunt activity - +10% 发展度增长 in 平原 Terrain
-- Small Health Boost
-- Cannot use the Call Hunt activity
-| Dravidian or Indo-Aryan 遗产
+| 素食主义者——这种文化拥有developed一个strong aversion to consumingflesh的animals,和practices vegetarianism throughout其society. | +10% 发展度增长的平原 地形
+ 小 Health Boost
+ 不能 useCall 狩猎 activity - +10% 发展度增长的平原 地形
+- 小 Health Boost
+- 不能 useCall 狩猎 activity
+| Dravidian或Indo-Aryan 遗产
  多产猎人传统
- 神圣狩猎传统 - Dravidian or Indo-Aryan 遗产
+ 神圣狩猎传统 - Dravidian或Indo-Aryan 遗产
 - 多产猎人传统
 - 神圣狩猎传统
 | 集体
 灵性
-Stoic - Communal
+坚毅 - 集体
 - 灵性
 - 坚毅
-| Warrior 文化这种文化将武艺和力量看得比一切都重要。孩子们从小就学习如何战斗，不鼓励从事学术追求。软弱是不被容忍的。 | +1 最大编制 常备军 军团
- +1% Chance to be born with the Strong trait for each 5 勇武
+| 尚武文化——这种文化重视martial prowess和strength above everything else. 子嗣是brought up knowing how to fight,和是 discouraged来自scholarly pursuits. Weakness是not tolerated. | +1 最大编制 常备军 军团
+ +1% 几率 to be born与强特质对于each 5 勇武
  −25% 文化瞩目进度
  +10% 荣誉称号荣耀进度
- +15% Monthly 军事 生活方式经验
- 儿童获得以下特质的可能性提高3倍： Rowdy trait
- 儿童获得以下特质的可能性降低3倍： Pensive trait
+ +15% 每月 军事 生活方式经验
+ 儿童获得以下特质的可能性提高3倍： 粗暴特质
+ 儿童获得以下特质的可能性降低3倍： 沉思特质
  某些特质给予 威望
  某些特质降低 好感度 - +1 最大编制 常备军 军团
-- +1% Chance to be born with the Strong trait for each 5 勇武
+- +1% 几率 to be born与强特质对于each 5 勇武
 - −25% 文化瞩目进度
 - +10% 荣誉称号荣耀进度
-- +15% Monthly 军事 生活方式经验
-- 儿童获得以下特质的可能性提高3倍： Rowdy trait
-- 儿童获得以下特质的可能性降低3倍： Pensive trait
+- +15% 每月 军事 生活方式经验
+- 儿童获得以下特质的可能性提高3倍： 粗暴特质
+- 儿童获得以下特质的可能性降低3倍： 沉思特质
 - 某些特质给予 威望
 - 某些特质降低 好感度
-| 部落 Government
+| 部落 政府
  和平主义者传统
- 信仰 has Pacifism tenet
- 信仰 has Dharmic Pacifism tenet
- 沿海战士传统 - 部落 Government
+ 信仰拥有和平主义 tenet
+ 信仰拥有法性 和平主义 tenet
+ 沿海战士传统 - 部落 政府
 - 和平主义者传统
-- 信仰 has Pacifism tenet
-- 信仰 has Dharmic Pacifism tenet
+- 信仰拥有和平主义 tenet
+- 信仰拥有法性 和平主义 tenet
 - 沿海战士传统
-| 文化 has at least 3 Counts with the Strong, Hale, Robust or Herculean traits | 好战
-Spiritual - Bellicose
+| 文化至少有 3 伯爵与强, 健壮的, Robust或Herculean特质 | 好战
+灵性 - 好战
 - 灵性
-| Xenophilic这种文化拥抱每个人，对所有文化都怀有真诚的着迷。 | +25% 文化接纳度增长
+| 亲外文化——这种文化拥抱everyone和is genuinely fascinated by所有cultures. | +25% 文化 接纳度 增长
  +10 不同文化好感度
- No negative 好感度 of Other 文化s - +25% 文化接纳度增长
+ No negative 好感度的Other 文化 - +25% 文化 接纳度 增长
 - +10 不同文化好感度
-- No negative 好感度 of Other 文化s
-| 30% 文化接纳度 with 3 cultures | 40% 文化接纳度 with 4 cultures | 集体
-Egalitarian - Communal
+- No negative 好感度的Other 文化
+| 30% 文化 接纳度与3 cultures | 40% 文化 接纳度与4 cultures | 集体
+平等 - 集体
 - 平等
 
-## 仪式传统（Ritual traditions）
+## 仪式传统（Ritual Traditions）
 
 当仪式传统与信仰教义冲突时，传统优先。
 
-| **传统** | **效果** | **必要条件** | **可选条件** | **偏好文化精神** | Bound by 信仰在这种文化中，不同信仰意味着你没有继承资格。 | Only characters of the same 信仰 can inherit
- −10 好感度 of Different 信仰s - Only characters of the same 信仰 can inherit
-- −10 好感度 of Different 信仰s
-| 文化 has 90% of its rulers from the same faith | 灵性 | By the Sword这种文化的成员相信最好的传教士是携剑者。虽然对圣战的支持很普遍，但动机会受到审查以确保神圣力量会认可。 | +1 军事 每等级 of Devotion
- −1 外交 每等级 of Devotion
+| **传统** | **效果** | **必要条件** | **可选条件** | **偏好文化精神** | 信仰约束——In 这种文化being的一个different faith means该you're不eligible对于succession. | 仅 characters的相同 信仰可以inherit
+ −10 好感度的不同 信仰 - 仅 characters的相同 信仰可以inherit
+- −10 好感度的不同 信仰
+| 文化拥有90%的its rulers来自相同 faith | 灵性 | 以剑传教——成员s的这种文化believe thatbest missionary是one carrying一个sword. While support对于holy wars是widespread, motives是scrutinized as to make sureDivine powers would approve. | +1 军事每等级的虔诚
+ −1 外交每等级的虔诚
  −20% 每月虔诚
  −15 不同信仰好感度
- 圣战 for 王国 Casus Belli can be used multiple times per lifetime
- 圣战 Casus Bellis require a Level of Devotion less - +1 军事 每等级 of Devotion
-- −1 外交 每等级 of Devotion
+ 圣战对于王国 宣战理由可以被used multiple times每lifetime
+ 圣战 Casus Bellis require一个等级的虔诚 less - +1 军事每等级的虔诚
+- −1 外交每等级的虔诚
 - −20% 每月虔诚
 - −15 不同信仰好感度
-- 圣战 for 王国 Casus Belli can be used multiple times per lifetime
-- 圣战 Casus Bellis require a Level of Devotion less
-| 信仰 has Pacifism tenet
- 信仰 has Dharmic Pacifism tenet - 信仰 has Pacifism tenet
-- 信仰 has Dharmic Pacifism tenet
-| 文化 has 5 Counts with the Zealous trait | 灵性 | Concubines无论信仰如何，这种文化的统治者通常在其家庭中保有一定数量的妾室。 | 角色s can only have one Spouse
- 角色s can have up to 3 Concubines if allowed by Gender Law - 角色s can only have one Spouse
-- 角色s can have up to 3 Concubines if allowed by Gender Law
+- 圣战对于王国 宣战理由可以被used multiple times每lifetime
+- 圣战 Casus Bellis require一个等级的虔诚 less
+| 信仰拥有和平主义 tenet
+ 信仰拥有法性 和平主义 tenet - 信仰拥有和平主义 tenet
+- 信仰拥有法性 和平主义 tenet
+| 文化拥有5 伯爵与狂热特质 | 灵性 | ConcubinesRulers的这种文化often keep一个number的concubines的其 household, regardless的其 faith. | 角色可以only拥有one 配偶
+ 角色可以拥有最多 3 妾 if允许by 性别法 - 角色可以only拥有one 配偶
+- 角色可以拥有最多 3 妾 if允许by 性别法
 | 一夫一妻制传统
  一夫多妻制传统 - 一夫一妻制传统
 - 一夫多妻制传统
-| Monogamous marriage doctrine | All | Culinary Artists食物对这种文化来说不仅仅是维持生存；它既是一门艺术也是一种仪式，是家庭和社区共同的焦点。 | +20 Food Taster Aptitude
- +50 声望 per Feast
- +75 威望 per Feast if using Bland Food court amenities
- +150 威望 per Feast if using Modest Food court amenities
- +225 威望 per Feast if using Decent Food court amenities
- +300 威望 per Feast if using Lavish Food court amenities
- +375 威望 per Feast if using Exotic Food court amenities
- +100% Hold Feast Activity Cost - +20 Food Taster Aptitude
-- +50 声望 per Feast
-- +75 威望 per Feast if using Bland Food court amenities
-- +150 威望 per Feast if using Modest Food court amenities
-- +225 威望 per Feast if using Decent Food court amenities
-- +300 威望 per Feast if using Lavish Food court amenities
-- +375 威望 per Feast if using Exotic Food court amenities
-- +100% Hold Feast Activity Cost
-| 文化存在于拥有以下地形的伯爵领中： 农田 or 冲积平原 | 文化 is present in 5 counties with 农田 or 冲积平原 | 集体
+| 一夫一妻制 marriage doctrine | 所有 | Culinary ArtistsFood isn't just sustenance对于此文化; it是both一个art和一个ritual,一个focal point对于family和community alike. | +20 食物 Taster 能力
+ +50 声望每宴会
+ +75 威望每宴会 if using Bland 食物 court amenities
+ +150 威望每宴会 if using Modest 食物 court amenities
+ +225 威望每宴会 if using Decent 食物 court amenities
+ +300 威望每宴会 if using Lavish 食物 court amenities
+ +375 威望每宴会 if using Exotic 食物 court amenities
+ +100% Hold 宴会 Activity 费用 - +20 食物 Taster 能力
+- +50 声望每宴会
+- +75 威望每宴会 if using Bland 食物 court amenities
+- +150 威望每宴会 if using Modest 食物 court amenities
+- +225 威望每宴会 if using Decent 食物 court amenities
+- +300 威望每宴会 if using Lavish 食物 court amenities
+- +375 威望每宴会 if using Exotic 食物 court amenities
+- +100% Hold 宴会 Activity 费用
+| 文化存在于拥有以下地形的伯爵领中： 农田或冲积平原 | 文化存在的5 伯爵领与农田或冲积平原 | 集体
 礼仪
-Spiritual - Communal
+灵性 - 集体
 - 礼仪
 - 灵性
-| Frequent Festivities这种文化举办庆典的频率和热情可能被其他人视为粗俗，但派对就是派对！ | −50 Hold Feast Activity Cooldown
- +0.25 每月威望 for Eager Revelers
- +0.5 每月威望 for Famous Revelers
- +0.75 每月威望 for Legendary Revelers
- 角色s gain Reveler traits more easily
-More information regarding its effectiveness can be found in the reference. [4] - −50 Hold Feast Activity Cooldown
-- +0.25 每月威望 for Eager Revelers
-- +0.5 每月威望 for Famous Revelers
-- +0.75 每月威望 for Legendary Revelers
-- 角色s gain Reveler traits more easily
-- More information regarding its effectiveness can be found in the reference. [4]
-| 文化 has 3 Counts with the Eager Reveler trait | 集体
+| 频繁庆典——The frequency和exuberance与which 这种文化throws festivities would be considered vulgar to others,但一个party是一个party! | −50 Hold 宴会 Activity 冷却时间
+ +0.25 每月威望对于Eager 狂欢者
+ +0.5 每月威望对于Famous 狂欢者
+ +0.75 每月威望对于Legendary 狂欢者
+ 角色获得 Reveler特质更多easily
+More information regarding其effectiveness可以被found在reference. [4] - −50 Hold 宴会 Activity 冷却时间
+- +0.25 每月威望对于Eager 狂欢者
+- +0.5 每月威望对于Famous 狂欢者
+- +0.75 每月威望对于Legendary 狂欢者
+- 角色获得 Reveler特质更多easily
+- More information regarding其effectiveness可以被found在reference. [4]
+| 文化拥有3 伯爵与Eager Reveler特质 | 集体
 礼仪
-Stoic - Communal
+坚毅 - 集体
 - 礼仪
 - 坚毅
-| Linguists学习邻居的语言使你更接近神圣的语言。 | +25% Learn Language 阴谋力量
- +10% 学习语言阴谋 Success Chance 每等级 of Devotion
- +10% Fabricate Claim on 伯爵领 Speed per known Language
- +500 虔诚 per successful 学习语言阴谋
- AI角色更可能 try learning the language of co-religionists - +25% Learn Language 阴谋力量
-- +10% 学习语言阴谋 Success Chance 每等级 of Devotion
-- +10% Fabricate Claim on 伯爵领 Speed per known Language
-- +500 虔诚 per successful 学习语言阴谋
-- AI角色更可能 try learning the language of co-religionists
-| 3 Known Languages and Devoted Servant level of devotion | 官僚
+| LinguistsTo learnwords的一个neighbor brings you一个step closer到language的Divine. | +25% Learn 语言 阴谋力量
+ +10% 学习语言阴谋 成功几率每等级的虔诚
+ +10% Fabricate 宣称 on 伯爵领 速度每已知 语言
+ +500 虔诚每successful 学习语言阴谋
+ AI角色更可能 try learninglanguage的co-religionists - +25% Learn 语言 阴谋力量
+- +10% 学习语言阴谋 成功几率每等级的虔诚
+- +10% Fabricate 宣称 on 伯爵领 速度每已知 语言
+- +500 虔诚每successful 学习语言阴谋
+- AI角色更可能 try learninglanguage的co-religionists
+| 3 Known Languages和虔诚的 Servant等级的devotion | 官僚
 平等
-Spiritual - Bureaucratic
+灵性 - 官僚
 - 平等
 - 灵性
-| Medicinal Herbalists这种文化很久以前就开发了关于植物和树木药用特性的知识；对他们来说，大多数疾病都可以用合适的药膏、软膏或药汤来治疗。 | +5 敌对阴谋成功几率
- +1 外交 for Herbalists
- +5% 每月威望 for Herbalists
- +5% Monthly 学识 生活方式经验 for Herbalists
- The Herbalist trait can be obtained without requiring high 学识 - +5 敌对阴谋成功几率
-- +1 外交 for Herbalists
-- +5% 每月威望 for Herbalists
-- +5% Monthly 学识 生活方式经验 for Herbalists
-- The Herbalist trait can be obtained without requiring high 学识
-| 文化 has 3 Counts with the Herbalist trait | 官僚
-Stoic - Bureaucratic
+| 草药医师——这种文化long ago developed knowledge的medicinal properties的plants和trees; to them most ailments是treatable与right poultice, salve或stew. | +5 敌对阴谋成功几率
+ +1 外交对于Herbalists
+ +5% 每月威望对于Herbalists
+ +5% 每月 学识 生活方式经验对于Herbalists
+草药师特质可以被obtained without requiring high 学识 - +5 敌对阴谋成功几率
+- +1 外交对于Herbalists
+- +5% 每月威望对于Herbalists
+- +5% 每月 学识 生活方式经验对于Herbalists
+-草药师特质可以被obtained without requiring high 学识
+| 文化拥有3 伯爵与草药师特质 | 官僚
+坚毅 - 官僚
 - 坚毅
-| Merciful Blindings无论一个人的罪行多么不可饶恕，这种文化认为挖出一只眼睛总比刺穿心脏要好。 | 可以致盲囚犯
- +100 虔诚 for blinding a prisoner with a Banishment or Execution reason - 可以致盲囚犯
-- +100 虔诚 for blinding a prisoner with a Banishment or Execution reason
-| 拜占庭传统传统 | Prisoner with a crime warranting Banishment or Execution | 礼仪
-Spiritual - Ceremonious
+| Merciful BlindingsNo matter how far beyond forgiveness one拥有gone, 这种文化thinks it是better to gouge out一个eye than run through一个heart. | 可以致盲囚犯
+ +100 虔诚对于blinding一个prisoner与一个Banishment或Execution reason - 可以致盲囚犯
+- +100 虔诚对于blinding一个prisoner与一个Banishment或Execution reason
+| 拜占庭传统传统 | 囚犯与一个crime warranting Banishment或Execution | 礼仪
+灵性 - 礼仪
 - 灵性
-| Monogamous在这种文化中，无论信仰如何，人们只保有一个配偶。 | 角色s can only have one Spouse
- +30% 浪漫阴谋成功几率 towards Spouses
- +10 配偶好感度 - 角色s can only have one Spouse
-- +30% 浪漫阴谋成功几率 towards Spouses
+| 一夫一妻制——In 这种文化one keeps一个single spouse, regardless的faith. | 角色可以only拥有one 配偶
+ +30% 浪漫阴谋成功几率 towards 配偶
+ +10 配偶好感度 - 角色可以only拥有one 配偶
+- +30% 浪漫阴谋成功几率 towards 配偶
 - +10 配偶好感度
 | 纳妾制传统
  一夫多妻制传统 - 纳妾制传统
 - 一夫多妻制传统
-| Monogamous marriage doctrine | All | Mystical Ancestors血统对这种文化非常重要，以至于祖先已经成为了神话和传奇人物，许多人声称是他们的后裔。 | +10 王朝好感度
- +50 声望 for granting a 伯爵领 to a House Member
- +75 声望 for granting a 公爵领 to a House Member
- +150 声望 for granting a 王国 to a House Member
- +250 声望 for granting an 帝国 to a House Member
- −100 虔诚 for revoking a 伯爵领 from a Close Family Member
- −250 虔诚 for revoking a 公爵领 from a Close Family Member
- −500 虔诚 for revoking a 王国 from a Close Family Member
- Cannot Disinherit Dynasty Members - +10 王朝好感度
-- +50 声望 for granting a 伯爵领 to a House Member
-- +75 声望 for granting a 公爵领 to a House Member
-- +150 声望 for granting a 王国 to a House Member
-- +250 声望 for granting an 帝国 to a House Member
-- −100 虔诚 for revoking a 伯爵领 from a Close Family Member
-- −250 虔诚 for revoking a 公爵领 from a Close Family Member
-- −500 虔诚 for revoking a 王国 from a Close Family Member
-- Cannot Disinherit Dynasty Members
-| 文化 descends from a culture that had the tradition | 灵性 | Polygamous在这种文化中，无论信仰如何，人们倾向于拥有多个配偶。 | 角色s can have up to 4 Spouses if allowed by Gender Law | 纳妾制传统
+| 一夫一妻制 marriage doctrine | 所有 | Mystical AncestorsLineage是very important to此文化,到point where ancestors拥有become mythical和legendary beings与many who claim to be其descendants. | +10 王朝好感度
+ +50 声望 for授予a 伯爵领到一个家族 成员
+ +75 声望 for授予a 公爵领到一个家族 成员
+ +150 声望 for授予a 王国到一个家族 成员
+ +250 声望 for授予an 帝国到一个家族 成员
+ −100 虔诚 for撤销a 伯爵领来自一个近 家族 成员
+ −250 虔诚 for撤销a 公爵领来自一个近 家族 成员
+ −500 虔诚 for撤销a 王国来自一个近 家族 成员
+ 不能 Disinherit 王朝 成员 - +10 王朝好感度
+- +50 声望 for授予a 伯爵领到一个家族 成员
+- +75 声望 for授予a 公爵领到一个家族 成员
+- +150 声望 for授予a 王国到一个家族 成员
+- +250 声望 for授予an 帝国到一个家族 成员
+- −100 虔诚 for撤销a 伯爵领来自一个近 家族 成员
+- −250 虔诚 for撤销a 公爵领来自一个近 家族 成员
+- −500 虔诚 for撤销a 王国来自一个近 家族 成员
+- 不能 Disinherit 王朝 成员
+| 文化 descends来自一个culture该hadtradition | 灵性 | 一夫多妻制——In 这种文化one 倾向于拥有multiple spouses, regardless的faith. | 角色可以拥有最多 4 配偶 if允许by 性别法 | 纳妾制传统
  一夫一妻制传统 - 纳妾制传统
 - 一夫一妻制传统
-| Monogamous marriage doctrine | All | Religion Blending这种文化的成员经常与信仰不同的人生活在一起，并善于将外来元素融入自己的信仰之中。 | −20% 信仰 Conversion Cost
- −20% 信仰 Creation and Reformation Cost
- +33% Convert 信仰 in 伯爵领 Speed in counties of this culture
- No Negative 好感度 of Other 信仰s - −20% 信仰 Conversion Cost
-- −20% 信仰 Creation and Reformation Cost
-- +33% Convert 信仰 in 伯爵领 Speed in counties of this culture
-- No Negative 好感度 of Other 信仰s
-| 2 封臣s of the same culture and different faith
- 草原宽容传统 - 2 封臣s of the same culture and different faith
+| 一夫一妻制 marriage doctrine | 所有 | 宗教融合——成员s的这种文化often live together与those sharing different faiths和beliefs,和do well的adopting foreign elements into其own worship. | −20% 信仰 皈依 费用
+ −20% 信仰 Creation和Reformation 费用
+ +33% 皈依 信仰的伯爵领 速度的伯爵领此文化
+ No 负面 好感度的Other 信仰 - −20% 信仰 皈依 费用
+- −20% 信仰 Creation和Reformation 费用
+- +33% 皈依 信仰的伯爵领 速度的伯爵领此文化
+- No 负面 好感度的Other 信仰
+| 2 封臣的相同 culture和different faith
+ 草原宽容传统 - 2 封臣的相同 culture和different faith
 - 草原宽容传统
-| 2 封臣s of the same culture and different faith | 集体
+| 2 封臣的相同 culture和different faith | 集体
 礼仪
-Spiritual - Communal
+灵性 - 集体
 - 礼仪
 - 灵性
-| Religious Patronage为了灵魂的救赎，人们必须致力于具有宗教意义的事业。你无法购买救赎，但有一座神殿的祭司为你歌功颂德总是有帮助的！ | +25% 每月虔诚 from Buildings
- +2000 虔诚 when constructing a Temple 地产 (based on county ruler's culture)
- +150 声望 when constructing a Temple 地产 during 部落时代 (based on county ruler's culture)
- +300 声望 when constructing a Temple 地产 during 中世纪早期 (based on county ruler's culture)
- +450 声望 when constructing a Temple 地产 during 中世纪盛期 (based on county ruler's culture)
- +600 声望 when constructing a Temple 地产 during 中世纪晚期 (based on county ruler's culture)
- +75 声望 when upgrading a Temple 地产 during 部落时代 (based on county ruler's culture)
- +150 声望 when upgrading a Temple 地产 during 中世纪早期 (based on county ruler's culture)
- +225 声望 when upgrading a Temple 地产 during 中世纪盛期 (based on county ruler's culture)
- +300 声望 when upgrading a Temple 地产 during 中世纪晚期 (based on county ruler's culture) - +25% 每月虔诚 from Buildings
-- +2000 虔诚 when constructing a Temple 地产 (based on county ruler's culture)
-- +150 声望 when constructing a Temple 地产 during 部落时代 (based on county ruler's culture)
-- +300 声望 when constructing a Temple 地产 during 中世纪早期 (based on county ruler's culture)
-- +450 声望 when constructing a Temple 地产 during 中世纪盛期 (based on county ruler's culture)
-- +600 声望 when constructing a Temple 地产 during 中世纪晚期 (based on county ruler's culture)
-- +75 声望 when upgrading a Temple 地产 during 部落时代 (based on county ruler's culture)
-- +150 声望 when upgrading a Temple 地产 during 中世纪早期 (based on county ruler's culture)
-- +225 声望 when upgrading a Temple 地产 during 中世纪盛期 (based on county ruler's culture)
-- +300 声望 when upgrading a Temple 地产 during 中世纪晚期 (based on county ruler's culture)
-| At least 20% of the culture's holdings are temple holdings | 文化 has 5 Counts with the Zealous trait | 集体
+| 宗教赞助——Forsalvation的soul,一个must commit to works的religious significance. You不能purchase redemption,但having一个temple的priests sing your praises helps! | +25% 每月虔诚来自建筑
+ +2000 虔诚当建造a 神殿 地产 (based on county ruler's culture)
+ +150 声望当建造a 神殿 地产在部落 时代 (based on county ruler's culture)
+ +300 声望当建造a 神殿 地产在中世纪早期 (based on county ruler's culture)
+ +450 声望当建造a 神殿 地产在中世纪盛期 (based on county ruler's culture)
+ +600 声望当建造a 神殿 地产在中世纪晚期 (based on county ruler's culture)
+ +75 声望当升级a 神殿 地产在部落 时代 (based on county ruler's culture)
+ +150 声望当升级a 神殿 地产在中世纪早期 (based on county ruler's culture)
+ +225 声望当升级a 神殿 地产在中世纪盛期 (based on county ruler's culture)
+ +300 声望当升级a 神殿 地产在中世纪晚期 (based on county ruler's culture) - +25% 每月虔诚来自建筑
+- +2000 虔诚当建造a 神殿 地产 (based on county ruler's culture)
+- +150 声望当建造a 神殿 地产在部落 时代 (based on county ruler's culture)
+- +300 声望当建造a 神殿 地产在中世纪早期 (based on county ruler's culture)
+- +450 声望当建造a 神殿 地产在中世纪盛期 (based on county ruler's culture)
+- +600 声望当建造a 神殿 地产在中世纪晚期 (based on county ruler's culture)
+- +75 声望当升级a 神殿 地产在部落 时代 (based on county ruler's culture)
+- +150 声望当升级a 神殿 地产在中世纪早期 (based on county ruler's culture)
+- +225 声望当升级a 神殿 地产在中世纪盛期 (based on county ruler's culture)
+- +300 声望当升级a 神殿 地产在中世纪晚期 (based on county ruler's culture)
+| At least 20%的文化's holdings是temple holdings | 文化拥有5 伯爵与狂热特质 | 集体
 礼仪
-Spiritual - Communal
+灵性 - 集体
 - 礼仪
 - 灵性
-| Runestone Raisers死亡、征服、获取头衔——这些难道不是定义贵族生活的事情吗？我们的人民走到哪里，我们生命价值的标记就到哪里。 | 解锁 Raise a Runestone decision | North Germanic 遗产
- 北方领主DLC - North Germanic 遗产
-- 北方领主DLC
-| 文化 has 5 Counts with the Arrogant, Journaller or Poet trait | 好战
-Bureaucratic - Bellicose
+| Runestone RaisersDeath, conquest,acquisition的rank —是这些 notthings该define life在nobility? Where our people go, so gomarkers的our lives' worth. | 解锁 Raise一个Runestone decision | 北日耳曼 遗产
+ 北方的 领主 DLC - 北日耳曼 遗产
+- 北方的 领主 DLC
+| 文化拥有5 伯爵与傲慢, Journaller或诗人特质 | 好战
+官僚 - 好战
 - 官僚
-| Sacred Groves这种文化视树木为神圣。森林是一个应该被照料而非被破坏的生命体。 | +50 虔诚 when constructing a building in 森林 or 针叶林 Terrain
- +5% 地产税收 in 森林, 针叶林 and 丛林 Terrain - +50 虔诚 when constructing a building in 森林 or 针叶林 Terrain
-- +5% 地产税收 in 森林, 针叶林 and 丛林 Terrain
-| 部落 Government
- 文化存在于拥有以下地形的伯爵领中： 森林, 针叶林 or 丛林 - 部落 Government
-- 文化存在于拥有以下地形的伯爵领中： 森林, 针叶林 or 丛林
-| 30% 的文化存在于拥有以下地形的伯爵领中： 森林, 针叶林 or 丛林 | 灵性 | Sacred Hunts狩猎既不是运动也不是消遣，它是人类经验的最纯粹表达，人们可以通过展示对自然的驾驭来与神圣相连。 | Completing a Call Hunt Activity grants 虔诚 instead of 威望
- +0.3 每月虔诚 for Novice Hunters
- +0.6 每月虔诚 for Hunters
- +1 每月虔诚 for Master Hunters - Completing a Call Hunt Activity grants 虔诚 instead of 威望
-- +0.3 每月虔诚 for Novice Hunters
-- +0.6 每月虔诚 for Hunters
-- +1 每月虔诚 for Master Hunters
-| Vegetarianism tradition
+| Sacred GrovesTrees是considered sacred by此文化.forest是一个living being该ought to be cared for—not destroyed. | +50 虔诚当建造一个building的森林或针叶林 地形
+ +5% 地产税收的森林, 针叶林和丛林 地形 - +50 虔诚当建造一个building的森林或针叶林 地形
+- +5% 地产税收的森林, 针叶林和丛林 地形
+| 部落 政府
+ 文化存在于拥有以下地形的伯爵领中： 森林, 针叶林或丛林 - 部落 政府
+- 文化存在于拥有以下地形的伯爵领中： 森林, 针叶林或丛林
+| 30% 的文化存在于拥有以下地形的伯爵领中： 森林, 针叶林或丛林 | 灵性 | 神圣狩猎——Hunting是neither一个sport nor一个pastime, it是nothing less thanpurest expression的human experience, where one可以connect与divine by demonstrating其mastery over nature. | Completing一个Call 狩猎 Activity授予虔诚 而不是 威望
+ +0.3 每月虔诚对于Novice 猎人
+ +0.6 每月虔诚对于猎人
+ +1 每月虔诚对于Master 猎人 - Completing一个Call 狩猎 Activity授予虔诚 而不是 威望
+- +0.3 每月虔诚对于Novice 猎人
+- +0.6 每月虔诚对于猎人
+- +1 每月虔诚对于Master 猎人
+| 素食主义 tradition
  和平主义者传统
- 信仰 has Pacifism tenet
- 信仰 has Dharmic Pacifism tenet - Vegetarianism tradition
+ 信仰拥有和平主义 tenet
+ 信仰拥有法性 和平主义 tenet - 素食主义 tradition
 - 和平主义者传统
-- 信仰 has Pacifism tenet
-- 信仰 has Dharmic Pacifism tenet
-| 文化 has 5 Counts with the Hunter trait | 好战
+- 信仰拥有和平主义 tenet
+- 信仰拥有法性 和平主义 tenet
+| 文化拥有5 伯爵与猎人特质 | 好战
 灵性
-Stoic - Bellicose
+坚毅 - 好战
 - 灵性
 - 坚毅
-| Sacred 山地这种文化认为山脉是与神圣的连接，并以崇敬和尊重的态度对待它们。 | +50 虔诚 when constructing a building in 山地 or 沙漠山地 Terrain
- +5% 地产税收 in 山地 and 沙漠山地 Terrain - +50 虔诚 when constructing a building in 山地 or 沙漠山地 Terrain
-- +5% 地产税收 in 山地 and 沙漠山地 Terrain
-| East African, Horn African, Quiangic or Tibetan 遗产
- 部落 Government
- 文化存在于拥有以下地形的伯爵领中： 山地 or 沙漠山地 - East African, Horn African, Quiangic or Tibetan 遗产
-- 部落 Government
-- 文化存在于拥有以下地形的伯爵领中： 山地 or 沙漠山地
-| 30% 的文化存在于拥有以下地形的伯爵领中： 山地 or 沙漠山地 | 灵性 | Sorcerous Metallurgy在这种文化中，试图将金属变成黄金的炼金术士和锻造武器的铁匠一样多。如果这种文化的财富和武器因巫术而增强，又有什么关系呢？ | +2 勇武 每等级 of Devotion
- +0.1 每月虔诚 per Barracks level
- Weapon Inspirations create better Artifacts
- Weapon Inspiration base cost is doubled - +2 勇武 每等级 of Devotion
-- +0.1 每月虔诚 per Barracks level
-- Weapon Inspirations create better Artifacts
-- Weapon Inspiration base cost is doubled
-| Accepted Witchcraft doctrine | 文化 has 3 Counts with the Witch trait | 集体
-Spiritual - Communal
+| 神圣山脉——这种文化considers mountains to be connections到divine,和treats them与reverence和respect. | +50 虔诚当建造一个building的山地或沙漠山地 地形
+ +5% 地产税收的山地和沙漠山地 地形 - +50 虔诚当建造一个building的山地或沙漠山地 地形
+- +5% 地产税收的山地和沙漠山地 地形
+| 东方 非洲, Horn 非洲, Quiangic或藏族 遗产
+ 部落 政府
+ 文化存在于拥有以下地形的伯爵领中： 山地或沙漠山地 - 东方 非洲, Horn 非洲, Quiangic或藏族 遗产
+- 部落 政府
+- 文化存在于拥有以下地形的伯爵领中： 山地或沙漠山地
+| 30% 的文化存在于拥有以下地形的伯爵领中： 山地或沙漠山地 | 灵性 | Sorcerous Metallurgyhere是as many alchemists的这种文化attempting to turn metal到gold as there是smiths forging weapons. What does it matter if此文化's wealth和weaponry是enhanced by witchcraft? | +2 勇武每等级的虔诚
+ +0.1 每月虔诚每兵营等级
+ Weapon 灵感 create better 工艺品
+ Weapon 灵感 base cost是doubled - +2 勇武每等级的虔诚
+- +0.1 每月虔诚每兵营等级
+- Weapon 灵感 create better 工艺品
+- Weapon 灵感 base cost是doubled
+| Accepted Witchcraft doctrine | 文化拥有3 伯爵与女巫特质 | 集体
+灵性 - 集体
 - 灵性
-| Tabletop Warriors任何指挥官都可以在战斗中赌一把获得好运。真正的战略家通过练习和模拟来磨砺自己的头脑，这样他们就不需要'运气'了。 | +2 军事
+| Tabletop WarriorsAny commander可以gamble和get lucky在day的battle. A real strategist keeps其mind honed through practice和pretend, so该they拥有no need的'luck'. | +2 军事
  -2 勇武
  +10% 移动速度
- 指挥官更可能获得指挥官 特质s
- May challenge other 角色s to Board Games
- May wager a personally held 伯爵领 in Board Games, if both players have this rule - +2 军事
+ 指挥官更可能获得指挥官 特质
+ 可以挑战其他角色 to 棋盘游戏
+ 可以打赌一个亲自 held 伯爵领的棋盘游戏, if都players have此rule - +2 军事
 - -2 勇武
 - +10% 移动速度
-- 指挥官更可能获得指挥官 特质s
-- May challenge other 角色s to Board Games
-- May wager a personally held 伯爵领 in Board Games, if both players have this rule
-| 伊比利亚的命运DLC | 18  军事, 18  学识, or Artifact that allows Board Games | 好战
-Ceremonious - Bellicose
+- 指挥官更可能获得指挥官 特质
+- 可以挑战其他角色 to 棋盘游戏
+- 可以打赌一个亲自 held 伯爵领的棋盘游戏, if都players have此rule
+| 伊比利亚的命运DLC | 18  军事, 18  学识,或工艺品 that允许棋盘游戏 | 好战
+礼仪 - 好战
 - 礼仪
-| Water Rituals水的净化特性是这种文化生活的重要组成部分，沐浴仪式在他们的社会中占有重要地位。 | 角色s of this 文化 are less likely to get infected by  Plagues
- The Diligent trait 更常见
- +10% Monthly 学识 生活方式经验 - 角色s of this 文化 are less likely to get infected by  Plagues
-- The Diligent trait 更常见
-- +10% Monthly 学识 生活方式经验
-| 亡者传说DLC | 文化 has at least five rulers employing  Court Physicians
-Whole of Body or Novice physician trait reduce prestige requirement by 1000 Whole of Body or Novice physician trait reduce prestige requirement by 1000
+| 水之仪式——The purifying properties的water是一个essential part的life对于这种文化andritual的ablution occupies一个prominent position的其 society. | 角色此文化是更不可能 to get infected by  Plagues
+勤勉特质 更常见
+ +10% 每月 学识 生活方式经验 - 角色此文化是更不可能 to get infected by  Plagues
+-勤勉特质 更常见
+- +10% 每月 学识 生活方式经验
+| 传说的Dead DLC | 文化至少有 five rulers employing  宫廷 Physicians
+Whole的Body或Novice physician特质 reduce prestige requirement by 1000 Whole的Body或Novice physician特质 reduce prestige requirement by 1000
 
 | 礼仪
 集体
-Spiritual - Ceremonious
+灵性 - 礼仪
 - 集体
 - 灵性
 
-## 地区传统（Regional traditions）
+## 地区传统（Regional Traditions）
 
-所有地区传统仅限于特定地区、文化遗产或文化。
+所有地区传统仅限于特定地区、遗产或文化。
 
-| **传统** | **效果** | **必要条件** | **可选条件** | **偏好文化精神** | African Tolerance虽然有些人会斥之为软弱，但建立在理解和宽容基础上的王国是建立在坚实基础上的。 | +10 不同信仰好感度
- +25 Different 信仰 民众好感度
+| **传统** | **效果** | **必要条件** | **可选条件** | **偏好文化精神** | 非洲 ToleranceThough一些would decry it as weakness,一个realm founded on understanding和tolerance是一个realm built on sturdy foundations. | +10 不同信仰好感度
+ +25 不同 信仰 民众好感度
  AI角色更不太可能 demand conversion - +10 不同信仰好感度
-- +25 Different 信仰 民众好感度
+- +25 不同 信仰 民众好感度
 - AI角色更不太可能 demand conversion
-| Akan, Berber, Central African, Sahelian, Senegambian or Yoruba 遗产
- 草原宽容传统 - Akan, Berber, Central African, Sahelian, Senegambian or Yoruba 遗产
+| 阿坎, Berber, Central 非洲, Sahelian, Senegambian或Yoruba 遗产
+ 草原宽容传统 - 阿坎, Berber, Central 非洲, Sahelian, Senegambian或Yoruba 遗产
 - 草原宽容传统
-| 50% 文化接纳度 with 5 cultures | 集体
-Egalitarian - Communal
+| 50% 文化 接纳度与5 cultures | 集体
+平等 - 集体
 - 平等
-| Art of War这种文化研究军事理论已有千年之久，其将军和元帅拥有丰富的军事手册和教科书。这些丰富的知识仅被制造坚固铠甲和武器的精湛技术所超越。 | Repeating Crossbow 革新 is available from the 部落时代 onward
- 可以招募 Zhanmadao Infantry as 常备军
- 可以招募 Burenjia Infantry as 常备军
- 可以招募 Black-Armored Cavalry as 常备军
- Guardians can transfer Commander 特质s to their Wards
- The 军事 Education 特质s also grant 勇武
- 学识 Skill increases Candidate Score for Military Provinces
- +0.3 军事 per Merit Rank
- +0.2% 每月功绩 per Title 常备军 Base 招募费用
- +20% 常备军 维护费:
- +10% 常备军反制效率
- +2 最大编制 Heavy Infantry 军团 - Repeating Crossbow 革新 is available from the 部落时代 onward
-- 可以招募 Zhanmadao Infantry as 常备军
-- 可以招募 Burenjia Infantry as 常备军
-- 可以招募 Black-Armored Cavalry as 常备军
-- Guardians can transfer Commander 特质s to their Wards
-- The 军事 Education 特质s also grant 勇武
-- 学识 Skill increases Candidate Score for Military Provinces
-- +0.3 军事 per Merit Rank
-- +0.2% 每月功绩 per Title 常备军 Base 招募费用
-- +20% 常备军 维护费:
-- +10% 常备军反制效率
-- +2 最大编制 Heavy Infantry 军团
+| 兵法——这种文化拥有studied military theory对于一个thousand years,和its generals和marshals拥有at其disposal一个rich crop的military manuals和text books. This wealth的knowledge是only overshadowed被一个great technical understanding的how to make strong armor和weapons. | Repeating Crossbow 革新是available来自部落 时代 onward
+ 可以招募 Zhanmadao 步兵 as 常备军
+ 可以招募 Burenjia 步兵 as 常备军
+ 可以招募 Black-重装骑兵 as 常备军
+ Guardians可以transfer 指挥官 特质 to其Wards
+军事 教育 特质 also授予勇武
+ 学识 技能 increases Candidate Score对于军事 省份
+ +0.3 军事每Merit Rank
+ +0.2% 每月 Merit每头衔 常备军 基础 招募费用
+ +20% 常备军维护费:
+ +10% 常备军克制效率
+ +2 最大编制 重步兵 军团 - Repeating Crossbow 革新是available来自部落 时代 onward
+- 可以招募 Zhanmadao 步兵 as 常备军
+- 可以招募 Burenjia 步兵 as 常备军
+- 可以招募 Black-重装骑兵 as 常备军
+- Guardians可以transfer 指挥官 特质 to其Wards
+-军事 教育 特质 also授予勇武
+- 学识 技能 increases Candidate Score对于军事 省份
+- +0.3 军事每Merit Rank
+- +0.2% 每月 Merit每头衔 常备军 基础 招募费用
+- +20% 常备军维护费:
+- +10% 常备军克制效率
+- +2 最大编制 重步兵 军团
 | 天下DLC
- One of the following:
+ 以下之一以下:
  Han culture
- Han culture is parent culture
- Chinese 遗产 - 天下DLC
-- One of the following:
+ Han culture是parent culture
+ 中华 遗产 - 天下DLC
+- 以下之一以下:
  Han culture
- Han culture is parent culture
- Chinese 遗产
+ Han culture是parent culture
+ 中华 遗产
 - Han culture
-- Han culture is parent culture
-- Chinese 遗产
-| 文化至少存在于 5 counties with Examination Hall duchy building chain | 好战
-Bureaucratic - Bellicose
+- Han culture是parent culture
+- 中华 遗产
+| 文化至少存在于 5 伯爵领与Examination Hall 公爵领建筑 chain | 好战
+官僚 - 好战
 - 官僚
-| Audacious Cadets不安分的年轻次子们定义了这种文化。大胆而无所顾忌，这些骑手追逐着远方冒险、雇佣兵残酷和光荣征服的梦想。 | 可以招募 Conrois 常备军
- 解锁 Become Adventurer decision
- 角色s are much more likely to become Adventurers
- Ambitious trait 更常见 [2]
- Wanderers gain 军事, 勇武, Blademaster or Commander traits over time
- 骑士 in Mercenary Courts rapidly gain  勇武
- Idle Courtiers are much more likely to become Wanderers
-All 角色s:
- +20% Heavy Cavalry 伤害
- +20% Heavy Cavalry 追击
- +2 最大编制 Heavy Cavalry 军团
- -15% Same 文化 Mercenary Hire Cost
+| Audacious CadetsRestless throngs的younger sons define此文化. Bold和unscrupulous,这些horsemen chase dreams的faraway adventure,的mercenary cruelties,和of glorious conquest. | 可以招募 Conrois 常备军
+ 解锁 Become 冒险者 decision
+ 角色是更 更可能 to become 冒险者
+ 野心特质 更常见 [2]
+ 流浪者 gain 军事, 勇武, 剑术大师或指挥官特质 over time
+ 骑士的雇佣兵 Courts rapidly gain  勇武
+ 闲置 廷臣是更 更可能 to become 流浪者
+所有 角色:
+ +20% 重骑兵 伤害
+ +20% 重骑兵 追击
+ +2 最大编制 重骑兵 军团
+ -15% Same 文化 雇佣兵 雇佣 费用
  -10% 围城阶段时间
  +10% 旅行速度
  +10% 旅行安全
- 骑士 of this culture become eligible for Lancer accolades  *unlisted - 可以招募 Conrois 常备军
-- 解锁 Become Adventurer decision
-- 角色s are much more likely to become Adventurers
-- Ambitious trait 更常见 [2]
-- Wanderers gain 军事, 勇武, Blademaster or Commander traits over time
-- 骑士 in Mercenary Courts rapidly gain  勇武
-- Idle Courtiers are much more likely to become Wanderers
-- All 角色s:
- +20% Heavy Cavalry 伤害
- +20% Heavy Cavalry 追击
- +2 最大编制 Heavy Cavalry 军团
- -15% Same 文化 Mercenary Hire Cost
+ 骑士的这种文化become eligible对于Lancer accolades  *unlisted - 可以招募 Conrois 常备军
+- 解锁 Become 冒险者 decision
+- 角色是更 更可能 to become 冒险者
+- 野心特质 更常见 [2]
+- 流浪者 gain 军事, 勇武, 剑术大师或指挥官特质 over time
+- 骑士的雇佣兵 Courts rapidly gain  勇武
+- 闲置 廷臣是更 更可能 to become 流浪者
+- 所有 角色:
+ +20% 重骑兵 伤害
+ +20% 重骑兵 追击
+ +2 最大编制 重骑兵 军团
+ -15% Same 文化 雇佣兵 雇佣 费用
  -10% 围城阶段时间
  +10% 旅行速度
  +10% 旅行安全
-- +20% Heavy Cavalry 伤害
-- +20% Heavy Cavalry 追击
-- +2 最大编制 Heavy Cavalry 军团
-- -15% Same 文化 Mercenary Hire Cost
+- +20% 重骑兵 伤害
+- +20% 重骑兵 追击
+- +2 最大编制 重骑兵 军团
+- -15% Same 文化 雇佣兵 雇佣 费用
 - -10% 围城阶段时间
 - +10% 旅行速度
 - +10% 旅行安全
-- 骑士 of this culture become eligible for Lancer accolades  *unlisted
+- 骑士的这种文化become eligible对于Lancer accolades  *unlisted
 | 权力之路DLC
-One of:
- Norman culture
- 文化 has hybridized with Norman culture
+以下之一：
+ 诺曼 culture
+ 文化拥有混合了 诺曼 culture
  雇佣之剑传统
  和平主义者传统 - 权力之路DLC
-- One of:
- Norman culture
- 文化 has hybridized with Norman culture
-- Norman culture
-- 文化 has hybridized with Norman culture
+- 以下之一：
+ 诺曼 culture
+ 文化拥有混合了 诺曼 culture
+- 诺曼 culture
+- 文化拥有混合了 诺曼 culture
 - 雇佣之剑传统
 - 和平主义者传统
-| 400 Heavy Cavalry | 好战 | Barangay Confederations这种文化的统治者领导着分散在河口和海岸的许多不同的城邦。这些城邦的规模差异很大，但往往联合成邦联，由从成员的达图中选出的首领来领导。 | Forming a Confederation no longer requires either a powerful neighbor, or the  Diplomat or  Family Hierarch 特质s
- +20 Offer Confederation 角色 Interaction Acceptance
-Can increase 部落 Authority despite being in a Confederation
- The Adopt Mandala Government Decision turns all Confederates into Tributaries
- +20% 虔诚 gain from Religious Relations
- +10 邦联成员好感度 - Forming a Confederation no longer requires either a powerful neighbor, or the  Diplomat or  Family Hierarch 特质s
-- +20 Offer Confederation 角色 Interaction Acceptance
-- Can increase 部落 Authority despite being in a Confederation
-- The Adopt Mandala Government Decision turns all Confederates into Tributaries
-- +20% 虔诚 gain from Religious Relations
-- +10 邦联成员好感度
+| 400 重骑兵 | 好战 | 巴朗盖联盟——The rulers的这种文化lead many disparate city-states littered along river estuaries和coast. Such states vary greatly的size,但倾向于 unite的confederations, which是led被一个chief chosen来自amongstmembers' Datu. | Forming一个邦联没有longer requires either一个powerful neighbor,或 Diplomat或 家族 Hierarch 特质
+ +20 Offer 邦联 角色 互动 接纳度
+可以increase 部落 Authority despite being在一个邦联
+采用 曼陀罗 政府 决定 turns所有Confederates到Tributaries
+ +20% 虔诚 gain来自宗教 Relations
+ +10 Fellow 邦联 成员 好感度 - Forming一个邦联没有longer requires either一个powerful neighbor,或 Diplomat或 家族 Hierarch 特质
+- +20 Offer 邦联 角色 互动 接纳度
+- 可以increase 部落 Authority despite being在一个邦联
+-采用 曼陀罗 政府 决定 turns所有Confederates到Tributaries
+- +20% 虔诚 gain来自宗教 Relations
+- +10 Fellow 邦联 成员 好感度
 | 天下DLC
- 部落 Government
- 角色 culture or culture of any county has:
- Austronesian 遗产 - 天下DLC
-- 部落 Government
-- 角色 culture or culture of any county has:
- Austronesian 遗产
-- Austronesian 遗产
-| At least 50% of counties of this culture is 沿海 | 平等
+ 部落 政府
+ 角色 culture或culture的any county has:
+ 南岛语 遗产 - 天下DLC
+- 部落 政府
+- 角色 culture或culture的any county has:
+ 南岛语 遗产
+- 南岛语 遗产
+| At least 50%的伯爵领的这种文化is 沿海 | 平等
 集体
-Stoic - Egalitarian
+坚毅 - 平等
 - 集体
 - 坚毅
-| Bush Hunting丛林是一个粗犷而崎岖的地方，但对于那些知道在哪里寻找和如何利用它的人来说，它提供了丰富的机会。以这些技术训练我们的弓箭手将使他们在这些地区与敌人交战时拥有优势。 | 可以招募 Bush Hunters 常备军
- 解锁 Recruit 丛林 Specialist decision
- The 丛林 Stalker trait 更常见. [2]
+| 丛林狩猎——The bush是一个rough和rugged place,但it offers一个bounty的opportunity对于those who know where to look和how to exploit it. Training our archers的这些 techniques将give them一个advantage当engaging enemies的这些 areas. | 可以招募 Bush 猎人 常备军
+ 解锁 招募 丛林 专精 decision
+丛林 潜行者特质 更常见. [2]
  某些特质拥有 丛林 bonuses
- 某些特质拥有 沙漠 and 旱地 bonuses
- +25% 补给上限 in 丛林 Terrain
- +10% 征召兵规模 in 丛林 and 旱地 Terrain
- -42 丛林 危险度 - 可以招募 Bush Hunters 常备军
-- 解锁 Recruit 丛林 Specialist decision
-- The 丛林 Stalker trait 更常见. [2]
+ 某些特质拥有 沙漠和旱地 bonuses
+ +25% 补给上限的丛林 地形
+ +10% 征召兵规模的丛林和旱地 地形
+ -42 丛林 危险度 - 可以招募 Bush 猎人 常备军
+- 解锁 招募 丛林 专精 decision
+-丛林 潜行者特质 更常见. [2]
 - 某些特质拥有 丛林 bonuses
-- 某些特质拥有 沙漠 and 旱地 bonuses
-- +25% 补给上限 in 丛林 Terrain
-- +10% 征召兵规模 in 丛林 and 旱地 Terrain
+- 某些特质拥有 沙漠和旱地 bonuses
+- +25% 补给上限的丛林 地形
+- +10% 征召兵规模的丛林和旱地 地形
 - -42 丛林 危险度
-| Akan or Yoruba 遗产
- 丛林战士传统 - Akan or Yoruba 遗产
+| 阿坎或Yoruba 遗产
+ 丛林战士传统 - 阿坎或Yoruba 遗产
 - 丛林战士传统
 | 30% 的文化存在于拥有以下地形的伯爵领中： 丛林 | 集体
-Egalitarian - Communal
+平等 - 集体
 - 平等
-| Bushido icon
-Bushido根植于荣誉和武艺纪律的传承，这一传统通过致敬和英勇行为提升了领主与封臣之间的纽带。品格的力量和正直的行为锻造了不可动摇的忠诚和尊重。 | Must Pledge Loyalty promptly once the decision is available
- +10 同文化好感度 if Diligent, Humble, Brave or Just
- 可以招募 Samurai as 常备军
- 可以招募 Mounted Samurai 常备军
- Non-martial gender unmarried close family members and spouses of non-administrative rulers may serve as knights in defensive wars
- 角色s with Stalwart Defender can duel any non-administrative character of equal or lower rank - Must Pledge Loyalty promptly once the decision is available
-- +10 同文化好感度 if Diligent, Humble, Brave or Just
-- 可以招募 Samurai as 常备军
-- 可以招募 Mounted Samurai 常备军
-- Non-martial gender unmarried close family members and spouses of non-administrative rulers may serve as knights in defensive wars
-- 角色s with Stalwart Defender can duel any non-administrative character of equal or lower rank
+| 武士道 icon
+BushidoRooted在一个legacy的honor和martial discipline,此tradition elevatesbond在...之间lord和vassal through acts的homage和valor. Strength的character和deeds的integrity forge unshakable loyalty和respect. | Must Pledge Loyalty promptly oncedecision是available
+ +10 同文化好感度 if 勤勉, 谦逊, 勇敢或公正
+ 可以招募 武士 as 常备军
+ 可以招募 Mounted 武士 常备军
+ Non-martial gender unmarried close family members和spouses的non-administrative rulers可以serve as knights的defensive wars
+ 角色与Stalwart 防御方可以duel任何non-administrative character的equal或lower rank - Must Pledge Loyalty promptly oncedecision是available
+- +10 同文化好感度 if 勤勉, 谦逊, 勇敢或公正
+- 可以招募 武士 as 常备军
+- 可以招募 Mounted 武士 常备军
+- Non-martial gender unmarried close family members和spouses的non-administrative rulers可以serve as knights的defensive wars
+- 角色与Stalwart 防御方可以duel任何non-administrative character的equal或lower rank
 | 天下DLC
  文化 head both:
  Sōryō
-Shogun of Japan
- 文化 does not have any of the following traditions:
- Horse Lords
- Devoted Horsemanship
- Fragile Peace - 天下DLC
+Shogun的Japan
+ 文化 没有 any的以下 traditions:
+ 马匹 领主
+ 虔诚的 骑术
+ 脆弱 和平 - 天下DLC
 - 文化 head both:
  Sōryō
-Shogun of Japan
+Shogun的Japan
 - Sōryō
-- Shogun of Japan
-- 文化 does not have any of the following traditions:
- Horse Lords
- Devoted Horsemanship
- Fragile Peace
-- Horse Lords
-- Devoted Horsemanship
-- Fragile Peace
-| Byzantine 传统s这种文化与东罗马帝国的帝国传统及其以复杂而精细的宫廷行为准则形式存在的遗产密切相关。 | +20 合格子嗣好感度
+- Shogun的Japan
+- 文化 没有 any的以下 traditions:
+ 马匹 领主
+ 虔诚的 骑术
+ 脆弱 和平
+- 马匹 领主
+- 虔诚的 骑术
+- 脆弱 和平
+| 拜占庭传统——这种文化closely associated与imperial traditions的东方的 罗马 帝国和its legacy在form的一个complex和intricate code的courtly conduct. | +20 合格子嗣好感度
  +25% 敌对阴谋力量
  +50% 短期统治持续时间
  可以致盲囚犯
  可以阉割囚犯
- 可以授予 Chief Eunuch 宫廷职位
- The Eunuch 特质 有额外加成
- +2 管理 if Eunuch
- +2 谋略 if Eunuch
- +2 学识 if Eunuch
- +10 领主好感度 if Eunuch
- −10 封臣好感度 if Eunuch
- 解锁 Born in the Purple trait
- 角色s with negative physical traits cannot use Claim Casus Belli
- 角色s with negative physical traits receive fewer elective votes - +20 合格子嗣好感度
+ 可以授予 首领 宦官 宫廷职位
+宦官 特质 有额外加成
+ +2 管理 if 宦官
+ +2 谋略 if 宦官
+ +2 学识 if 宦官
+ +10 领主好感度 if 宦官
+ −10 封臣好感度 if 宦官
+ 解锁 Born在Purple特质
+ 角色与negative physical特质不能use 宣称 宣战理由
+ 角色与negative physical特质 receive fewer elective votes - +20 合格子嗣好感度
 - +25% 敌对阴谋力量
 - +50% 短期统治持续时间
 - 可以致盲囚犯
 - 可以阉割囚犯
-- 可以授予 Chief Eunuch 宫廷职位
-- The Eunuch 特质 有额外加成
- +2 管理 if Eunuch
- +2 谋略 if Eunuch
- +2 学识 if Eunuch
- +10 领主好感度 if Eunuch
- −10 封臣好感度 if Eunuch
-- +2 管理 if Eunuch
-- +2 谋略 if Eunuch
-- +2 学识 if Eunuch
-- +10 领主好感度 if Eunuch
-- −10 封臣好感度 if Eunuch
-- 解锁 Born in the Purple trait
-- 角色s with negative physical traits cannot use Claim Casus Belli
-- 角色s with negative physical traits receive fewer elective votes
-| Byzantine 遗产
- Byzantine 帝国 title
+- 可以授予 首领 宦官 宫廷职位
+-宦官 特质 有额外加成
+ +2 管理 if 宦官
+ +2 谋略 if 宦官
+ +2 学识 if 宦官
+ +10 领主好感度 if 宦官
+ −10 封臣好感度 if 宦官
+- +2 管理 if 宦官
+- +2 谋略 if 宦官
+- +2 学识 if 宦官
+- +10 领主好感度 if 宦官
+- −10 封臣好感度 if 宦官
+- 解锁 Born在Purple特质
+- 角色与negative physical特质不能use 宣称 宣战理由
+- 角色与negative physical特质 receive fewer elective votes
+| 拜占庭 遗产
+ 拜占庭 帝国 title
  宫廷宦官传统
- 仁慈致盲传统 - Byzantine 遗产
-- Byzantine 帝国 title
+ 仁慈致盲传统 - 拜占庭 遗产
+- 拜占庭 帝国 title
 - 宫廷宦官传统
 - 仁慈致盲传统
-| 伯爵领 of Byzantion title | 集体
-Ceremonious - Communal
+| 伯爵领的Byzantion title | 集体
+礼仪 - 集体
 - 礼仪
-| Caravaneers这种文化深深融入了该地区的商业实践，其人民与商队贸易有着紧密的联系。 | +20% 外交范围
+| 商队旅人——这种文化well-integrated intocommercial practices的region,和its people是strongly associated与caravan trade. | +20% 外交范围
  +5% 军队移动速度
- Wanderers gain 金币, 管理 or 管理 生活方式 traits over time
- Idle Courtiers are more likely to leave court
+ 流浪者 gain 金币, 管理或管理 生活方式特质 over time
+ 闲置 廷臣是更可能 to leave court
  +20% 旅行速度
  +20% 旅行安全
- Allows the Become Adventurer decision - +20% 外交范围
+ AllowsBecome 冒险者 decision - +20% 外交范围
 - +5% 军队移动速度
-- Wanderers gain 金币, 管理 or 管理 生活方式 traits over time
-- Idle Courtiers are more likely to leave court
+- 流浪者 gain 金币, 管理或管理 生活方式特质 over time
+- 闲置 廷臣是更可能 to leave court
 - +20% 旅行速度
 - +20% 旅行安全
-- Allows the Become Adventurer decision
-| Bedouin, Gaw, Hausa, Khwarezmian, Saka, Samoyed, Sephardi, Sogdian, Soninke, Syriac, Tajik, Tangut, Tocharian or Uyghur | 平等 | Caucasian Wolves在高加索关口安家数世纪后，这种文化已经完全适应了山地战争的一切。 | 可以招募 Monaspa 常备军
- 解锁 Recruit 山地 Specialist decision
- The Rough Terrain Expert trait 更常见. [2]
- 某些特质拥有 山地 and 沙漠山地 bonuses
- +25% 补给上限 in 山地 and 沙漠山地 Terrain
- +10% 征召兵规模 in 山地 and 沙漠山地 Terrain
+- AllowsBecome 冒险者 decision
+| Bedouin, Gaw, Hausa, Khwarezmian, Saka, Samoyed, Sephardi, Sogdian, Soninke, Syriac, Tajik, Tangut, Tocharian或Uyghur | 平等 | Caucasian WolvesHaving spent centuries making themselves一个home aroundCaucasian gates, 这种文化has grown well at home与everything该mountain warfare entails. | 可以招募 Monaspa 常备军
+ 解锁 招募 山地 专精 decision
+崎岖地形 专精特质 更常见. [2]
+ 某些特质拥有 山地和沙漠山地 bonuses
+ +25% 补给上限的山地和沙漠山地 地形
+ +10% 征召兵规模的山地和沙漠山地 地形
  -42 山地 危险度
  -42 沙漠山地 危险度 - 可以招募 Monaspa 常备军
-- 解锁 Recruit 山地 Specialist decision
-- The Rough Terrain Expert trait 更常见. [2]
-- 某些特质拥有 山地 and 沙漠山地 bonuses
-- +25% 补给上限 in 山地 and 沙漠山地 Terrain
-- +10% 征召兵规模 in 山地 and 沙漠山地 Terrain
+- 解锁 招募 山地 专精 decision
+-崎岖地形 专精特质 更常见. [2]
+- 某些特质拥有 山地和沙漠山地 bonuses
+- +25% 补给上限的山地和沙漠山地 地形
+- +10% 征召兵规模的山地和沙漠山地 地形
 - -42 山地 危险度
 - -42 沙漠山地 危险度
-| 文化存在于拥有以下地形的伯爵领中： 山地 or 沙漠山地
- Georgian 文化或后裔
+| 文化存在于拥有以下地形的伯爵领中： 山地或沙漠山地
+ 格鲁吉亚 文化或后裔
  登山者传统
- 山地散兵战传统 - 文化存在于拥有以下地形的伯爵领中： 山地 or 沙漠山地
-- Georgian 文化或后裔
+ 山地散兵战传统 - 文化存在于拥有以下地形的伯爵领中： 山地或沙漠山地
+- 格鲁吉亚 文化或后裔
 - 登山者传统
 - 山地散兵战传统
 | 30% 的文化存在于拥有以下地形的伯爵领中： 山地 | 好战
 集体
-Stoic - Bellicose
+坚毅 - 好战
 - 集体
 - 坚毅
-| Chanson de Geste这种文化重视久远祖先的英雄事迹。对纪尧姆或罗兰等骑士生平的浪漫复述将激励后代。 | Allows to unlock the Valets 革新 (中世纪晚期)
- The Poet 特质 更常见. Has additional bonuses.
- +5% 每月威望 for  Poet 特质
- +10.0% Initial 个人阴谋成功几率 for  Poet 特质
- The 军事 Education 特质s are more valued
- 勇武 Education 特质s are more valued
- +1 同文化好感度 per  军事 Education 特质 Level
- +2 吸引力好感度 per  军事 Education 特质 Level
- Aspiring Blademaster 特质s 有额外加成
- +0.25 每月威望 per  Blademaster 特质 Level
- +5 吸引力好感度 per  Blademaster 特质 Level
- Craven and  Content 特质s are looked down upon
- −15 同文化好感度 for  Craven and  Content 特质
- +5 骑士受伤几率
- May Challenge Rivals to Single Combat duels
- Can host a Joust contests in a Grand Tournaments
- The 骑士-Errant 特质 有额外加成
+| 武功歌——这种文化重视heroic deeds的long gone ancestors.romantic retelling的lives的knights此类as Guillaume,或Roland,将inspire generations to come. | Allows to unlockValets 革新 (中世纪晚期)
+诗人 特质 更常见. 拥有 额外的 bonuses.
+ +5% 每月威望对于 诗人 特质
+ +10.0% Initial 个人阴谋成功几率对于 诗人 特质
+军事 教育 特质是更 valued
+ 勇武 教育 特质是更 valued
+ +1 同文化好感度每 军事 教育 特质 等级
+ +2 吸引力好感度每 军事 教育 特质 等级
+ 见习剑术大师 特质 有额外加成
+ +0.25 每月威望每 剑术大师 特质 等级
+ +5 吸引力好感度每 剑术大师 特质 等级
+ 怯懦和 知足 特质是looked down upon
+ −15 同文化好感度对于 怯懦和 知足 特质
+ +5 骑士 伤害 几率
+ 可以挑战 Rivals to 单一 战斗 duels
+ 可以host一个Joust contests在一个Grand Tournaments
+骑士-Errant 特质 有额外加成
 
-All 角色s:
+所有 角色:
  +5 伤害抗性 (勇武)
- +2 骑士数量
+ +2 Number的骑士
  +20% 荣誉称号荣耀增长
- +5% Legend Spread Chance - Allows to unlock the Valets 革新 (中世纪晚期)
-- The Poet 特质 更常见. Has additional bonuses.
-- +5% 每月威望 for  Poet 特质
-- +10.0% Initial 个人阴谋成功几率 for  Poet 特质
-- The 军事 Education 特质s are more valued
-- 勇武 Education 特质s are more valued
-- +1 同文化好感度 per  军事 Education 特质 Level
-- +2 吸引力好感度 per  军事 Education 特质 Level
-- Aspiring Blademaster 特质s 有额外加成
-- +0.25 每月威望 per  Blademaster 特质 Level
-- +5 吸引力好感度 per  Blademaster 特质 Level
-- Craven and  Content 特质s are looked down upon
-- −15 同文化好感度 for  Craven and  Content 特质
-- +5 骑士受伤几率
-- May Challenge Rivals to Single Combat duels
-- Can host a Joust contests in a Grand Tournaments
-- The 骑士-Errant 特质 有额外加成
-- All 角色s:
+ +5% 传说 传播 几率 - Allows to unlockValets 革新 (中世纪晚期)
+-诗人 特质 更常见. 拥有 额外的 bonuses.
+- +5% 每月威望对于 诗人 特质
+- +10.0% Initial 个人阴谋成功几率对于 诗人 特质
+-军事 教育 特质是更 valued
+- 勇武 教育 特质是更 valued
+- +1 同文化好感度每 军事 教育 特质 等级
+- +2 吸引力好感度每 军事 教育 特质 等级
+- 见习剑术大师 特质 有额外加成
+- +0.25 每月威望每 剑术大师 特质 等级
+- +5 吸引力好感度每 剑术大师 特质 等级
+- 怯懦和 知足 特质是looked down upon
+- −15 同文化好感度对于 怯懦和 知足 特质
+- +5 骑士 伤害 几率
+- 可以挑战 Rivals to 单一 战斗 duels
+- 可以host一个Joust contests在一个Grand Tournaments
+-骑士-Errant 特质 有额外加成
+- 所有 角色:
 - +5 伤害抗性 (勇武)
-- +2 骑士数量
+- +2 Number的骑士
 - +20% 荣誉称号荣耀增长
-- +5% Legend Spread Chance
-| Frankish 遗产
+- +5% 传说 传播 几率
+| 法兰克 遗产
  亲兵卫队传统
  弗图瓦传统
- 尚武崇拜传统 - Frankish 遗产
+ 尚武崇拜传统 - 法兰克 遗产
 - 亲兵卫队传统
 - 弗图瓦传统
 - 尚武崇拜传统
-| 6 骑士 with at least 12 勇武 | 好战
+| 6 骑士与至少 12 勇武 | 好战
 礼仪
-Stoic - Bellicose
+坚毅 - 好战
 - 礼仪
 - 坚毅
-| Court Machinations在迷宫般的宫廷大厅中，宦官掌权，嫔妃争宠，背叛的低语在金碧辉煌的殿堂中回荡。 | Rulers of the Hegemony tier, if allowed by Gender Law, can have up to 20 Concubines
- Rulers, if allowed by Gender Law, can have up to 3 Concubines
- Rulers, if allowed by Gender Law, can have up to 1 spouses
- Courtiers are more likely to join Hostile Schemes against fellow Courtiers
- Can appoint the Chief Eunuch Court Position
- The Eunuch and Beardless Eunuch 特质s grant additional Skills, Aptitude, Merit and Influence
- 角色s who are Eunuch or Beardless Eunuch are more powerful Agents in schemes
- Rulers can Castrate Prisoners
- Improves the Bounties for Whispers Countermeasure
- +10% Initial 政治阴谋成功几率 - Rulers of the Hegemony tier, if allowed by Gender Law, can have up to 20 Concubines
-- Rulers, if allowed by Gender Law, can have up to 3 Concubines
-- Rulers, if allowed by Gender Law, can have up to 1 spouses
-- Courtiers are more likely to join Hostile Schemes against fellow Courtiers
-- Can appoint the Chief Eunuch Court Position
-- The Eunuch and Beardless Eunuch 特质s grant additional Skills, Aptitude, Merit and Influence
-- 角色s who are Eunuch or Beardless Eunuch are more powerful Agents in schemes
-- Rulers can Castrate Prisoners
-- Improves the Bounties for Whispers Countermeasure
+| 宫廷 MachinationsWithinlabyrinthine halls的court, eunuchs hold sway, consorts vie对于favor,和whispers的treachery echo through gilded chambers. | 统治者的Hegemony tier, if允许by 性别法,可以拥有最多 20 妾
+ 统治者, if允许by 性别法,可以拥有最多 3 妾
+ 统治者, if允许by 性别法,可以拥有最多 1 spouses
+ 廷臣是更可能 to join Hostile 阴谋对抗fellow 廷臣
+ 可以appoint首领 宦官 宫廷职位
+宦官和无须 宦官 特质授予额外的 Skills, 能力, Merit和影响力
+ 角色 who是宦官或无须 宦官是更 powerful Agents的schemes
+ 统治者可以Castrate 囚犯
+ Improves悬赏流言 对策
+ +10% Initial 政治阴谋成功几率 - 统治者的Hegemony tier, if允许by 性别法,可以拥有最多 20 妾
+- 统治者, if允许by 性别法,可以拥有最多 3 妾
+- 统治者, if允许by 性别法,可以拥有最多 1 spouses
+- 廷臣是更可能 to join Hostile 阴谋对抗fellow 廷臣
+- 可以appoint首领 宦官 宫廷职位
+-宦官和无须 宦官 特质授予额外的 Skills, 能力, Merit和影响力
+- 角色 who是宦官或无须 宦官是更 powerful Agents的schemes
+- 统治者可以Castrate 囚犯
+- Improves悬赏流言 对策
 - +10% Initial 政治阴谋成功几率
 | 天下DLC
- Chinese 遗产
- Hegemon of China
- 文化 does not have any of the following traditions (unless they are getting replaced):
- Monogamous
- Polygamous
- Concubines
- Court Eunuchs
- When hybridise with other cultures, cannot combine with any of the following traditions:
- Monogamous
- Polygamous
- Concubines - 天下DLC
-- Chinese 遗产
-- Hegemon of China
-- 文化 does not have any of the following traditions (unless they are getting replaced):
- Monogamous
- Polygamous
- Concubines
- Court Eunuchs
-- Monogamous
-- Polygamous
-- Concubines
-- Court Eunuchs
-- When hybridise with other cultures, cannot combine with any of the following traditions:
- Monogamous
- Polygamous
- Concubines
-- Monogamous
-- Polygamous
-- Concubines
-| Has a court grandeur level of 8 or higher
- Current faith of culture head has either doctrines:
+ 中华 遗产
+ Hegemon的中华
+ 文化 没有 any的以下 traditions (unless they是getting replaced):
+ 一夫一妻制
+ 一夫多妻制
+ 妾
+ 宫廷 宦官
+ When hybridise与other cultures,不能combine与any的以下 traditions:
+ 一夫一妻制
+ 一夫多妻制
+ 妾 - 天下DLC
+- 中华 遗产
+- Hegemon的中华
+- 文化 没有 any的以下 traditions (unless they是getting replaced):
+ 一夫一妻制
+ 一夫多妻制
+ 妾
+ 宫廷 宦官
+- 一夫一妻制
+- 一夫多妻制
+- 妾
+- 宫廷 宦官
+- When hybridise与other cultures,不能combine与any的以下 traditions:
+ 一夫一妻制
+ 一夫多妻制
+ 妾
+- 一夫一妻制
+- 一夫多妻制
+- 妾
+| 拥有一个court grandeur等级的8或higher
+ Current faith的文化 head拥有either doctrines:
  Polygamy
- Concubines - Has a court grandeur level of 8 or higher
-- Current faith of culture head has either doctrines:
+ 妾 - 拥有一个court grandeur等级的8或higher
+- Current faith的文化 head拥有either doctrines:
  Polygamy
- Concubines
+ 妾
 - Polygamy
-- Concubines
+- 妾
 | 官僚
 礼仪
-Spiritual - Bureaucratic
+灵性 - 官僚
 - 礼仪
 - 灵性
-| Cultivation调谐身体、呼吸和心灵，直到心中的泥沙沉淀，内在美德如清水般升起。 | 可以使用 the Adopt Taoism Decision
- Children may gain the Wise Man 特质 if they have a Guardian of this 文化 with 12+  学识
- The Wise Man line of 特质s 更常见
- +5 Life Expectancy (years) - 可以使用 the Adopt Taoism Decision
-- Children may gain the Wise Man 特质 if they have a Guardian of this 文化 with 12+  学识
-- The Wise Man line of 特质s 更常见
+| CultivationTuningbody,breath,和mind untilmud的heart settles和inner virtue rises like clear water. | 可以使用采用 Taoism 决定
+ 子嗣可以gain智者 特质 if they拥有一个Guardian此文化与12+  学识
+智者 line的特质 更常见
+ +5 Life Expectancy (years) - 可以使用采用 Taoism 决定
+- 子嗣可以gain智者 特质 if they拥有一个Guardian此文化与12+  学识
+-智者 line的特质 更常见
 - +5 Life Expectancy (years)
 | 天下DLC
- 文化 has either:
- Bellicose ethos
+ 文化拥有以下之一：
+ 好战 ethos
  尚武文化传统
- 文化 head either:
- Has a culture with Chinese 遗产
- Has Confucian Education trait
- Is Hegemon of China
- Has one of the following governments:
- Celestial
+ 文化 head 以下之一：
+ 拥有一个culture与中华 遗产
+ 拥有 儒家 教育特质
+ Is Hegemon的中华
+ 拥有 one的以下 governments:
+ 天
  功绩
- 功绩 Khanate - 天下DLC
-- 文化 has either:
- Bellicose ethos
+ 功绩 汗国 - 天下DLC
+- 文化拥有以下之一：
+ 好战 ethos
  尚武文化传统
-- Bellicose ethos
+- 好战 ethos
 - 尚武文化传统
-- 文化 head either:
- Has a culture with Chinese 遗产
- Has Confucian Education trait
- Is Hegemon of China
- Has one of the following governments:
- Celestial
+- 文化 head 以下之一：
+ 拥有一个culture与中华 遗产
+ 拥有 儒家 教育特质
+ Is Hegemon的中华
+ 拥有 one的以下 governments:
+ 天
  功绩
- 功绩 Khanate
-- Has a culture with Chinese 遗产
-- Has Confucian Education trait
-- Is Hegemon of China
-- Has one of the following governments:
- Celestial
+ 功绩 汗国
+- 拥有一个culture与中华 遗产
+- 拥有 儒家 教育特质
+- Is Hegemon的中华
+- 拥有 one的以下 governments:
+ 天
  功绩
- 功绩 Khanate
-- Celestial
+ 功绩 汗国
+- 天
 - 功绩
-- 功绩 Khanate
-| At least 5 rulers of this culture (Count tier and above) have Scholar trait | 集体
+- 功绩 汗国
+| At least 5 rulers的这种文化(伯爵 tier和above)拥有学者特质 | 集体
 礼仪
-Spiritual - Communal
+灵性 - 集体
 - 礼仪
 - 灵性
-| Cultural Primacy这种自豪的文化满足于审视自己丰富的历史和社会生活，几乎不觉得需要屈尊与邻居交往。 | 学识 Education 特质s and the Scholar 特质 also give 文化瞩目进度
- Idle Courtiers are less likely to become Wanderers if their 领主 is of the same 文化
- 角色s are less willing to marry with other 文化s
- 角色s are less willing to marry with distant Realms
- Very unlikely to arrange Marriages outside their own 文化
- Creating a 混合文化 requires 100% more 文化接纳度, it is also much harder to Hybridise with this 文化
- May always challenge other 角色s to Board Games
- +0.15 每月虔诚 per Legitimacy Level
- +5% Monthly 生活方式经验
- -15 好感度 of Different 文化s
+| 文化至上——This proud culture是content to look to其own rich history和social life,和feels little need to stoop to mingling与its neighbors. | 学识 教育 特质和学者 特质也give 文化瞩目进度
+ 闲置 廷臣是更不可能 to become 流浪者 if其领主 is的相同 文化
+ 角色是less willing to marry与other 文化
+ 角色是less willing to marry与distant Realms
+ Very unlikely to arrange 婚姻 outside其own 文化
+ 创建一个混合文化 requires 100%更多文化 接纳度, it是also 更更难to Hybridise与此文化
+ 可以always 挑战其他角色 to 棋盘游戏
+ +0.15 每月虔诚每合法性 等级
+ +5% 每月 生活方式经验
+ -15 好感度的不同 文化
  -15 不同文化好感度
- +5 宫廷威严 Bonus - 学识 Education 特质s and the Scholar 特质 also give 文化瞩目进度
-- Idle Courtiers are less likely to become Wanderers if their 领主 is of the same 文化
-- 角色s are less willing to marry with other 文化s
-- 角色s are less willing to marry with distant Realms
-- Very unlikely to arrange Marriages outside their own 文化
-- Creating a 混合文化 requires 100% more 文化接纳度, it is also much harder to Hybridise with this 文化
-- May always challenge other 角色s to Board Games
-- +0.15 每月虔诚 per Legitimacy Level
-- +5% Monthly 生活方式经验
-- -15 好感度 of Different 文化s
+ +5 宫廷威严 加成 - 学识 教育 特质和学者 特质也give 文化瞩目进度
+- 闲置 廷臣是更不可能 to become 流浪者 if其领主 is的相同 文化
+- 角色是less willing to marry与other 文化
+- 角色是less willing to marry与distant Realms
+- Very unlikely to arrange 婚姻 outside其own 文化
+- 创建一个混合文化 requires 100%更多文化 接纳度, it是also 更更难to Hybridise与此文化
+- 可以always 挑战其他角色 to 棋盘游戏
+- +0.15 每月虔诚每合法性 等级
+- +5% 每月 生活方式经验
+- -15 好感度的不同 文化
 - -15 不同文化好感度
-- +5 宫廷威严 Bonus
+- +5 宫廷威严 加成
 | 天下DLC
- 文化 head either:
- Has Chinese 遗产
- Is the Hegemon of China
- 文化 does not have any of the following traditions:
+ 文化 head 以下之一：
+ 拥有 中华 遗产
+ IsHegemon的中华
+ 文化 没有 any的以下 traditions:
  Isolationist
- Inward Perfection - 天下DLC
-- 文化 head either:
- Has Chinese 遗产
- Is the Hegemon of China
-- Has Chinese 遗产
-- Is the Hegemon of China
-- 文化 does not have any of the following traditions:
+ 内在 Perfection - 天下DLC
+- 文化 head 以下之一：
+ 拥有 中华 遗产
+ IsHegemon的中华
+- 拥有 中华 遗产
+- IsHegemon的中华
+- 文化 没有 any的以下 traditions:
  Isolationist
- Inward Perfection
+ 内在 Perfection
 - Isolationist
-- Inward Perfection
+- 内在 Perfection
 | 坚毅
 好战
-Spiritual - Stoic
+灵性 - 坚毅
 - 好战
 - 灵性
-| Defensive Tactics我们的人民一次又一次地被放逐和驱逐。虽然悲惨，但这些经历使我们在最大限度减少伤亡的殿后战术方面变得异常熟练。 | 可以招募 Shomer 常备军
- +2 Defender 优势
- +10% Men-At-Arms 韧性
+| 防御性 TacticsOur people已被exiled和driven out time和time again. While tragic,这些experiences拥有led us to become exceptionally skilled的rear-guard tactics which minimize casualties. | 可以招募 Shomer 常备军
+ +2 防御方优势
+ +10% Men-At-兵器 韧性
 
- +20% Heavy Cavalry 韧性
- +20% Heavy Infantry 韧性
- +20% Spearmen 韧性
- +10% Heavy Cavalry 维护费
- +10% Heavy Infantry 维护费
- +10% Spearmen 维护费
+ +20% 重骑兵 韧性
+ +20% 重步兵 韧性
+ +20% 枪兵 韧性
+ +10% 重骑兵 维护费
+ +10% 重步兵 维护费
+ +10% 枪兵 维护费
  +25% 友军死亡人数 - 可以招募 Shomer 常备军
-- +2 Defender 优势
-+10% Men-At-Arms 韧性
+- +2 防御方优势
++10% Men-At-兵器 韧性
 
-- +20% Heavy Cavalry 韧性
-- +20% Heavy Infantry 韧性
-- +20% Spearmen 韧性
-- +10% Heavy Cavalry 维护费
-- +10% Heavy Infantry 维护费
-- +10% Spearmen 维护费
+- +20% 重骑兵 韧性
+- +20% 重步兵 韧性
+- +20% 枪兵 韧性
+- +10% 重骑兵 维护费
+- +10% 重步兵 维护费
+- +10% 枪兵 维护费
 - +25% 友军死亡人数
-| Israelite 遗产
- 站稳作战！传统 - Israelite 遗产
+| 以色列 遗产
+ 站稳作战！传统 - 以色列 遗产
 - 站稳作战！传统
-| 800 Skirmishers | 集体 | Defiant Ambushers icon
-Defiant Ambushers一直被不断入侵的侵略者骚扰，对骑术和弓箭的精通使得有限的人数在打了就跑的突袭和伏击中能发挥出毁灭性的效果。 | 可以招募 Emishi Riders 常备军
- Harder to Promote 文化 in 此文化的伯爵领
- Peasant and Populist Factions 更常见 and more powerful
-All characters:
- +20% 军队移动速度 over land while Raiding
-+10% Raid Speed
- +10% 征召兵补充速率 - 可以招募 Emishi Riders 常备军
-- Harder to Promote 文化 in 此文化的伯爵领
-- Peasant and Populist Factions 更常见 and more powerful
-- All characters:
- +20% 军队移动速度 over land while Raiding
-+10% Raid Speed
+| 800 散兵 | 集体 | Defiant Ambushers icon
+Defiant AmbushersEver-harried by encroaching invaders, mastery的saddle和bow允许limited numbers to be used to devastating effect的hit-and-run raiding和ambushes. | 可以招募 Emishi 骑手 常备军
+ 更难 推广文化的此文化的伯爵领
+ Peasant和Populist 派系 更常见和更 powerful
+所有 characters:
+ +20% 军队移动速度 over land while 劫掠
++10% 劫掠 速度
+ +10% 征召兵补充速率 - 可以招募 Emishi 骑手 常备军
+- 更难 推广文化的此文化的伯爵领
+- Peasant和Populist 派系 更常见和更 powerful
+- 所有 characters:
+ +20% 军队移动速度 over land while 劫掠
++10% 劫掠 速度
  +10% 征召兵补充速率
-- +20% 军队移动速度 over land while Raiding
-- +10% Raid Speed
+- +20% 军队移动速度 over land while 劫掠
+- +10% 劫掠 速度
 - +10% 征召兵补充速率
 | 天下DLC
  Ainuic 遗产
- 文化 does not have any of the following traditions:
- Horse Lords
- Devoted Horsemanship
- Bushido
- Fragile Peace - 天下DLC
+ 文化 没有 any的以下 traditions:
+ 马匹 领主
+ 虔诚的 骑术
+ 武士道
+ 脆弱 和平 - 天下DLC
 - Ainuic 遗产
-- 文化 does not have any of the following traditions:
- Horse Lords
- Devoted Horsemanship
- Bushido
- Fragile Peace
-- Horse Lords
-- Devoted Horsemanship
-- Bushido
-- Fragile Peace
+- 文化 没有 any的以下 traditions:
+ 马匹 领主
+ 虔诚的 骑术
+ 武士道
+ 脆弱 和平
+- 马匹 领主
+- 虔诚的 骑术
+- 武士道
+- 脆弱 和平
 | 礼仪
 集体
-Spiritual - Ceremonious
+灵性 - 礼仪
 - 集体
 - 灵性
-| 沙漠 Ribats这种文化有着在沙漠中建造堡垒式隐修所的传统，虔诚者可以在那里与天空和沙漠为伴。这种生活方式培养了能干而虔诚的沙漠战士，并吸引了神秘主义者。 | 可以招募 Mulathanūm 常备军
- 解锁 Recruit Dry Terrain Specialist decision
- The 沙漠 Warrior trait 更常见. [2]
+| 沙漠里巴特——这种文化拥有一个tradition的fortified desert retreats, wherepious可以live的connection与open sky和sands. This lifestyle breeds able和pious desert warriors和attracts mystics. | 可以招募 Mulathanūm 常备军
+ 解锁 招募 Dry 地形 专精 decision
+沙漠 战士特质 更常见. [2]
  某些特质给予 bonuses
- AI更可能获得 the Mystic 特质s. Does NOT affect the Player at all.
- +1 勇武 每等级 of Devotion - 可以招募 Mulathanūm 常备军
-- 解锁 Recruit Dry Terrain Specialist decision
-- The 沙漠 Warrior trait 更常见. [2]
+ AI更可能获得神秘主义者 特质. Does NOT affectPlayer at all.
+ +1 勇武每等级的虔诚 - 可以招募 Mulathanūm 常备军
+- 解锁 招募 Dry 地形 专精 decision
+-沙漠 战士特质 更常见. [2]
 - 某些特质给予 bonuses
-- AI更可能获得 the Mystic 特质s. Does NOT affect the Player at all.
-- +1 勇武 每等级 of Devotion
+- AI更可能获得神秘主义者 特质. Does NOT affectPlayer at all.
+- +1 勇武每等级的虔诚
 | Berber 遗产
- 文化存在于拥有以下地形的伯爵领中： 沙漠 or 旱地
+ 文化存在于拥有以下地形的伯爵领中： 沙漠或旱地
  和平主义者传统
- 信仰 has Pacifism tenet
- 信仰 has Dharmic Pacifism tenet - Berber 遗产
-- 文化存在于拥有以下地形的伯爵领中： 沙漠 or 旱地
+ 信仰拥有和平主义 tenet
+ 信仰拥有法性 和平主义 tenet - Berber 遗产
+- 文化存在于拥有以下地形的伯爵领中： 沙漠或旱地
 - 和平主义者传统
-- 信仰 has Pacifism tenet
-- 信仰 has Dharmic Pacifism tenet
-| 30% 的文化存在于拥有以下地形的伯爵领中： 沙漠 or 旱地 | 好战
+- 信仰拥有和平主义 tenet
+- 信仰拥有法性 和平主义 tenet
+| 30% 的文化存在于拥有以下地形的伯爵领中： 沙漠或旱地 | 好战
 灵性
-Stoic - Bellicose
+坚毅 - 好战
 - 灵性
 - 坚毅
-| 沙漠 Travelers这种文化对沙漠的严酷环境并不陌生，并已掌握了使用骆驼帮助他们旅行、作战和日常生活的技巧。 | +10% 地产税收 in 沙漠 Terrain
- −20% Camel Cavalry 维护费
- −20% Camel Cavalry 招募费用
- +20% Camel Cavalry 伤害 for 沙漠 Warriors
- +10% Camel Cavalry 掩护 for 沙漠 Warriors
- +20% 军队移动速度 while Raiding
- -30% 敌方损耗 while Raiding
+| 沙漠旅者——这种文化no stranger到harsh environment的desert和has mastereduse的camels to aid them的travel, warfare,和everyday life. | +10% 地产税收的沙漠 地形
+ −20% 骆驼兵 骑兵 维护费
+ −20% 骆驼兵 骑兵 招募费用
+ +20% 骆驼兵 骑兵 伤害对于沙漠 战士
+ +10% 骆驼兵 骑兵 掩护对于沙漠 战士
+ +20% 军队移动速度 while 劫掠
+ -30% 敌方损耗 while 劫掠
  +10 旅行速度
  -32 沙漠 危险度
  -42 沙漠山地 危险度
- -22 旱地 危险度 - +10% 地产税收 in 沙漠 Terrain
-- −20% Camel Cavalry 维护费
-- −20% Camel Cavalry 招募费用
-- +20% Camel Cavalry 伤害 for 沙漠 Warriors
-- +10% Camel Cavalry 掩护 for 沙漠 Warriors
-- +20% 军队移动速度 while Raiding
-- -30% 敌方损耗 while Raiding
+ -22 旱地 危险度 - +10% 地产税收的沙漠 地形
+- −20% 骆驼兵 骑兵 维护费
+- −20% 骆驼兵 骑兵 招募费用
+- +20% 骆驼兵 骑兵 伤害对于沙漠 战士
+- +10% 骆驼兵 骑兵 掩护对于沙漠 战士
+- +20% 军队移动速度 while 劫掠
+- -30% 敌方损耗 while 劫掠
 - +10 旅行速度
 - -32 沙漠 危险度
 - -42 沙漠山地 危险度
 - -22 旱地 危险度
 | Bedouin 文化或后裔
- 文化 is present in a county in the North Africa, Middle East or Persia region - Bedouin 文化或后裔
-- 文化 is present in a county in the North Africa, Middle East or Persia region
+ 文化存在在一个county在北方 Africa, Middle 东方或Persia region - Bedouin 文化或后裔
+- 文化存在在一个county在北方 Africa, Middle 东方或Persia region
 | 灵性
-Stoic - Spiritual
+坚毅 - 灵性
 - 坚毅
-| Devoted Horsemanship即使是宫殿般的舒适也无法让这种文化的人离开马鞍。无论身在何处，他们的马群也在那里，马匹受到精心照料。 | 可以招募 Horse Archers 常备军
- 解锁 Recruit 平原 Specialist decision
- Horse Herds 建筑线 可以在以下地形建造： 此文化的地产
- Allows the Become Adventurer decision
- Avaricious, Architect, and Administrator 特质s provide bonuses to Light Cavalry, Heavy Cavalry, and Archer Cavalry 常备军
+| 虔诚的 HorsemanshipEven palatial comforts不能keeppeople的这种文化fromsaddle. Wherever他们find themselves,其herds是there too,和horses是tended to与一个careful eye. | 可以招募 马匹 弓箭手 常备军
+ 解锁 招募 平原 专精 decision
+ 马匹 Herds 建筑线 可以在以下地形建造： 此文化的地产
+ AllowsBecome 冒险者 decision
+ Avaricious, Architect,和Administrator 特质 provide bonuses to 轻骑兵, 重骑兵,和弓箭手 骑兵 常备军
  可以招募 Tarkhans as 常备军
  +10% 军队移动速度
- +30% 军队移动速度 over land while Raiding
- +20% 旅行速度 - 可以招募 Horse Archers 常备军
-- 解锁 Recruit 平原 Specialist decision
-- Horse Herds 建筑线 可以在以下地形建造： 此文化的地产
-- Allows the Become Adventurer decision
-- Avaricious, Architect, and Administrator 特质s provide bonuses to Light Cavalry, Heavy Cavalry, and Archer Cavalry 常备军
+ +30% 军队移动速度 over land while 劫掠
+ +20% 旅行速度 - 可以招募 马匹 弓箭手 常备军
+- 解锁 招募 平原 专精 decision
+- 马匹 Herds 建筑线 可以在以下地形建造： 此文化的地产
+- AllowsBecome 冒险者 decision
+- Avaricious, Architect,和Administrator 特质 provide bonuses to 轻骑兵, 重骑兵,和弓箭手 骑兵 常备军
 - 可以招募 Tarkhans as 常备军
 - +10% 军队移动速度
-- +30% 军队移动速度 over land while Raiding
+- +30% 军队移动速度 over land while 劫掠
 - +20% 旅行速度
-| 草原可汗DLC
- Mongolic, Turkic, or Magyar 遗产 OR
- Way of the Nomad - Mongolic, Turkic, or Magyar 遗产 OR
-- Way of the Nomad
+| Khans的草原 DLC
+ 蒙古, 突厥,或Magyar 遗产 OR
+ Way的游牧民 - 蒙古, 突厥,或Magyar 遗产 OR
+- Way的游牧民
 | 好战
-Communal - Bellicose
+集体 - 好战
 - 集体
-| Druzhina瓦兰吉亚士兵长期以来一直是我们君主的威武保镖，但他们同样可以轻松地担任我们军队中忠诚的重步兵。 | 可以招募 Druzhina 常备军
- 可以使用 Single Combat duels
- +2 骑士数量
- +5 伤害抗性 for 勇武
+| DruzhinaVarangian soldiers拥有long served as imposing bodyguards对于our monarchs,但they可以just as easily serve as dedicated heavy infantry的our armies. | 可以招募 Druzhina 常备军
+ 可以使用 单一 战斗 duels
+ +2 Number的骑士
+ +5 伤害抗性对于勇武
  +20% 荣誉称号荣耀进度
- +2 吸引力好感度 per 军事 Education trait level
- +0.1 每月威望 per 勇武 Education trait level
- +1 同文化好感度 per 勇武 Education trait level
- +5 吸引力好感度 per Blademaster trait level
- −15 同文化好感度 for Cravens and Contents
- +5 骑士受伤几率 - 可以招募 Druzhina 常备军
-- 可以使用 Single Combat duels
-- +2 骑士数量
-- +5 伤害抗性 for 勇武
+ +2 吸引力好感度每军事 教育特质等级
+ +0.1 每月威望每勇武 教育特质等级
+ +1 同文化好感度每勇武 教育特质等级
+ +5 吸引力好感度每剑术大师特质等级
+ −15 同文化好感度对于Cravens和Contents
+ +5 骑士 伤害 几率 - 可以招募 Druzhina 常备军
+- 可以使用 单一 战斗 duels
+- +2 Number的骑士
+- +5 伤害抗性对于勇武
 - +20% 荣誉称号荣耀进度
-- +2 吸引力好感度 per 军事 Education trait level
-- +0.1 每月威望 per 勇武 Education trait level
-- +1 同文化好感度 per 勇武 Education trait level
-- +5 吸引力好感度 per Blademaster trait level
-- −15 同文化好感度 for Cravens and Contents
-- +5 骑士受伤几率
-| East Slavic 遗产
+- +2 吸引力好感度每军事 教育特质等级
+- +0.1 每月威望每勇武 教育特质等级
+- +1 同文化好感度每勇武 教育特质等级
+- +5 吸引力好感度每剑术大师特质等级
+- −15 同文化好感度对于Cravens和Contents
+- +5 骑士 伤害 几率
+| 东方 斯拉夫 遗产
  弗图瓦传统
  武功歌传统
- 尚武崇拜传统 - East Slavic 遗产
+ 尚武崇拜传统 - 东方 斯拉夫 遗产
 - 弗图瓦传统
 - 武功歌传统
 - 尚武崇拜传统
-| 6 骑士 with at least 12 勇武 | 好战
-Stoic - Bellicose
+| 6 骑士与至少 12 勇武 | 好战
+坚毅 - 好战
 - 坚毅
 | Dynastic Pragmatism icon
-Dynastic Pragmatism虽然维持婚姻的规范对于体面和法律便利很重要，但快乐是神灵赐予的自然礼物，对健康至关重要，无论对血统有什么影响。 | 角色s with the Adulterer and Fornicator 特质s are always fully accepted
- 解锁 Adopt House Member interaction for Noble House Head
- Adoption does not cost  威望 or  声望
- 角色s can adopt unrelated orphan characters with no opinion cost
+Dynastic PragmatismWhilenorms的marriage是important to maintain对于appearances和legal expediency, pleasure是一个natural gift bestowed被gods和vital to good health, whateverramifications on pedigree. | 角色与Adulterer和Fornicator 特质是always fully accepted
+ 解锁 采用 家族 成员 interaction对于Noble 家族 首领
+ 收养不会cost  威望或 声望
+ 角色可以adopt unrelated orphan characters与no opinion cost
  此文化的监护人更有效
- 角色s can have up to 4 Spouses if allowed by Gender Law
- +25% changes to House Relations - 角色s with the Adulterer and Fornicator 特质s are always fully accepted
-- 解锁 Adopt House Member interaction for Noble House Head
-- Adoption does not cost  威望 or  声望
-- 角色s can adopt unrelated orphan characters with no opinion cost
+ 角色可以拥有最多 4 配偶 if允许by 性别法
+ +25% changes to 家族 Relations - 角色与Adulterer和Fornicator 特质是always fully accepted
+- 解锁 采用 家族 成员 interaction对于Noble 家族 首领
+- 收养不会cost  威望或 声望
+- 角色可以adopt unrelated orphan characters与no opinion cost
 - 此文化的监护人更有效
-- 角色s can have up to 4 Spouses if allowed by Gender Law
-- +25% changes to House Relations
+- 角色可以拥有最多 4 配偶 if允许by 性别法
+- +25% changes to 家族 Relations
 | 天下DLC
- 文化 head has faith with Immaterial Harmony
- Adoption game rule set to Forbidden
- 文化 does not have any of the following traditions:
- Noble Adoption
- Cultural Sophistication - 天下DLC
-- 文化 head has faith with Immaterial Harmony
-- Adoption game rule set to Forbidden
-- 文化 does not have any of the following traditions:
- Noble Adoption
- Cultural Sophistication
-- Noble Adoption
-- Cultural Sophistication
+ 文化 head拥有faith与Immaterial 和谐
+ 收养 game rule set to Forbidden
+ 文化 没有 any的以下 traditions:
+ Noble 收养
+ 文化 Sophistication - 天下DLC
+- 文化 head拥有faith与Immaterial 和谐
+- 收养 game rule set to Forbidden
+- 文化 没有 any的以下 traditions:
+ Noble 收养
+ 文化 Sophistication
+- Noble 收养
+- 文化 Sophistication
 | 礼仪
 集体
-Spiritual - Ceremonious
+灵性 - 礼仪
 - 集体
 - 灵性
 | Ephemeral Grace icon
-Ephemeral Grace物哀的美学哲学赞颂转瞬即逝的美。它培养了与自然的深层和谐以及对艺术和生命无常的反思性欣赏。 | Increased 压力降低 from Temperate, Calm, Patient, and Compassionate traits
- +5% 每月威望 for Poets
- +10% 个人阴谋成功几率 for Poets
- 可以授予 Court Gardener 宫廷职位
- 解锁 Recruit Gardener decision
-AI rulers more likely to start 浪漫阴谋s
-The Poet and Gallant traits:
-Increase scheme phase speed for 浪漫阴谋s
- +15 Attraction opinion - Increased 压力降低 from Temperate, Calm, Patient, and Compassionate traits
-- +5% 每月威望 for Poets
-- +10% 个人阴谋成功几率 for Poets
-- 可以授予 Court Gardener 宫廷职位
-- 解锁 Recruit Gardener decision
-- AI rulers more likely to start 浪漫阴谋s
-- The Poet and Gallant traits:
-Increase scheme phase speed for 浪漫阴谋s
-- Increase scheme phase speed for 浪漫阴谋s
+Ephemeral GraceThe aesthetic philosophy的Mono没有Aware celebratestransient beauty的fleeting moments. It fosters一个deep harmony与nature和一个reflective appreciation的art和life's impermanence. | 增加 压力降低来自节制, 冷静, 耐心,和仁慈特质
+ +5% 每月威望对于诗人
+ +10% 个人阴谋成功几率对于诗人
+ 可以授予 宫廷 园丁 宫廷职位
+ 解锁 招募园丁决定
+AI rulers 更可能 to start 浪漫 阴谋
+The 诗人和Gallant特质:
+Increase scheme phase speed对于浪漫 阴谋
+ +15 Attraction opinion - 增加 压力降低来自节制, 冷静, 耐心,和仁慈特质
+- +5% 每月威望对于诗人
+- +10% 个人阴谋成功几率对于诗人
+- 可以授予 宫廷 园丁 宫廷职位
+- 解锁 招募园丁决定
+- AI rulers 更可能 to start 浪漫 阴谋
+-诗人和Gallant特质:
+Increase scheme phase speed对于浪漫 阴谋
+- Increase scheme phase speed对于浪漫 阴谋
 - +15 Attraction opinion
 | 天下DLC
- 文化 head either:
+ 文化 head 以下之一：
 Shintoist
-信仰 has Immaterial Harmony doctrine
- 文化 does not have any of the following traditions:
+信仰拥有Immaterial 和谐 doctrine
+ 文化 没有 any的以下 traditions:
  Garden Architects
  精致诗歌传统 - 天下DLC
-- 文化 head either:
+- 文化 head 以下之一：
 Shintoist
-信仰 has Immaterial Harmony doctrine
+信仰拥有Immaterial 和谐 doctrine
 - Shintoist
-- 信仰 has Immaterial Harmony doctrine
-- 文化 does not have any of the following traditions:
+- 信仰拥有Immaterial 和谐 doctrine
+- 文化 没有 any的以下 traditions:
  Garden Architects
  精致诗歌传统
 - Garden Architects
 - 精致诗歌传统
-| 文化 has at least 3 Counts with the Poet trait | 礼仪
+| 文化至少有 3 伯爵与诗人特质 | 礼仪
 集体
-Spiritual - Ceremonious
+灵性 - 礼仪
 - 集体
 - 灵性
-| Esoteric Power神圣和神秘是在这种文化眼中描述贵族的两个词。希望巩固其统治的统治者需要参与精心设计的仪式，并通过展示神圣文物来彰显其权力。 | 虔诚 and  Legitimacy gain from Mandala Rituals is increased
- May use the Commission Artifact Decision to comission Kris Artifacts
- Inspirations produce higher-quality Artifacts the higher the Level of Devotion of the commissioner
- 可以招募 Pesilat Warriors as 常备军
- -42 丛林 危险度 - 虔诚 and  Legitimacy gain from Mandala Rituals is increased
-- May use the Commission Artifact Decision to comission Kris Artifacts
-- Inspirations produce higher-quality Artifacts the higher the Level of Devotion of the commissioner
-- 可以招募 Pesilat Warriors as 常备军
+| Esoteric PowerDivine和mysterious aretwo words该describenobility在eyes此文化. 统治者该wish to secure其mandate need to engage的elaborate rituals和manifest其power viadisplay的divine artifacts. | 虔诚和 合法性 gain来自曼陀罗 Rituals是increased
+ 可以use委托 工艺品 决定 to comission Kris 工艺品
+ 灵感 produce higher-quality 工艺品higher等级的虔诚的commissioner
+ 可以招募 Pesilat 战士 as 常备军
+ -42 丛林 危险度 - 虔诚和 合法性 gain来自曼陀罗 Rituals是increased
+- 可以use委托 工艺品 决定 to comission Kris 工艺品
+- 灵感 produce higher-quality 工艺品higher等级的虔诚的commissioner
+- 可以招募 Pesilat 战士 as 常备军
 - -42 丛林 危险度
 | 天下DLC
- Mandala government
- 角色 culture or culture of any county has:
- Austronesian 遗产 - 天下DLC
-- Mandala government
-- 角色 culture or culture of any county has:
- Austronesian 遗产
-- Austronesian 遗产
+ 曼陀罗 government
+ 角色 culture或culture的any county has:
+ 南岛语 遗产 - 天下DLC
+- 曼陀罗 government
+- 角色 culture或culture的any county has:
+ 南岛语 遗产
+- 南岛语 遗产
 | 朝堂
 集体
-Spiritual - Courtly
+灵性 - 朝堂
 - 集体
 - 灵性
-| Fierce Independence多年来，许多暴君都试图消灭这种文化。但通过坚韧和军事成就，它幸存了下来。 | 可以招募 Tawashi as 常备军
- Creating a 混合文化 requires 100% more 文化接纳度, it is also much harder to Hybridise with this 文化
- Harder to Promote 文化 in 此文化的伯爵领
- -10 好感度 of 领主
+| Fierce IndependenceThroughoutyears, many tyrants拥有tried to stomp out此文化. But, through resilience和military achievements, it拥有survived. | 可以招募 Tawashi as 常备军
+ 创建一个混合文化 requires 100%更多文化 接纳度, it是also 更更难to Hybridise与此文化
+ 更难 推广文化的此文化的伯爵领
+ -10 好感度的领主
  +5 同文化好感度
- +5 控制led Territory Defender 优势 - Creating a 混合文化 requires 100% more 文化接纳度, it is also much harder to Hybridise with this 文化
-- Harder to Promote 文化 in 此文化的伯爵领
-- -10 好感度 of 领主
+ +5 控制领土防御优势 - 创建一个混合文化 requires 100%更多文化 接纳度, it是also 更更难to Hybridise与此文化
+- 更难 推广文化的此文化的伯爵领
+- -10 好感度的领主
 - +5 同文化好感度
-- +5 控制led Territory Defender 优势
-| Iranian 遗产
- 波斯遗产DLC - 波斯遗产DLC
-| You must not have any Counties of another 文化 in your Realm | 好战
+- +5 控制领土防御优势
+| 伊朗 遗产
+ 波斯遗产DLC - 波斯遗产DLC
+| You must not拥有any 伯爵领的another 文化的your 领地 | 好战
 集体
-Stoic - Bellicose
+坚毅 - 好战
 - 集体
 - 坚毅
-| 森林 Wardens我们的祖先世世代代生活在这些森林中，但现在它们正受到外来者的威胁。几个世纪积累的森林作战经验将帮助我们保护祖先的家园。 | 可以招募 Metsänvartija 常备军
- 解锁 Recruit 森林 Specialist decision
- The 森林 Fighter trait 更常见. [2]
- +15% 发展度增长 in 森林 and 针叶林 Terrain
- −10% 地产和建筑建造费用 in 森林 and 针叶林 Terrain
- Wood Pastures unlock the first four tiers of  Watermills 建筑线
- 森林ries 有额外加成 in 此文化的伯爵领:
- +2% Archers and Skirmishers 伤害 per 森林ry level
- −2% 伯爵领建造速度 per 森林ry level
- −1% 伯爵领建造费用 per 森林ry level
- Increased Hunt Success Chance in 森林 and 针叶林
+| 森林 WardensOur ancestors拥有lived的这些 forests对于generations,但now they是under threat by outsiders. Centuries的accumulated experience fighting的forests将aid us的protecting our ancestral homeland. | 可以招募 Metsänvartija 常备军
+ 解锁 招募 森林 专精 decision
+森林 Fighter特质 更常见. [2]
+ +15% 发展度增长的森林和针叶林 地形
+ −10% 地产和建筑 建造费用的森林和针叶林 地形
+ 林间牧场 unlockfirst four tiers的 水磨坊 建筑线
+ Forestries 有额外加成的此文化的伯爵领:
+ +2% 弓箭手和散兵 伤害每林业等级
+ −2% 伯爵领 建造 速度每林业等级
+ −1% 伯爵领 建造 费用每林业等级
+ 增加 狩猎 成功几率的森林和针叶林
  -45 森林 危险度
  -55 针叶林 危险度 - 可以招募 Metsänvartija 常备军
-- 解锁 Recruit 森林 Specialist decision
-- The 森林 Fighter trait 更常见. [2]
-- +15% 发展度增长 in 森林 and 针叶林 Terrain
-- −10% 地产和建筑建造费用 in 森林 and 针叶林 Terrain
-- Wood Pastures unlock the first four tiers of  Watermills 建筑线
-- 森林ries 有额外加成 in 此文化的伯爵领:
- +2% Archers and Skirmishers 伤害 per 森林ry level
- −2% 伯爵领建造速度 per 森林ry level
- −1% 伯爵领建造费用 per 森林ry level
-- +2% Archers and Skirmishers 伤害 per 森林ry level
-- −2% 伯爵领建造速度 per 森林ry level
-- −1% 伯爵领建造费用 per 森林ry level
-- Increased Hunt Success Chance in 森林 and 针叶林
+- 解锁 招募 森林 专精 decision
+-森林 Fighter特质 更常见. [2]
+- +15% 发展度增长的森林和针叶林 地形
+- −10% 地产和建筑 建造费用的森林和针叶林 地形
+- 林间牧场 unlockfirst four tiers的 水磨坊 建筑线
+- Forestries 有额外加成的此文化的伯爵领:
+ +2% 弓箭手和散兵 伤害每林业等级
+ −2% 伯爵领 建造 速度每林业等级
+ −1% 伯爵领 建造 费用每林业等级
+- +2% 弓箭手和散兵 伤害每林业等级
+- −2% 伯爵领 建造 速度每林业等级
+- −1% 伯爵领 建造 费用每林业等级
+- 增加 狩猎 成功几率的森林和针叶林
 - -45 森林 危险度
 - -55 针叶林 危险度
-| 文化存在于拥有以下地形的伯爵领中： 森林 or 针叶林
- Baltic, Balto-Finnic, Volga-Finnic or Ugro-Permian 遗产
- 森林居民传统 - 文化存在于拥有以下地形的伯爵领中： 森林 or 针叶林
-- Baltic, Balto-Finnic, Volga-Finnic or Ugro-Permian 遗产
+| 文化存在于拥有以下地形的伯爵领中： 森林或针叶林
+ 波罗的海, Balto-芬兰, 伏尔加-芬兰或Ugro-Permian 遗产
+ 森林居民传统 - 文化存在于拥有以下地形的伯爵领中： 森林或针叶林
+- 波罗的海, Balto-芬兰, 伏尔加-芬兰或Ugro-Permian 遗产
 - 森林居民传统
-| 30% 的文化存在于拥有以下地形的伯爵领中： 森林 or 针叶林 | 好战
+| 30% 的文化存在于拥有以下地形的伯爵领中： 森林或针叶林 | 好战
 集体
-Stoic - Bellicose
+坚毅 - 好战
 - 集体
 - 坚毅
-| Fortified Strongholds这种文化以履行宗教、军事和政府职能的伟大要塞城市为特征。保护这些文化据点至关重要，建造更多城市则是巨大威望的体现。 | Founding Temple Citadel 地产s grants +100% 虔诚
- Founding Temple Citadel 地产s sets 控制 to +100%
- Temple Citadels have increased 要塞等级
- Temple Citadels provide a small 控制 bonus
- -20% Temple Citadel 地产建造时间
- -10% Temple Citadel 地产建造费用 - Founding Temple Citadel 地产s grants +100% 虔诚
-- Founding Temple Citadel 地产s sets 控制 to +100%
-- Temple Citadels have increased 要塞等级
-- Temple Citadels provide a small 控制 bonus
-- -20% Temple Citadel 地产建造时间
-- -10% Temple Citadel 地产建造费用
+| 坚固要塞——这种文化characterized by great fortified cities which fulfill religious, military和governmental functions.protection的those cultural strongholds是critical和foundation的further cities是一个matter的great prestige. | Founding 神殿 城塞 地产授予+100% 虔诚
+ Founding 神殿 城塞 地产 sets 控制 to +100%
+ 神殿 Citadels拥有increased 要塞等级
+ 神殿 Citadels provide一个small 控制 bonus
+ -20% 神殿 城塞 地产 建造时间
+ -10% 神殿 城塞 地产 建造费用 - Founding 神殿 城塞 地产授予+100% 虔诚
+- Founding 神殿 城塞 地产 sets 控制 to +100%
+- 神殿 Citadels拥有increased 要塞等级
+- 神殿 Citadels provide一个small 控制 bonus
+- -20% 神殿 城塞 地产 建造时间
+- -10% 神殿 城塞 地产 建造费用
 | 天下DLC
- Mandala government
- 角色 culture or culture of any county has:
+ 曼陀罗 government
+ 角色 culture或culture的any county has:
  Tai 遗产
  Burman 遗产 - 天下DLC
-- Mandala government
-- 角色 culture or culture of any county has:
+- 曼陀罗 government
+- 角色 culture或culture的any county has:
  Tai 遗产
  Burman 遗产
 - Tai 遗产
@@ -4422,1348 +4422,1348 @@ Stoic - Bellicose
 | 好战
 朝堂
 灵性
-Egalitarian - Bellicose
+平等 - 好战
 - 朝堂
 - 灵性
 - 平等
 | Fortress Mastery icon
-Fortress Mastery这种文化有着防御创新的悠久传统，利用当地地形保护家园并击退潜在的入侵者。他们将这一技能与弓术精通和灵活部队相结合，能够以机动战胜任何敌人。 | 可以招募 Gakgung Archers 常备军
- +5 Defender 优势 per Castle 地产 level
- +5% Men-At-Arms Counter Resistance per Governor trait rank
- +1 勇武 per Merit Rank
- +4 优势 in same Cultural Heritage provinces
- +1 Max size of Archer 军团
- -10% Archers 招募费用 - 可以招募 Gakgung Archers 常备军
-- +5 Defender 优势 per Castle 地产 level
-- +5% Men-At-Arms Counter Resistance per Governor trait rank
-- +1 勇武 per Merit Rank
-- +4 优势 in same Cultural Heritage provinces
-- +1 Max size of Archer 军团
-- -10% Archers 招募费用
+Fortress Mastery这种文化拥有一个long tradition的defensive ingenuity, usinglocal terrain to shield其homeland和repel would-be invaders. 他们pair此skill与mastery的bow和agile troops, capable的outmanoeuvring任何foe. | 可以招募 Gakgung 弓箭手 常备军
+ +5 防御方优势每城堡 地产等级
+ +5% Men-At-兵器 Counter 抵抗每Governor特质 rank
+ +1 勇武每Merit Rank
+ +4 优势的相同 文化 遗产 省份
+ +1 Max size的弓箭手 军团
+ -10% 弓箭手 招募费用 - 可以招募 Gakgung 弓箭手 常备军
+- +5 防御方优势每城堡 地产等级
+- +5% Men-At-兵器 Counter 抵抗每Governor特质 rank
+- +1 勇武每Merit Rank
+- +4 优势的相同 文化 遗产 省份
+- +1 Max size的弓箭手 军团
+- -10% 弓箭手 招募费用
 | 天下DLC
- Buyeo or Samhanic 遗产 - 天下DLC
-- Buyeo or Samhanic 遗产
+ Buyeo或Samhanic 遗产 - 天下DLC
+- Buyeo或Samhanic 遗产
 | 好战
 坚毅
-Spiritual - Bellicose
+灵性 - 好战
 - 坚毅
 - 灵性
-| Fragile Peace icon
-Fragile Peace虽然大部分地区被海洋保护免受入侵，但抵御来自北方的袭击以及维护桓武天皇的和平以对抗篡位者或暴发户总督仍然需要熟练的战士和组织。 | 可以招募 Mounted Samurai 常备军
- +1 勇武 per 军事 Education trait level
- Non-martial gender unmarried close family members and spouses of non-administrative rulers may serve as knights in defensive wars
- 角色s with Stalwart Defender can duel any non-administrative character of equal or lower rank
-All characters:
- +2 Defender 地产 优势 - 可以招募 Mounted Samurai 常备军
-- +1 勇武 per 军事 Education trait level
-- Non-martial gender unmarried close family members and spouses of non-administrative rulers may serve as knights in defensive wars
-- 角色s with Stalwart Defender can duel any non-administrative character of equal or lower rank
-- All characters:
- +2 Defender 地产 优势
-- +2 Defender 地产 优势
+| 脆弱 和平 icon
+脆弱 PeaceThough largely kept safe来自invasion被sea, defending对抗raids来自north和maintaining Kanmu's peace对抗pretenders或upstart governors still demands skilled fighters和organization. | 可以招募 Mounted 武士 常备军
+ +1 勇武每军事 教育特质等级
+ Non-martial gender unmarried close family members和spouses的non-administrative rulers可以serve as knights的defensive wars
+ 角色与Stalwart 防御方可以duel任何non-administrative character的equal或lower rank
+所有 characters:
+ +2 防御方 地产 优势 - 可以招募 Mounted 武士 常备军
+- +1 勇武每军事 教育特质等级
+- Non-martial gender unmarried close family members和spouses的non-administrative rulers可以serve as knights的defensive wars
+- 角色与Stalwart 防御方可以duel任何non-administrative character的equal或lower rank
+- 所有 characters:
+ +2 防御方 地产 优势
+- +2 防御方 地产 优势
 | 天下DLC
- 文化 head either:
+ 文化 head 以下之一：
  Ritsuryō
  Sōryō
- 文化 does not have any of the following traditions:
- Horse Lords
- Devoted Horsemanship
- Bushido - 天下DLC
-- 文化 head either:
+ 文化 没有 any的以下 traditions:
+ 马匹 领主
+ 虔诚的 骑术
+ 武士道 - 天下DLC
+- 文化 head 以下之一：
  Ritsuryō
  Sōryō
 - Ritsuryō
 - Sōryō
-- 文化 does not have any of the following traditions:
- Horse Lords
- Devoted Horsemanship
- Bushido
-- Horse Lords
-- Devoted Horsemanship
-- Bushido
+- 文化 没有 any的以下 traditions:
+ 马匹 领主
+ 虔诚的 骑术
+ 武士道
+- 马匹 领主
+- 虔诚的 骑术
+- 武士道
 | 礼仪
 集体
-Spiritual - Ceremonious
+灵性 - 礼仪
 - 集体
 - 灵性
-| Frontier Warriors这种文化不断努力驯服野蛮的边疆，利用精锐士兵、部落雇佣兵和狂热志愿者的混合力量。 | 可以招募 Tarkhans as 常备军
- +1 每月威望 for Warrior of the 信仰 
- +1 每月威望 for Order Member 
- -10% Mercenary Hire Cost
+| 边疆战士——这种文化on一个constant struggle to tamewild frontier, utilizing一个volatile mixture的elite soldiers, tribal mercenaries和fanatic volunteers. | 可以招募 Tarkhans as 常备军
+ +1 每月威望对于战士的信仰 
+ +1 每月威望对于Order 成员 
+ -10% 雇佣兵 雇佣 费用
  +5% 军队移动速度
- +50% Hostile Raid Time - +1 每月威望 for Warrior of the 信仰
-- +1 每月威望 for Order Member
-- -10% Mercenary Hire Cost
+ +50% Hostile 劫掠 时间 - +1 每月威望对于战士的信仰
+- +1 每月威望对于Order 成员
+- -10% 雇佣兵 雇佣 费用
 - +5% 军队移动速度
-- +50% Hostile Raid Time
-| 20% of this 文化's Counties must be present within the 王国s of Transoxiana, Khorasan or Khotan
- Iranian 遗产
- 波斯遗产DLC - Iranian 遗产
+- +50% Hostile 劫掠 时间
+| 20%此文化's 伯爵领 must be present within王国的Transoxiana, Khorasan或Khotan
+ 伊朗 遗产
+ 波斯遗产DLC - 伊朗 遗产
 - 波斯遗产DLC
-| 30% 的文化存在于拥有以下地形的伯爵领中： 草原 or 沙漠 | 好战
-Stoic - Bellicose
+| 30% 的文化存在于拥有以下地形的伯爵领中： 草原或沙漠 | 好战
+坚毅 - 好战
 - 坚毅
-| Futuwaa我们的年轻人已经开始组建促进武艺、活力和道德行为的社团。通过支持和赞助这些社团，我们将确保有充足的精壮士兵可以为我们的事业效力。 | 可以招募 Ayyar 常备军
+| FutuwaaOur youth拥有begun forming clubs该promote prowess, vigor,和moral behavior. By endorsing和supporting这些clubs, we将ensure一个supply的able-bodied soldiers we可以rally to our cause. | 可以招募 Ayyar 常备军
  可以使用 Sparring duels
- +2 骑士数量
- +5 伤害抗性 for 勇武
+ +2 Number的骑士
+ +5 伤害抗性对于勇武
  +20% 荣誉称号荣耀进度
- +2 吸引力好感度 per 军事 Education trait level
- +0.1 每月威望 per 勇武 Education trait level
- +1 同文化好感度 per 勇武 Education trait level
- +5 吸引力好感度 per Blademaster trait level
- −15 同文化好感度 for Cravens and Contents
- +5 骑士受伤几率 - 可以招募 Ayyar 常备军
+ +2 吸引力好感度每军事 教育特质等级
+ +0.1 每月威望每勇武 教育特质等级
+ +1 同文化好感度每勇武 教育特质等级
+ +5 吸引力好感度每剑术大师特质等级
+ −15 同文化好感度对于Cravens和Contents
+ +5 骑士 伤害 几率 - 可以招募 Ayyar 常备军
 - 可以使用 Sparring duels
-- +2 骑士数量
-- +5 伤害抗性 for 勇武
+- +2 Number的骑士
+- +5 伤害抗性对于勇武
 - +20% 荣誉称号荣耀进度
-- +2 吸引力好感度 per 军事 Education trait level
-- +0.1 每月威望 per 勇武 Education trait level
-- +1 同文化好感度 per 勇武 Education trait level
-- +5 吸引力好感度 per Blademaster trait level
-- −15 同文化好感度 for Cravens and Contents
-- +5 骑士受伤几率
-| Iranian 遗产
+- +2 吸引力好感度每军事 教育特质等级
+- +0.1 每月威望每勇武 教育特质等级
+- +1 同文化好感度每勇武 教育特质等级
+- +5 吸引力好感度每剑术大师特质等级
+- −15 同文化好感度对于Cravens和Contents
+- +5 骑士 伤害 几率
+| 伊朗 遗产
  武功歌传统
  亲兵卫队传统
- 尚武崇拜传统 - Iranian 遗产
+ 尚武崇拜传统 - 伊朗 遗产
 - 武功歌传统
 - 亲兵卫队传统
 - 尚武崇拜传统
-| 6 骑士 with at least 12 勇武 | 好战
+| 6 骑士与至少 12 勇武 | 好战
 集体
-Ceremonious - Bellicose
+礼仪 - 好战
 - 集体
 - 礼仪
-| Garuda Warriors这种文化中杰出的战士被称为迦楼罗，他们被期望战斗到死。即使是追随迦楼罗的人，如果他们的领袖阵亡，也要在战斗中或自尽。 | 可以招募 Lenkas 常备军
- 可以授予 Garuda Warrior 宫廷职位
- +2 吸引力好感度 per 军事 Education trait level
- +0.1 每月威望 per 勇武 Education trait level
- +1 同文化好感度 per 勇武 Education trait level
- −15 同文化好感度 for Cravens and Contents
+| Garuda WarriorsDistinguished warriors的这种文化是 designated as Garudas,和是 expected to fight until death. Even那些who follow一个Garuda是expected to die if其leader does, either的battle或by其own hand. | 可以招募 Lenkas 常备军
+ 可以授予 Garuda 战士 宫廷职位
+ +2 吸引力好感度每军事 教育特质等级
+ +0.1 每月威望每勇武 教育特质等级
+ +1 同文化好感度每勇武 教育特质等级
+ −15 同文化好感度对于Cravens和Contents
  +10% 荣誉称号荣耀进度 - 可以招募 Lenkas 常备军
-- 可以授予 Garuda Warrior 宫廷职位
-- +2 吸引力好感度 per 军事 Education trait level
-- +0.1 每月威望 per 勇武 Education trait level
-- +1 同文化好感度 per 勇武 Education trait level
-- −15 同文化好感度 for Cravens and Contents
+- 可以授予 Garuda 战士 宫廷职位
+- +2 吸引力好感度每军事 教育特质等级
+- +0.1 每月威望每勇武 教育特质等级
+- +1 同文化好感度每勇武 教育特质等级
+- −15 同文化好感度对于Cravens和Contents
 - +10% 荣誉称号荣耀进度
-| Dravidian 遗产 | 6 骑士 with at least 12 勇武 | 好战
-Stoic - Bellicose
+| Dravidian 遗产 | 6 骑士与至少 12 勇武 | 好战
+坚毅 - 好战
 - 坚毅
-| Himalayan Settlers这种文化在'世界屋脊'上安家，那里空气清新但寒冷，冬季漫长而严酷。他们自豪地认为，在这些只有羊群才能茁壮成长的山峰和高原上，下方的文化中很少有人能像他们一样生活得如此出色。 | 可以招募 山地eers 常备军
- 解锁 Recruit 山地 Specialist decision
- The Rough Terrain Expert trait 更常见. [2]
+| 喜马拉雅定居者——这种文化拥有made其home atop'roof的world', whereair是fresh但cold,和winters long和hard. 他们pride themselves该few的cultures below would be able to live as well as此people does, amongpeaks和plateaus where otherwise仅sheep可以thrive. | 可以招募 登山者 常备军
+ 解锁 招募 山地 专精 decision
+崎岖地形 专精特质 更常见. [2]
  某些特质拥有 山地 bonuses
- +20% 发展度增长 in 山地 Terrain
+ +20% 发展度增长的山地 地形
  -65 山地 危险度
- −15% 地产和建筑建造费用 in 山地 Terrain - 可以招募 山地eers 常备军
-- 解锁 Recruit 山地 Specialist decision
-- The Rough Terrain Expert trait 更常见. [2]
+ −15% 地产和建筑 建造费用的山地 地形 - 可以招募 登山者 常备军
+- 解锁 招募 山地 专精 decision
+-崎岖地形 专精特质 更常见. [2]
 - 某些特质拥有 山地 bonuses
-- +20% 发展度增长 in 山地 Terrain
+- +20% 发展度增长的山地 地形
 - -65 山地 危险度
-- −15% 地产和建筑建造费用 in 山地 Terrain
-| Quiangic or Tibetan 遗产 or culture is present in a county in Himalaya region - Quiangic or Tibetan 遗产 or culture is present in a county in Himalaya region
-| 30% of culture is present in counties in the Himalaya region | 集体
-Spiritual - Communal
+- −15% 地产和建筑 建造费用的山地 地形
+| Quiangic或藏族 遗产或culture存在在一个county的Himalaya region - Quiangic或藏族 遗产或culture存在在一个county的Himalaya region
+| 30%的culture存在的伯爵领在Himalaya region | 集体
+灵性 - 集体
 - 灵性
-| Hirds为家族保持武装随从的传统为我们提供了良好的服务。通过将这一制度正规化和扩展，我们可以在军队中部署整个团的侍卫军。 | 可以招募 Huscarls 常备军
- 儿童获得以下特质的可能性提高3倍： Rowdy trait
- 儿童获得以下特质的可能性降低3倍： Pensive trait
+| 侍卫军——The tradition的keeping armed retinues的service到一个household拥有served us well. By formalizing和expanding此system we可以field entire regiments的huscarls的our armies. | 可以招募 Huscarls 常备军
+ 儿童获得以下特质的可能性提高3倍： 粗暴特质
+ 儿童获得以下特质的可能性降低3倍： 沉思特质
  某些特质给予 威望
  某些特质降低 好感度
- +1 骑士数量
+ +1 Number的骑士
  +2 勇武
  +10% 荣誉称号荣耀进度
- +1% Chance to be born with the Strong trait for each 5 勇武
+ +1% 几率 to be born与强特质对于each 5 勇武
  −15% 文化瞩目进度 - 可以招募 Huscarls 常备军
-- 儿童获得以下特质的可能性提高3倍： Rowdy trait
-- 儿童获得以下特质的可能性降低3倍： Pensive trait
+- 儿童获得以下特质的可能性提高3倍： 粗暴特质
+- 儿童获得以下特质的可能性降低3倍： 沉思特质
 - 某些特质给予 威望
 - 某些特质降低 好感度
-- +1 骑士数量
+- +1 Number的骑士
 - +2 勇武
 - +10% 荣誉称号荣耀进度
-- +1% Chance to be born with the Strong trait for each 5 勇武
+- +1% 几率 to be born与强特质对于each 5 勇武
 - −15% 文化瞩目进度
-| North Germanic 遗产
- 部落 Government
- 北方领主DLC
+| 北日耳曼 遗产
+ 部落 政府
+ 北方的 领主 DLC
  尚武文化传统
  和平主义者传统
- 信仰 has Pacifism tenet
- 信仰 has Dharmic Pacifism tenet - North Germanic 遗产
-- 部落 Government
-- 北方领主DLC
+ 信仰拥有和平主义 tenet
+ 信仰拥有法性 和平主义 tenet - 北日耳曼 遗产
+- 部落 政府
+- 北方的 领主 DLC
 - 尚武文化传统
 - 和平主义者传统
-- 信仰 has Pacifism tenet
-- 信仰 has Dharmic Pacifism tenet
-| 文化 has at least 3 Counts with Strong, Hale, Robust or Herculean | 好战
-Spiritual - Bellicose
+- 信仰拥有和平主义 tenet
+- 信仰拥有法性 和平主义 tenet
+| 文化至少有 3 伯爵与强, 健壮的, Robust或Herculean | 好战
+灵性 - 好战
 - 灵性
-| Horse Lords这种文化已经掌握了马匹及其在战争中的使用。 | 可以招募 Horse Archers 常备军
- 解锁 Recruit 平原 Specialist decision
- Horse Herds 建筑线 可以在以下地形建造： 此文化的地产
- Increased Hunt Success Chance in 草原
- Allows the Become Adventurer decision
- -25% Provisions use
+| 马上领主——这种文化拥有masteredhorse和its use的warfare. | 可以招募 马匹 弓箭手 常备军
+ 解锁 招募 平原 专精 decision
+ 马匹 Herds 建筑线 可以在以下地形建造： 此文化的地产
+ 增加 狩猎 成功几率的草原
+ AllowsBecome 冒险者 decision
+ -25% 给养 use
  +10% 军队移动速度
- +30% 军队移动速度 while Raiding
- -50% 敌方损耗 while Raiding
+ +30% 军队移动速度 while 劫掠
+ -50% 敌方损耗 while 劫掠
  +100% 补给持续时间
  +20% 旅行速度
  +20% 旅行安全
- No 补给上限 Penalty in 草原
+ No 补给上限 惩罚的草原
  -50 草原 危险度
- +10% Light Cavalry 伤害
- +10% Light Cavalry 掩护 - 可以招募 Horse Archers 常备军
-- 解锁 Recruit 平原 Specialist decision
-- Horse Herds 建筑线 可以在以下地形建造： 此文化的地产
-- Increased Hunt Success Chance in 草原
-- Allows the Become Adventurer decision
-- -25% Provisions use
+ +10% 轻骑兵 伤害
+ +10% 轻骑兵 掩护 - 可以招募 马匹 弓箭手 常备军
+- 解锁 招募 平原 专精 decision
+- 马匹 Herds 建筑线 可以在以下地形建造： 此文化的地产
+- 增加 狩猎 成功几率的草原
+- AllowsBecome 冒险者 decision
+- -25% 给养 use
 - +10% 军队移动速度
-- +30% 军队移动速度 while Raiding
-- -50% 敌方损耗 while Raiding
+- +30% 军队移动速度 while 劫掠
+- -50% 敌方损耗 while 劫掠
 - +100% 补给持续时间
 - +20% 旅行速度
 - +20% 旅行安全
-- No 补给上限 Penalty in 草原
+- No 补给上限 惩罚的草原
 - -50 草原 危险度
-- +10% Light Cavalry 伤害
-- +10% Light Cavalry 掩护
-| Mongolic or Turkic 遗产
-草原可汗DLC 草原可汗DLC
+- +10% 轻骑兵 伤害
+- +10% 轻骑兵 掩护
+| 蒙古或突厥 遗产
+Khans的草原 DLC Khans的草原 DLC
 
 | 好战
-Communal - Bellicose
+集体 - 好战
 - 集体
-| Hydraulic Builders这种文化非常重视以精神方式利用水利工程。这种着迷的中心是巴雷，它们往往被扩建成具有极高宗教意义的大型水库。 | The Sacred Pool 建筑线 有额外加成 in 此文化的伯爵领
-All Sacred Pool Buildings can be built one Era earlier
+| 水利建造者——这种文化注重great importance的utilizing waterworks的spiritual ways. Atcenter此fascination isBaray, which 倾向于 be expanded到large reservoirs与utmost religious significance. |Sacred Pool 建筑线 有额外加成的此文化的伯爵领
+所有 Sacred Pool 建筑可以被built一个时代 earlier
 解锁 Water Management 建筑线
-The Water Management 建筑线 有额外加成 in 此文化的伯爵领
- +25% 发展度增长 in  湿地
- -10% 建筑建造费用 in  湿地
- +10% 发展度增长 in  Terraced 丘陵
- -10% 建筑建造费用 in  Terraced 丘陵 - The Sacred Pool 建筑线 有额外加成 in 此文化的伯爵领
-- All Sacred Pool Buildings can be built one Era earlier
+The Water Management 建筑线 有额外加成的此文化的伯爵领
+ +25% 发展度增长的 湿地
+ -10% 建筑建造费用的 湿地
+ +10% 发展度增长的 梯田 丘陵
+ -10% 建筑建造费用的 梯田 丘陵 -Sacred Pool 建筑线 有额外加成的此文化的伯爵领
+- 所有 Sacred Pool 建筑可以被built一个时代 earlier
 - 解锁 Water Management 建筑线
-- The Water Management 建筑线 有额外加成 in 此文化的伯爵领
-- +25% 发展度增长 in  湿地
-- -10% 建筑建造费用 in  湿地
-- +10% 发展度增长 in  Terraced 丘陵
-- -10% 建筑建造费用 in  Terraced 丘陵
+-Water Management 建筑线 有额外加成的此文化的伯爵领
+- +25% 发展度增长的 湿地
+- -10% 建筑建造费用的 湿地
+- +10% 发展度增长的 梯田 丘陵
+- -10% 建筑建造费用的 梯田 丘陵
 | 天下DLC
- Mandala government
- 角色 culture or culture of any county has:
+ 曼陀罗 government
+ 角色 culture或culture的any county has:
  Mon-Khmer 遗产 - 天下DLC
-- Mandala government
-- 角色 culture or culture of any county has:
+- 曼陀罗 government
+- 角色 culture或culture的any county has:
  Mon-Khmer 遗产
 - Mon-Khmer 遗产
 | 礼仪
-Spiritual - Ceremonious
+灵性 - 礼仪
 - 灵性
-| Imperial Tagmata精锐、装备精良的军团构成了这种文化军事行动的骨干。他们高傲的部队不屑于小贵族战士和鲁莽的个人英雄主义行为；相反，他们尊崇纪律和各部队的神圣名号。埃克斯库比托伊！斯科莱！希卡纳托伊！ | 可以招募 Kataphraktoi 常备军
+| Imperial Tagmata精锐的重装军团构成了这种文化军事行动的支柱。他们傲慢的士兵对琐碎的武士贵族和鲁莽的个人勇武行为嗤之以鼻；取而代之的是，他们崇尚纪律和部队的神圣名号。近卫军！学者军！精锐军！ | 可以招募 Kataphraktoi 常备军
  可以招募 Akritai 常备军
  可以招募 Ballistrai 常备军
  可以招募 Skoutatoi 常备军
- Frontier Administration Governorships may borrow the Title 常备军 of non-Frontier neighbors
-All 角色s:
- −25% 骑士效率
- +10% 常备军反制效率
- +1 Size of Title Men-At-Arms 军团
- +2 最大编制 Heavy Cavalry 军团 - 可以招募 Kataphraktoi 常备军
+ Frontier Administration Governorships可以borrow头衔 常备军的non-Frontier neighbors
+所有 角色:
+ −25% 骑士效用
+ +10% 常备军克制效率
+ +1 规模的头衔 Men-At-兵器 军团
+ +2 最大编制 重骑兵 军团 - 可以招募 Kataphraktoi 常备军
 - 可以招募 Akritai 常备军
 - 可以招募 Ballistrai 常备军
 - 可以招募 Skoutatoi 常备军
-- Frontier Administration Governorships may borrow the Title 常备军 of non-Frontier neighbors
-- All 角色s:
- −25% 骑士效率
- +10% 常备军反制效率
- +1 Size of Title Men-At-Arms 军团
- +2 最大编制 Heavy Cavalry 军团
-- −25% 骑士效率
-- +10% 常备军反制效率
-- +1 Size of Title Men-At-Arms 军团
-- +2 最大编制 Heavy Cavalry 军团
+- Frontier Administration Governorships可以borrow头衔 常备军的non-Frontier neighbors
+- 所有 角色:
+ −25% 骑士效用
+ +10% 常备军克制效率
+ +1 规模的头衔 Men-At-兵器 军团
+ +2 最大编制 重骑兵 军团
+- −25% 骑士效用
+- +10% 常备军克制效率
+- +1 规模的头衔 Men-At-兵器 军团
+- +2 最大编制 重骑兵 军团
 | 权力之路DLC
  东罗马遗产传统
-One of:
- Eastern Roman 遗产
- Greek culture
- 文化 has hybridized with Greek culture - 权力之路DLC
+以下之一：
+ 东方的 罗马 遗产
+ 希腊 culture
+ 文化拥有混合了 希腊 culture - 权力之路DLC
 - 东罗马遗产传统
-- One of:
- Eastern Roman 遗产
- Greek culture
- 文化 has hybridized with Greek culture
-- Eastern Roman 遗产
-- Greek culture
-- 文化 has hybridized with Greek culture
-| 文化 Head holds at least 8 counties with Stables building | 好战
-Bureaucratic - Bellicose
+- 以下之一：
+ 东方的 罗马 遗产
+ 希腊 culture
+ 文化拥有混合了 希腊 culture
+- 东方的 罗马 遗产
+- 希腊 culture
+- 文化拥有混合了 希腊 culture
+| 文化领袖 holds 至少 8 伯爵领与Stables building | 好战
+官僚 - 好战
 - 官僚
-| Indomitable Azatani对于这种文化中极其骄傲的贵族来说，从他们高处的堡垒雷霆般地策马而下，'匕首的伤口会愈合，但舌头的伤口——永远不会！' | 可以招募 Ayrudzi 常备军
- Rulers act more aggressively against other houses
- 角色s are more likely to refuse imprisonment, retractions and revocations
-All 角色s:
- +20% Light Cavalry damage
- -15% Light Cavalry maintenance
- +20% Heavy Cavalry damage
- -15% Heavy Cavalry maintenance
- -15% Archer Cavalry maintenance - 可以招募 Ayrudzi 常备军
-- Rulers act more aggressively against other houses
-- 角色s are more likely to refuse imprisonment, retractions and revocations
-- All 角色s:
- +20% Light Cavalry damage
- -15% Light Cavalry maintenance
- +20% Heavy Cavalry damage
- -15% Heavy Cavalry maintenance
- -15% Archer Cavalry maintenance
-- +20% Light Cavalry damage
-- -15% Light Cavalry maintenance
-- +20% Heavy Cavalry damage
-- -15% Heavy Cavalry maintenance
-- -15% Archer Cavalry maintenance
+| 不屈的阿扎塔尼——For此文化's fiercely proud nobles, riding down thunderously来自其 high strongholds, "The wound的一个dagger heals,但that的一个tongue — never!" | 可以招募 Ayrudzi 常备军
+ 统治者 act更多aggressively against其他houses
+ 角色是更可能 to refuse imprisonment, retractions和revocations
+所有 角色:
+ +20% 轻骑兵 damage
+ -15% 轻骑兵 maintenance
+ +20% 重骑兵 damage
+ -15% 重骑兵 maintenance
+ -15% 弓箭手 骑兵 maintenance - 可以招募 Ayrudzi 常备军
+- 统治者 act更多aggressively against其他houses
+- 角色是更可能 to refuse imprisonment, retractions和revocations
+- 所有 角色:
+ +20% 轻骑兵 damage
+ -15% 轻骑兵 maintenance
+ +20% 重骑兵 damage
+ -15% 重骑兵 maintenance
+ -15% 弓箭手 骑兵 maintenance
+- +20% 轻骑兵 damage
+- -15% 轻骑兵 maintenance
+- +20% 重骑兵 damage
+- -15% 重骑兵 maintenance
+- -15% 弓箭手 骑兵 maintenance
 | 权力之路DLC
-One of:
- Armenian culture
- 文化 has hybridized with Armenian culture
+以下之一：
+ 亚美尼亚 culture
+ 文化拥有混合了 亚美尼亚 culture
  和平主义者传统
  马匹育种者传统 - 权力之路DLC
-- One of:
- Armenian culture
- 文化 has hybridized with Armenian culture
-- Armenian culture
-- 文化 has hybridized with Armenian culture
+- 以下之一：
+ 亚美尼亚 culture
+ 文化拥有混合了 亚美尼亚 culture
+- 亚美尼亚 culture
+- 文化拥有混合了 亚美尼亚 culture
 - 和平主义者传统
 - 马匹育种者传统
-| One of:
- 800 Light Cavalry
- 400 Heavy Cavalry
- 800 Archer Cavalry - One of:
-- 800 Light Cavalry
-- 400 Heavy Cavalry
-- 800 Archer Cavalry
+| 以下之一：
+ 800 轻骑兵
+ 400 重骑兵
+ 800 弓箭手 骑兵 - 以下之一：
+- 800 轻骑兵
+- 400 重骑兵
+- 800 弓箭手 骑兵
 | 好战
 集体
-Stoic - Bellicose
+坚毅 - 好战
 - 集体
 - 坚毅
-| Intensive Farming这种文化高度重视支撑非农业人口的庞大农民阶层。通过数千年的经验，他们能够根据最适合当地情况的作物大大提高小麦和稻米的产量。 | Content trait 更常见
+| 精耕细作——这种文化highly values一个large farming class该supports其non-agrarian population. Through millennia的experience they已被able to greatly increaseoutput的wheat和rice depending on what fitslocal circumstancesbest. | 知足特质 更常见
  儿童在军事教育方面表现往往略差。
- Diligent,  Patient, and  Athletic traits 有额外加成
- +25% 常备军 招募费用
+ 勤勉,  耐心,和 健壮特质 有额外加成
+ +25% 常备军招募费用
  +2.5% 征召兵 维护费
- +30% 发展度增长 in  农田
- +5% 地产税收 in  农田
- +10% 征召兵规模 in  农田
- +30% 发展度增长 in  Terraced 丘陵
- +5% 地产税收 in  Terraced 丘陵
- +10% 征召兵规模 in  Terraced 丘陵 - Content trait 更常见
+ +30% 发展度增长的 农田
+ +5% 地产税收的 农田
+ +10% 征召兵规模的 农田
+ +30% 发展度增长的 梯田 丘陵
+ +5% 地产税收的 梯田 丘陵
+ +10% 征召兵规模的 梯田 丘陵 - 知足特质 更常见
 - 儿童在军事教育方面表现往往略差。
-- Diligent,  Patient, and  Athletic traits 有额外加成
-- +25% 常备军 招募费用
+- 勤勉,  耐心,和 健壮特质 有额外加成
+- +25% 常备军招募费用
 - +2.5% 征召兵 维护费
-- +30% 发展度增长 in  农田
-- +5% 地产税收 in  农田
-- +10% 征召兵规模 in  农田
-- +30% 发展度增长 in  Terraced 丘陵
-- +5% 地产税收 in  Terraced 丘陵
-- +10% 征召兵规模 in  Terraced 丘陵
+- +30% 发展度增长的 农田
+- +5% 地产税收的 农田
+- +10% 征召兵规模的 农田
+- +30% 发展度增长的 梯田 丘陵
+- +5% 地产税收的 梯田 丘陵
+- +10% 征召兵规模的 梯田 丘陵
 | 天下DLC
- 游牧 Government
+ 游牧 政府
  文化 either has:
- Chinese 遗产
- A parent culture with Chinese 遗产
- Does not have either:
+ 中华 遗产
+ A parent culture与中华 遗产
+ 不会拥有以下之一：
  农耕传统
  稻作文化传统
- Any county with this culture either has:
- 农田 terrain
- 冲积平原 terrain - 天下DLC
-- 游牧 Government
+ Any county与这种文化either has:
+ 农田 terrain
+ 冲积平原 terrain - 天下DLC
+- 游牧 政府
 - 文化 either has:
- Chinese 遗产
- A parent culture with Chinese 遗产
-- Chinese 遗产
-- A parent culture with Chinese 遗产
-- Does not have either:
+ 中华 遗产
+ A parent culture与中华 遗产
+- 中华 遗产
+- A parent culture与中华 遗产
+- 不会拥有以下之一：
  农耕传统
  稻作文化传统
 - 农耕传统
 - 稻作文化传统
-- Any county with this culture either has:
- 农田 terrain
- 冲积平原 terrain
+- Any county与这种文化either has:
+ 农田 terrain
+ 冲积平原 terrain
 - 农田 terrain
 - 冲积平原 terrain
-| The 文化至少存在于 5 counties with  农田 or  冲积平原 terrain | 官僚
+|文化至少存在于 5 伯爵领与 农田或 冲积平原 terrain | 官僚
 集体
 礼仪
 平等
 灵性
-Stoic - Bureaucratic
+坚毅 - 官僚
 - 集体
 - 礼仪
 - 平等
 - 灵性
 - 坚毅
-| Inward Perfection icon
-Inward Perfection这种文化偏好自力更生和内在品德的充实，而非外来影响。外交联系可能衰退，但知识和内省在平静的隔离中蓬勃发展。 | 角色s are less willing to marry with other 文化s
- 角色s are less willing to marry with distant Realms
- Very unlikely to arrange Marriages outside their own 文化
- Creating a 混合文化 requires 100% more 文化接纳度, it is also much harder to Hybridise with this 文化
- May always challenge other 角色s to Board Games
+| 内在 Perfection icon
+内在 Perfection这种文化favors self-reliance和enrichment的inner virtues over foreign influence. Diplomatic ties可以wither,但knowledge和introspection flourish的tranquil isolation. | 角色是less willing to marry与other 文化
+ 角色是less willing to marry与distant Realms
+ Very unlikely to arrange 婚姻 outside其own 文化
+ 创建一个混合文化 requires 100%更多文化 接纳度, it是also 更更难to Hybridise与此文化
+ 可以always 挑战其他角色 to 棋盘游戏
 -25% 外交范围
- -20% Monthly 革新 progress chance from Spread
- +10 Monthly 革新 progress chance from Fascination
- +5% Monthly 生活方式经验 - 角色s are less willing to marry with other 文化s
-- 角色s are less willing to marry with distant Realms
-- Very unlikely to arrange Marriages outside their own 文化
-- Creating a 混合文化 requires 100% more 文化接纳度, it is also much harder to Hybridise with this 文化
-- May always challenge other 角色s to Board Games
+ -20% 每月 革新 progress chance来自传播
+ +10 每月 革新 progress chance来自文化瞩目
+ +5% 每月 生活方式经验 - 角色是less willing to marry与other 文化
+- 角色是less willing to marry与distant Realms
+- Very unlikely to arrange 婚姻 outside其own 文化
+- 创建一个混合文化 requires 100%更多文化 接纳度, it是also 更更难to Hybridise与此文化
+- 可以always 挑战其他角色 to 棋盘游戏
 - -25% 外交范围
-- -20% Monthly 革新 progress chance from Spread
-- +10 Monthly 革新 progress chance from Fascination
-- +5% Monthly 生活方式经验
+- -20% 每月 革新 progress chance来自传播
+- +10 每月 革新 progress chance来自文化瞩目
+- +5% 每月 生活方式经验
 | 天下DLC
- Has Buyeo, Chinese, Hmong, Japonic, Samhanic, Tai, Tibetan, or Viet 遗产
- 文化 does not have any of the following traditions:
+ 拥有 Buyeo, 中华, Hmong, Japonic, Samhanic, Tai, 藏族,或Viet 遗产
+ 文化 没有 any的以下 traditions:
  Isolationist
- Cultural Primacy - 天下DLC
-- Has Buyeo, Chinese, Hmong, Japonic, Samhanic, Tai, Tibetan, or Viet 遗产
-- 文化 does not have any of the following traditions:
+ 文化 至上 - 天下DLC
+- 拥有 Buyeo, 中华, Hmong, Japonic, Samhanic, Tai, 藏族,或Viet 遗产
+- 文化 没有 any的以下 traditions:
  Isolationist
- Cultural Primacy
+ 文化 至上
 - Isolationist
-- Cultural Primacy
+- 文化 至上
 | 坚毅
 礼仪
-Spiritual - Stoic
+灵性 - 坚毅
 - 礼仪
 - 灵性
-| Iron Cavalry即使是马上民族也可能被全身披挂鳞甲的骑兵所击败。这种文化不仅对这种昂贵的武装产生了偏好，而且雇用那些天生在马鞍上、手持弓箭的人作为其重甲骑兵。 | 可以招募 Cataphract Archers as 常备军
- Gallant, Overseer, and Strategist 特质s provide bonuses to Heavy Cavalry 常备军
- 解锁 Portable Forge Internal Upgrade for 游牧 Domiciles
-All 角色s:
- -1% Herd Conversion into Horde Riders
- +10% Light Cavalry 韧性
- +20% Heavy Cavalry 韧性
- +20% Archer Cavalry 韧性 - 可以招募 Cataphract Archers as 常备军
-- Gallant, Overseer, and Strategist 特质s provide bonuses to Heavy Cavalry 常备军
-- 解锁 Portable Forge Internal Upgrade for 游牧 Domiciles
-- All 角色s:
- -1% Herd Conversion into Horde Riders
- +10% Light Cavalry 韧性
- +20% Heavy Cavalry 韧性
- +20% Archer Cavalry 韧性
-- -1% Herd Conversion into Horde Riders
-- +10% Light Cavalry 韧性
-- +20% Heavy Cavalry 韧性
-- +20% Archer Cavalry 韧性
-| 草原可汗DLC
- Mongol, Turkic, or Magyar Heritage OR
- Government has Herd OR
- Way of the Nomad
- 和平主义者传统 - 草原可汗DLC
-- Mongol, Turkic, or Magyar Heritage OR
-- Government has Herd OR
-- Way of the Nomad
+| Iron CavalryEven horse peoples可以被bested by cavalry clad head-to-hoof的lamellar plate. 这种文化拥有not仅developed一个taste对于such expensive armament,但employs那些born在saddle - bow的hand - as其heavily armored riders. | 可以招募 Cataphract 弓箭手 as 常备军
+ Gallant, Overseer,和Strategist 特质 provide bonuses to 重骑兵 常备军
+ 解锁 Portable Forge Internal Upgrade对于游牧 Domiciles
+所有 角色:
+ -1% 畜群 皈依到部落 骑手
+ +10% 轻骑兵 韧性
+ +20% 重骑兵 韧性
+ +20% 弓箭手 骑兵 韧性 - 可以招募 Cataphract 弓箭手 as 常备军
+- Gallant, Overseer,和Strategist 特质 provide bonuses to 重骑兵 常备军
+- 解锁 Portable Forge Internal Upgrade对于游牧 Domiciles
+- 所有 角色:
+ -1% 畜群 皈依到部落 骑手
+ +10% 轻骑兵 韧性
+ +20% 重骑兵 韧性
+ +20% 弓箭手 骑兵 韧性
+- -1% 畜群 皈依到部落 骑手
+- +10% 轻骑兵 韧性
+- +20% 重骑兵 韧性
+- +20% 弓箭手 骑兵 韧性
+| Khans的草原 DLC
+ Mongol, 突厥,或Magyar 遗产 OR
+ 政府拥有畜群 OR
+ Way的游牧民
+ 和平主义者传统 - Khans的草原 DLC
+- Mongol, 突厥,或Magyar 遗产 OR
+- 政府拥有畜群 OR
+- Way的游牧民
 - 和平主义者传统
-| 600 Archer Cavalry
- Foreign Armor Domicile Building - Foreign Armor Domicile Building
-| Irrigation Experts这种文化是水利技术的大师，通过创造力和共同努力，他们可以让最严酷的沙漠也开满鲜花。 | Small Disease Resistance
- The Gardener, Patient and Scholar 特质s gives a 税收 bonus in 沙漠s, 旱地, and 沙漠山地
-  Qanats 建筑线 可以在以下地形建造： 沙漠山地, 山地, Hill, 沙漠 and Dryland 此文化的地产
+| 600 弓箭手 骑兵
+ 外国 Armor Domicile 建筑 - 外国 Armor Domicile 建筑
+| 灌溉专家——这种文化是 masters的water technology,和through inventiveness和communal effort, they可以make evenharshest deserts bloom. | 小 Disease 抵抗
+园丁, 耐心和学者 特质 gives一个税收 bonus的Deserts, 旱地,和沙漠山地
+  Qanats 建筑线 可以在以下地形建造： 沙漠山地, 山地, Hill, 沙漠和Dryland 此文化的地产
 
- +35% 发展度增长 in 沙漠 Terrain
- +15% 发展度增长 in 旱地 Terrain
- −10% 地产和建筑建造费用 in 沙漠 and 旱地 Terrain
-  沙漠 Agriculture 建筑线 有额外加成 in 此文化的伯爵领
- −1% Light Cavalry and Camel Cavalry 维护费 per 沙漠 Agriculture level
- −1% Light Cavalry and Camel Cavalry 招募费用 per 沙漠 Agriculture level
- +0.0625/+0.1/+0.1375/+0.175/+0.2125/+0.25/+0.2875/+0.325 税收 随之缩放 沙漠 Agriculture level
- Increased Hunt Success Chance in 旱地 and 沙漠
+ +35% 发展度增长的沙漠 地形
+ +15% 发展度增长的旱地 地形
+ −10% 地产和建筑 建造费用的沙漠和旱地 地形
+  沙漠 农业 建筑线 有额外加成的此文化的伯爵领
+ −1% 轻骑兵和骆驼兵 骑兵 维护费每沙漠 农业等级
+ −1% 轻骑兵和骆驼兵 骑兵 招募费用每沙漠 农业等级
+ +0.0625/+0.1/+0.1375/+0.175/+0.2125/+0.25/+0.2875/+0.325 税收 随之缩放 沙漠 农业等级
+ 增加 狩猎 成功几率的旱地和沙漠
  -32 沙漠 危险度
  -42 沙漠山地 危险度
- -22 旱地 危险度 The Gardener, Patient and Scholar 特质s gives a 税收 bonus in 沙漠s, 旱地, and 沙漠山地
+ -22 旱地 危险度园丁, 耐心和学者 特质 gives一个税收 bonus的Deserts, 旱地,和沙漠山地
 
-Qanats 建筑线 可以在以下地形建造： 沙漠山地, 山地, Hill, 沙漠 and Dryland 此文化的地产
+Qanats 建筑线 可以在以下地形建造： 沙漠山地, 山地, Hill, 沙漠和Dryland 此文化的地产
 
-- +35% 发展度增长 in 沙漠 Terrain
-- +15% 发展度增长 in 旱地 Terrain
-- −10% 地产和建筑建造费用 in 沙漠 and 旱地 Terrain
-- 沙漠 Agriculture 建筑线 有额外加成 in 此文化的伯爵领
- −1% Light Cavalry and Camel Cavalry 维护费 per 沙漠 Agriculture level
- −1% Light Cavalry and Camel Cavalry 招募费用 per 沙漠 Agriculture level
- +0.0625/+0.1/+0.1375/+0.175/+0.2125/+0.25/+0.2875/+0.325 税收 随之缩放 沙漠 Agriculture level
-- −1% Light Cavalry and Camel Cavalry 维护费 per 沙漠 Agriculture level
-- −1% Light Cavalry and Camel Cavalry 招募费用 per 沙漠 Agriculture level
-- +0.0625/+0.1/+0.1375/+0.175/+0.2125/+0.25/+0.2875/+0.325 税收 随之缩放 沙漠 Agriculture level
-- Increased Hunt Success Chance in 旱地 and 沙漠
+- +35% 发展度增长的沙漠 地形
+- +15% 发展度增长的旱地 地形
+- −10% 地产和建筑 建造费用的沙漠和旱地 地形
+- 沙漠 农业 建筑线 有额外加成的此文化的伯爵领
+ −1% 轻骑兵和骆驼兵 骑兵 维护费每沙漠 农业等级
+ −1% 轻骑兵和骆驼兵 骑兵 招募费用每沙漠 农业等级
+ +0.0625/+0.1/+0.1375/+0.175/+0.2125/+0.25/+0.2875/+0.325 税收 随之缩放 沙漠 农业等级
+- −1% 轻骑兵和骆驼兵 骑兵 维护费每沙漠 农业等级
+- −1% 轻骑兵和骆驼兵 骑兵 招募费用每沙漠 农业等级
+- +0.0625/+0.1/+0.1375/+0.175/+0.2125/+0.25/+0.2875/+0.325 税收 随之缩放 沙漠 农业等级
+- 增加 狩猎 成功几率的旱地和沙漠
 - -32 沙漠 危险度
 - -42 沙漠山地 危险度
 - -22 旱地 危险度
-| Iranian 遗产
+| 伊朗 遗产
  旱地居民传统
- 波斯遗产DLC - 旱地居民传统
+ 波斯遗产DLC - 旱地居民传统
 - 波斯遗产DLC
-| 30% 的文化存在于拥有以下地形的伯爵领中： 沙漠 or 旱地 | 礼仪
+| 30% 的文化存在于拥有以下地形的伯爵领中： 沙漠或旱地 | 礼仪
 集体
-Egalitarian - Communal
+平等 - 集体
 - 平等
-| Jirga这种文化的长老和领袖可以举行集会，根据其古老的部落法典解决争端——并为国王加冕。 | 可以颁布 部落 Elective Succession Law
- +1 外交 每等级 of Fame if Just 
- +5% 每月威望 if Just 
- +75 The Grant Pardon Interaction gives 威望
- +10% 个人阴谋成功几率 - +1 外交 每等级 of Fame if Just
-- +5% 每月威望 if Just
-- +75 The Grant Pardon Interaction gives 威望
+| 支尔格大会——The elder和leaders的这种文化can hold assemblies to solve disputes according to其ancient tribal code -和crown kings的land. | 可以颁布 部落 Elective 继承 法律
+ +1 外交每等级的声名 if 公正 
+ +5% 每月威望 if 公正 
+ +75Grant Pardon 互动 gives 威望
+ +10% 个人阴谋成功几率 - +1 外交每等级的声名 if 公正
+- +5% 每月威望 if 公正
+- +75Grant Pardon 互动 gives 威望
 - +10% 个人阴谋成功几率
-| 部落 Government
- Iranian 遗产
- 波斯遗产DLC - Iranian 遗产
+| 部落 政府
+ 伊朗 遗产
+ 波斯遗产DLC - 伊朗 遗产
 - 波斯遗产DLC
 | 集体
-Stoic - Stoic
-| Khadga Puja这种文化崇尚双手阔剑的武术和仪式崇拜，使他们能够培养强壮能干的战士。沉重的剑让他们能够扫平步兵和骑兵。 | 可以招募 Khandayat 常备军
- +10% 骑士效率
+坚毅 - 坚毅
+| 刀剑崇拜——这种文化拥有embracedmartial art和ritual worship的two-handed broadswords letting them foster strong和able warriors.heavy swords allow them to mow down infantry和cavalry alike. | 可以招募 Khandayat 常备军
+ +10% 骑士效用
  +10% 荣誉称号荣耀进度
- +1 同文化好感度 per 军事 Education trait level
- +2 吸引力好感度 per 军事 Education trait level
- +5 吸引力好感度 per Blademaster trait level
- −15 同文化好感度 for Cravens and Contents - 可以招募 Khandayat 常备军
-- +10% 骑士效率
+ +1 同文化好感度每军事 教育特质等级
+ +2 吸引力好感度每军事 教育特质等级
+ +5 吸引力好感度每剑术大师特质等级
+ −15 同文化好感度对于Cravens和Contents - 可以招募 Khandayat 常备军
+- +10% 骑士效用
 - +10% 荣誉称号荣耀进度
-- +1 同文化好感度 per 军事 Education trait level
-- +2 吸引力好感度 per 军事 Education trait level
-- +5 吸引力好感度 per Blademaster trait level
-- −15 同文化好感度 for Cravens and Contents
+- +1 同文化好感度每军事 教育特质等级
+- +2 吸引力好感度每军事 教育特质等级
+- +5 吸引力好感度每剑术大师特质等级
+- −15 同文化好感度对于Cravens和Contents
 | Indo-Aryan 遗产
- Egalitarian ethos - Indo-Aryan 遗产
-- Egalitarian ethos
-| 6 骑士 with at least 12 勇武 | 好战
-Stoic - Bellicose
+ 平等 ethos - Indo-Aryan 遗产
+- 平等 ethos
+| 6 骑士与至少 12 勇武 | 好战
+坚毅 - 好战
 - 坚毅
-| Konni Raids能够迅速打击暴露的敌人然后快速撤退的轻骑兵，我们的科尼可以编组成专门从事骚扰和突袭的团。 | 可以招募 Konni 常备军
+| Konni RaidsLight cavalry which可以strike quickly at exposed enemies before darting back away, our Konni可以被formed到regiments which specialize的harassment和raiding. | 可以招募 Konni 常备军
  −10% 撤退损失
  −10% 友军死亡人数
- +20% Light Cavalry 伤害
- +20% Light Cavalry 掩护
- +20% Skirmisher 掩护 - 可以招募 Konni 常备军
+ +20% 轻骑兵 伤害
+ +20% 轻骑兵 掩护
+ +20% 散兵 掩护 - 可以招募 Konni 常备军
 - −10% 撤退损失
 - −10% 友军死亡人数
-- +20% Light Cavalry 伤害
-- +20% Light Cavalry 掩护
-- +20% Skirmisher 掩护
-| Magyar, South Slavic or West Slavic 遗产
- 打了就跑战术家传统 - Magyar, South Slavic or West Slavic 遗产
+- +20% 轻骑兵 伤害
+- +20% 轻骑兵 掩护
+- +20% 散兵 掩护
+| Magyar, 南方 斯拉夫或西方 斯拉夫 遗产
+ 打了就跑战术家传统 - Magyar, 南方 斯拉夫或西方 斯拉夫 遗产
 - 打了就跑战术家传统
-| 500 Light Cavalry | 坚毅 | Land of the Bow在一片被尼罗河和他们自己的智慧所丰富的富饶土地上，努比亚人繁荣了数代。几乎同样长的时间里，弓一直是阻止周围沙漠强盗和匪徒的首选武器。 | 可以招募 Nile Archers 常备军
- +20% Archer 伤害
- +5 Defender 优势
- +10% 征召兵规模 in 冲积平原 Terrain
+| 500 轻骑兵 | 坚毅 | 弓之大地——In一个land的plenty, enriched被Nile和其 own ingenuity,Nubian拥有prospered对于generations. For almost as long,bow已被weapon的choice to deterraiders和brigands的surrounding deserts. | 可以招募 Nile 弓箭手 常备军
+ +20% 弓箭手 伤害
+ +5 防御方优势
+ +10% 征召兵规模的冲积平原 地形
  +25% 驻军规模
- −0.5% Archer 维护费 per Hunting Grounds level
- −0.5% Archer 招募费用 per Hunting Grounds level
- +1% Archer 伤害 per Hunting Grounds level
- +1% Archer 韧性 per Hunting Grounds level - 可以招募 Nile Archers 常备军
-- +20% Archer 伤害
-- +5 Defender 优势
-- +10% 征召兵规模 in 冲积平原 Terrain
+ −0.5% 弓箭手 维护费每狩猎场等级
+ −0.5% 弓箭手 招募费用每狩猎场等级
+ +1% 弓箭手 伤害每狩猎场等级
+ +1% 弓箭手 韧性每狩猎场等级 - 可以招募 Nile 弓箭手 常备军
+- +20% 弓箭手 伤害
+- +5 防御方优势
+- +10% 征召兵规模的冲积平原 地形
 - +25% 驻军规模
-- −0.5% Archer 维护费 per Hunting Grounds level
-- −0.5% Archer 招募费用 per Hunting Grounds level
-- +1% Archer 伤害 per Hunting Grounds level
-- +1% Archer 韧性 per Hunting Grounds level
-| East African 遗产
- Cannot be picked - East African 遗产
-- Cannot be picked
+- −0.5% 弓箭手 维护费每狩猎场等级
+- −0.5% 弓箭手 招募费用每狩猎场等级
+- +1% 弓箭手 伤害每狩猎场等级
+- +1% 弓箭手 韧性每狩猎场等级
+| 东方 非洲 遗产
+ 不能 be picked - 东方 非洲 遗产
+- 不能 be picked
 | 好战
-Spiritual - Bellicose
+灵性 - 好战
 - 灵性
-| Lords of the Elephant这种文化尊崇大象，将其比拟为王室。他们善于捕获、训练大象，并在战争中将其用于毁灭性的效果。 | Level 4 Education 特质 grant various bonuses
-外交ː
-Buildings 建造费用 in 丛林 -10%
-Elephant Cavalry 伤害 +10%
-Elephant Cavalry 韧性 +10%
-Elephant Cavalry 维护费 -10%
-Elephant Cavalry 招募费用 -10%
-军事ː
-优势 in 丛林 +5
-Elephant Cavalry 伤害 +20%
-Elephant Cavalry 韧性 +10%
-Elephant Cavalry 追击 +20
-管理ː
-发展度增长 in the India or South East Asia Region +30%
-Buildings 建造费用 in 丛林 -20%
-Elephant Cavalry 维护费 -20%
-Elephant Cavalry 招募费用 -20%
-学识ː
-发展度增长 in the India or South East Asia Region +30%
-Attrition taken in 丛林 -35%
-Elephant Cavalry 韧性 +10%
-Elephant Cavalry 掩护 +20
-Elephant Cavalry 维护费 -20%
- +5 优势 in 丛林
- +40% Elephant Cavalry 伤害
- +20% Elephant Cavalry 韧性
- +20 Elephant Cavalry 追击
- 解锁 Recruit 丛林 Specialist decision
- +10% Elephant Cavalry 伤害
- +10% Elephant Cavalry 韧性
- −15% Elephant Cavalry 维护费
- −15% Elephant Cavalry 招募费用
- −1% Elephant Cavalry 维护费 per Elephantry level
- +5% Monthly 发展度 per Elephantry level - Level 4 Education 特质 grant various bonuses
-外交ː
-Buildings 建造费用 in 丛林 -10%
-Elephant Cavalry 伤害 +10%
-Elephant Cavalry 韧性 +10%
-Elephant Cavalry 维护费 -10%
-Elephant Cavalry 招募费用 -10%
-军事ː
-优势 in 丛林 +5
-Elephant Cavalry 伤害 +20%
-Elephant Cavalry 韧性 +10%
-Elephant Cavalry 追击 +20
-管理ː
-发展度增长 in the India or South East Asia Region +30%
-Buildings 建造费用 in 丛林 -20%
-Elephant Cavalry 维护费 -20%
-Elephant Cavalry 招募费用 -20%
-学识ː
-发展度增长 in the India or South East Asia Region +30%
-Attrition taken in 丛林 -35%
-Elephant Cavalry 韧性 +10%
-Elephant Cavalry 掩护 +20
-Elephant Cavalry 维护费 -20%
-- 外交ː
-Buildings 建造费用 in 丛林 -10%
-Elephant Cavalry 伤害 +10%
-Elephant Cavalry 韧性 +10%
-Elephant Cavalry 维护费 -10%
-Elephant Cavalry 招募费用 -10%
-- Buildings 建造费用 in 丛林 -10%
-- Elephant Cavalry 伤害 +10%
-- Elephant Cavalry 韧性 +10%
-- Elephant Cavalry 维护费 -10%
-- Elephant Cavalry 招募费用 -10%
-- 军事ː
-优势 in 丛林 +5
-Elephant Cavalry 伤害 +20%
-Elephant Cavalry 韧性 +10%
-Elephant Cavalry 追击 +20
-- 优势 in 丛林 +5
-- Elephant Cavalry 伤害 +20%
-- Elephant Cavalry 韧性 +10%
-- Elephant Cavalry 追击 +20
-- 管理ː
-发展度增长 in the India or South East Asia Region +30%
-Buildings 建造费用 in 丛林 -20%
-Elephant Cavalry 维护费 -20%
-Elephant Cavalry 招募费用 -20%
-- 发展度增长 in the India or South East Asia Region +30%
-- Buildings 建造费用 in 丛林 -20%
-- Elephant Cavalry 维护费 -20%
-- Elephant Cavalry 招募费用 -20%
-- 学识ː
-发展度增长 in the India or South East Asia Region +30%
-Attrition taken in 丛林 -35%
-Elephant Cavalry 韧性 +10%
-Elephant Cavalry 掩护 +20
-Elephant Cavalry 维护费 -20%
-- 发展度增长 in the India or South East Asia Region +30%
-- Attrition taken in 丛林 -35%
-- Elephant Cavalry 韧性 +10%
-- Elephant Cavalry 掩护 +20
-- Elephant Cavalry 维护费 -20%
-- +5 优势 in 丛林
-- +40% Elephant Cavalry 伤害
-- +20% Elephant Cavalry 韧性
-- +20 Elephant Cavalry 追击
-- 解锁 Recruit 丛林 Specialist decision
-- +10% Elephant Cavalry 伤害
-- +10% Elephant Cavalry 韧性
-- −15% Elephant Cavalry 维护费
-- −15% Elephant Cavalry 招募费用
-- −1% Elephant Cavalry 维护费 per Elephantry level
-- +5% Monthly 发展度 per Elephantry level
-| Elephantry innovation | 文化 has at least 3 level 2 Elephantry buildings | Belllicose
+| 象之领主——这种文化venerates elephants, likening them to royalty. 他们是 masterful at capturing them, training them,和using them对于devastating effect的war. | 等级 4 教育 特质授予various bonuses
+Diplomacyː
+建筑 建造费用的丛林 -10%
+象骑兵 伤害 +10%
+象骑兵 韧性 +10%
+象骑兵 维护费 -10%
+象骑兵 招募费用 -10%
+Martialː
+优势的丛林 +5
+象骑兵 伤害 +20%
+象骑兵 韧性 +10%
+象骑兵 追击 +20
+Stewardshipː
+发展度增长在India或南方 东方 Asia 地区 +30%
+建筑 建造费用的丛林 -20%
+象骑兵 维护费 -20%
+象骑兵 招募费用 -20%
+Learningː
+发展度增长在India或南方 东方 Asia 地区 +30%
+损耗 taken的丛林 -35%
+象骑兵 韧性 +10%
+象骑兵 掩护 +20
+象骑兵 维护费 -20%
+ +5 优势的丛林
+ +40% 象骑兵 伤害
+ +20% 象骑兵 韧性
+ +20 象骑兵 追击
+ 解锁 招募 丛林 专精 decision
+ +10% 象骑兵 伤害
+ +10% 象骑兵 韧性
+ −15% 象骑兵 维护费
+ −15% 象骑兵 招募费用
+ −1% 象骑兵 维护费每Elephantry等级
+ +5% 每月 发展度每Elephantry等级 - 等级 4 教育 特质授予various bonuses
+Diplomacyː
+建筑 建造费用的丛林 -10%
+象骑兵 伤害 +10%
+象骑兵 韧性 +10%
+象骑兵 维护费 -10%
+象骑兵 招募费用 -10%
+Martialː
+优势的丛林 +5
+象骑兵 伤害 +20%
+象骑兵 韧性 +10%
+象骑兵 追击 +20
+Stewardshipː
+发展度增长在India或南方 东方 Asia 地区 +30%
+建筑 建造费用的丛林 -20%
+象骑兵 维护费 -20%
+象骑兵 招募费用 -20%
+Learningː
+发展度增长在India或南方 东方 Asia 地区 +30%
+损耗 taken的丛林 -35%
+象骑兵 韧性 +10%
+象骑兵 掩护 +20
+象骑兵 维护费 -20%
+- Diplomacyː
+建筑 建造费用的丛林 -10%
+象骑兵 伤害 +10%
+象骑兵 韧性 +10%
+象骑兵 维护费 -10%
+象骑兵 招募费用 -10%
+- 建筑 建造费用的丛林 -10%
+- 象骑兵 伤害 +10%
+- 象骑兵 韧性 +10%
+- 象骑兵 维护费 -10%
+- 象骑兵 招募费用 -10%
+- Martialː
+优势的丛林 +5
+象骑兵 伤害 +20%
+象骑兵 韧性 +10%
+象骑兵 追击 +20
+- 优势的丛林 +5
+- 象骑兵 伤害 +20%
+- 象骑兵 韧性 +10%
+- 象骑兵 追击 +20
+- Stewardshipː
+发展度增长在India或南方 东方 Asia 地区 +30%
+建筑 建造费用的丛林 -20%
+象骑兵 维护费 -20%
+象骑兵 招募费用 -20%
+- 发展度增长在India或南方 东方 Asia 地区 +30%
+- 建筑 建造费用的丛林 -20%
+- 象骑兵 维护费 -20%
+- 象骑兵 招募费用 -20%
+- Learningː
+发展度增长在India或南方 东方 Asia 地区 +30%
+损耗 taken的丛林 -35%
+象骑兵 韧性 +10%
+象骑兵 掩护 +20
+象骑兵 维护费 -20%
+- 发展度增长在India或南方 东方 Asia 地区 +30%
+- 损耗 taken的丛林 -35%
+- 象骑兵 韧性 +10%
+- 象骑兵 掩护 +20
+- 象骑兵 维护费 -20%
+- +5 优势的丛林
+- +40% 象骑兵 伤害
+- +20% 象骑兵 韧性
+- +20 象骑兵 追击
+- 解锁 招募 丛林 专精 decision
+- +10% 象骑兵 伤害
+- +10% 象骑兵 韧性
+- −15% 象骑兵 维护费
+- −15% 象骑兵 招募费用
+- −1% 象骑兵 维护费每Elephantry等级
+- +5% 每月 发展度每Elephantry等级
+| Elephantry 革新 | 文化至少有 3等级 2 Elephantry buildings | Belllicose
 礼仪
-Stoic - Belllicose
+坚毅 - Belllicose
 - 礼仪
 - 坚毅
-| Maritime Way of LifeSince time immemorial the outrigger Catamarans of this culture have been sighted on the horizon. Long sea voyages is a second nature to this people.
-For someone who consider life at sea natural there are no limits to where they can settle, how they can trade or who they can raid. | 可以在大型河流上航行
-Bonus to Stationed 常备军 in 沿海 部落 地产s
- 可以招募 Pesilat Warriors as 常备军
+| Maritime Way的LifeSince time immemorialoutrigger Catamarans的这种文化have been sighted在horizon. Long sea voyages是一个second nature to此people.
+For someone who consider life at sea natural there是no limits to where they可以settle, how they可以trade或who they可以raid. | 可以在大型河流上航行
+加成 to 驻扎的 常备军的沿海 部落 地产
+ 可以招募 Pesilat 战士 as 常备军
  -85% 登船费用
  +25% 海军速度
- -45 Sea 危险度
- -45 海岸 Sea 危险度 - 可以在大型河流上航行
-- Bonus to Stationed 常备军 in 沿海 部落 地产s
-- 可以招募 Pesilat Warriors as 常备军
+ -45 海 危险度
+ -45 海岸 海 危险度 - 可以在大型河流上航行
+- 加成 to 驻扎的 常备军的沿海 部落 地产
+- 可以招募 Pesilat 战士 as 常备军
 - -85% 登船费用
 - +25% 海军速度
-- -45 Sea 危险度
-- -45 海岸 Sea 危险度
+- -45 海 危险度
+- -45 海岸 海 危险度
 | 天下DLC
- Austronesian 遗产
- At least 50% of counties of this culture must be 沿海 - 天下DLC
-- Austronesian 遗产
-- At least 50% of counties of this culture must be 沿海
-| At least 70% of counties of this culture are 沿海 | 好战
+ 南岛语 遗产
+ At least 50%的伯爵领的这种文化must be 沿海 - 天下DLC
+- 南岛语 遗产
+- At least 50%的伯爵领的这种文化must be 沿海
+| At least 70%的伯爵领的这种文化是 沿海 | 好战
 官僚
-Spiritual - Bellicose
+灵性 - 好战
 - 官僚
 - 灵性
-| 山地 Herding在干旱地区中，这种文化将较凉爽的山脉作为自己的家园。这些高地的牧民和农民成为了坚韧强壮的战士，随着时间的推移，他们的辛勤劳动使这个民族在光秃秃的沙漠上方蓬勃发展。 | 可以招募 Abudrar 常备军
- 解锁 Recruit 山地 Specialist decision
- The 沙漠 Warrior trait 更常见. [2]
- The Rough Terrain Expert trait 更常见. [2]
- 某些特质拥有 山地 and 沙漠山地 bonuses
- +35% 发展度增长 in 沙漠山地 Terrain
- −15% 地产和建筑建造费用 in 沙漠山地 Terrain
+| 山地放牧——这种文化拥有madecooler mountains其homes的一个otherwise dry和arid region.herders和farmers的这些 uplands拥有make对于resilient和robust warriors,和over time其toil拥有made此people flourish far abovenaked desert. | 可以招募 Abudrar 常备军
+ 解锁 招募 山地 专精 decision
+沙漠 战士特质 更常见. [2]
+崎岖地形 专精特质 更常见. [2]
+ 某些特质拥有 山地和沙漠山地 bonuses
+ +35% 发展度增长的沙漠山地 地形
+ −15% 地产和建筑 建造费用的沙漠山地 地形
  -65 山地 危险度
  -65 沙漠山地 危险度 - 可以招募 Abudrar 常备军
-- 解锁 Recruit 山地 Specialist decision
-- The 沙漠 Warrior trait 更常见. [2]
-- The Rough Terrain Expert trait 更常见. [2]
-- 某些特质拥有 山地 and 沙漠山地 bonuses
-- +35% 发展度增长 in 沙漠山地 Terrain
-- −15% 地产和建筑建造费用 in 沙漠山地 Terrain
+- 解锁 招募 山地 专精 decision
+-沙漠 战士特质 更常见. [2]
+-崎岖地形 专精特质 更常见. [2]
+- 某些特质拥有 山地和沙漠山地 bonuses
+- +35% 发展度增长的沙漠山地 地形
+- −15% 地产和建筑 建造费用的沙漠山地 地形
 - -65 山地 危险度
 - -65 沙漠山地 危险度
-| Arabic or Berber 遗产
- 文化存在于拥有以下地形的伯爵领中： 山地 or 沙漠山地
+| Arabic或Berber 遗产
+ 文化存在于拥有以下地形的伯爵领中： 山地或沙漠山地
  和平主义者传统
- 信仰 has Pacifism tenet
- 信仰 has Dharmic Pacifism tenet - Arabic or Berber 遗产
-- 文化存在于拥有以下地形的伯爵领中： 山地 or 沙漠山地
+ 信仰拥有和平主义 tenet
+ 信仰拥有法性 和平主义 tenet - Arabic或Berber 遗产
+- 文化存在于拥有以下地形的伯爵领中： 山地或沙漠山地
 - 和平主义者传统
-- 信仰 has Pacifism tenet
-- 信仰 has Dharmic Pacifism tenet
+- 信仰拥有和平主义 tenet
+- 信仰拥有法性 和平主义 tenet
 | 30% 的文化存在于拥有以下地形的伯爵领中： 山地 | 好战
 集体
-Stoic - Bellicose
+坚毅 - 好战
 - 集体
 - 坚毅
-| 山地 Skirmishing非洲之角的巍峨山脉给许多类型的军队带来了后勤挑战，但我们的散兵可以轻松适应这些条件，击溃敌人的入侵者。 | 可以招募 Horn Warriors 常备军
- 解锁 Recruit 山地 Specialist decision
- The Rough Terrain Expert trait 更常见. [2]
- 某些特质拥有 山地 and 沙漠山地 bonuses
- +25% 补给上限 in 山地 and 沙漠山地 Terrain
- +10% 征召兵规模 in 山地 and 沙漠山地 Terrain
+| 山地散兵战——The great mountains在Horn的Africa pose logistical challenges to many types的armies,但our skirmishers可以easily adapt to这些conditions to rout enemy invaders. | 可以招募 Horn 战士 常备军
+ 解锁 招募 山地 专精 decision
+崎岖地形 专精特质 更常见. [2]
+ 某些特质拥有 山地和沙漠山地 bonuses
+ +25% 补给上限的山地和沙漠山地 地形
+ +10% 征召兵规模的山地和沙漠山地 地形
  -42 山地 危险度
- -42 沙漠山地 危险度 - 可以招募 Horn Warriors 常备军
-- 解锁 Recruit 山地 Specialist decision
-- The Rough Terrain Expert trait 更常见. [2]
-- 某些特质拥有 山地 and 沙漠山地 bonuses
-- +25% 补给上限 in 山地 and 沙漠山地 Terrain
-- +10% 征召兵规模 in 山地 and 沙漠山地 Terrain
+ -42 沙漠山地 危险度 - 可以招募 Horn 战士 常备军
+- 解锁 招募 山地 专精 decision
+-崎岖地形 专精特质 更常见. [2]
+- 某些特质拥有 山地和沙漠山地 bonuses
+- +25% 补给上限的山地和沙漠山地 地形
+- +10% 征召兵规模的山地和沙漠山地 地形
 - -42 山地 危险度
 - -42 沙漠山地 危险度
-| East African or Horn African 遗产
- 文化存在于拥有以下地形的伯爵领中： 山地 or 沙漠山地
+| 东方 非洲或Horn 非洲 遗产
+ 文化存在于拥有以下地形的伯爵领中： 山地或沙漠山地
  高加索之狼传统
- 登山者传统 - East African or Horn African 遗产
-- 文化存在于拥有以下地形的伯爵领中： 山地 or 沙漠山地
+ 登山者传统 - 东方 非洲或Horn 非洲 遗产
+- 文化存在于拥有以下地形的伯爵领中： 山地或沙漠山地
 - 高加索之狼传统
 - 登山者传统
 | 30% 的文化存在于拥有以下地形的伯爵领中： 山地 | 集体
-Spiritual - Communal
+灵性 - 集体
 - 灵性
-| 山地eer Ruralism从波西米亚森林的山丘到矿山和塔特拉山脉的峭壁，这种文化中的大多数人不仅知道如何穿越岩石地带，而且能轻松应对山区生活。 | 可以招募 Zbrojnosh 常备军
- 解锁 Recruit 山地 Specialist decision
- The Rough Terrain Expert trait 更常见. [2]
+| 登山者 RuralismFrom其origins在hills的Bohemian 森林,到crags的Ore和Tatra mountains, most的这种文化know不only how to traverserocky lands,但handle life在一个mountain与ease. | 可以招募 Zbrojnosh 常备军
+ 解锁 招募 山地 专精 decision
+崎岖地形 专精特质 更常见. [2]
  某些特质拥有 山地 bonuses
- +10% 发展度增长 in 丘陵 and 山地 Terrain
- Hill Farms 有额外加成 in 此文化的伯爵领:
- +1% 骑士效率 per Hill Farms level
- +1% 常备军反制效率 per Hill Farms level
- +0.5% 征召兵规模 per Hill Farms level
- +2 Defender 优势 per Hill Farms level
- Quarries 有额外加成 in 此文化的伯爵领:
- −1% Heavy Infantry, Pikemen, and Heavy Cavalry 维护费 per Quarries level
- −1% Men-At-Arms 招募费用 per Quarries level
- +1% 征召兵规模 per Quarries level
+ +10% 发展度增长的丘陵和山地 地形
+ 丘陵农场 有额外加成的此文化的伯爵领:
+ +1% 骑士效用每丘陵农场等级
+ +1% 常备军克制效率每丘陵农场等级
+ +0.5% 征召兵规模每丘陵农场等级
+ +2 防御方优势每丘陵农场等级
+ 采石场 有额外加成的此文化的伯爵领:
+ −1% 重步兵, 长枪兵,和重骑兵 维护费每采石场等级
+ −1% Men-At-兵器 招募费用每采石场等级
+ +1% 征召兵规模每采石场等级
  -45 丘陵 危险度
  -65 山地 危险度 - 可以招募 Zbrojnosh 常备军
-- 解锁 Recruit 山地 Specialist decision
-- The Rough Terrain Expert trait 更常见. [2]
+- 解锁 招募 山地 专精 decision
+-崎岖地形 专精特质 更常见. [2]
 - 某些特质拥有 山地 bonuses
-- +10% 发展度增长 in 丘陵 and 山地 Terrain
-- Hill Farms 有额外加成 in 此文化的伯爵领:
- +1% 骑士效率 per Hill Farms level
- +1% 常备军反制效率 per Hill Farms level
- +0.5% 征召兵规模 per Hill Farms level
- +2 Defender 优势 per Hill Farms level
-- +1% 骑士效率 per Hill Farms level
-- +1% 常备军反制效率 per Hill Farms level
-- +0.5% 征召兵规模 per Hill Farms level
-- +2 Defender 优势 per Hill Farms level
-- Quarries 有额外加成 in 此文化的伯爵领:
- −1% Heavy Infantry, Pikemen, and Heavy Cavalry 维护费 per Quarries level
- −1% Men-At-Arms 招募费用 per Quarries level
- +1% 征召兵规模 per Quarries level
-- −1% Heavy Infantry, Pikemen, and Heavy Cavalry 维护费 per Quarries level
-- −1% Men-At-Arms 招募费用 per Quarries level
-- +1% 征召兵规模 per Quarries level
+- +10% 发展度增长的丘陵和山地 地形
+- 丘陵农场 有额外加成的此文化的伯爵领:
+ +1% 骑士效用每丘陵农场等级
+ +1% 常备军克制效率每丘陵农场等级
+ +0.5% 征召兵规模每丘陵农场等级
+ +2 防御方优势每丘陵农场等级
+- +1% 骑士效用每丘陵农场等级
+- +1% 常备军克制效率每丘陵农场等级
+- +0.5% 征召兵规模每丘陵农场等级
+- +2 防御方优势每丘陵农场等级
+- 采石场 有额外加成的此文化的伯爵领:
+ −1% 重步兵, 长枪兵,和重骑兵 维护费每采石场等级
+ −1% Men-At-兵器 招募费用每采石场等级
+ +1% 征召兵规模每采石场等级
+- −1% 重步兵, 长枪兵,和重骑兵 维护费每采石场等级
+- −1% Men-At-兵器 招募费用每采石场等级
+- +1% 征召兵规模每采石场等级
 - -45 丘陵 危险度
 - -65 山地 危险度
-| West Slavic 遗产
- 文化存在于拥有以下地形的伯爵领中： 山地 or 沙漠山地 - West Slavic 遗产
-- 文化存在于拥有以下地形的伯爵领中： 山地 or 沙漠山地
-| 30% 的文化存在于拥有以下地形的伯爵领中： 山地 | 坚毅 | Mubarizun仿照拉什顿军队中传奇勇士的模式，我们的穆巴里祖恩士兵在阵型战斗和单挑方面都受过出色的训练。 | 可以招募 Mubarizun 常备军
- 解锁 Recruit Dry Terrain Specialist decision
- The 沙漠 Warrior trait 更常见. [2]
+| 西方 斯拉夫 遗产
+ 文化存在于拥有以下地形的伯爵领中： 山地或沙漠山地 - 西方 斯拉夫 遗产
+- 文化存在于拥有以下地形的伯爵领中： 山地或沙漠山地
+| 30% 的文化存在于拥有以下地形的伯爵领中： 山地 | 坚毅 | MubarizunModeled afterlegendary champions的Rashidun army, our Mubarizun soldiers是trained to excel的both formation fighting as well as single combat. | 可以招募 Mubarizun 常备军
+ 解锁 招募 Dry 地形 专精 decision
+沙漠 战士特质 更常见. [2]
  某些特质给予 bonuses
- +25% 补给上限 in 沙漠 and 旱地
- +10% 征召兵规模 in 沙漠 and 旱地 - 可以招募 Mubarizun 常备军
-- 解锁 Recruit Dry Terrain Specialist decision
-- The 沙漠 Warrior trait 更常见. [2]
+ +25% 补给上限的沙漠和旱地
+ +10% 征召兵规模的沙漠和旱地 - 可以招募 Mubarizun 常备军
+- 解锁 招募 Dry 地形 专精 decision
+-沙漠 战士特质 更常见. [2]
 - 某些特质给予 bonuses
-- +25% 补给上限 in 沙漠 and 旱地
-- +10% 征召兵规模 in 沙漠 and 旱地
+- +25% 补给上限的沙漠和旱地
+- +10% 征召兵规模的沙漠和旱地
 | Arabic 遗产
  干旱战士传统
  和平主义者传统
- 信仰 has Pacifism tenet
- 信仰 has Dharmic Pacifism tenet - Arabic 遗产
+ 信仰拥有和平主义 tenet
+ 信仰拥有法性 和平主义 tenet - Arabic 遗产
 - 干旱战士传统
 - 和平主义者传统
-- 信仰 has Pacifism tenet
-- 信仰 has Dharmic Pacifism tenet
-| 30% 的文化存在于拥有以下地形的伯爵领中： 沙漠 or 旱地 | 好战
+- 信仰拥有和平主义 tenet
+- 信仰拥有法性 和平主义 tenet
+| 30% 的文化存在于拥有以下地形的伯爵领中： 沙漠或旱地 | 好战
 集体
-Stoic - Bellicose
+坚毅 - 好战
 - 集体
 - 坚毅
-| Pragmatic Creed这种文化的战士不拘泥于排场，以传统骑马精英为代价，强调普通士兵的价值和适应性。 | 可以招募 Zupin Spearmen as 常备军
- The Diligent  特质 更常见
- +10 民众好感度 if Diligent 
+| 务实信条——The 战士的这种文化are不beholden to pomp,和emphasizeworth和adaptability的common soldier在expense的traditional mounted elite. | 可以招募 Zupin 枪兵 as 常备军
+勤勉  特质 更常见
+ +10 民众好感度 if 勤勉 
  +10 民众好感度 if Shrewd 
- 指挥官更可能获得指挥官 特质s
- +15% Light Cavalry 维护费
- +15% Heavy Cavalry 维护费
- +10% Skirmisher 韧性
- −15% Skirmisher 维护费 - The Diligent  特质 更常见
-- +10 民众好感度 if Diligent
+ 指挥官更可能获得指挥官 特质
+ +15% 轻骑兵 维护费
+ +15% 重骑兵 维护费
+ +10% 散兵 韧性
+ −15% 散兵 维护费 -勤勉  特质 更常见
+- +10 民众好感度 if 勤勉
 - +10 民众好感度 if Shrewd
-- 指挥官更可能获得指挥官 特质s
-- +15% Light Cavalry 维护费
-- +15% Heavy Cavalry 维护费
-- +10% Skirmisher 韧性
-- −15% Skirmisher 维护费
-| Iranian 遗产
- 波斯遗产DLC - 波斯遗产DLC
-| Religious Hospitality这种文化善于将外来宗教与其习俗融合，从而形成一个更具世界性的社会，多种信仰和平共处。这在很大程度上是通过贸易和国际关系实现的。 | +15 acceptance to inviting courtiers to court
- -50% cost for Invite Religious Exiles decision
- +100% 发展度 gain from Invite Religious Exiles decision
- AI Rulers are more likely to use Invite Religious Exiles decision
- +20 Different faith opinion
- -50% Different faith opinion penalty to county opinion
-(unrecognized string “faith” for Template:Icon) -25% 信仰 conversion cost - +15 acceptance to inviting courtiers to court
-- -50% cost for Invite Religious Exiles decision
-- +100% 发展度 gain from Invite Religious Exiles decision
-- AI Rulers are more likely to use Invite Religious Exiles decision
-- +20 Different faith opinion
-- -50% Different faith opinion penalty to county opinion
-- (unrecognized string “faith” for Template:Icon) -25% 信仰 conversion cost
+- 指挥官更可能获得指挥官 特质
+- +15% 轻骑兵 维护费
+- +15% 重骑兵 维护费
+- +10% 散兵 韧性
+- −15% 散兵 维护费
+| 伊朗 遗产
+ 波斯遗产DLC - 波斯遗产DLC
+| 宗教好客——这种文化adept at blending foreign religions与其 customs, leading到一个更 cosmopolitan society与many faiths living peacefully amongst每个other. 更此is achieved through trade和international relations. | +15 acceptance to inviting courtiers to court
+ -50% cost对于邀请 宗教 流亡者 decision
+ +100% 发展度 gain来自邀请 宗教 流亡者 decision
+ AI 统治者是更可能 to use 邀请 宗教 流亡者 decision
+ +20 不同 faith opinion
+ -50% 不同 faith 好感度惩罚 to county opinion
+(unrecognized string “faith”对于Template:Icon) -25% 信仰 conversion cost - +15 acceptance to inviting courtiers to court
+- -50% cost对于邀请 宗教 流亡者 decision
+- +100% 发展度 gain来自邀请 宗教 流亡者 decision
+- AI 统治者是更可能 to use 邀请 宗教 流亡者 decision
+- +20 不同 faith opinion
+- -50% 不同 faith 好感度惩罚 to county opinion
+- (unrecognized string “faith”对于Template:Icon) -25% 信仰 conversion cost
 | 天下DLC
- Mandala government - 天下DLC
-- Mandala government
+ 曼陀罗 government - 天下DLC
+- 曼陀罗 government
 | 礼仪
 集体
 平等
-Spiritual - Ceremonious
+灵性 - 礼仪
 - 集体
 - 平等
 - 灵性
-| Roman Ceremonies过去的帝王赋予了这种文化永恒的壮丽、壮观的仪式、对帝国权力的敬畏……以及充满动荡的公共生活。 | 解锁 Hold a Triumph decision
+| 罗马仪典——The emperors的past拥有bestowed 这种文化with lingering grandeur, spectacular rites,一个awe对于imperial office...和一个public life rich与unrest. | 解锁 Hold一个Triumph decision
  解锁 Chariot Race activity
  可以授予 Champion Charioteer 宫廷职位
  可以授予 Bookmaker 宫廷职位
- 解锁 Born in the Purple trait
+ 解锁 Born在Purple特质
  解锁 Duumvirate power sharing
  解锁 Nominal Duumvirate power sharing
-All Counties:
- -10 民众好感度 - 解锁 Hold a Triumph decision
+所有 伯爵领:
+ -10 民众好感度 - 解锁 Hold一个Triumph decision
 - 解锁 Chariot Race activity
 - 可以授予 Champion Charioteer 宫廷职位
 - 可以授予 Bookmaker 宫廷职位
-- 解锁 Born in the Purple trait
+- 解锁 Born在Purple特质
 - 解锁 Duumvirate power sharing
 - 解锁 Nominal Duumvirate power sharing
-- All Counties:
+- 所有 伯爵领:
  -10 民众好感度
 - -10 民众好感度
 | 权力之路DLC
  拜占庭传统传统
-One of:
- Eastern Roman 遗产
- Greek culture
- 文化 has hybridized with Greek culture
- Byzantine 帝国 title
- Roman 帝国 title - 权力之路DLC
+以下之一：
+ 东方的 罗马 遗产
+ 希腊 culture
+ 文化拥有混合了 希腊 culture
+ 拜占庭 帝国 title
+ 罗马 帝国 title - 权力之路DLC
 - 拜占庭传统传统
-- One of:
- Eastern Roman 遗产
- Greek culture
- 文化 has hybridized with Greek culture
- Byzantine 帝国 title
- Roman 帝国 title
-- Eastern Roman 遗产
-- Greek culture
-- 文化 has hybridized with Greek culture
-- Byzantine 帝国 title
-- Roman 帝国 title
-| 文化至少存在于 50 counties within the Eastern Roman 帝国 region | 官僚
+- 以下之一：
+ 东方的 罗马 遗产
+ 希腊 culture
+ 文化拥有混合了 希腊 culture
+ 拜占庭 帝国 title
+ 罗马 帝国 title
+- 东方的 罗马 遗产
+- 希腊 culture
+- 文化拥有混合了 希腊 culture
+- 拜占庭 帝国 title
+- 罗马 帝国 title
+| 文化至少存在于 50 伯爵领 within东方的 罗马 帝国 region | 官僚
 礼仪
-Egalitarian - Bureaucratic
+平等 - 官僚
 - 礼仪
 - 平等
-| Royal Army我们有着建立常备军保护首都的悠久传统。这使我们得以拥有与辅助部队（如战象）配合极为出色的坚韧士兵。 | 可以招募 Palace Guards 常备军
- 解锁 Recruit 丛林 Specialist decision
- The 丛林 Stalker trait 更常见. [2]
+| 皇家 ArmyWe拥有一个long tradition的一个standing army made to protectcapital. This拥有given us access to tough soldiers该work exceedingly well与supporting troops,此类as 战象. | 可以招募 Palace 卫队 常备军
+ 解锁 招募 丛林 专精 decision
+丛林 潜行者特质 更常见. [2]
  某些特质拥有 丛林 bonuses
- +10% Elephant Cavalry 伤害
- +10% Elephant Cavalry 韧性
+ +10% 象骑兵 伤害
+ +10% 象骑兵 韧性
  -42 丛林 危险度
- +10% 荣誉称号荣耀进度 - 可以招募 Palace Guards 常备军
-- 解锁 Recruit 丛林 Specialist decision
-- The 丛林 Stalker trait 更常见. [2]
+ +10% 荣誉称号荣耀进度 - 可以招募 Palace 卫队 常备军
+- 解锁 招募 丛林 专精 decision
+-丛林 潜行者特质 更常见. [2]
 - 某些特质拥有 丛林 bonuses
-- +10% Elephant Cavalry 伤害
-- +10% Elephant Cavalry 韧性
+- +10% 象骑兵 伤害
+- +10% 象骑兵 韧性
 - -42 丛林 危险度
 - +10% 荣誉称号荣耀进度
-| Burman 遗产 | 5 War Elephants | 灵性 | Saharan Nomads这种文化与撒哈拉沙漠有着密切的联系，几个世纪以来一直穿越沙漠，连接地中海与撒哈拉以南萨赫勒地区的王国。 | +10% 军队移动速度
- +20% 军队移动速度 while Raiding
- -30% 敌方损耗 while Raiding
+| Burman 遗产 | 5 战象 | 灵性 | 撒哈拉游牧民——这种文化intimately accustomed与Saharan desert, which it拥有traversed对于centuries, connectingMediterranean与sub-Saharan kingdoms的Sahel. | +10% 军队移动速度
+ +20% 军队移动速度 while 劫掠
+ -30% 敌方损耗 while 劫掠
  +10% 旅行速度
  -50 沙漠 危险度
  -65 沙漠山地 危险度
  -35 旱地 危险度
- +10% 发展度增长 in 绿洲 Terrain
- −25% Light Cavalry 维护费
- −25% Light Cavalry 招募费用
- −15% 建筑建造费用 in 沙漠 Terrain
- −25% 建筑建造费用 in 绿洲 Terrain - +10% 军队移动速度
-- +20% 军队移动速度 while Raiding
-- -30% 敌方损耗 while Raiding
+ +10% 发展度增长的绿洲 地形
+ −25% 轻骑兵 维护费
+ −25% 轻骑兵 招募费用
+ −15% 建筑建造费用的沙漠 地形
+ −25% 建筑建造费用的绿洲 地形 - +10% 军队移动速度
+- +20% 军队移动速度 while 劫掠
+- -30% 敌方损耗 while 劫掠
 - +10% 旅行速度
 - -50 沙漠 危险度
 - -65 沙漠山地 危险度
 - -35 旱地 危险度
-- +10% 发展度增长 in 绿洲 Terrain
-- −25% Light Cavalry 维护费
-- −25% Light Cavalry 招募费用
-- −15% 建筑建造费用 in 沙漠 Terrain
-- −25% 建筑建造费用 in 绿洲 Terrain
-| 文化 is present in a county in the Sahara region | 30% of culture is present in counties in the Sahara region | 灵性
-Stoic - Spiritual
+- +10% 发展度增长的绿洲 地形
+- −25% 轻骑兵 维护费
+- −25% 轻骑兵 招募费用
+- −15% 建筑建造费用的沙漠 地形
+- −25% 建筑建造费用的绿洲 地形
+| 文化存在在一个county在Sahara region | 30%的culture存在的伯爵领在Sahara region | 灵性
+坚毅 - 灵性
 - 坚毅
-| Scholar Officials笔墨胜于刀剑……这种文化坚信一种理想，即将影响力赋予受过高等教育的忠诚官员。 | 可以使用 the Adopt Confucianism Decision
- Can take the Author Book Decision
- 角色s of this 文化 will often learn the Chinese Language
- +50% 学习语言成功几率 when learning the Language of this culture
- Confucian Education and  Loyal 特质s 有额外加成
- The Loyal 特质 更常见
- 封臣s of this 文化 do not consider differing 信仰 or 文化 when joining Factions - 可以使用 the Adopt Confucianism Decision
-- Can take the Author Book Decision
-- 角色s of this 文化 will often learn the Chinese Language
-- +50% 学习语言成功几率 when learning the Language of this culture
-- Confucian Education and  Loyal 特质s 有额外加成
-- The Loyal 特质 更常见
-- 封臣s of this 文化 do not consider differing 信仰 or 文化 when joining Factions
+| 士大夫——The pen和brush是mightier thansword... 这种文化strongly believes的一个ideal where influence是given to loyal officials educated在noble arts. | 可以使用采用 Confucianism 决定
+ 可以takeAuthor Book 决定
+ 角色此文化将often learn中华 语言
+ +50% 学习语言成功几率当learning语言此文化
+ 儒家 教育和 忠诚 特质 有额外加成
+忠诚 特质 更常见
+ 封臣此文化不会consider differing 信仰或文化当joining 派系 - 可以使用采用 Confucianism 决定
+- 可以takeAuthor Book 决定
+- 角色此文化将often learn中华 语言
+- +50% 学习语言成功几率当learning语言此文化
+- 儒家 教育和 忠诚 特质 有额外加成
+-忠诚 特质 更常见
+- 封臣此文化不会consider differing 信仰或文化当joining 派系
 | 天下DLC
- 文化 has either:
- Bellicose ethos
+ 文化拥有以下之一：
+ 好战 ethos
  尚武文化传统
- 文化 head either:
- Has a culture with Chinese 遗产
- Has Confucian Education trait
- Is Hegemon of China
- Has one of the following governments:
- Celestial
+ 文化 head 以下之一：
+ 拥有一个culture与中华 遗产
+ 拥有 儒家 教育特质
+ Is Hegemon的中华
+ 拥有 one的以下 governments:
+ 天
  功绩
- 功绩 Khanate - 天下DLC
-- 文化 has either:
- Bellicose ethos
+ 功绩 汗国 - 天下DLC
+- 文化拥有以下之一：
+ 好战 ethos
  尚武文化传统
-- Bellicose ethos
+- 好战 ethos
 - 尚武文化传统
-- 文化 head either:
- Has a culture with Chinese 遗产
- Has Confucian Education trait
- Is Hegemon of China
- Has one of the following governments:
- Celestial
+- 文化 head 以下之一：
+ 拥有一个culture与中华 遗产
+ 拥有 儒家 教育特质
+ Is Hegemon的中华
+ 拥有 one的以下 governments:
+ 天
  功绩
- 功绩 Khanate
-- Has a culture with Chinese 遗产
-- Has Confucian Education trait
-- Is Hegemon of China
-- Has one of the following governments:
- Celestial
+ 功绩 汗国
+- 拥有一个culture与中华 遗产
+- 拥有 儒家 教育特质
+- Is Hegemon的中华
+- 拥有 one的以下 governments:
+ 天
  功绩
- 功绩 Khanate
-- Celestial
+ 功绩 汗国
+- 天
 - 功绩
-- 功绩 Khanate
-| 文化 head has either trait:
- Scholar
- Confucian Education - 文化 head has either trait:
- Scholar
- Confucian Education
-- Scholar
-- Confucian Education
+- 功绩 汗国
+| 文化 head拥有either特质:
+ 学者
+ 儒家 教育 - 文化 head拥有either特质:
+ 学者
+ 儒家 教育
+- 学者
+- 儒家 教育
 | 官僚
 礼仪
-Spiritual - Bureaucratic
+灵性 - 官僚
 - 礼仪
 - 灵性
 | Sinophilic icon
-Sinophilic中华霸权对该国的影响使其许多人采纳了中华习俗。 | Tribute Missions have a higher chance of being successful
-May access Silk Road 革新s known to the Han culture
--15% Artifact Decay Reduction - Tribute Missions have a higher chance of being successful
-- May access Silk Road 革新s known to the Han culture
-- -15% Artifact Decay Reduction
+SinophilicThe influence的中华 hegemony over此realm拥有led to many的its people adopting customs来自them. | Tribute Missions拥有a更高chance的being successful
+可以access Silk Road 革新 已知到Han culture
+-15% 工艺品 Decay Reduction - Tribute Missions拥有a更高chance的being successful
+- 可以access Silk Road 革新 已知到Han culture
+- -15% 工艺品 Decay Reduction
 | 天下DLC
-  Not Chinese 遗产
- 文化 Head of Han culture is within 外交范围 - 天下DLC
-- Not Chinese 遗产
-- 文化 Head of Han culture is within 外交范围
+  Not 中华 遗产
+ 文化领袖的Han culture是within 外交范围 - 天下DLC
+- Not 中华 遗产
+- 文化领袖的Han culture是within 外交范围
 | 官僚
 礼仪
-Spiritual - Bureaucratic
+灵性 - 官僚
 - 礼仪
 - 灵性
-| 草原 Tolerance生活在草原上的人总是与那些分享其生活方式的人有很多共同点。陌生人可能信仰不同，但他们仍然生活在马鞍上。 | +10 不同信仰好感度
- +25 Different 信仰 民众好感度
- −20% 信仰 Conversion Cost
- −20% 信仰 Creation and Reformation Cost
- +33% Convert 信仰 in 伯爵领 Speed in counties of this culture
+| 草原 ToleranceThose who live在草原将always拥有更的common与those who share其way的life. Strangers可以worship differently,但they still live在saddle. | +10 不同信仰好感度
+ +25 不同 信仰 民众好感度
+ −20% 信仰 皈依 费用
+ −20% 信仰 Creation和Reformation 费用
+ +33% 皈依 信仰的伯爵领 速度的伯爵领此文化
  AI角色更不太可能 demand conversion - +10 不同信仰好感度
-- +25 Different 信仰 民众好感度
-- −20% 信仰 Conversion Cost
-- −20% 信仰 Creation and Reformation Cost
-- +33% Convert 信仰 in 伯爵领 Speed in counties of this culture
+- +25 不同 信仰 民众好感度
+- −20% 信仰 皈依 费用
+- −20% 信仰 Creation和Reformation 费用
+- +33% 皈依 信仰的伯爵领 速度的伯爵领此文化
 - AI角色更不太可能 demand conversion
-| Mongolic or Turkic 遗产
+| 蒙古或突厥 遗产
  30% 的文化存在于拥有以下地形的伯爵领中： 草原
  非洲宽容传统
- 宗教融合传统 - Mongolic or Turkic 遗产
+ 宗教融合传统 - 蒙古或突厥 遗产
 - 30% 的文化存在于拥有以下地形的伯爵领中： 草原
 - 非洲宽容传统
 - 宗教融合传统
 | 好战
 集体
-Egalitarian - Bellicose
+平等 - 好战
 - 集体
 - 平等
 | Stratified Society icon
-Stratified Society有些人天生领导，有些人天生服务。在分层社会中，世袭特权的现实往往压倒功绩制的原则，接近权力就是一切。 | Upon reaching 5th Merit rank, every preferred gender Close Family member below this rank:
+Stratified SocietyThere是those who是born to lead,和then there是those who是born to serve. In一个Stratified Society,reality的hereditary privilege often overridesprinciples的meritocracy和proximity to power是everything. | Upon reaching 5th Merit rank, every preferred gender 近 家族 member below此rank:
  +500 Merit
-Gains Passed Local Examinations
- House head gains influence when a family member marries the Top 领主 if both have this tradition - Upon reaching 5th Merit rank, every preferred gender Close Family member below this rank:
+获得Passed 本地 Examinations
+ 家族 head获得influence当一个family member marriesTop 领主 if都have此tradition - Upon reaching 5th Merit rank, every preferred gender 近 家族 member below此rank:
  +500 Merit
-Gains Passed Local Examinations
+获得Passed 本地 Examinations
 - +500 Merit
-- Gains Passed Local Examinations
-- House head gains influence when a family member marries the Top 领主 if both have this tradition
+- 获得Passed 本地 Examinations
+- 家族 head获得influence当一个family member marriesTop 领主 if都have此tradition
 | 天下DLC
- 文化 head's government is Celestial, 功绩, or 功绩 Khanate
+ 文化 head's government是天, 功绩,或功绩 汗国
  Samhanic 遗产 - 天下DLC
-- 文化 head's government is Celestial, 功绩, or 功绩 Khanate
+- 文化 head's government是天, 功绩,或功绩 汗国
 - Samhanic 遗产
 | 好战
 坚毅
-Spiritual - Bellicose
+灵性 - 好战
 - 坚毅
 - 灵性
-| Strong Kinship这种文化在大家庭或宗族内有着强大的亲族传统。在需要时，统治者总是能够依靠他们的亲族。 | 解锁 Rectilinear Schiltron innovation
- +10% 征召兵 for Patriarchs / Matriarchs
- +1 每月威望 for Patriarchs / Matriarchs
+| 强大宗族——这种文化拥有一个strong tradition的kinship withinextended family,或clan. In times的need一个ruler将always be able to rely on其kin. | 解锁 Rectilinear Schiltron 革新
+ +10% 征召兵对于Patriarchs / Matriarchs
+ +1 每月威望对于Patriarchs / Matriarchs
  +15 家族好感度
- +30% 个人阴谋成功几率 with House Members
- +75 威望 for granting a 伯爵领 to a House Member
- +150 威望 for granting a 公爵领 to a House Member
- +350 威望 for granting a 王国 to a House Member
- +750 威望 for granting an 帝国 to a House Member
- −150 威望 for revoking a 伯爵领 from a House Member
- −350 威望 for revoking a 公爵领 from a House Member
- −750 威望 for revoking a 王国 from a House Member
- −10 领主好感度 - 解锁 Rectilinear Schiltron innovation
-- +10% 征召兵 for Patriarchs / Matriarchs
-- +1 每月威望 for Patriarchs / Matriarchs
+ +30% 个人阴谋成功几率与家族 成员
+ +75 威望 for授予a 伯爵领到一个家族 成员
+ +150 威望 for授予a 公爵领到一个家族 成员
+ +350 威望 for授予a 王国到一个家族 成员
+ +750 威望 for授予an 帝国到一个家族 成员
+ −150 威望 for撤销a 伯爵领来自一个家族 成员
+ −350 威望 for撤销a 公爵领来自一个家族 成员
+ −750 威望 for撤销a 王国来自一个家族 成员
+ −10 领主好感度 - 解锁 Rectilinear Schiltron 革新
+- +10% 征召兵对于Patriarchs / Matriarchs
+- +1 每月威望对于Patriarchs / Matriarchs
 - +15 家族好感度
-- +30% 个人阴谋成功几率 with House Members
-- +75 威望 for granting a 伯爵领 to a House Member
-- +150 威望 for granting a 公爵领 to a House Member
-- +350 威望 for granting a 王国 to a House Member
-- +750 威望 for granting an 帝国 to a House Member
-- −150 威望 for revoking a 伯爵领 from a House Member
-- −350 威望 for revoking a 公爵领 from a House Member
-- −750 威望 for revoking a 王国 from a House Member
+- +30% 个人阴谋成功几率与家族 成员
+- +75 威望 for授予a 伯爵领到一个家族 成员
+- +150 威望 for授予a 公爵领到一个家族 成员
+- +350 威望 for授予a 王国到一个家族 成员
+- +750 威望 for授予an 帝国到一个家族 成员
+- −150 威望 for撤销a 伯爵领来自一个家族 成员
+- −350 威望 for撤销a 公爵领来自一个家族 成员
+- −750 威望 for撤销a 王国来自一个家族 成员
 - −10 领主好感度
-| Gaelic or Scottish 文化或后裔 | At least 3 House Members | 好战
+| 盖尔或Scottish 文化或后裔 | At least 3 家族 成员 | 好战
 官僚
-Stoic - Bellicose
+坚毅 - 好战
 - 官僚
 - 坚毅
-| The Witenagemot这种文化有着悠久的历史，召开由该领地的统治权贵组成的会议，辩论政治、法律、财政，以及最重要的——如何最好地……为统治者提供建议。 | 可以颁布 Saxon Elective Succession Law
+| 贤人会议——这种文化拥有一个long history的holding assemblies comprised的land's ruling potentates, debating politics, 法律, finance, and, most importantly, how best to... adviseruler. | 可以颁布 撒克逊 Elective 继承 法律
  +15 领地牧首好感度
- +4% 每月威望 per Powerful 封臣 on the Council - 可以颁布 Saxon Elective Succession Law
+ +4% 每月威望每Powerful 封臣在议会 - 可以颁布 撒克逊 Elective 继承 法律
 - +15 领地牧首好感度
-- +4% 每月威望 per Powerful 封臣 on the Council
-| Brythonic, Goidelic or West Germanic 遗产 | All councilors have positive 好感度 | 官僚
-Stoic - Bureaucratic
+- +4% 每月威望每Powerful 封臣在议会
+| 布里索尼克, 盖尔或西方 日耳曼 遗产 | 所有 councilors拥有positive 好感度 | 官僚
+坚毅 - 官僚
 - 坚毅
-| Ting-Meet在斯堪的纳维亚，遥远的距离和荒野使集中权力失去效力。当必须解决争端和做出决定时，庭会被召集起来——由法律宣讲者主持的同级集会。 | 可以颁布 Scandinavian Elective Succession Law
+| 庭会——In Scandinavia,distances和wilderness render centralized authority ineffective. When disputes must be resolved和decisions made,Ting-meet是gathered,一个assembly的peers presided over被一个lawspeaker. | 可以颁布 Scandinavian Elective 继承 法律
  各种特质给予 民众好感度
- +2 民众好感度 if Aspiring Blademaster
- +5 民众好感度 if Generous, Gregarious, Compassionate, Forgiving, Diligent, Honest, or Bladmaster
- +10 民众好感度 if Brave or Legendary Blademaster - 可以颁布 Scandinavian Elective Succession Law
+ +2 民众好感度 if 见习剑术大师
+ +5 民众好感度 if 慷慨, 合群, 仁慈, 宽恕, 勤勉, 诚实,或Bladmaster
+ +10 民众好感度 if 勇敢或Legendary 剑术大师 - 可以颁布 Scandinavian Elective 继承 法律
 - 各种特质给予 民众好感度
- +2 民众好感度 if Aspiring Blademaster
- +5 民众好感度 if Generous, Gregarious, Compassionate, Forgiving, Diligent, Honest, or Bladmaster
- +10 民众好感度 if Brave or Legendary Blademaster
-- +2 民众好感度 if Aspiring Blademaster
-- +5 民众好感度 if Generous, Gregarious, Compassionate, Forgiving, Diligent, Honest, or Bladmaster
-- +10 民众好感度 if Brave or Legendary Blademaster
-| North Germanic 遗产 | All counties have positive 民众好感度 | 好战
-Bureaucratic - Bellicose
+ +2 民众好感度 if 见习剑术大师
+ +5 民众好感度 if 慷慨, 合群, 仁慈, 宽恕, 勤勉, 诚实,或Bladmaster
+ +10 民众好感度 if 勇敢或Legendary 剑术大师
+- +2 民众好感度 if 见习剑术大师
+- +5 民众好感度 if 慷慨, 合群, 仁慈, 宽恕, 勤勉, 诚实,或Bladmaster
+- +10 民众好感度 if 勇敢或Legendary 剑术大师
+| 北日耳曼 遗产 | 所有 伯爵领拥有positive 民众好感度 | 好战
+官僚 - 好战
 - 官僚
-| Tribes of the North这是其南方邻居通常称为'森林民族'的文化之一。这些北方人在一些地方是有名的猎人，在另一些地方是优秀的河流渔民，有时是炼铁匠，通常是牧民。 | 可以招募 Maturkan Warriors as 常备军
- 此文化的伯爵领 start with the Siberian Permafrost Modifier that reduces 发展度 and 控制. if the Holder and 伯爵领 have 文化 with this Cultural 传统, Siberian Permafrost does not lower 控制 and provides bonuses.
- +6 Defender 优势
- -6 发展度下降
- +1 Additional Building Slots
- -60% 建筑建造费用 in 森林
- -60% 建筑建造费用 in 针叶林
- Siberian Permafrost Modifier can be removed by the Expand the 草原s Decision or the 封建ize 地产 Interaction
- 部落 Building upgrades do not require 革新s in 此文化的伯爵领 that have the Siberian Permafrost Modifier
- Cannot take the Adopt 封建 Ways and Adopt 封建 Ways through 领主 Decisions
- All 角色s:
- +4 优势 in Provinces affected by Winter
+| 北方部落——这是one的cultures 已知 generally作为'森林 People' to其southern neighbors. These northerners are的some places reputable hunters,的others fine river-fishers, sometimes iron-smelters,和often herders. | 可以招募 Maturkan 战士 as 常备军
+ 此文化的伯爵领 start与Siberian 永冻土 Modifier该reduces 发展度和控制. ifHolder和伯爵领拥有文化与此文化 传统, Siberian 永冻土不会lower 控制和provides bonuses.
+ +6 防御方优势
+ -6 发展度 Decline
+ +1 额外的 建筑 Slots
+ -60% 建筑建造费用的森林
+ -60% 建筑建造费用的针叶林
+ Siberian 永冻土 Modifier可以被removed被ExpandSteppes 决定或Feudalize 地产 互动
+ 部落 建筑 upgrades不会require 革新的此文化的伯爵领该haveSiberian 永冻土 Modifier
+ 不能 take采用 封建 Ways和采用 封建 Ways through 领主 决定
+ 所有 角色:
+ +4 优势的省份 受到影响的 冬季
  -31 丘陵 危险度
- -20% 建筑建造费用 in 森林
- +4 优势 in 针叶林
- -20% 建筑建造费用 in 针叶林
- -37 针叶林 危险度 - 可以招募 Maturkan Warriors as 常备军
-- 此文化的伯爵领 start with the Siberian Permafrost Modifier that reduces 发展度 and 控制. if the Holder and 伯爵领 have 文化 with this Cultural 传统, Siberian Permafrost does not lower 控制 and provides bonuses.
- +6 Defender 优势
- -6 发展度下降
- +1 Additional Building Slots
- -60% 建筑建造费用 in 森林
- -60% 建筑建造费用 in 针叶林
-- +6 Defender 优势
-- -6 发展度下降
-- +1 Additional Building Slots
-- -60% 建筑建造费用 in 森林
-- -60% 建筑建造费用 in 针叶林
-- Siberian Permafrost Modifier can be removed by the Expand the 草原s Decision or the 封建ize 地产 Interaction
-- 部落 Building upgrades do not require 革新s in 此文化的伯爵领 that have the Siberian Permafrost Modifier
-- Cannot take the Adopt 封建 Ways and Adopt 封建 Ways through 领主 Decisions
-- All 角色s:
- +4 优势 in Provinces affected by Winter
+ -20% 建筑建造费用的森林
+ +4 优势的针叶林
+ -20% 建筑建造费用的针叶林
+ -37 针叶林 危险度 - 可以招募 Maturkan 战士 as 常备军
+- 此文化的伯爵领 start与Siberian 永冻土 Modifier该reduces 发展度和控制. ifHolder和伯爵领拥有文化与此文化 传统, Siberian 永冻土不会lower 控制和provides bonuses.
+ +6 防御方优势
+ -6 发展度 Decline
+ +1 额外的 建筑 Slots
+ -60% 建筑建造费用的森林
+ -60% 建筑建造费用的针叶林
+- +6 防御方优势
+- -6 发展度 Decline
+- +1 额外的 建筑 Slots
+- -60% 建筑建造费用的森林
+- -60% 建筑建造费用的针叶林
+- Siberian 永冻土 Modifier可以被removed被ExpandSteppes 决定或Feudalize 地产 互动
+- 部落 建筑 upgrades不会require 革新的此文化的伯爵领该haveSiberian 永冻土 Modifier
+- 不能 take采用 封建 Ways和采用 封建 Ways through 领主 决定
+- 所有 角色:
+ +4 优势的省份 受到影响的 冬季
  -31 丘陵 危险度
- -20% 建筑建造费用 in 森林
- +4 优势 in 针叶林
- -20% 建筑建造费用 in 针叶林
+ -20% 建筑建造费用的森林
+ +4 优势的针叶林
+ -20% 建筑建造费用的针叶林
  -37 针叶林 危险度
-- +4 优势 in Provinces affected by Winter
+- +4 优势的省份 受到影响的 冬季
 - -31 丘陵 危险度
-- -20% 建筑建造费用 in 森林
-- +4 优势 in 针叶林
-- -20% 建筑建造费用 in 针叶林
+- -20% 建筑建造费用的森林
+- +4 优势的针叶林
+- -20% 建筑建造费用的针叶林
 - -37 针叶林 危险度
-| 草原可汗DLC | Upland Skirmishing丛林草原的丘陵世世代代是我们的家园。我们的祖先向我们展示了如何利用这种地形，面对威胁我们边界的袭击者，我们可以利用这些知识来保卫自己。 | 可以招募 Guinean Uplanders 常备军
- 解锁 Recruit Hill Specialist decision
- The Rough Terrain Expert trait 更常见. [2]
+| Khans的草原 DLC | 高地散兵战——The hills的wooded savanna已被our homeland对于generations. Our ancestors showed us how to utilize此terrain,和with raiders threatening our borders, we可以use此knowledge的our defense. | 可以招募 几内亚 Uplanders 常备军
+ 解锁 招募 Hill 专精 decision
+崎岖地形 专精特质 更常见. [2]
  某些特质拥有 丘陵 bonuses
-Braveː +4 优势 in 丘陵; 25% less Attrition taken in 丘陵
-Contentː +2 优势 in 丘陵
-Paranoidː +2 Minimum Battle Roll
-Stubbornː +5 Minimum Battle Roll
-Vengefulː +5 Maximum Battle Roll
-Military Engineerː 25% less Attrition taken in 丘陵
-Aggressive Attackerː +2 Maximum Battle Roll
-Unyielding Defenderː +2 Minimum Battle Roll
-Flexible Leaderː +2 Maximum Battle Roll
-Rough Terrain Expertː +2 Minimum Battle Roll
- +25% 补给上限 in 丘陵 Terrain
- +10% 征召兵规模 in 丘陵 Terrain
+Braveː +4 优势的丘陵; 25% less 损耗 taken的丘陵
+Contentː +2 优势的丘陵
+Paranoidː +2 最小 战斗骰
+Stubbornː +5 最小 战斗骰
+Vengefulː +5 最大 战斗骰
+军事 Engineerː 25% less 损耗 taken的丘陵
+Aggressive Attackerː +2 最大 战斗骰
+Unyielding Defenderː +2 最小 战斗骰
+灵活 领导者ː +2 最大 战斗骰
+崎岖地形 Expertː +2 最小 战斗骰
+ +25% 补给上限的丘陵 地形
+ +10% 征召兵规模的丘陵 地形
  -31 丘陵 危险度
  -31 森林 危险度
- Hill Farms 有额外加成 in 此文化的伯爵领:
- +1% 骑士效率 per Hill Farms level
- +1% 常备军反制效率 per Hill Farms level
- +0.5% 征召兵规模 per Hill Farms level
- +2 Defender 优势 per Hill Farms level - 可以招募 Guinean Uplanders 常备军
-- 解锁 Recruit Hill Specialist decision
-- The Rough Terrain Expert trait 更常见. [2]
+ 丘陵农场 有额外加成的此文化的伯爵领:
+ +1% 骑士效用每丘陵农场等级
+ +1% 常备军克制效率每丘陵农场等级
+ +0.5% 征召兵规模每丘陵农场等级
+ +2 防御方优势每丘陵农场等级 - 可以招募 几内亚 Uplanders 常备军
+- 解锁 招募 Hill 专精 decision
+-崎岖地形 专精特质 更常见. [2]
 - 某些特质拥有 丘陵 bonuses
-- Braveː +4 优势 in 丘陵; 25% less Attrition taken in 丘陵
-- Contentː +2 优势 in 丘陵
-- Paranoidː +2 Minimum Battle Roll
-- Stubbornː +5 Minimum Battle Roll
-- Vengefulː +5 Maximum Battle Roll
-- Military Engineerː 25% less Attrition taken in 丘陵
-- Aggressive Attackerː +2 Maximum Battle Roll
-- Unyielding Defenderː +2 Minimum Battle Roll
-- Flexible Leaderː +2 Maximum Battle Roll
-- Rough Terrain Expertː +2 Minimum Battle Roll
-- +25% 补给上限 in 丘陵 Terrain
-- +10% 征召兵规模 in 丘陵 Terrain
+- Braveː +4 优势的丘陵; 25% less 损耗 taken的丘陵
+- Contentː +2 优势的丘陵
+- Paranoidː +2 最小 战斗骰
+- Stubbornː +5 最小 战斗骰
+- Vengefulː +5 最大 战斗骰
+- 军事 Engineerː 25% less 损耗 taken的丘陵
+- Aggressive Attackerː +2 最大 战斗骰
+- Unyielding Defenderː +2 最小 战斗骰
+- 灵活 领导者ː +2 最大 战斗骰
+- 崎岖地形 Expertː +2 最小 战斗骰
+- +25% 补给上限的丘陵 地形
+- +10% 征召兵规模的丘陵 地形
 - -31 丘陵 危险度
 - -31 森林 危险度
-- Hill Farms 有额外加成 in 此文化的伯爵领:
- +1% 骑士效率 per Hill Farms level
- +1% 常备军反制效率 per Hill Farms level
- +0.5% 征召兵规模 per Hill Farms level
- +2 Defender 优势 per Hill Farms level
-- +1% 骑士效率 per Hill Farms level
-- +1% 常备军反制效率 per Hill Farms level
-- +0.5% 征召兵规模 per Hill Farms level
-- +2 Defender 优势 per Hill Farms level
-| Guinean Uplander 遗产
+- 丘陵农场 有额外加成的此文化的伯爵领:
+ +1% 骑士效用每丘陵农场等级
+ +1% 常备军克制效率每丘陵农场等级
+ +0.5% 征召兵规模每丘陵农场等级
+ +2 防御方优势每丘陵农场等级
+- +1% 骑士效用每丘陵农场等级
+- +1% 常备军克制效率每丘陵农场等级
+- +0.5% 征召兵规模每丘陵农场等级
+- +2 防御方优势每丘陵农场等级
+| 几内亚 Uplander 遗产
  文化存在于拥有以下地形的伯爵领中： 丘陵
- 高地战士传统 - Guinean Uplander 遗产
+ 高地战士传统 - 几内亚 Uplander 遗产
 - 文化存在于拥有以下地形的伯爵领中： 丘陵
 - 高地战士传统
 | 30% 的文化存在于拥有以下地形的伯爵领中： 丘陵 | 集体
-Egalitarian - Communal
+平等 - 集体
 - 平等
-| Visigothic Codes虽然西哥特人的许多古老传统早已从世界上消失，但比利牛斯山的后代们仍记得古老的方式，以及土地如何在儿子和女儿之间实际而公平地分配。 | 可以颁布 High Partition Succession Law
- 可以颁布 Equal Gender Law - 可以颁布 High Partition Succession Law
-- 可以颁布 Equal Gender Law
-| Basque or Visigothic 文化或后裔
- Christian religion - Basque or Visigothic 文化或后裔
-- Christian religion
-| 文化 has at least 3 male and 3 female Counts | 平等 | Warrior Monks icon
-Warrior Monks对道德生活的虔诚不应排除使用武力，特别是当需要保护宗教社区免受敌对教派和腐败官员的侵害，或保护弱者时。 | 可以招募 Warrior Monks 常备军
- +1 勇武 每等级 of Devotion
+| Visigothic CodesAlthough many的older traditions的Visigoths拥有long been wiped来自world,children的Pyrenees rememberancient ways,和how land was divided在...之间sons和daughters practically但fairly. | 可以颁布 High Partition 继承 法律
+ 可以颁布 Equal 性别法 - 可以颁布 High Partition 继承 法律
+- 可以颁布 Equal 性别法
+| Basque或Visigothic 文化或后裔
+ 基督教 religion - Basque或Visigothic 文化或后裔
+- 基督教 religion
+| 文化至少有 3 male和3 female 伯爵 | 平等 | 战士 Monks icon
+战士 MonksDevotion to living morally should不precludeuse的force, especially当there是need to protectreligious community来自rival sects和corrupt officials,或to defendneedy. | 可以招募 战士 Monks 常备军
+ +1 勇武每等级的虔诚
  某些特质给予 勇武
- +1 勇武 if Conscientious Scribe or Wise Man
- +2 勇武 if Insightful Thinker, Scholar, Theologian, Mystic, or Pilgrim
- +3 勇武 if Astute Intellectual, Miracle Worker, or Devoted
- +4 勇武 if Mastermind Philosopher
- Members of the Clergy can serve as Commanders and 骑士
- The Monasteries 建筑线 provide additional 勇武 and 军事 bonuses - 可以招募 Warrior Monks 常备军
-- +1 勇武 每等级 of Devotion
+ +1 勇武 if 尽责 书吏或智者
+ +2 勇武 if 洞察 思想家, 学者, 神学家, 神秘主义者,或朝圣者
+ +3 勇武 if 精明 知性, 奇迹 工匠,或虔诚的
+ +4 勇武 if 策士 哲学家
+ 成员s的Clergy可以serve as 指挥官和骑士
+修道院 建筑线 provide 额外的 勇武和军事 bonuses - 可以招募 战士 Monks 常备军
+- +1 勇武每等级的虔诚
 - 某些特质给予 勇武
- +1 勇武 if Conscientious Scribe or Wise Man
- +2 勇武 if Insightful Thinker, Scholar, Theologian, Mystic, or Pilgrim
- +3 勇武 if Astute Intellectual, Miracle Worker, or Devoted
- +4 勇武 if Mastermind Philosopher
-- +1 勇武 if Conscientious Scribe or Wise Man
-- +2 勇武 if Insightful Thinker, Scholar, Theologian, Mystic, or Pilgrim
-- +3 勇武 if Astute Intellectual, Miracle Worker, or Devoted
-- +4 勇武 if Mastermind Philosopher
-- Members of the Clergy can serve as Commanders and 骑士
-- The Monasteries 建筑线 provide additional 勇武 and 军事 bonuses
+ +1 勇武 if 尽责 书吏或智者
+ +2 勇武 if 洞察 思想家, 学者, 神学家, 神秘主义者,或朝圣者
+ +3 勇武 if 精明 知性, 奇迹 工匠,或虔诚的
+ +4 勇武 if 策士 哲学家
+- +1 勇武 if 尽责 书吏或智者
+- +2 勇武 if 洞察 思想家, 学者, 神学家, 神秘主义者,或朝圣者
+- +3 勇武 if 精明 知性, 奇迹 工匠,或虔诚的
+- +4 勇武 if 策士 哲学家
+- 成员s的Clergy可以serve as 指挥官和骑士
+-修道院 建筑线 provide 额外的 勇武和军事 bonuses
 | 天下DLC
- 文化 head either:
-Buddhist
-信仰 has Immaterial Harmony doctrine
- 文化 does not have any of the following traditions:
- Warrior Priests - 天下DLC
-- 文化 head either:
-Buddhist
-信仰 has Immaterial Harmony doctrine
-- Buddhist
-- 信仰 has Immaterial Harmony doctrine
-- 文化 does not have any of the following traditions:
- Warrior Priests
-- Warrior Priests
+ 文化 head 以下之一：
+佛教
+信仰拥有Immaterial 和谐 doctrine
+ 文化 没有 any的以下 traditions:
+ 战士祭司 - 天下DLC
+- 文化 head 以下之一：
+佛教
+信仰拥有Immaterial 和谐 doctrine
+- 佛教
+- 信仰拥有Immaterial 和谐 doctrine
+- 文化 没有 any的以下 traditions:
+ 战士祭司
+- 战士祭司
 | 礼仪
 集体
-Spiritual - Ceremonious
+灵性 - 礼仪
 - 集体
 - 灵性
-| Warrior Queens生活在东非的人们清楚地记得那些曾经抵抗入侵者并在库什建立王国的伟大战士女王。我们的邻居可能坚持男性的优越性，但我们通过母亲追溯血统，强大的努比亚女性的战吼让这些外国'男人'逃回家去。 | 可以颁布 Equal Gender Law
- 可以颁布 Female Preference Gender Law
- 可以颁布 Female Only Law
- +1 勇武 per 军事 Education trait level - 可以颁布 Equal Gender Law
-- 可以颁布 Female Preference Gender Law
-- 可以颁布 Female Only Law
-- +1 勇武 per 军事 Education trait level
-| Daju or Nubian 文化或后裔 | 文化 has at least 3 male and 3 female Counts | 平等 | Wolves of the Deep 草原远离'文明'舒适的触及，人们以能夺取的一切为生，梦想着在马背上死去。较弱的民族在这些战士面前被驱赶。 | 可以招募 Mangudai as 常备军
+| 战士 QueensThose who live的东方 Africa well remembergreat 女战士女王 who once stood对抗invaders和forged kingdoms在Kush. Our neighbors可以insist在superiority的males,但we track our bloodlines through our mothers,和warcry的powerful Nubian women send这些foreign "men" running home. | 可以颁布 Equal 性别法
+ 可以颁布 女性 偏好 性别法
+ 可以颁布 女性 仅 法律
+ +1 勇武每军事 教育特质等级 - 可以颁布 Equal 性别法
+- 可以颁布 女性 偏好 性别法
+- 可以颁布 女性 仅 法律
+- +1 勇武每军事 教育特质等级
+| Daju或Nubian 文化或后裔 | 文化至少有 3 male和3 female 伯爵 | 平等 | Wolves的Deep SteppeFar来自touch的'civilized' comforts, men live by what they可以take,和dream的death on其horse's back. Weaker peoples是driven before这些warriors. | 可以招募 Mangudai as 常备军
 +4 勇武
-+1% Herd Conversion into Horde Riders
-+20% Herd Capacity
++1% 畜群 皈依到部落 骑手
++20% 畜群 Capacity
  -31 丘陵 危险度
  -42 山地 危险度
-+10% 伯爵领生育增长 in 山地 Terrain
- +15% Archer Cavalry 伤害
- +20% Archer Cavalry 追击
- +10% 游牧 Horde 伤害
- +10% 游牧 Horde 追击 - 可以招募 Mangudai as 常备军
++10% 伯爵领生育增长的山地 地形
+ +15% 弓箭手 骑兵 伤害
+ +20% 弓箭手 骑兵 追击
+ +10% 游牧 部落 伤害
+ +10% 游牧 部落 追击 - 可以招募 Mangudai as 常备军
 - +4 勇武
-- +1% Herd Conversion into Horde Riders
-- +20% Herd Capacity
+- +1% 畜群 皈依到部落 骑手
+- +20% 畜群 Capacity
 - -31 丘陵 危险度
 - -42 山地 危险度
-- +10% 伯爵领生育增长 in 山地 Terrain
-- +15% Archer Cavalry 伤害
-- +20% Archer Cavalry 追击
-- +10% 游牧 Horde 伤害
-- +10% 游牧 Horde 追击
-| 草原可汗DLC
- Mongolic, Turkic, or Magyar 遗产 OR
- Government Has Herd OR
- Way of the Nomad
- 和平主义者传统 - Mongolic, Turkic, or Magyar 遗产 OR
-- Government Has Herd OR
-- Way of the Nomad
+- +10% 伯爵领生育增长的山地 地形
+- +15% 弓箭手 骑兵 伤害
+- +20% 弓箭手 骑兵 追击
+- +10% 游牧 部落 伤害
+- +10% 游牧 部落 追击
+| Khans的草原 DLC
+ 蒙古, 突厥,或Magyar 遗产 OR
+ 政府 拥有 畜群 OR
+ Way的游牧民
+ 和平主义者传统 - 蒙古, 突厥,或Magyar 遗产 OR
+- 政府 拥有 畜群 OR
+- Way的游牧民
 - 和平主义者传统
-| Yashima日本群岛众多岛屿的山脉和森林在海洋上此起彼伏，其居民精通穿越崎岖多样的地形。 | -45 海岸 Sea 危险度
+| 八洲——The mountains和forests的many islands的Japanese archipelago rise和fall acrossocean,其inhabitants well versed的traversing其rugged和diverse landscapes. | -45 海岸 海 危险度
  -31 丘陵 危险度
  -42 山地 危险度
  -31 森林 危险度
- +5% 发展度增长 in 丘陵 Terrain
- +20% 发展度增长 in 山地 Terrain
- −10% 地产和建筑建造费用 in 森林 and 山地 Terrain - -45 海岸 Sea 危险度
+ +5% 发展度增长的丘陵 地形
+ +20% 发展度增长的山地 地形
+ −10% 地产和建筑 建造费用的森林和山地 地形 - -45 海岸 海 危险度
 - -31 丘陵 危险度
 - -42 山地 危险度
 - -31 森林 危险度
-- +5% 发展度增长 in 丘陵 Terrain
-- +20% 发展度增长 in 山地 Terrain
-- −10% 地产和建筑建造费用 in 森林 and 山地 Terrain
+- +5% 发展度增长的丘陵 地形
+- +20% 发展度增长的山地 地形
+- −10% 地产和建筑 建造费用的森林和山地 地形
 | 天下DLC
- 文化 is in Japan region
- 文化 is not in Tibet
- 文化存在于拥有以下地形的伯爵领中： 山地 or 沙漠山地
- 文化 does not have any of the following traditions:
- 山地eers
- 山地eer Ruralism
- 山地 Herding
- Himalyan Settlers - 天下DLC
-- 文化 is in Japan region
-- 文化 is not in Tibet
-- 文化存在于拥有以下地形的伯爵领中： 山地 or 沙漠山地
-- 文化 does not have any of the following traditions:
- 山地eers
- 山地eer Ruralism
- 山地 Herding
- Himalyan Settlers
-- 山地eers
-- 山地eer Ruralism
-- 山地 Herding
-- Himalyan Settlers
-| 30% 的文化存在于拥有以下地形的伯爵领中： 山地 or 沙漠山地 
+ 文化 is的Japan region
+ 文化是not的Tibet
+ 文化存在于拥有以下地形的伯爵领中： 山地或沙漠山地
+ 文化 没有 any的以下 traditions:
+ 登山者
+ 登山者田园主义
+ 山地 放牧
+ 喜马拉雅定居者 - 天下DLC
+- 文化 is的Japan region
+- 文化是not的Tibet
+- 文化存在于拥有以下地形的伯爵领中： 山地或沙漠山地
+- 文化 没有 any的以下 traditions:
+ 登山者
+ 登山者田园主义
+ 山地 放牧
+ 喜马拉雅定居者
+- 登山者
+- 登山者田园主义
+- 山地 放牧
+- 喜马拉雅定居者
+| 30% 的文化存在于拥有以下地形的伯爵领中： 山地或沙漠山地 
 ## 参考资料
 
-- ↑ Supposed to provide 40% 韧性 as well but a typo prevents it
+- ↑ 应该还提供40%韧性，但由于拼写错误而未生效
 - ↑ 2.00 2.01 2.02 2.03 2.04 2.05 2.06 2.07 2.08 2.09 2.10 2.11 2.12 2.13 2.14 2.15 2.16 2.17 2.18 +81%到+86%的概率增加。
 - ↑  https://www.reddit.com/r/CrusaderKings/comments/vtd2x4/analyzing_how_to_get_hunter_traits/
 - ↑  https://www.reddit.com/r/CrusaderKings/comments/vtfw26/analyzing_how_to_get_reveler_traits/
