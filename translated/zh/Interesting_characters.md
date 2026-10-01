@@ -801,8 +801,6 @@
 
 # 1066年开局
 
-# 1066年开局
-
 ## Crusader Kings III 的传奇角色
 
 Crusader Kings III 的传奇角色是一组5个角色，每个生活方式各一个，拥有可能触发的特殊历史事件。他们出现在"白手起家"剧本中。
@@ -1302,388 +1300,377 @@ Poitiers 伯爵
 For the Faith!
 
 | 2 | Kulin Kulinić，
-Ban(公爵) of Upper Bosnia Ban(公爵) of Upper Bosnia
+Ban(公爵) of Upper Bosnia
 
 | 1178 | 夹在拜占庭和匈牙利在巴尔干半岛的野心之间，Kulin 巧妙地利用了两大强权之间的冲突来维护自己的自治权并扩大影响力。
-你能否摆脱宗主的束缚，为 Bosnia 开创一个和平繁荣的黄金时代？ 你能否摆脱宗主的束缚，为 Bosnia 开创一个和平繁荣的黄金时代？
+你能否摆脱宗主的束缚，为 Bosnia 开创一个和平繁荣的黄金时代？
 
 | Beacon of Progress | 3 | Gunda Kakatiya,
-Samanta of Orangallu Samanta of Orangallu
+Samanta of Orangallu
 
 | 867 | 直到 Kakatiya 家族从耆那教改信印度教后，他们才获得了足够的土地来自称国王——没有了耆那教对非暴力的严格信仰，这一壮举也许变得更加容易了。
-你能否在忠于信仰教义的同时，为自己夺得一个王座？ 你能否在忠于信仰教义的同时，为自己夺得一个王座？
+你能否在忠于信仰教义的同时，为自己夺得一个王座？
 
 | Paragon of Virtue
-Saint Saint
+Saint
 
 | 4 | Maghan Kon Fatta Keita,
-Farin(伯爵) of Sibi Farin(伯爵) of Sibi
+Farin(伯爵) of Sibi
 
 | 1178 | 传说中，一位猎人曾预言如果 Maghan 娶一位丑陋的女人，他们的儿子将成为一位伟大而强盛的国王。无论这个传说真假如何，Maghan 的儿子 Sunjata 确实建立了 Mali 帝国。
-你能否将这位卑微猎人的预言变为现实，建立一个新的帝国？ 你能否将这位卑微猎人的预言变为现实，建立一个新的帝国？
+你能否将这位卑微猎人的预言变为现实，建立一个新的帝国？
 
 | A Thousand and One Night
-The Iron and Golden King The Iron and Golden King
+The Iron and Golden King
 
 | 5 | Fariburz Salarzade Kesranid,
-Shirvanshah of the Kesranid Shahdom Shirvanshah of the Kesranid Shahdom
+Shirvanshah of the Kesranid Shahdom
 
 | 1066 | Shirvanshah 家族作为诗人和哲学家的赞助者和恩人而被后人铭记，在他们的统治下，艺术和知识生活频繁繁荣。
-你能否让你的宫廷成为全世界仰慕的文化灯塔？ 你能否让你的宫廷成为全世界仰慕的文化灯塔？
+你能否让你的宫廷成为全世界仰慕的文化灯塔？
 
 | Beacon of Progress
 Crème de la Crème
-Lingua Franca Crème de la Crème
-
 Lingua Franca
 
+
 | 6 | Renaud Châtillon,
-Duke of Kerak 公爵 of Kerak
+公爵 of Kerak
 
 | 1178 | 作为 Jerusalem 王国中 Salāh al-Dīn 最凶猛、最激烈的对手，Renaud 对穆斯林朝圣商队的攻击导致了 Jerusalem 的沦陷以及他本人被埃及苏丹处决。
-历史将 Renaud 记为一个贪婪的掠夺者——你能否为他确保一个更高尚的遗产？ 历史将 Renaud 记为一个贪婪的掠夺者——你能否为他确保一个更高尚的遗产？
+历史将 Renaud 记为一个贪婪的掠夺者——你能否为他确保一个更高尚的遗产？
 
 | For the Faith! | 7 | Dawit Gideon,
-Count of Dämbiya 伯爵 of Dämbiya
+伯爵 of Dämbiya
 
 | 867 | 尽管人数从未众多且经常身处险境，Beta Israel 人成功地抵御了来自更大更强邻国的同化。
-你能否克服重重困难，为 Beta Israel 人建立一个繁荣安全的家园？ 你能否克服重重困难，为 Beta Israel 人建立一个繁荣安全的家园？
+你能否克服重重困难，为 Beta Israel 人建立一个繁荣安全的家园？
 
 | Beta Israel | 8 | Rhodri "the Great" Aberffraw,
-Duke of Gwynedd 公爵 of Gwynedd
+公爵 of Gwynedd
 
 | 867 | 在维京入侵前夕继承了一个威尔士小王国的王位，Rhodri 的王冠虽沉重不安，但他出色地应对了命运给他的挑战。
-你能否安全地驾驭这个动荡时代的风浪，确保 Gwynedd 最终胜出？ 你能否安全地驾驭这个动荡时代的风浪，确保 Gwynedd 最终胜出？
+你能否安全地驾驭这个动荡时代的风浪，确保 Gwynedd 最终胜出？
 
 | Followed by Shadows | 9 | Krutoj Wizlawid,
-Duke of Veletia 公爵 of Veletia
+公爵 of Veletia
 
 | 1066 | 作为其人民传统信仰的虔诚追随者，Krutoj 领导了一场起义，杀害了信奉基督教的领主，夺取了王位，但他除掉领主之子的阴谋最终导致了自己的灭亡。
-你能否战胜对手，使你的统治合法化，尽管它的开端血腥？ 你能否战胜对手，使你的统治合法化，尽管它的开端血腥？
+你能否战胜对手，使你的统治合法化，尽管它的开端血腥？
 
 | Dreadful Ruler | 10 | Badr Jamalid,
-Sheikh(伯爵) of Acre Sheikh(伯爵) of Acre
+Sheikh(伯爵) of Acre
 
 | 1066 | Badr 是一名亚美尼亚裔的法蒂玛士兵，他一路升迁，成为哈里发国的最高军事独裁者，将哈里发本人贬为傀儡。
-Badr 和他的继承者们主导了埃及政治六十多年——你能否超越他们的功绩，彻底废除哈里发？ Badr 和他的继承者们主导了埃及政治六十多年——你能否超越他们的功绩，彻底废除哈里发？
+Badr 和他的继承者们主导了埃及政治六十多年——你能否超越他们的功绩，彻底废除哈里发？
 
 | Your Eternal Reward | 11 | Prithviraja Chauhan,
-Maharaja(国王) of Chauhan Maharaja(国王) of Chauhan
+Maharaja(国王) of Chauhan
 
 | 1178 | Prithviraja 英勇地抵抗了 Ghurid 的反复入侵，至少在一场大战中击败了入侵者，但最终作为 Ghurid 的俘虏走向了末路。
-你能否击退 Ghurid 的威胁，确保 Chauhan 家族的未来？ 你能否击退 Ghurid 的威胁，确保 Chauhan 家族的未来？
+你能否击退 Ghurid 的威胁，确保 Chauhan 家族的未来？
 
 | For the Faith! | 12 | Lambert of Guideschi,
-Duke of Spoleto 公爵 of Spoleto
+公爵 of Spoleto
 
 | 867 | 受邀参加教皇的祝圣仪式，Lambert 却臭名昭著地洗劫了这座城市，不分贵贱地掠夺了庄园和修道院，无人能逃脱他的贪婪。
-既不尊重人间法律也不敬畏上帝，在追逐野心的道路上，你将走多远？ 既不尊重人间法律也不敬畏上帝，在追逐野心的道路上，你将走多远？
+既不尊重人间法律也不敬畏上帝，在追逐野心的道路上，你将走多远？
 
 | Black Dinner | 13 | Sargis Zakarian,
-Prince of Zakarian Principality Prince of Zakarian Principality
+Prince of Zakarian Principality
 
 | 1178 | 作为格鲁吉亚国王的强大亚美尼亚封臣，Sargis 的忠诚有时可能令人怀疑，但他的影响力和权力之大使得他不容忽视。
-你能否独立行动，恢复你古代先祖的大亚美尼亚？ 你能否独立行动，恢复你古代先祖的大亚美尼亚？
+你能否独立行动，恢复你古代先祖的大亚美尼亚？
 
 | For the Faith! | 14 | Dyre 'the Stranger',
-Jarl of Könugarðr Jarl of Könugarðr
+Jarl of Könugarðr
 
 | 867 | 一位寻求在东方留下印记的北欧冒险家，Dyre 的大胆冒险以被 Oleg the Wise 篡位并杀害的耻辱结局收场。
-你能否将 Dyre 的悲伤故事改写为一部将回荡千古的传奇？ 你能否将 Dyre 的悲伤故事改写为一部将回荡千古的传奇？
+你能否将 Dyre 的悲伤故事改写为一部将回荡千古的传奇？
 
 | Moving up in the World | 15 | Eadgar Eadwardson Wessex,
-Earl(伯爵) of Warwickshire Earl(伯爵) of Warwickshire
+Earl(伯爵) of Warwickshire
 
 | 1066 | 生于流亡之中，Wessex 家族的最后血脉回到英格兰，却恰好目睹自己的继承权被 Harold Godwinson 第二次篡夺，然后被诺曼征服者彻底夺走。
-Wessex 家族的光芒微弱闪烁，但尚未熄灭。你能否恢复它的荣光？ Wessex 家族的光芒微弱闪烁，但尚未熄灭。你能否恢复它的荣光？
+Wessex 家族的光芒微弱闪烁，但尚未熄灭。你能否恢复它的荣光？
 
 | From Rags to Riches | 16 | Ahmad ibn Tulun,
-Sultan of Tulunid Sultan of Tulunid
+Sultan of Tulunid
 
 | 867 | Ahmad 出身卑微却成功统治了埃及，但他的继承人未能证明自己配得上他，他的领土在他死后仅二十一年便崩溃了。
-凭借埃及的财富和力量任你驱使，你能否让自己成为地中海的霸主？ 凭借埃及的财富和力量任你驱使，你能否让自己成为地中海的霸主？
+凭借埃及的财富和力量任你驱使，你能否让自己成为地中海的霸主？
 
 | Rich in Diversity
 Mulct Them Dry
-​ Mulct Them Dry
-​
 
 | 17 | Alusian Kometopoulos,
-Count of Vidin 伯爵 of Vidin
+伯爵 of Vidin
 
 | 1066 | 保加利亚末代皇帝的次子或许被拜占庭新主人给予了荣誉，但他并没有忽视任何复兴其父帝国的机会，尽管他最终还是回归了拜占庭阵营。
-你能否摆脱拜占庭的枷锁，重新夺回你的与生俱来的权利？ 你能否摆脱拜占庭的枷锁，重新夺回你的与生俱来的权利？
+你能否摆脱拜占庭的枷锁，重新夺回你的与生俱来的权利？
 
 | From Rags to Riches | 18 | Werner von Habsburg,
-Count of Aargau 伯爵 of Aargau
+伯爵 of Aargau
 
 | 1066 | 虽然 Habsburg 家族在 Werner 的时代尚未崭露头角，但精明的政治手腕将使他的后代在此后数百年间登上许多王座。
-你能否为 Habsburg 家族取得奥地利，并让全世界承认他们的霸权？ 你能否为 Habsburg 家族取得奥地利，并让全世界承认他们的霸权？
+你能否为 Habsburg 家族取得奥地利，并让全世界承认他们的霸权？
 
 | A.E.I.O.U. & Me
 Keeping it in the Family 
-What Nepotism? Keeping it in the Family
-
 What Nepotism?
 
+
 | 19 | Vicayâlaya Chola,
-Raja of Chola Raja of Chola
+Raja of Chola
 
 | 867 | 原本是 Pallava 王朝的封臣，Vicayalaya 看到了机会并独立出来，建立了一个最终将南印度统一在其旗帜下的帝国。
-你能否将 Chola 的野心推向其自然的终点，将整个印度纳入你的统治之下？ 你能否将 Chola 的野心推向其自然的终点，将整个印度纳入你的统治之下？
+你能否将 Chola 的野心推向其自然的终点，将整个印度纳入你的统治之下？
 
 | The Grandest Tour | 20 | Piarres Errodrigez Azagra,
-Count of Albarracin 伯爵 of Albarracin
+伯爵 of Albarracin
 
 | 1178 | 曾经是穆斯林君主的封臣，Piarres 将他的领地基督教化并宣布独立，除了圣母玛利亚本人之外不承认任何领主。
-既然你已宣称自己与国王和哈里发平起平坐，你能否兑现你的主张，建立一个可以匹敌任何前朝的新王国？ 既然你已宣称自己与国王和哈里发平起平坐，你能否兑现你的主张，建立一个可以匹敌任何前朝的新王国？
+既然你已宣称自己与国王和哈里发平起平坐，你能否兑现你的主张，建立一个可以匹敌任何前朝的新王国？
 
 | Reconquista
-Saint Saint
+Saint
 
 | 21 | John Courcy,
-Earl of Ulster Earl of Ulster
+Earl of Ulster
 
 | 1178 | 凭借手中的利剑和几个可靠的伙伴，John de Courcy 让自己成为了东部 Ulster 的主人，直到他因被怀疑野心过大而被英格兰国王击败并囚禁。
-你能否完成 John 未竟的事业，让 Courcy 的旗帜飘扬在整个爱尔兰上空？ 你能否完成 John 未竟的事业，让 Courcy 的旗帜飘扬在整个爱尔兰上空？
+你能否完成 John 未竟的事业，让 Courcy 的旗帜飘扬在整个爱尔兰上空？
 
 | A Name Known Throughout the World
-Changing Course Changing Course
+Changing Course
 
 | 22 | Ishaq Ishaqid,
-Sheikh(伯爵) of Baalbek Sheikh(伯爵) of Baalbek
+Sheikh(伯爵) of Baalbek
 
 | 1066 | 尽管人数稀少且遭受那些视其信仰为异端之人的迫害，Druze 人通过在黎凡特崎岖的山地中寻求庇护，历经数个世纪仍然存续至今。
-你能否带领 Druze 人走出群山，为他们找到一个安宁的家园？ 你能否带领 Druze 人走出群山，为他们找到一个安宁的家园？
+你能否带领 Druze 人走出群山，为他们找到一个安宁的家园？
 
 | Moving up in the World | 23 | Heinrich 'the Lion' Welf,
-Duke of Angria 公爵 of Angria
+公爵 of Angria
 
 | 1178 | 作为神圣罗马皇帝的死对头，Heinrich 是当时帝国中最强大的贵族，但与皇帝的敌对最终成为了他的覆灭之因。
-你能否在历史上的 Heinrich 失败之处获胜，战胜你的 Hohenstaufen 宿敌？ 你能否在历史上的 Heinrich 失败之处获胜，战胜你的 Hohenstaufen 宿敌？
+你能否在历史上的 Heinrich 失败之处获胜，战胜你的 Hohenstaufen 宿敌？
 
 | Imperial March | 24 | Dumnarth ab Ferverdyn Cerneu,
-Petty King of Cornwall Petty King of Cornwall
+Petty King of Cornwall
 
 | 867 | Dumnarth 有一个令人尴尬的"荣誉"——他主要被后人铭记为最后一位康沃尔国王，并且因在河中意外溺水而终。
-在你的统治下，Cornwall 能否同时迎战盎格鲁-撒克逊人和北欧人并获得胜利？ 在你的统治下，Cornwall 能否同时迎战盎格鲁-撒克逊人和北欧人并获得胜利？
+在你的统治下，Cornwall 能否同时迎战盎格鲁-撒克逊人和北欧人并获得胜利？
 
 | Stressful Situation | 25 | Khusraw Malik Khusraw Shahzade Ghaznavid,
-Amir-e Amiran (国王) of the Punjab Amirate Amir-e Amiran (国王) of the Punjab Amirate
+Amir-e Amiran (国王) of the Punjab Amirate
 
 | 1178 | 四面受敌的 Khusraw Malik 勇敢地为保存祖先的王国而战，但他的血脉很快便在 Ghurid 刽子手手中终结。
-你能否杀出一条血路重回强盛之位，重现 Mahmud of Ghazni 的征服伟业？ 你能否杀出一条血路重回强盛之位，重现 Mahmud of Ghazni 的征服伟业？
+你能否杀出一条血路重回强盛之位，重现 Mahmud of Ghazni 的征服伟业？
 
 | Mulct Them Dry
 Fiscal Responsibility
-For the Faith! Fiscal Responsibility
-
 For the Faith!
 
+
 | 26 | Herbert Karling,
-Count of Vermandois 伯爵 of Vermandois
+伯爵 of Vermandois
 
 | 1066 | 虽然查理曼的血脉不再是国王，但他们的血统在 Vermandois 的 Herbert 身上延续，尽管下一代人将看到他的领地流出家族之手。
-你能否扭转时局，为 Karling 家族策划一场不择手段的复权之路？ 你能否扭转时局，为 Karling 家族策划一场不择手段的复权之路？
+你能否扭转时局，为 Karling 家族策划一场不择手段的复权之路？
 
 | Carolingian Consolidation | 27 | Aba Diskarha,
-Emir (公爵) of Socotra Emir (公爵) of Socotra
+Emir (公爵) of Socotra
 
 | 1178 | Socotra 的与世隔绝使它在数个世纪中保持为聂斯托利派的一片净土，其居民在自己多岩的海岸之外鲜受欢迎。
-你能否带领你的人民走出他们那岌岌可危的栖息之地，在地平线之外取得不朽的声名？ 你能否带领你的人民走出他们那岌岌可危的栖息之地，在地平线之外取得不朽的声名？
+你能否带领你的人民走出他们那岌岌可危的栖息之地，在地平线之外取得不朽的声名？
 
 | Saint
-For the Faith! For the Faith!
+For the Faith!
 
 | 28 | Werner Salian,
-Count of Worms 伯爵 of Worms
+伯爵 of Worms
 
 | 867 | 虽然 Salian 之名在 Werner 的时代尚不为人知，但他的后代中将诞生四位神圣罗马皇帝甚至一位教皇。
-你能否为自己夺取查理曼的遗产，重铸他那已经破碎的帝国？ 你能否为自己夺取查理曼的遗产，重铸他那已经破碎的帝国？
+你能否为自己夺取查理曼的遗产，重铸他那已经破碎的帝国？
 
 | From Rags to Riches
-Saint Saint
+Saint
 
 | 29 | Alfonsu III Ordoñez Cantabria,
-King of Asturias 国王 of Asturias
+国王 of Asturias
 
 | 867 | 在生命将尽之时，Alfonsu 成为了儿子们野心的牺牲品，被剥夺了王冠，被迫将领土分给了其中三人。
-你能否避免 Alfonsu 的命运，确保伊比利亚的基督徒在 Umayyad 威胁面前保持团结一致？ 你能否避免 Alfonsu 的命运，确保伊比利亚的基督徒在 Umayyad 威胁面前保持团结一致？
+你能否避免 Alfonsu 的命运，确保伊比利亚的基督徒在 Umayyad 威胁面前保持团结一致？
 
 | Iberian Hostilities
-Reconquista Reconquista
+Reconquista
 
 | 30 | Amoghavarsha Rashtrakuta,
-Maharaja (国王) of Karnata Maharaja (国王) of Karnata
+Maharaja (国王) of Karnata
 
 | 867 | 年仅十四岁便登上王位，Amoghavarsha 拥有历史上最长的在位纪录之一，并因其仁慈以及在文学和文化方面的成就而享有盛名。
-你能否确保 Amoghavarsha 的成就被后世铭记？ 你能否确保 Amoghavarsha 的成就被后世铭记？
+你能否确保 Amoghavarsha 的成就被后世铭记？
 
 | Saint | 31 | Haraldr "Tanglehair" Halfdansson Yngling,
-Chieftain of Vestfold Chieftain of Vestfold
+Chieftain of Vestfold
 
 | 867 | 作为传奇故事中的英雄，Haraldr 被铭记为将挪威争斗不休的酋长们统一在同一面旗帜下的伟大国王。
-你能否结束纷争，将挪威统一在你的统治之下？ 你能否结束纷争，将挪威统一在你的统治之下？
+你能否结束纷争，将挪威统一在你的统治之下？
 
 | Canute the Greater
 King of All the Isles
-Far From Home King of All the Isles
-
 Far From Home
 
+
 | 32 | Muhammad II ibn Ahmad,
-Sultan of Africa Sultan of Africa
+Sultan of Africa
 
 | 867 | 尽管他短暂的统治主要因挥霍无度和奢侈放纵而被后人铭记，Muhammad 的将领们却极为成功，甚至迫使教皇本人向这位放荡的君主纳贡。
-品尝了意大利的富庶之后，你是否会将其全部吞噬以满足你的欲望？ 品尝了意大利的富庶之后，你是否会将其全部吞噬以满足你的欲望？
+品尝了意大利的富庶之后，你是否会将其全部吞噬以满足你的欲望？
 
 | Crème de la Crème | 33 | Gregorios III Spartenos,
-Count of Napoli 伯爵 of Napoli
+伯爵 of Napoli
 
 | 867 | 随着拜占庭在意大利的影响力逐渐衰退，那不勒斯的统治者们转而向穆斯林世界寻求盟友以应对伦巴第人的蚕食，这令教皇大为不满。
-你能否利用拜占庭留下的权力真空，建立一个属于自己的帝国？ 你能否利用拜占庭留下的权力真空，建立一个属于自己的帝国？
+你能否利用拜占庭留下的权力真空，建立一个属于自己的帝国？
 
 | Rise from the Ashes | 34 | Ashot Bagratuni,
-Prince of the Armenian Principalities Prince of the Armenian Principalities
+Prince of the Armenian Principalities
 
 | 867 | 尽管他的统治为人民带来了繁荣，Ashot 的王位和王国都仰赖哈里发的恩典，直到去世他都始终是附庸。
-你能否摆脱外国宗主的束缚，证明自己是一位真正的君主？ 你能否摆脱外国宗主的束缚，证明自己是一位真正的君主？
+你能否摆脱外国宗主的束缚，证明自己是一位真正的君主？
 
 | The True Royal Court | 35 | Gudrød Haraldrsson Crovan,
-Petty King of the Suðreyjar Petty King of the Suðreyjar
+Petty King of the Suðreyjar
 
 | 1066 | 一位出身雇佣兵的大胆赫布里底群岛军阀，Gudrød 将势力范围扩展到 Dublin、Mann 和爱尔兰海，使自己成为这些地区的主人，但他后代之间的内讧严重削弱了他的成就。
-你能否在这些美丽的岛屿上建立一个更加持久的统治？ 你能否在这些美丽的岛屿上建立一个更加持久的统治？
+你能否在这些美丽的岛屿上建立一个更加持久的统治？
 
 | Bad Blood | 36 | Ali ibn Muhammad al-Sulayhi,
-Emir (公爵) of Tai'zz Emir (公爵) of Tai'zz
+Emir (公爵) of Tai'zz
 
 | 1066 | 一位法官之子，Ali 带着一支不大的追随者队伍出发，赢得了一个王国，但他更因其妻子 Asma 的智慧而受到赞誉——他将领地的管理托付给了她。
-有如此能干的伴侣在你身旁，一切似乎皆有可能。你们一同将整个阿拉伯纳入囊中！ 有如此能干的伴侣在你身旁，一切似乎皆有可能。你们一同将整个阿拉伯纳入囊中！
+有如此能干的伴侣在你身旁，一切似乎皆有可能。你们一同将整个阿拉伯纳入囊中！
 
 | Moving up in the World | 37 | Siemowit Piast,
-High Chieftain of Polania High Chieftain of Polania
+High Chieftain of Polania
 
 | 867 | 传奇人物 Piast the Wheelwright 之子，Siemowit 和他的父亲开创了一个将统治波兰直到十四世纪末的王朝。
-你能否安全地引领波兰穿越数个世纪的风云变幻，使她成为东西方都羡慕的强国？ 你能否安全地引领波兰穿越数个世纪的风云变幻，使她成为东西方都羡慕的强国？
+你能否安全地引领波兰穿越数个世纪的风云变幻，使她成为东西方都羡慕的强国？
 
 | End of an Era | 38 | Pierre de Savoie,
-Duke of Piedmonte 公爵 of Piedmonte
+公爵 of Piedmonte
 
 | 1066 | Savoie 家族的大部分领土要归功于 Pierre 母亲 Adelaide of Turin 的遗产，她在儿子的宫廷中拥有至高无上的影响力，这几乎可以肯定是有益的。
-你能否走出你那赫赫有名的母亲的阴影，证明自己是一位配得上的统治者？ 你能否走出你那赫赫有名的母亲的阴影，证明自己是一位配得上的统治者？
+你能否走出你那赫赫有名的母亲的阴影，证明自己是一位配得上的统治者？
 
 | End of an Era
-For the Faith! For the Faith!
+For the Faith!
 
 | 39 | Rogier Trencavel,
-Count of Albi 伯爵 of Albi
+伯爵 of Albi
 
 | 1178 | 虽然 Trencavel 家族未必公开接受卡特里派的教义，但他们因对蔓延到其领地中的卡特里派异端持有争议性的宽容和同情态度而闻名。
-你能否保护卡特里派免受迫害，确保他们的信仰蓬勃发展？ 你能否保护卡特里派免受迫害，确保他们的信仰蓬勃发展？
+你能否保护卡特里派免受迫害，确保他们的信仰蓬勃发展？
 
 | Saint
-For the Faith! For the Faith!
+For the Faith!
 
 | 40 | Algimantas Palemonaitis,
-High Chieftain of Lithuania High Chieftain of Lithuania
+High Chieftain of Lithuania
 
 | 1178 | Algimantas 和他的继承人能够比欧洲任何其他民族都更长久地维持一个异教公国，成功抵抗基督教的皈依直到十四世纪末。
-既然基督徒们如此热衷于让你的人民改宗，你能否反过来让他们看清 Vidilism 的真理？ 既然基督徒们如此热衷于让你的人民改宗，你能否反过来让他们看清 Vidilism 的真理？
+既然基督徒们如此热衷于让你的人民改宗，你能否反过来让他们看清 Vidilism 的真理？
 
 | A Name Known Throughout the World! | 41 | Henri de Blois,
-Duke of Champagne 公爵 of Champagne
+公爵 of Champagne
 
 | 1178 | 接受过文科教育的 Henri 以其开明的统治为人民带来了巨大的富裕，著名的 Champagne 贸易博览会吸引了来自整个欧洲的商人和他们珍贵的货物。
-你能否让 Champagne 成为和平与繁荣的代名词？ 你能否让 Champagne 成为和平与繁荣的代名词？
+你能否让 Champagne 成为和平与繁荣的代名词？
 
 | Inspirational | 42 | Rostislav Rurikid,
-Count of Tmutarakan 伯爵 of Tmutarakan
+伯爵 of Tmutarakan
 
 | 1066 | 因父亲过早离世而被剥夺了世袭领地，Rostislav 征服了遥远的 Tmutarakan 半岛并以此为据点，但在他实现野心之前便被毒死。
-你能否克服族人的敌意，获得一个配得上你血统的公国？ 你能否克服族人的敌意，获得一个配得上你血统的公国？
+你能否克服族人的敌意，获得一个配得上你血统的公国？
 
 | From Rags to Riches | 43 | Raoul III Vexin-Amiens,
-Count of Valois 伯爵 of Valois
+伯爵 of Valois
 
 | 1066 | 虽然早年曾是 Capet 家族的对手，Raoul 后来改旗易帜，成为法国王室的忠诚仆人，最终迎娶了他曾经对抗的那位国王的遗孀。
-既然你年轻领主的母亲已是你的妻子，你能否将你的影响力化为更伟大的成就？ 既然你年轻领主的母亲已是你的妻子，你能否将你的影响力化为更伟大的成就？
+既然你年轻领主的母亲已是你的妻子，你能否将你的影响力化为更伟大的成就？
 
 | From Rags to Riches | 44 | Ali II "Benavert" Abbadid,
-Sheikh of Siracusa Sheikh of Siracusa
+Sheikh of Siracusa
 
 | 1066 | 作为抵抗诺曼入侵西西里的最后据点之一，Ali 在试图跳上敌船时跌入大海溺水身亡。
-诺曼人已经来了，但他们还没有完全征服——你能否扭转他们的战果，为自己夺取西西里？ 诺曼人已经来了，但他们还没有完全征服——你能否扭转他们的战果，为自己夺取西西里？
+诺曼人已经来了，但他们还没有完全征服——你能否扭转他们的战果，为自己夺取西西里？
 
 | For the Faith! | 45 | Jahan Pahlavan Mohammed IV Ildeguzid,
-Atabeg (公爵) of Azerbaijan Atabeg (公爵) of Azerbaijan
+Atabeg (公爵) of Azerbaijan
 
 | 1178 | 作为最后几位塞尔柱苏丹的权臣，Mohammed 实质上统治着帝国的一切，虽有国名而无实权在苏丹手中，但他的后代未能抵挡住 Khwarazmshah 的进攻。
-你把苏丹本人握在手中——善加利用，整个波斯都将臣服于你的意志！ 你把苏丹本人握在手中——善加利用，整个波斯都将臣服于你的意志！
+你把苏丹本人握在手中——善加利用，整个波斯都将臣服于你的意志！
 
 | Your Eternal Reward | 46 | Richard Drengot
-Duke of Capua 公爵 of Capua
+公爵 of Capua
 
 | 1066 | 虽然 Hauteville 家族可能夺取了对西西里的霸权，但 Drengot 家族无可否认地更早到达，是最早踏上这片半岛的诺曼自由掠夺者之一。
-你能否让后来居上的 Hauteville 家族知道他们的位置，证明 Drengot 的优越地位？ 你能否让后来居上的 Hauteville 家族知道他们的位置，证明 Drengot 的优越地位？
+你能否让后来居上的 Hauteville 家族知道他们的位置，证明 Drengot 的优越地位？
 
 | Not So Feudal System | 47 | Ramon Berenguer,
-Duke of Barcelona 公爵 of Barcelona
+公爵 of Barcelona
 
 | 1066 | 为追求正义，Berenguer 组织编纂了其领地的习惯法——《Barcelona 惯例集》，这为此后数个世纪的加泰罗尼亚法律奠定了基础。
-Berenguer 的后代将逐渐控制地中海的大片地区。你能否在他的成就之上更进一步，做到同样的事？ Berenguer 的后代将逐渐控制地中海的大片地区。你能否在他的成就之上更进一步，做到同样的事？
+Berenguer 的后代将逐渐控制地中海的大片地区。你能否在他的成就之上更进一步，做到同样的事？
 
 | Iberia or Iberia? | 48 | Anawrahta Pagan,
-King of Pagan 国王 of Pagan
+国王 of Pagan
 
 | 1066 | Pagan 的缔造者，Anawrahta 治国审慎，并无情地镇压了对新领土的一切威胁，他对上座部佛教的赞助极大地推动了该信仰的传播。
-Anawrahta 的继承者们与其先祖同样能干，但蒙古人对 Pagan 来说是过于强大的敌人——你能否更好地抵御即将来临的风暴？ Anawrahta 的继承者们与其先祖同样能干，但蒙古人对 Pagan 来说是过于强大的敌人——你能否更好地抵御即将来临的风暴？
+Anawrahta 的继承者们与其先祖同样能干，但蒙古人对 Pagan 来说是过于强大的敌人——你能否更好地抵御即将来临的风暴？
 
 | Beacon of Progress
-Trapped in the Web Trapped in the Web
+Trapped in the Web
 
 | 49 | Shisnand Davides,
-Count of Kulumriyya 伯爵 of Kulumriyya
+伯爵 of Kulumriyya
 
 | 1066 | 一位从 Abbadid 转投 Leon 效力的莫扎拉布贵族，Shisnand 几乎自治地统治了 Coimbra 二十多年，死后由其女婿继承。
-曾侍奉过穆斯林和基督徒两位领主，你能否在不同信仰之间架起桥梁，为伊比利亚带来和平？ 曾侍奉过穆斯林和基督徒两位领主，你能否在不同信仰之间架起桥梁，为伊比利亚带来和平？
+曾侍奉过穆斯林和基督徒两位领主，你能否在不同信仰之间架起桥梁，为伊比利亚带来和平？
 
 | Friendship Is Magic
 The Andalusian Inquisition
-Iberian Conciliation The Andalusian Inquisition
-
 Iberian Conciliation
 
+
 | 50 | Erik III 'the Heathen' Munsö,
-Duke of Uppland 公爵 of Uppland
+公爵 of Uppland
 
 | 1066 | 一位放弃了基督教、回归本源的异教统治者，Erik 是在日益基督教化的斯堪的纳维亚中一个行将消逝的群体的最后成员之一。
-你能否向所有人证明，古老的信仰比这些外来的小教士和他们的新神更加优越？ 你能否向所有人证明，古老的信仰比这些外来的小教士和他们的新神更加优越？
+你能否向所有人证明，古老的信仰比这些外来的小教士和他们的新神更加优越？
 
 | Völva
 Saga in Stone
-Vladimir's Second Choice Saga in Stone
-
 Vladimir's Second Choice
 
+
 | 51 | Nur al-Dīn Muhammed II Nizari,
-Imam (公爵) of Nizari Imam (公爵) of Nizari
+Imam (公爵) of Nizari
 
 | 1178 | 从波斯群山中的坚固要塞出发，Muhammed 作为 Nizari 的世袭伊玛目享有了漫长的统治，他因 Nizar 的血脉而被信众认为是其信仰唯一合法的守护者。
-你能否传播你的教义，使你的信仰获得广泛的认可？ 你能否传播你的教义，使你的信仰获得广泛的认可？
+你能否传播你的教义，使你的信仰获得广泛的认可？
 
 | Saint
 Royal Flush
-Darius' Revenge Royal Flush
-
 Darius' Revenge
 
+
 | 52 | Ælla Oswulfson,
-Petty King of Northumbria Petty King of Northumbria
+Petty King of Northumbria
 
 | 867 | 他的领地被外来入侵者围攻，Ælla 在他们手中的死亡标志着有意义的抵抗的终结，他的继任者不过是北欧人的傀儡。
-你能否扭转潮流，拯救 Northumbria 免受维京人的蹂躏？ 你能否扭转潮流，拯救 Northumbria 免受维京人的蹂躏？
+你能否扭转潮流，拯救 Northumbria 免受维京人的蹂躏？
 
-| A Legacy to Last the Ages | 角色 | 角色 • 属性 • 特质 • 资源 • 修正 • 生活方式 • 家庭 • 家族 • 计谋 • 弱点 • 活动 • 宝物 • 互动 • 旅行 • 冒险者 • 囚犯 | 领地与治理 | 御前会议 • 宫廷 • 权力分享 • 臣民 • 继承 • 政体 • 法律 • 决议 • 头衔 • 男爵领 • 伯爵领 • 建筑 • 御前廷 • 居所 • 大型工程 | 战争 | 战争 • 宣战理由 • 联盟 • 军队 • 雇佣军 • 骑士 • 决斗 • 局势 | 文化与信仰 | 文化 • 传统 • 革新 • 称谓 • 信仰 • 教义 • 教条 • 圣地 | 综合 | 模组制作 • 补丁 • 可下载内容 • 开发者日志 • 成就 • 术语 • 书签 • 有趣角色 • 统治者设计器 • 游戏规则 - Timeless
-- Lists
-- Character
+| A Legacy to Last the Ages |

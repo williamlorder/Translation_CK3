@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/williamlorder/Translation_CK3#readme",
   "dependencies": {
+    "epub-gen-memory": "^1.1.2",
+    "marked": "^18.0.14",
     "playwright": "^1.63.0"
   }
 }
