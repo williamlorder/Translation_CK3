@@ -101,7 +101,7 @@ async function buildEpub() {
 
     chapters.push({
       title: ch.title,
-      data: html,
+      content: html,
     });
 
     console.log(`  Added: ${ch.title} (${ch.file})`);

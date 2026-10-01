@@ -9,56 +9,91 @@ Translation_CK3/
 ├── source/en/          # 英文原文（从wiki抓取）
 ├── translated/zh/      # 中文翻译
 ├── scripts/            # 抓取和辅助脚本
+├── CK3_Wiki_Chinese.epub  # EPUB 电子书
 └── README.md
 ```
 
-## 已翻译页面
+## EPUB 电子书
+
+项目包含一本完整的 EPUB 电子书 `CK3_Wiki_Chinese.epub`，涵盖所有已翻译页面，可在任何电子书阅读器中打开。
+
+生成命令：
+```bash
+npm install
+node scripts/build_epub.js
+```
+
+## 已翻译页面（54页）
 
 ### 核心机制
 - [十字军之王III 总览](translated/zh/Crusader_Kings_III.md)
 - [资源（金币/威望/虔诚/声望）](translated/zh/Resources.md)
 - [角色](translated/zh/Characters.md)
+- [属性](translated/zh/Attributes.md)
+- [特质](translated/zh/Traits.md)
 - [头衔](translated/zh/Titles.md)
 - [法律](translated/zh/Laws.md)
 - [决策](translated/zh/Decisions.md)
+- [修正](translated/zh/Modifiers.md)
+- [机制](translated/zh/Mechanics.md)
 
 ### 家族与生活
 - [家族](translated/zh/Dynasty.md)
 - [生活方式](translated/zh/Lifestyle.md)
+- [阴谋](translated/zh/Schemes.md)
+- [把柄](translated/zh/Hooks.md)
+- [活动](translated/zh/Activity.md)
+- [冒险者](translated/zh/Adventurer.md)
+- [囚犯](translated/zh/Prisoners.md)
 
 ### 战争与军事
 - [军队](translated/zh/Army.md)
 - [宣战理由](translated/zh/Casus_belli.md)
-- [决斗](translated/zh/Duel.md)
+- [战争](translated/zh/Warfare.md)
+- [联盟](translated/zh/Alliance.md)
+- [雇佣军](translated/zh/Hired_forces.md)
 - [骑士](translated/zh/Knight.md)
+- [决斗](translated/zh/Duel.md)
+- [局势](translated/zh/Situation.md)
 
 ### 领地与建设
 - [建筑](translated/zh/Building.md)
 - [男爵领](translated/zh/Barony.md)
-- [旅行](translated/zh/Travel.md)
+- [伯爵领](translated/zh/County.md)
+- [居所](translated/zh/Domicile.md)
 - [伟大工程](translated/zh/Great_projects.md)
+- [旅行](translated/zh/Travel.md)
+
+### 御前会议与宫廷
+- [御前会议](translated/zh/Council.md)
+- [宫廷](translated/zh/Court.md)
+- [御前宫廷](translated/zh/Royal_court.md)
+- [政体](translated/zh/Government.md)
+- [权力分享](translated/zh/Power_sharing.md)
+- [臣属](translated/zh/Subjects.md)
 
 ### 宗教与文化
 - [宗教](translated/zh/Religion.md)
-- [圣地](translated/zh/Holy_sites.md)
+- [教义](translated/zh/Doctrines.md)
 - [教条](translated/zh/Tenets.md)
+- [圣地](translated/zh/Holy_sites.md)
+- [文化](translated/zh/Culture.md)
 - [传统](translated/zh/Traditions.md)
+- [革新](translated/zh/Innovation.md)
 
-### 御前会议与社交
-- [御前会议](translated/zh/Council.md)
-- [术语与缩写](translated/zh/Jargon.md)
-
-### 数据与修正
+### 数据与收藏
 - [宝物](translated/zh/Artifacts.md)
-- [修正](translated/zh/Modifiers.md)
-
-### 角色与开局
 - [有趣的角色](translated/zh/Interesting_characters.md)
+- [成就](translated/zh/Achievements.md)
 
 ### DLC与其他
 - [DLC 可下载内容](translated/zh/Downloadable_content.md)
 - [控制台命令](translated/zh/Console_commands.md)
 - [修改（Modding）](translated/zh/Modding.md)
+- [术语与缩写](translated/zh/Jargon.md)
+- [新手指南](translated/zh/Beginners_guide.md)
+- [游戏规则](translated/zh/Game_rules.md)
+- [补丁](translated/zh/Patches.md)
 
 ## 术语对照表
 
