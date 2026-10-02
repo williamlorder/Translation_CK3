@@ -8,31 +8,7 @@ This article is timeless and should be accurate for any version of the game.
 Crusader Kings III is a grand strategy game-RPG hybrid, developed by  Paradox Development Studio and was published by Paradox Interactive on 1st September 2020. It is the sequel to Crusader Kings II which was released in 2012 and received content expansions until November 2018 and then went free-to-play (for the base game).
 
 ## Game features
-
-History
-
-- Choose a royal or noble house from a number of realms on a map that stretches from Iceland to India, from the Arctic Circle to Central Africa.
-- Guide a dynasty through the centuries, ensuring the security and power of each new generation. Gather new lands and titles to cement your legacy.
-- Be a pious king to bring the religious powers to your side, or strike out on your own, designing your own splinter religion and earning everlasting fame or eternal damnation.
-- Knights, peasant revolts, pilgrimages, Viking raiders...experience the drama and pageantry of the Middle Ages.
-Character
-
-- Adopt one of five different lifestyles, perfecting your skills in military strategy or kingdom management.
-- Acquire character traits that will guide your actions, but beware if you act against your nature! The stress from denying your truest self could bring a new host of troubles!
-- Choose appropriate guardians for your heirs, or train them yourself. But what do you do if the legal heir is not quite up to the job?
-- Violent characters may develop a fearsome reputation, cowering your timid subjects into obedience with the dread you inspire.
-Warfare
-
-- Recruit man-at-arms units and powerful knights to supplement your royal levies.
-- Research new technologies to increase the wealth and military might of your realm.
-- Hire mercenaries and Holy Orders for your major wars.
-- Supplement your income with ransomed prisoners or raiding parties on neighboring realms.
-Intrigue
-
-- Use your spymaster to discover plots against your dynasty and your rule.
-- Recruit agents to assist your schemes to undermine or murder anyone who stands between you and power.
-- Seduce other characters for love or political power.
-- Gather information for blackmailing purposes or call in favors whenever your plans need an extra bit of influence.
+> This part contained verbatim official text (store copy or in-game narrative), which is not covered by the wiki's CC BY-SA licence, and has been omitted. See the original page: https://ck3.paradoxwikis.com/Crusader_Kings_III#Game_features
 
 ## Videos
 

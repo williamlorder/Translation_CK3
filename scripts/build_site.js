@@ -1,6 +1,7 @@
 // Builds the static Chinese wiki into docs/ from source/html + translation memory.
 const fs = require('fs');
 const path = require('path');
+const DomUtils = require('domutils');
 const { loadFragment, preprocess, collectRuns, encodeRun, decode, keyOf, escapeText, checkTranslation } = require('./lib/segments');
 
 const ROOT = path.join(__dirname, '..');
@@ -100,6 +101,46 @@ function replaceImages($) {
   });
 }
 
+const NAMED = {
+  white: '#ffffff', black: '#000000', silver: '#c0c0c0', gray: '#808080', grey: '#808080', lightgray: '#d3d3d3', lightgrey: '#d3d3d3',
+  gainsboro: '#dcdcdc', whitesmoke: '#f5f5f5', ivory: '#fffff0', beige: '#f5f5dc', linen: '#faf0e6', lightyellow: '#ffffe0',
+  lightgreen: '#90ee90', lightblue: '#add8e6', lightpink: '#ffb6c1', pink: '#ffc0cb', yellow: '#ffff00', gold: '#ffd700',
+  orange: '#ffa500', lavender: '#e6e6fa', aliceblue: '#f0f8ff', honeydew: '#f0fff0', azure: '#f0ffff', cornsilk: '#fff8dc',
+  wheat: '#f5deb3', khaki: '#f0e68c', palegreen: '#98fb98', lightcyan: '#e0ffff', mistyrose: '#ffe4e1', lemonchiffon: '#fffacd',
+  antiquewhite: '#faebd7', bisque: '#ffe4c4', thistle: '#d8bfd8', powderblue: '#b0e0e6', darkgray: '#a9a9a9', darkgrey: '#a9a9a9',
+  navy: '#000080', maroon: '#800000', darkred: '#8b0000', darkgreen: '#006400', darkblue: '#00008b', green: '#008000',
+  blue: '#0000ff', red: '#ff0000', purple: '#800080', brown: '#a52a2a', dimgray: '#696969', dimgrey: '#696969',
+};
+function parseColor(v) {
+  const s = v.trim().toLowerCase();
+  let m;
+  if ((m = s.match(/^#([0-9a-f]{3})$/))) return m[1].split('').map((h) => parseInt(h + h, 16));
+  if ((m = s.match(/^#([0-9a-f]{6})$/))) return [0, 2, 4].map((i) => parseInt(m[1].slice(i, i + 2), 16));
+  if ((m = s.match(/^rgba?\(\s*(\d+)\s*,\s*(\d+)\s*,\s*(\d+)/))) return [m[1], m[2], m[3]].map(Number);
+  return NAMED[s] ? parseColor(NAMED[s]) : null;
+}
+const luma = ([r, g, b]) => (0.2126 * r + 0.7152 * g + 0.0722 * b) / 255;
+const mix = (a, b, t) => '#' + a.map((x, i) => Math.round(x * t + b[i] * (1 - t)).toString(16).padStart(2, '0')).join('');
+const COLOR = '(#[0-9a-fA-F]{3,6}\\b|rgba?\\([^)]*\\)|[a-zA-Z]+)';
+
+// Gives inline light backgrounds, dark text colours and light borders a dark-theme variant.
+function themeStyles($) {
+  $('.mw-parser-output [style]').each((_, el) => {
+    const style = el.attribs.style;
+    const extra = [];
+    const bg = style.match(new RegExp('background(?:-color)?\\s*:\\s*' + COLOR, 'i'));
+    const bgc = bg && parseColor(bg[1]);
+    if (bgc && luma(bgc) > 0.55) extra.push(`--dbg:${mix(bgc, [29, 25, 21], 0.2)}`);
+    const fg = style.match(new RegExp('(?:^|;)\\s*color\\s*:\\s*' + COLOR, 'i'));
+    const fgc = fg && parseColor(fg[1]);
+    if (fgc && luma(fgc) < 0.45) extra.push(`--dfg:${mix(fgc, [233, 225, 211], 0.2)}`);
+    const bd = style.match(/border[a-z-]*\s*:[^;]*?(#[0-9a-fA-F]{3,6}\b)/i);
+    const bdc = bd && parseColor(bd[1]);
+    if (bdc && luma(bdc) > 0.55) extra.push(`--dbd:${mix(bdc, [58, 49, 41], 0.15)}`);
+    if (extra.length) el.attribs.style = style.replace(/;?\s*$/, ';') + extra.join(';');
+  });
+}
+
 function rebuildToc($) {
   const ids = new Map();
   $('[id]').each((_, e) => { if (!ids.has(e.attribs.id)) ids.set(e.attribs.id, e); });
@@ -125,8 +166,9 @@ function translateBody(c) {
     const tr = tm[key];
     if (tr == null || checkTranslation(src, tr)) continue;
     done++;
-    $(run[0]).before(lead + decode(tr, map) + trail);
-    for (const n of run) $(n).remove();
+    // cheerio's .before() ignores text nodes, so insert at the DOM level.
+    for (const node of $.parseHTML(lead + decode(tr, map) + trail) || []) DomUtils.prepend(run[0], node);
+    for (const n of run) DomUtils.removeElement(n);
   }
   rebuildToc($);
   $('table.wikitable, table.mildtable').each((_, t) => {
@@ -156,9 +198,10 @@ function sidebar(prefix, current) {
 
 function shell({ prefix, title, current, body, description }) {
   return `<!DOCTYPE html>
-<html lang="zh-CN" data-root="${prefix}">
+<html lang="zh-CN" data-root="${prefix}" data-theme="dark">
 <head>
 <meta charset="utf-8">
+<script>try{var t=localStorage.getItem('ck3zh-theme');if(t==='light'||t==='dark')document.documentElement.setAttribute('data-theme',t)}catch(e){}</script>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>${escHtml(title)}</title>
 <meta name="description" content="${escAttr(description || '《十字军之王III》社区维基的非官方简体中文翻译')}">
@@ -171,6 +214,7 @@ function shell({ prefix, title, current, body, description }) {
 <button class="menu-toggle" aria-label="菜单">☰</button>
 <a class="brand" href="${prefix}index.html">十字军之王III <span class="full">中文维基</span><span class="badge">非官方翻译</span></a>
 <div class="search"><input id="search" type="search" placeholder="搜索页面（中文或英文）" autocomplete="off" aria-label="搜索"><div id="search-results"></div></div>
+<button class="theme-toggle" type="button" aria-label="切换浅色/深色模式"><span class="tt-icon">◐</span> <span class="tt-label">浅色模式</span></button>
 </header>
 <div class="layout">
 <nav class="sidebar" aria-label="导航">${sidebar(prefix, current)}</nav>
@@ -199,6 +243,7 @@ function buildPage(c) {
   const { $, total, done } = translateBody(c);
   rewriteLinks($, prefix);
   replaceImages($);
+  themeStyles($);
   const en = info.displayTitle || c.replace(/_/g, ' ');
   const zh = zhTitle(c);
   const orig = `${BASE}/${encodeURI(c)}`;

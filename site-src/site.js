@@ -4,6 +4,22 @@
   var menu = document.querySelector('.menu-toggle');
   if (menu) menu.addEventListener('click', function () { document.body.classList.toggle('menu-open'); });
 
+  var themeBtn = document.querySelector('.theme-toggle');
+  function themeLabel() {
+    var dark = document.documentElement.getAttribute('data-theme') !== 'light';
+    var label = themeBtn && themeBtn.querySelector('.tt-label');
+    if (label) label.textContent = dark ? '浅色模式' : '深色模式';
+  }
+  if (themeBtn) {
+    themeLabel();
+    themeBtn.addEventListener('click', function () {
+      var next = document.documentElement.getAttribute('data-theme') === 'light' ? 'dark' : 'light';
+      document.documentElement.setAttribute('data-theme', next);
+      try { localStorage.setItem('ck3zh-theme', next); } catch (e) { /* storage unavailable */ }
+      themeLabel();
+    });
+  }
+
   // Title search over the page index
   var input = document.getElementById('search');
   var box = document.getElementById('search-results');

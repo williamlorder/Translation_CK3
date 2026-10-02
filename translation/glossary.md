@@ -52,3 +52,17 @@
 ## 保持原样、不翻译
 - 控制台命令、脚本代码、文件路径、模组字段名（如 `has_trait`）、版本号、数值、URL
 - Paradox、Steam、YouTube 等品牌名；“Crusader Kings III” 在正文中译为“十字军之王III”
+
+## 补充约定（来自已完成批次，保持一致）
+- 正文中提到游戏名时写作《十字军之王III》；Crusader Kings 3 → 十字军之王3；CKIII / CK3 可保留
+- Bohemia → 波希米亚；Robert of Apulia → 阿普利亚公爵罗贝尔
+- Rightful liege → 法定领主
+- 宝物稀有度：Common → 普通；Masterwork → 杰作；Famed → 著名；Illustrious → 显赫；Trinket → 饰品
+- 补丁代号保留英文：如 补丁 1.1（Chevron）
+- Cinematic trailer → CG预告片；Video diary → 视频日志
+- 某 DLC 名称 + DLC：写作“漂泊贵族DLC”这类简洁形式
+- Realm Priest → 国度祭司；Discontent → 不满度；Religious family → 宗教族系
+- 信仰敌意等级：Righteous → 正统；Astray → 迷途；Hostile → 敌对；Evil → 邪恶
+- Elector（神圣罗马帝国）→ 选帝侯；其他选举继承中的 elector → 选举人；Tanistry → 塔尼斯特里制
+- Family (relation) 页面 → 家庭（区别于生活方式技能树“家族”）
+- 技能名示例：Hard Rule → 铁腕统治；Truth is Relative → 真相是相对的；Meritocracy → 任人唯贤
