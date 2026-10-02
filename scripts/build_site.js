@@ -417,7 +417,7 @@ function main() {
   allPagesPage(results);
   notFoundPage();
   const index = results.map((r) => ({ z: r.zh, e: r.en, u: urlFromRoot(r.c) }));
-  fs.writeFileSync(path.join(OUT, 'search-index.json'), JSON.stringify(index));
+  fs.writeFileSync(path.join(OUT, 'search-index.js'), 'window.CK3_SEARCH_INDEX=' + JSON.stringify(index) + ';\n');
   let T = 0;
   let D = 0;
   for (const r of results) { T += r.total; D += r.done; if (r.done < r.total) console.log(`  ${r.c}: ${r.done}/${r.total} segments translated`); }

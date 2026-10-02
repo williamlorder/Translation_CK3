@@ -24,9 +24,15 @@
   var input = document.getElementById('search');
   var box = document.getElementById('search-results');
   var index = null, active = -1;
+  // Loaded through a script tag so search also works when the site is opened from disk.
   function load(cb) {
     if (index) return cb();
-    fetch(root + 'search-index.json').then(function (r) { return r.json(); }).then(function (d) { index = d; cb(); }).catch(function () { index = []; cb(); });
+    if (window.CK3_SEARCH_INDEX) { index = window.CK3_SEARCH_INDEX; return cb(); }
+    var s = document.createElement('script');
+    s.src = root + 'search-index.js';
+    s.onload = function () { index = window.CK3_SEARCH_INDEX || []; cb(); };
+    s.onerror = function () { index = []; cb(); };
+    document.head.appendChild(s);
   }
   function esc(s) { return s.replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); }
   function render() {
