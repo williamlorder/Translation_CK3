@@ -1115,7 +1115,7 @@ Crusader Kings III 的传奇角色是一组5个角色，每个生活方式各一
 - Rodrigo 'the Campeador' de Vivar，Castille 的廷臣：又称 El Cid，一位 Castilian 骑士，后来成为 Spanish 的历史民间英雄和国家偶像。
 - Robert de Brus，Apulia 的廷臣："Bruis/Bruce"家族的创始人，与 William the Conqueror 一起远征作战。后来他成为 Annandale 的领主和 William 的封臣。他是 Scotland 国王 Robert the Bruce 的祖先。
 - Omar Khayyam：波斯数学家、天文学家和诗人，创建了一个享乐主义数学家-诗人家族。
-- Hassan i-Sabbah：现实中没有绝对，一切皆被允许。当其他人盲目追随真理时，记住，没有什么是真实的。当其他人被道德或法律所限制时，记住，一切皆被允许。我们在黑暗中工作，为光明服务。我们是 Assassins。Alamut 山中堡垒中 Hashashins 的创始人，他将在公元1090年推翻 Daylam 国王，追随什叶派教派。
+- Hassan i-Sabbah：Alamut 山中堡垒中 Hashashins 的创始人，他将在公元1090年推翻 Daylam 国王，追随什叶派教派。
 
 # 1178年开局
 

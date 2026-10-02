@@ -304,6 +304,36 @@
     "Activity"
    ],
    "fetchedAt": "2026-10-02T09:57:09.354Z"
+  },
+  "Decisions": {
+   "pageName": "Decisions",
+   "title": "Decisions",
+   "displayTitle": "Decisions",
+   "revid": 35680,
+   "categories": [
+    "Timeless",
+    "Decisions"
+   ],
+   "lastmod": "This page was last edited on 9 August 2026, at 11:10.",
+   "requested": [
+    "Decisions"
+   ],
+   "fetchedAt": "2026-10-02T10:12:03.851Z"
+  },
+  "Adventurer": {
+   "pageName": "Adventurer",
+   "title": "Adventurer",
+   "displayTitle": "Adventurer",
+   "revid": 36547,
+   "categories": [
+    "1.20",
+    "Governments"
+   ],
+   "lastmod": "This page was last edited on 30 September 2026, at 15:14.",
+   "requested": [
+    "Adventurer"
+   ],
+   "fetchedAt": "2026-10-02T10:18:40.703Z"
   }
  },
  "aliases": {

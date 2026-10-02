@@ -8,7 +8,6 @@ const path = require('path');
 const BASE = 'https://ck3.paradoxwikis.com';
 const OUT_DIR = path.join(__dirname, '..', 'source', 'html');
 const META_FILE = path.join(OUT_DIR, 'pages.json');
-const CSS_FILE = path.join(__dirname, '..', 'site-src', 'wiki-content.css');
 const UA = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36';
 
 const CORE_PAGES = [
@@ -49,7 +48,7 @@ function extract(html) {
 
 async function fetchPage(page, docBodies, name, special = false) {
   const url = special ? BASE + '/' + name : BASE + '/' + encodeURI(name).replace(/\?/g, '%3F');
-  for (let attempt = 1; attempt <= 3; attempt++) {
+  for (let attempt = 1; attempt <= 2; attempt++) {
     docBodies.length = 0;
     let resp;
     try {
@@ -59,7 +58,7 @@ async function fetchPage(page, docBodies, name, special = false) {
     }
     let html = resp ? await resp.text().catch(() => '') : '';
     if (!html || isChallenge(html)) {
-      const deadline = Date.now() + 45000;
+      const deadline = Date.now() + 25000;
       while (Date.now() < deadline) {
         const real = docBodies.find((b) => !isChallenge(b) && b.includes('mw-parser-output'));
         if (real) { html = real; break; }
@@ -71,7 +70,7 @@ async function fetchPage(page, docBodies, name, special = false) {
       const data = extract(html);
       if (data) return data;
     }
-    const wait = 20000 * attempt + Math.random() * 10000;
+    const wait = 60000 + Math.random() * 15000;
     console.log(`  [${name}] attempt ${attempt} failed; waiting ${Math.round(wait / 1000)}s`);
     await sleep(wait);
   }
@@ -106,7 +105,6 @@ async function main() {
   const only = process.argv.slice(2).filter((a) => !a.startsWith('--'));
   const targets = redirectsMode ? [] : only.length ? only : CORE_PAGES;
   fs.mkdirSync(OUT_DIR, { recursive: true });
-  fs.mkdirSync(path.dirname(CSS_FILE), { recursive: true });
   const meta = fs.existsSync(META_FILE) ? JSON.parse(fs.readFileSync(META_FILE, 'utf8')) : { pages: {}, aliases: {} };
 
   const browser = await chromium.launch({
@@ -116,8 +114,9 @@ async function main() {
   });
   const ctx = await browser.newContext({ userAgent: UA });
   await ctx.route('**/*', (route) => {
-    const t = route.request().resourceType();
-    return ['image', 'media', 'font'].includes(t) ? route.abort() : route.continue();
+    const r = route.request();
+    if (r.url().includes('/_fs-ch-')) return route.continue();
+    return ['image', 'media', 'font'].includes(r.resourceType()) ? route.abort() : route.continue();
   });
   const page = await ctx.newPage();
   const docBodies = [];
@@ -125,22 +124,24 @@ async function main() {
     try {
       const type = r.request().resourceType();
       if (type === 'document' && r.url().startsWith(BASE)) docBodies.push(await r.text());
-      if (type === 'stylesheet' && r.url().includes('modules=site.styles') && !fs.existsSync(CSS_FILE)) {
-        fs.writeFileSync(CSS_FILE, '/* MediaWiki site styles from ck3.paradoxwikis.com (CC BY-SA 3.0) */\n' + (await r.text()));
-        console.log('  saved site.styles CSS');
-      }
     } catch { /* body unavailable for redirects */ }
   });
 
   if (redirectsMode) await crawlRedirects(page, docBodies);
   let ok = 0;
+  let streak = 0;
   const failed = [];
   for (const name of targets) {
     const done = Object.values(meta.pages).find((p) => p.requested && p.requested.includes(name));
     if (done && !only.length) { console.log(`skip ${name} (have ${done.pageName})`); continue; }
     console.log(`fetch ${name}`);
     const data = await fetchPage(page, docBodies, name);
-    if (!data) { failed.push(name); continue; }
+    if (!data) {
+      failed.push(name);
+      if (++streak >= 3) { console.log('3 pages in a row were refused; stopping.'); break; }
+      continue;
+    }
+    streak = 0;
     const canonical = data.pageName;
     fs.writeFileSync(path.join(OUT_DIR, canonical.replace(/[\/\\:*?"<>|]/g, '_') + '.html'), data.contentHtml);
     const prev = meta.pages[canonical] || {};
@@ -159,7 +160,7 @@ async function main() {
     fs.writeFileSync(META_FILE, JSON.stringify(meta, null, 1));
     ok++;
     console.log(`  ok -> ${canonical} rev ${data.revid} (${Math.round(data.contentHtml.length / 1024)} KB)`);
-    await sleep(4000 + Math.random() * 3000);
+    await sleep(10000 + Math.random() * 5000);
   }
   await browser.close();
   console.log(`\nDone: ${ok} fetched, ${failed.length} failed${failed.length ? ': ' + failed.join(', ') : ''}`);

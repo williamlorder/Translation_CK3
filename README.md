@@ -1,158 +1,73 @@
-# 十字军之王III Wiki 中文翻译项目
+# 十字军之王III 中文维基（非官方翻译）
 
-本项目将 [Crusader Kings III Wiki](https://ck3.paradoxwikis.com/) 的核心内容翻译为简体中文，方便中文玩家查阅游戏机制和攻略。
+《十字军之王III》（Crusader Kings III）社区维基 [ck3.paradoxwikis.com](https://ck3.paradoxwikis.com/) 的非官方简体中文翻译，以静态网站形式发布在 GitHub Pages，尽量保留原站的页面结构、表格、信息框与导航框。
+
+- 在线浏览：<https://williamlorder.github.io/Translation_CK3/>（需先按下文“部署”一节在仓库设置中启用 GitHub Pages）
+- 默认深色主题，页眉可切换浅色并记住选择；支持中英文标题搜索；适配手机屏幕
+- 另附 EPUB 电子书 `CK3_Wiki_Chinese.epub`（早期文本版译文）
+
+## 内容范围
+
+| 类型 | 说明 |
+|------|------|
+| 按原站结构翻译 | 抓取原站页面 HTML，逐段翻译后按原结构回填，表格、信息框、导航框、目录完整保留 |
+| 早期文本版译文 | 原站反爬机制导致无法获取完整页面结构的核心页面，暂用早期提取文字后翻译的版本 |
+| 暂未收录 | 侧栏与“全部页面”中以 ↗ 标记，点击打开英文原站 |
+
+网站中的“全部页面”列出了每个页面的类型与翻译进度。
+
+## 授权与排除说明
+
+- 原文由 Paradox Wikis 社区编写，采用 [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.zh-hans) 协议。本项目译文为衍生作品，同样以 CC BY-SA 3.0 发布，每个页面底部注明原文链接与修订版本。
+- 以下内容不在社区授权范围内，本项目不转载：
+  - 游戏图片、图标与标志（版权归 Paradox Interactive），网站中以同尺寸占位框标示；
+  - Paradox 官方商店宣传文案、DLC 官方简介、YouTube 视频说明；
+  - 游戏内叙事文本（较长的斜体引文、带本地化变量的叙事句、传统/革新/教义等的风味描述）；
+  - 第三方作品引文。
+- 入库的源文件（`source/html/`）同样经过清理，排除规则见 `scripts/lib/segments.js` 与 `site-src/exclusions.json`。
+- 译文由 AI 辅助翻译，可能存在错误，请以英文原文为准。游戏内容及素材的商标与版权归 Paradox Interactive 及其许可方所有；本项目与 Paradox Interactive 无关。
 
 ## 项目结构
 
 ```
 Translation_CK3/
-├── source/en/          # 英文原文（从wiki抓取）
-├── translated/zh/      # 中文翻译
-├── scripts/            # 抓取和辅助脚本
-├── CK3_Wiki_Chinese.epub  # EPUB 电子书
-└── README.md
+├── docs/                 # 生成的静态网站（GitHub Pages 发布目录）
+├── source/html/          # 原站页面 HTML（已清理）与页面元数据 pages.json
+├── translation/
+│   ├── glossary.md       # 术语表（翻译必须遵守）
+│   ├── INSTRUCTIONS.md   # 翻译规范
+│   └── tm/               # 翻译记忆：片段键 → 译文
+├── site-src/             # 网站样式、脚本与排除规则
+├── scripts/
+│   ├── crawl_html.js     # 礼貌抓取原站页面（单标签页、限速、被拒即停）
+│   ├── segment.js        # 提取待翻译片段，生成批次到 work/batches
+│   ├── check_batch.js    # 校验译文（占位符、完整性）
+│   ├── build_site.js     # 生成 docs/ 静态网站
+│   └── build_epub.js     # 生成 EPUB
+├── translated/zh/        # 早期文本版译文（EPUB 与后备页来源）
+└── source/en/            # 早期抓取的英文文本
 ```
 
-## EPUB 电子书
+## 构建
 
-项目包含一本完整的 EPUB 电子书 `CK3_Wiki_Chinese.epub`，涵盖所有已翻译页面，可在任何电子书阅读器中打开。
-
-生成命令：
 ```bash
 npm install
-node scripts/build_epub.js
+node scripts/segment.js --write          # 生成待翻译批次（work/batches）
+# 按 translation/INSTRUCTIONS.md 翻译批次，写入 translation/tm/<批次>.json
+node scripts/check_batch.js --all        # 校验译文
+node scripts/build_site.js               # 生成 docs/
+node scripts/build_epub.js               # 生成 EPUB
 ```
 
-## 已翻译页面（54页）
+## 部署（GitHub Pages）
 
-### 核心机制
-- [十字军之王III 总览](translated/zh/Crusader_Kings_III.md)
-- [资源（金币/威望/虔诚/声望）](translated/zh/Resources.md)
-- [角色](translated/zh/Characters.md)
-- [属性](translated/zh/Attributes.md)
-- [特质](translated/zh/Traits.md)
-- [头衔](translated/zh/Titles.md)
-- [法律](translated/zh/Laws.md)
-- [决策](translated/zh/Decisions.md)
-- [修正](translated/zh/Modifiers.md)
-- [机制](translated/zh/Mechanics.md)
+在仓库 **Settings → Pages** 中：
 
-### 家族与生活
-- [家族](translated/zh/Dynasty.md)
-- [生活方式](translated/zh/Lifestyle.md)
-- [阴谋](translated/zh/Schemes.md)
-- [把柄](translated/zh/Hooks.md)
-- [活动](translated/zh/Activity.md)
-- [冒险者](translated/zh/Adventurer.md)
-- [囚犯](translated/zh/Prisoners.md)
+1. **Source** 选择 **Deploy from a branch**
+2. **Branch** 选择 `claude/ck3-wiki-translation-hv2dyi`，文件夹选择 `/docs`，点击 **Save**
 
-### 战争与军事
-- [军队](translated/zh/Army.md)
-- [宣战理由](translated/zh/Casus_belli.md)
-- [战争](translated/zh/Warfare.md)
-- [联盟](translated/zh/Alliance.md)
-- [雇佣军](translated/zh/Hired_forces.md)
-- [骑士](translated/zh/Knight.md)
-- [决斗](translated/zh/Duel.md)
-- [局势](translated/zh/Situation.md)
-
-### 领地与建设
-- [建筑](translated/zh/Building.md)
-- [男爵领](translated/zh/Barony.md)
-- [伯爵领](translated/zh/County.md)
-- [居所](translated/zh/Domicile.md)
-- [伟大工程](translated/zh/Great_projects.md)
-- [旅行](translated/zh/Travel.md)
-
-### 御前会议与宫廷
-- [御前会议](translated/zh/Council.md)
-- [宫廷](translated/zh/Court.md)
-- [御前宫廷](translated/zh/Royal_court.md)
-- [政体](translated/zh/Government.md)
-- [权力分享](translated/zh/Power_sharing.md)
-- [臣属](translated/zh/Subjects.md)
-
-### 宗教与文化
-- [宗教](translated/zh/Religion.md)
-- [教义](translated/zh/Doctrines.md)
-- [教条](translated/zh/Tenets.md)
-- [圣地](translated/zh/Holy_sites.md)
-- [文化](translated/zh/Culture.md)
-- [传统](translated/zh/Traditions.md)
-- [革新](translated/zh/Innovation.md)
-
-### 数据与收藏
-- [宝物](translated/zh/Artifacts.md)
-- [有趣的角色](translated/zh/Interesting_characters.md)
-- [成就](translated/zh/Achievements.md)
-
-### DLC与其他
-- [DLC 可下载内容](translated/zh/Downloadable_content.md)
-- [控制台命令](translated/zh/Console_commands.md)
-- [修改（Modding）](translated/zh/Modding.md)
-- [术语与缩写](translated/zh/Jargon.md)
-- [新手指南](translated/zh/Beginners_guide.md)
-- [游戏规则](translated/zh/Game_rules.md)
-- [补丁](translated/zh/Patches.md)
-
-## 术语对照表
-
-| 英文 | 中文 |
-|------|------|
-| Character | 角色 |
-| Dynasty | 家族 |
-| House | 分支家族/家系 |
-| Title | 头衔 |
-| Barony | 男爵领 |
-| County | 伯爵领 |
-| Duchy | 公爵领 |
-| Kingdom | 王国 |
-| Empire | 帝国 |
-| Vassal | 封臣 |
-| Liege | 领主 |
-| Domain | 直辖领 |
-| Gold | 金币 |
-| Prestige | 威望 |
-| Piety | 虔诚 |
-| Renown | 声望 |
-| Fame | 名望 |
-| Devotion | 奉献 |
-| Levy | 征召兵 |
-| Men-at-arms | 常备军 |
-| Knight | 骑士 |
-| Prowess | 勇武 |
-| Diplomacy | 外交 |
-| Martial | 军事 |
-| Stewardship | 管理 |
-| Intrigue | 谋略 |
-| Learning | 学识 |
-| Lifestyle | 生活方式 |
-| Trait | 特质 |
-| Stress | 压力 |
-| Dread | 恐惧值 |
-| Opinion | 好感度 |
-| Casus belli | 宣战理由 |
-| De jure | 法理 |
-| Succession | 继承 |
-| Claim | 宣称 |
-| Religion | 宗教 |
-| Faith | 信仰 |
-| Doctrine | 教义 |
-| Tenet | 教条 |
-| Culture | 文化 |
-| Tradition | 传统 |
-| Innovation | 革新 |
-| Holy site | 圣地 |
-| Holy war | 圣战 |
-| Council | 御前会议 |
-| Court | 宫廷 |
-| Building | 建筑 |
-| Development | 发展度 |
-
-## 版权声明
-
-原文内容来自 [Paradox Wikis](https://ck3.paradoxwikis.com/)，采用 [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) 协议。本翻译项目为衍生作品，同样遵循 CC BY-SA 3.0 协议。
+几分钟后即可通过 <https://williamlorder.github.io/Translation_CK3/> 访问。之后每次推送都会自动更新网站。
 
 ## 贡献
 
-欢迎提交 PR 改进翻译质量或补充缺失页面。
+欢迎提交 Issue 或 PR 改进译文。修改译文请编辑 `translation/tm/` 中对应的条目，然后重新运行 `node scripts/build_site.js`。

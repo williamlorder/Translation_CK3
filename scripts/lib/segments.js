@@ -152,7 +152,9 @@ function preprocess($, { isMainPage = false, exclude = [] } = {}) {
   // by the publisher; they are not reproduced.
   $('i, em, blockquote, .quote, .cquote').each((_, el) => {
     if ($(el).parents('i, em, blockquote, .quote, .cquote').length) return;
-    if ($(el).text().replace(/\s+/g, ' ').trim().length > 120) {
+    const text = $(el).text().replace(/\s+/g, ' ').trim();
+    const hasGameVariable = /\[[A-Za-z][A-Za-z ]*(name|NAME)\]|\[(ROOT|GetName|protagonist)/.test(text);
+    if (text.length > 60 || (hasGameVariable && text.length >= 20)) {
       $(el).replaceWith('<span class="flavor-omitted" data-nt="" title="此处原文为游戏内叙事文本，版权归 Paradox Interactive 所有，本站不转载">〔游戏内叙事文本，未转载〕</span>');
     }
   });

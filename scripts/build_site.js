@@ -2,6 +2,7 @@
 const fs = require('fs');
 const path = require('path');
 const DomUtils = require('domutils');
+const { marked } = require('marked');
 const { loadFragment, preprocess, collectRuns, encodeRun, decode, keyOf, escapeText, checkTranslation } = require('./lib/segments');
 
 const ROOT = path.join(__dirname, '..');
@@ -23,6 +24,25 @@ const tm = {};
 if (fs.existsSync(TM_DIR)) for (const f of fs.readdirSync(TM_DIR).filter((f) => f.endsWith('.json'))) Object.assign(tm, readJson(path.join(TM_DIR, f), {}));
 
 const pages = meta.pages;
+
+// Legacy pages: earlier text-only translations (translated/zh) for core pages that could not be
+// fetched as HTML. Pages whose legacy text mostly consisted of in-game flavor text are left out.
+const LEGACY_DIR = path.join(ROOT, 'translated', 'zh');
+const LEGACY_SKIP = new Set(['Doctrines', 'Traditions', 'Innovation', 'Characters', 'Beginners_guide']);
+const legacy = {};
+const legacyAlias = {};
+for (const f of fs.existsSync(LEGACY_DIR) ? fs.readdirSync(LEGACY_DIR).filter((f) => f.endsWith('.md')) : []) {
+  const name = f.replace(/\.md$/, '');
+  if (LEGACY_SKIP.has(name)) continue;
+  const enFile = path.join(ROOT, 'source', 'en', f);
+  const enTitle = fs.existsSync(enFile) ? (fs.readFileSync(enFile, 'utf8').match(/^# (.+)$/m) || [])[1] : null;
+  const c = (enTitle || name).trim().replace(/ /g, '_');
+  if (pages[c] || pages[name] || (meta.aliases[name] && pages[meta.aliases[name]])) continue;
+  const zhText = fs.readFileSync(path.join(LEGACY_DIR, f), 'utf8');
+  const zh = ((zhText.match(/^# (.+)$/m) || [])[1] || c).replace(/（[^）]*[A-Za-z][^）]*）\s*$/, '').trim();
+  legacy[c] = { file: f, en: (enTitle || name.replace(/_/g, ' ')).trim(), zh, requested: name };
+  legacyAlias[name] = c;
+}
 const escAttr = (s) => String(s).replace(/&/g, '&amp;').replace(/"/g, '&quot;').replace(/</g, '&lt;');
 const escHtml = (s) => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
 const slug = (c) => c.replace(/[\/\\:*?"<>|%#]/g, '_');
@@ -31,6 +51,7 @@ const urlFromRoot = (c) => (c === MAIN ? 'index.html' : 'wiki/' + encodeURICompo
 const canon = (t) => { const s = t.replace(/ /g, '_'); return s.charAt(0).toUpperCase() + s.slice(1); };
 
 function zhTitle(c) {
+  if (legacy[c]) return legacy[c].zh;
   const info = pages[c];
   const en = info.displayTitle || info.title || c.replace(/_/g, ' ');
   const tr = tm[keyOf(escapeText(en))];
@@ -38,14 +59,59 @@ function zhTitle(c) {
 }
 
 function known(t) {
-  if (pages[t]) return { c: t };
+  if (pages[t] || legacy[t]) return { c: t };
   if (meta.aliases[t] && pages[meta.aliases[t]]) return { c: meta.aliases[t] };
+  if (legacyAlias[t]) return { c: legacyAlias[t] };
   if (redirects[t]) {
     const [target, frag] = redirects[t].split('#');
     const c = canon(target);
-    if (pages[c]) return { c, frag };
+    if (pages[c] || legacy[c]) return { c, frag };
   }
   return null;
+}
+
+// Earlier translations flattened tables into "| cell" lines; rebuild them as HTML tables.
+function legacyTable(text) {
+  const split = (b) => b.replace(/\|\s*$/, '').split(/(?:^|\n)\|[ \t]?|[ \t]\|[ \t]/).slice(1).map((c) => c.trim());
+  const bold = (c) => /^\*\*[^*]+\*\*$/.test(c);
+  const blocks = text.split(/\n\s*\n/).map((b) => b.trim()).filter(Boolean).map(split);
+  let head = [];
+  let rows = [];
+  if (blocks.length === 1) {
+    const cells = blocks[0];
+    let h = 0;
+    while (h < cells.length && bold(cells[h])) h++;
+    head = cells.slice(0, h);
+    const rest = cells.slice(h);
+    for (let i = 0; i < rest.length; i += h || rest.length) rows.push(rest.slice(i, i + (h || rest.length)));
+  } else {
+    if (blocks[0].length && blocks[0].every((c) => !c || bold(c))) head = blocks.shift();
+    rows = blocks;
+  }
+  const cell = (c, tag) => `<${tag}>${marked.parseInline(c.replace(/^\*\*([^*]+)\*\*$/, '$1')).replace(/\n/g, '<br>')}</${tag}>`;
+  return `<div class="table-wrap"><table class="wikitable">${head.length ? '<tr>' + head.map((c) => cell(c, 'th')).join('') + '</tr>' : ''}${rows.map((r) => '<tr>' + r.map((c) => cell(c, 'td')).join('') + '</tr>').join('')}</table></div>`;
+}
+
+function legacyHtml(md) {
+  const lines = md.split('\n').filter((l, i) => !(i < 6 && (/^# /.test(l) || /^> (原文来源|授权协议)/.test(l))));
+  const out = [];
+  for (let i = 0; i < lines.length;) {
+    if (!lines[i].startsWith('|')) { out.push(lines[i++]); continue; }
+    const region = [];
+    while (i < lines.length && !/^#{1,6} /.test(lines[i])) {
+      if (!lines[i].trim()) {
+        let k = i + 1;
+        while (k < lines.length && !lines[k].trim()) k++;
+        if (k < lines.length && lines[k].startsWith('|')) { region.push(''); i = k; continue; }
+        break;
+      }
+      region.push(lines[i++]);
+    }
+    out.push('', legacyTable(region.join('\n')), '');
+  }
+  return marked.parse(out.join('\n')
+    .replace(/\[\](?!\()/g, '<span class="img-ph" style="width:16px;height:16px"></span>')
+    .replace(/\[Yes\]/g, '✓').replace(/\[No\]/g, '✗'));
 }
 
 function resolveTitle(title, isRedirect) {
@@ -186,14 +252,39 @@ const SIDEBAR = [
   ['其他', ['Modding', 'Console_commands', 'Game_rules', 'Patches', 'Downloadable_content', 'Achievements', 'Interesting_characters']],
 ];
 
+// Chinese names for core pages that have no local version and therefore link to the original wiki.
+const MISSING_ZH = { Doctrines: '教义', Traditions: '传统', Innovation: '革新', Power_sharing: '权力分享', Royal_court: '王廷' };
+
 function sidebar(prefix, current) {
-  let html = `<ul><li><a href="${prefix}index.html"${current === MAIN ? ' class="current"' : ''}>首页</a></li><li><a href="${prefix}about.html"${current === 'about' ? ' class="current"' : ''}>关于本站</a></li></ul>`;
+  const top = [['index.html', MAIN, '首页'], ['all.html', 'all', '全部页面'], ['about.html', 'about', '关于本站']];
+  let html = '<ul>' + top.map(([u, id, label]) => `<li><a href="${prefix}${u}"${current === id ? ' class="current"' : ''}>${label}</a></li>`).join('') + '</ul>';
   for (const [group, names] of SIDEBAR) {
-    const items = names.map((n) => known(canon(n))).filter(Boolean).map((r) => r.c);
-    if (!items.length) continue;
-    html += `<h3>${group}</h3><ul>` + items.map((c) => `<li><a href="${prefix}${urlFromRoot(c)}"${c === current ? ' class="current"' : ''}>${escHtml(zhTitle(c))}</a></li>`).join('') + '</ul>';
+    html += `<h3>${group}</h3><ul>` + names.map((n) => {
+      const r = known(canon(n));
+      if (!r) return `<li><a class="orig-link" href="${BASE}/${encodeURI(n)}" target="_blank" rel="noopener" title="尚未收录，打开英文原站">${escHtml(MISSING_ZH[n] || n.replace(/_/g, ' '))}</a></li>`;
+      return `<li><a href="${prefix}${urlFromRoot(r.c)}"${r.c === current ? ' class="current"' : ''}>${escHtml(zhTitle(r.c))}</a></li>`;
+    }).join('') + '</ul>';
   }
   return html;
+}
+
+function allPagesPage(results) {
+  const faithful = results.filter((r) => !r.legacy).sort((a, b) => a.en.localeCompare(b.en));
+  const old = results.filter((r) => r.legacy).sort((a, b) => a.en.localeCompare(b.en));
+  const missing = [...new Set(SIDEBAR.flatMap(([, names]) => names))].filter((n) => !known(canon(n)));
+  const row = (r, extra) => `<tr><td><a href="${urlFromRoot(r.c)}">${escHtml(r.zh)}</a></td><td>${escHtml(r.en)}</td>${extra}</tr>`;
+  const pct = (r) => (r.total ? Math.round((r.done / r.total) * 100) + '%' : '—');
+  const body = `<h1 class="page-title">全部页面</h1>
+<div class="mw-parser-output">
+<p>本站共收录 ${results.length} 个页面：${faithful.length} 个按原站页面结构完整翻译（保留表格、信息框与导航框），${old.length} 个为早期文本版译文。下方还列出了暂未收录、只能链接到英文原站的核心页面。</p>
+<h2>按原站结构翻译的页面</h2>
+<div class="table-wrap"><table class="wikitable sortable"><tr><th>中文标题</th><th>英文原名</th><th>翻译进度</th></tr>${faithful.map((r) => row(r, `<td>${pct(r)}</td>`)).join('')}</table></div>
+<h2>早期文本版译文</h2>
+<p>以下页面暂时无法从原站获取完整页面结构，先使用早期提取文字后翻译的版本。</p>
+<div class="table-wrap"><table class="wikitable sortable"><tr><th>中文标题</th><th>英文原名</th></tr>${old.map((r) => row(r, '')).join('')}</table></div>
+${missing.length ? `<h2>暂未收录（链接到英文原站）</h2><ul>${missing.map((n) => `<li><a class="orig-link" href="${BASE}/${encodeURI(n)}" target="_blank" rel="noopener">${escHtml(MISSING_ZH[n] || n)}（${escHtml(n.replace(/_/g, ' '))}）</a></li>`).join('')}</ul>` : ''}
+</div>`;
+  fs.writeFileSync(path.join(OUT, 'all.html'), shell({ prefix: '', title: `全部页面 - ${SITE}`, current: 'all', body }));
 }
 
 function shell({ prefix, title, current, body, description }) {
@@ -230,7 +321,7 @@ ${body}
 function footer(c, info) {
   const orig = `${BASE}/${encodeURI(c)}`;
   return `<footer class="page-footer">
-<p>本页译自 Paradox Wikis 社区《Crusader Kings III Wiki》的条目「<a href="${escAttr(orig)}" target="_blank" rel="noopener">${escHtml(info.displayTitle || c)}</a>」（修订版本 ${info.revid}）。原文采用 <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.zh-hans" target="_blank" rel="noopener">CC BY-SA 3.0</a> 协议授权；本译文对原文作了翻译修改，同样以 CC BY-SA 3.0 协议发布。</p>
+<p>本页译自 Paradox Wikis 社区《Crusader Kings III Wiki》的条目「<a href="${escAttr(orig)}" target="_blank" rel="noopener">${escHtml(info.displayTitle || c)}</a>」${info.revid ? `（修订版本 ${info.revid}）` : ''}。原文采用 <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.zh-hans" target="_blank" rel="noopener">CC BY-SA 3.0</a> 协议授权；本译文对原文作了翻译修改，同样以 CC BY-SA 3.0 协议发布。</p>
 <p>译文由 AI 辅助翻译生成，可能存在错误或疏漏，请以英文原文为准。游戏图片版权归 Paradox Interactive 所有，本站不转载，以占位框标示，可前往原站查看。</p>
 <p>游戏内容及素材的商标与版权归 Paradox Interactive 及其许可方所有。本站为爱好者非官方翻译项目，与 Paradox Interactive 无关。 · <a href="${'{PREFIX}'}about.html">关于本站</a> · <a href="${REPO}" target="_blank" rel="noopener">GitHub</a></p>
 </footer>`;
@@ -262,6 +353,28 @@ ${zh !== en ? `<div class="page-sub">英文原名：${escHtml(en)}</div>` : ''}`
   fs.mkdirSync(path.dirname(out), { recursive: true });
   fs.writeFileSync(out, html);
   return { c, zh, en, total, done };
+}
+
+function buildLegacyPage(c) {
+  const info = legacy[c];
+  const prefix = '../';
+  const md = fs.readFileSync(path.join(LEGACY_DIR, info.file), 'utf8');
+  const $ = loadFragment(`<div class="mw-parser-output legacy">${legacyHtml(md)}</div>`);
+  $('a[href]').each((_, a) => {
+    const href = a.attribs.href;
+    if (href.startsWith(BASE + '/') && !/^\/(index\.php|images\/)/.test(href.slice(BASE.length))) a.attribs.href = href.slice(BASE.length);
+    if (!$(a).text().trim() && !$(a).find('.img-ph').length && /\/File:/.test(a.attribs.href)) $(a).replaceWith('<span class="img-ph" style="width:20px;height:20px"></span>');
+  });
+  rewriteLinks($, prefix);
+  const orig = `${BASE}/${encodeURI(info.requested)}`;
+  const head = `<div class="page-notice legacy-notice">本页为早期文本版译文：由原站页面文字提取后翻译，未完整保留原站的表格与版式，以英文原文为准：<a href="${escAttr(orig)}" target="_blank" rel="noopener">${escHtml(info.en)}</a></div>
+<h1 class="page-title">${escHtml(info.zh)}</h1>
+<div class="page-sub">英文原名：${escHtml(info.en)}</div>`;
+  const body = head + '\n' + $.html() + '\n' + footer(info.requested, { displayTitle: info.en }).replace('{PREFIX}', prefix);
+  const out = path.join(OUT, 'wiki', slug(c) + '.html');
+  fs.mkdirSync(path.dirname(out), { recursive: true });
+  fs.writeFileSync(out, shell({ prefix, title: `${info.zh} - ${SITE}`, current: c, body, description: `${info.zh}（${info.en}）- 《十字军之王III》维基中文翻译` }));
+  return { c, zh: info.zh, en: info.en, total: 0, done: 0, legacy: true };
 }
 
 function aboutPage() {
@@ -299,15 +412,17 @@ function main() {
   fs.copyFileSync(path.join(SRC, 'style.css'), path.join(OUT, 'assets', 'style.css'));
   fs.copyFileSync(path.join(SRC, 'site.js'), path.join(OUT, 'assets', 'site.js'));
   fs.writeFileSync(path.join(OUT, '.nojekyll'), '');
-  const results = Object.keys(pages).map(buildPage);
+  const results = Object.keys(pages).map(buildPage).concat(Object.keys(legacy).map(buildLegacyPage));
   aboutPage();
+  allPagesPage(results);
   notFoundPage();
   const index = results.map((r) => ({ z: r.zh, e: r.en, u: urlFromRoot(r.c) }));
   fs.writeFileSync(path.join(OUT, 'search-index.json'), JSON.stringify(index));
   let T = 0;
   let D = 0;
   for (const r of results) { T += r.total; D += r.done; if (r.done < r.total) console.log(`  ${r.c}: ${r.done}/${r.total} segments translated`); }
-  console.log(`built ${results.length} pages into docs/ — ${D}/${T} segments translated (${T ? Math.round((D / T) * 100) : 0}%)`);
+  const nLegacy = results.filter((r) => r.legacy).length;
+  console.log(`built ${results.length} pages into docs/ (${results.length - nLegacy} faithful, ${nLegacy} legacy text) — ${D}/${T} faithful segments translated (${T ? Math.round((D / T) * 100) : 0}%)`);
 }
 
 main();

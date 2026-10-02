@@ -1,0 +1,424 @@
+<!DOCTYPE html>
+<html lang="zh-CN" data-root="../" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<script>try{var t=localStorage.getItem('ck3zh-theme');if(t==='light'||t==='dark')document.documentElement.setAttribute('data-theme',t)}catch(e){}</script>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>机制 - 十字军之王III 中文维基</title>
+<meta name="description" content="机制（Mechanics）- 《十字军之王III》维基中文翻译">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%2385221b'/%3E%3Cpath d='M7 22l-1-11 6 5 4-8 4 8 6-5-1 11z' fill='%23f3d27a'/%3E%3Crect x='7' y='23.5' width='18' height='3' rx='1' fill='%23f3d27a'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="../assets/style.css">
+<script src="../assets/site.js" defer></script>
+</head>
+<body>
+<header class="site-header">
+<button class="menu-toggle" aria-label="菜单">☰</button>
+<a class="brand" href="../index.html">十字军之王III <span class="full">中文维基</span><span class="badge">非官方翻译</span></a>
+<div class="search"><input id="search" type="search" placeholder="搜索页面（中文或英文）" autocomplete="off" aria-label="搜索"><div id="search-results"></div></div>
+<button class="theme-toggle" type="button" aria-label="切换浅色/深色模式"><span class="tt-icon">◐</span> <span class="tt-label">浅色模式</span></button>
+</header>
+<div class="layout">
+<nav class="sidebar" aria-label="导航"><ul><li><a href="../index.html">首页</a></li><li><a href="../all.html">全部页面</a></li><li><a href="../about.html">关于本站</a></li></ul><h3>入门</h3><ul><li><a href="../wiki/Crusader_Kings_III.html">十字军之王III</a></li><li><a href="../wiki/Beginner's_guide.html">新手指南</a></li><li><a href="../wiki/Mechanics.html" class="current">机制</a></li><li><a href="../wiki/Jargon.html">术语与缩写</a></li></ul><h3>角色</h3><ul><li><a href="../wiki/Character.html">角色</a></li><li><a href="../wiki/Attributes.html">属性</a></li><li><a href="../wiki/Traits.html">特质</a></li><li><a href="../wiki/Resources.html">资源</a></li><li><a href="../wiki/Modifiers.html">Modifiers</a></li><li><a href="../wiki/Lifestyle.html">生活方式</a></li><li><a href="../wiki/Dynasty.html">王朝</a></li><li><a href="../wiki/Schemes.html">阴谋</a></li><li><a href="../wiki/Hooks.html">把柄</a></li><li><a href="../wiki/Activity.html">Activity</a></li><li><a href="../wiki/Artifacts.html">宝物</a></li><li><a href="../wiki/Travel.html">旅行</a></li><li><a href="../wiki/Adventurer.html">冒险者</a></li><li><a href="../wiki/Prisoner.html">Prisoner</a></li></ul><h3>国度与治理</h3><ul><li><a href="../wiki/Council.html">Council</a></li><li><a href="../wiki/Court.html">Court</a></li><li><a href="../wiki/Power_sharing.html">权力分享</a></li><li><a href="../wiki/Subjects.html">臣属</a></li><li><a href="../wiki/Government.html">政体</a></li><li><a href="../wiki/Laws.html">法律</a></li><li><a href="../wiki/Decisions.html">Decisions</a></li><li><a href="../wiki/Titles.html">头衔</a></li><li><a href="../wiki/Barony.html">男爵领</a></li><li><a href="../wiki/County.html">伯爵领</a></li><li><a href="../wiki/Building.html">建筑</a></li><li><a href="../wiki/Royal_court.html">御前宫廷</a></li><li><a href="../wiki/Domicile.html">居所</a></li><li><a href="../wiki/Great_projects.html">伟大工程</a></li></ul><h3>战争</h3><ul><li><a href="../wiki/Warfare.html">战争</a></li><li><a href="../wiki/Casus_belli.html">宣战理由</a></li><li><a href="../wiki/Alliance.html">联盟</a></li><li><a href="../wiki/Army.html">军队</a></li><li><a href="../wiki/Hired_forces.html">雇佣军</a></li><li><a href="../wiki/Knight.html">骑士 (Knight)</a></li><li><a href="../wiki/Duel.html">决斗</a></li><li><a href="../wiki/Situation.html">局势</a></li></ul><h3>文化与信仰</h3><ul><li><a href="../wiki/Culture.html">文化</a></li><li><a class="orig-link" href="https://ck3.paradoxwikis.com/Traditions" target="_blank" rel="noopener" title="尚未收录，打开英文原站">传统</a></li><li><a class="orig-link" href="https://ck3.paradoxwikis.com/Innovation" target="_blank" rel="noopener" title="尚未收录，打开英文原站">革新</a></li><li><a href="../wiki/Religion.html">宗教</a></li><li><a class="orig-link" href="https://ck3.paradoxwikis.com/Doctrines" target="_blank" rel="noopener" title="尚未收录，打开英文原站">教义</a></li><li><a href="../wiki/Tenet.html">教条</a></li><li><a href="../wiki/Holy_sites.html">圣地</a></li></ul><h3>其他</h3><ul><li><a href="../wiki/Modding.html">模组制作</a></li><li><a href="../wiki/Console_commands.html">控制台命令</a></li><li><a href="../wiki/Game_rules.html">游戏规则</a></li><li><a href="../wiki/Patches.html">补丁</a></li><li><a href="../wiki/Downloadable_content.html">可下载内容</a></li><li><a href="../wiki/Achievement.html">成就</a></li><li><a href="../wiki/Interesting_characters.html">有趣的角色</a></li></ul></nav>
+<main class="content">
+<div class="page-notice">译自英文维基：<a href="https://ck3.paradoxwikis.com/Mechanics" target="_blank" rel="noopener">Mechanics</a></div>
+<h1 class="page-title">机制</h1>
+<div class="page-sub">英文原名：Mechanics</div>
+<div class="mw-parser-output"><div class="eu4box metadata" style="float:right; clear:right; width:330px; font-size:80%;">
+<p>请帮助核实或更新本文较旧的部分。<br>至少有部分章节最后一次核实的是1.4<a href="https://ck3.paradoxwikis.com/CK3_Wiki:Versioning" class="mw-redirect orig-link" title="英文原站：CK3 Wiki:Versioning" target="_blank" rel="noopener">版本</a>。<br><br>本文仅适用于十字军之王III的PC版本。 </p>
+</div>
+<p><b>机制</b>是游戏中需要详细讨论的方面。本文简要介绍每一种机制，并附有指向更详细页面的链接。 </p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">目录</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Characters"><span class="tocnumber">1</span> <span class="toctext">角色</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Realm_&amp;_Governance"><span class="tocnumber">2</span> <span class="toctext">国度与治理</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Warfare"><span class="tocnumber">3</span> <span class="toctext">战争</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Culture_&amp;_Faith"><span class="tocnumber">4</span> <span class="toctext">文化与信仰</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Misc."><span class="tocnumber">5</span> <span class="toctext">杂项</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Characters">角色</span></h2>
+<div class="table-wrap"><table class="mildtable sortable" width="70%">
+<tbody><tr>
+<th width="1%" class="unsortable">
+</th>
+<th width="15%">机制 </th>
+<th width="3%">起始版本 </th>
+<th width="3%">最后核实 </th>
+<th width="60%" class="unsortable">备注 </th></tr>
+<tr>
+<td></td>
+<td><a href="../wiki/Character.html" title="角色">角色</a> </td>
+<td>1.0</td>
+<td>1.4</td>
+<td>
+</td></tr>
+<tr>
+<td></td>
+<td><a href="../wiki/Attributes.html" title="属性">属性</a> </td>
+<td>1.0</td>
+<td>1.5</td>
+<td>
+</td></tr>
+<tr>
+<td></td>
+<td><a href="../wiki/Traits.html" title="特质">特质</a> </td>
+<td>1.0</td>
+<td>1.5</td>
+<td>
+</td></tr>
+<tr>
+<td></td>
+<td><a href="../wiki/Resources.html" title="资源">资源</a> </td>
+<td>1.0</td>
+<td>1.5</td>
+<td>
+</td></tr>
+<tr>
+<td></td>
+<td><a href="../wiki/Modifiers.html" title="Modifiers">修正</a> </td>
+<td>1.0</td>
+<td>1.5</td>
+<td>
+</td></tr>
+<tr>
+<td></td>
+<td><a href="https://ck3.paradoxwikis.com/Interactions" title="英文原站：Interactions" class="orig-link" target="_blank" rel="noopener">互动</a> </td>
+<td>1.0</td>
+<td>1.4</td>
+<td>
+</td></tr>
+<tr>
+<td></td>
+<td><a href="../wiki/Lifestyle.html" title="生活方式">生活方式</a> </td>
+<td>1.0</td>
+<td>1.5</td>
+<td>
+</td></tr>
+<tr>
+<td></td>
+<td><a href="../wiki/Dynasty.html" title="王朝">王朝</a> </td>
+<td>1.0</td>
+<td>1.5</td>
+<td>
+</td></tr></tbody></table></div>
+<h2><span id="Realm_.26_Governance"></span><span class="mw-headline" id="Realm_&amp;_Governance">国度与治理</span></h2>
+<div class="table-wrap"><table class="mildtable sortable" width="70%">
+<tbody><tr>
+<th width="1%" class="unsortable">
+</th>
+<th width="15%">机制 </th>
+<th width="3%">起始版本 </th>
+<th width="3%">最后核实 </th>
+<th width="60%" class="unsortable">备注 </th></tr>
+<tr>
+<td></td>
+<td><a href="https://ck3.paradoxwikis.com/Vassals" class="mw-redirect orig-link" title="英文原站：Vassals" target="_blank" rel="noopener">封臣</a> </td>
+<td>1.0</td>
+<td>1.5</td>
+<td>
+</td></tr>
+<tr>
+<td></td>
+<td><a href="../wiki/Council.html" title="Council">御前会议</a> </td>
+<td>1.0</td>
+<td>1.5</td>
+<td>
+</td></tr>
+<tr>
+<td></td>
+<td><a href="../wiki/Court.html" title="Court">宫廷</a> </td>
+<td>1.0</td>
+<td>1.5</td>
+<td>
+</td></tr>
+<tr>
+<td>
+</td>
+<td><a href="../wiki/Royal_court.html" title="御前宫廷">王廷</a> </td>
+<td>1.5
+</td>
+<td>1.5
+</td>
+<td>需要<a href="https://ck3.paradoxwikis.com/Royal_Court_(DLC)" title="英文原站：Royal Court (DLC)" class="orig-link" target="_blank" rel="noopener">王廷（DLC）</a> </td></tr>
+<tr>
+<td></td>
+<td><a href="../wiki/Schemes.html" title="阴谋">阴谋</a> </td>
+<td>1.0</td>
+<td>1.5</td>
+<td>
+</td></tr>
+<tr>
+<td></td>
+<td><a href="../wiki/Government.html" title="政体">政体</a> </td>
+<td>1.0</td>
+<td>1.4</td>
+<td>
+</td></tr>
+<tr>
+<td></td>
+<td><a href="../wiki/Laws.html" title="法律">法律</a> </td>
+<td>1.0</td>
+<td>1.4</td>
+<td>
+</td></tr>
+<tr>
+<td></td>
+<td><a href="../wiki/Decisions.html" title="Decisions">决策</a> </td>
+<td>1.0</td>
+<td>1.5</td>
+<td>
+</td></tr>
+<tr>
+<td></td>
+<td><a href="../wiki/Titles.html" title="头衔">头衔</a> </td>
+<td>1.0</td>
+<td>1.5</td>
+<td>
+</td></tr>
+<tr>
+<td></td>
+<td><a href="../wiki/Barony.html" title="男爵领">男爵领</a> </td>
+<td>1.0</td>
+<td>1.4</td>
+<td>
+</td></tr>
+<tr>
+<td></td>
+<td><a href="../wiki/County.html" title="伯爵领">伯爵领</a> </td>
+<td>1.0</td>
+<td>1.4</td>
+<td>
+</td></tr>
+<tr>
+<td></td>
+<td><a href="../wiki/Building.html" title="建筑">建筑</a> </td>
+<td>1.0</td>
+<td>1.5</td>
+<td>
+</td></tr></tbody></table></div>
+<h2><span class="mw-headline" id="Warfare">战争</span></h2>
+<div class="table-wrap"><table class="mildtable sortable" width="70%">
+<tbody><tr>
+<th width="1%" class="unsortable">
+</th>
+<th width="15%">机制 </th>
+<th width="3%">起始版本 </th>
+<th width="3%">最后核实 </th>
+<th width="60%" class="unsortable">备注 </th></tr>
+<tr>
+<td></td>
+<td><a href="../wiki/Warfare.html" title="战争">战争</a> </td>
+<td>1.0</td>
+<td>1.4</td>
+<td>
+</td></tr>
+<tr>
+<td></td>
+<td><a href="../wiki/Casus_belli.html" title="宣战理由">宣战理由</a> </td>
+<td>1.0</td>
+<td>1.4</td>
+<td>
+</td></tr>
+<tr>
+<td></td>
+<td><a href="../wiki/Alliance.html" title="联盟">联盟</a> </td>
+<td>1.0</td>
+<td>1.4</td>
+<td>
+</td></tr>
+<tr>
+<td></td>
+<td><a href="../wiki/Army.html" title="军队">军队</a> </td>
+<td>1.0</td>
+<td>1.4</td>
+<td>
+</td></tr>
+<tr>
+<td></td>
+<td><a href="../wiki/Hired_forces.html" title="雇佣军">雇佣部队</a> </td>
+<td>1.0</td>
+<td>1.4</td>
+<td>
+</td></tr>
+<tr>
+<td></td>
+<td><a href="../wiki/Knight.html" title="骑士 (Knight)">骑士</a> </td>
+<td>1.0</td>
+<td>1.5</td>
+<td>
+</td></tr>
+<tr>
+<td></td>
+<td><a href="../wiki/Duel.html" title="决斗">决斗</a> </td>
+<td>1.3</td>
+<td>1.5</td>
+<td>
+</td></tr>
+<tr>
+<td></td>
+<td><a href="https://ck3.paradoxwikis.com/Struggle" class="mw-redirect orig-link" title="英文原站：Struggle" target="_blank" rel="noopener">斗争</a> </td>
+<td>1.6</td>
+<td>1.6</td>
+<td>
+</td></tr></tbody></table></div>
+<h2><span id="Culture_.26_Faith"></span><span class="mw-headline" id="Culture_&amp;_Faith">文化与信仰</span></h2>
+<div class="table-wrap"><table class="mildtable sortable" width="70%">
+<tbody><tr>
+<th width="1%" class="unsortable">
+</th>
+<th width="15%">机制 </th>
+<th width="3%">起始版本 </th>
+<th width="3%">最后核实 </th>
+<th width="60%" class="unsortable">备注 </th></tr>
+<tr>
+<td></td>
+<td><a href="../wiki/Religion.html" title="宗教">宗教</a> </td>
+<td>1.0</td>
+<td>1.4</td>
+<td>
+</td></tr>
+<tr>
+<td></td>
+<td><a href="https://ck3.paradoxwikis.com/Faith" class="mw-redirect orig-link" title="英文原站：Faith" target="_blank" rel="noopener">信仰</a> </td>
+<td>1.0</td>
+<td>1.5</td>
+<td>
+</td></tr>
+<tr>
+<td></td>
+<td><a href="https://ck3.paradoxwikis.com/Doctrines" title="英文原站：Doctrines" class="orig-link" target="_blank" rel="noopener">教义</a> </td>
+<td>1.0</td>
+<td>1.5</td>
+<td>
+</td></tr>
+<tr>
+<td></td>
+<td><a href="../wiki/Tenet.html" class="" title="教条">教条</a> </td>
+<td>1.0</td>
+<td>1.4</td>
+<td>
+</td></tr>
+<tr>
+<td></td>
+<td><a href="../wiki/Holy_sites.html" title="圣地">圣地</a> </td>
+<td>1.0</td>
+<td>1.4</td>
+<td>
+</td></tr>
+<tr>
+<td></td>
+<td><a href="../wiki/Culture.html" title="文化">文化</a> </td>
+<td>1.0</td>
+<td>1.5</td>
+<td>
+</td></tr>
+<tr>
+<td></td>
+<td><a href="https://ck3.paradoxwikis.com/Traditions" title="英文原站：Traditions" class="orig-link" target="_blank" rel="noopener">传统</a> </td>
+<td>1.0</td>
+<td>1.5</td>
+<td>
+</td></tr>
+<tr>
+<td></td>
+<td><a href="https://ck3.paradoxwikis.com/Innovations" class="mw-redirect orig-link" title="英文原站：Innovations" target="_blank" rel="noopener">革新</a> </td>
+<td>1.0</td>
+<td>1.5</td>
+<td>
+</td></tr>
+<tr>
+<td></td>
+<td><a href="https://ck3.paradoxwikis.com/Form_of_Address" class="mw-redirect orig-link" title="英文原站：Form of Address" target="_blank" rel="noopener">称谓</a> </td>
+<td>1.0</td>
+<td>1.5</td>
+<td>
+</td></tr></tbody></table></div>
+<h2><span class="mw-headline" id="Misc.">杂项</span></h2>
+<div class="table-wrap"><table class="mildtable sortable" width="70%">
+<tbody><tr>
+<th width="1%" class="unsortable">
+</th>
+<th width="15%">机制 </th>
+<th width="3%">版本 </th>
+<th width="60%" class="unsortable">备注 </th></tr>
+<tr>
+<td></td>
+<td><a href="../wiki/Modding.html" title="模组制作">模组制作</a></td>
+<td>~</td>
+<td>
+</td></tr>
+<tr>
+<td></td>
+<td><a href="../wiki/Patches.html" title="补丁">补丁</a></td>
+<td>~</td>
+<td>
+</td></tr>
+<tr>
+<td></td>
+<td><a href="../wiki/Downloadable_content.html" title="可下载内容">可下载内容（DLC）</a></td>
+<td>1.4</td>
+<td>
+</td></tr>
+<tr>
+<td></td>
+<td><a href="https://ck3.paradoxwikis.com/Developer_diaries" title="英文原站：Developer diaries" class="orig-link" target="_blank" rel="noopener">开发日志</a></td>
+<td>~</td>
+<td>
+</td></tr>
+<tr>
+<td></td>
+<td><a href="../wiki/Achievement.html" class="" title="成就">成就</a></td>
+<td>1.5</td>
+<td>
+</td></tr>
+<tr>
+<td></td>
+<td><a href="../wiki/Jargon.html" title="术语与缩写">术语</a></td>
+<td>~</td>
+<td>
+</td></tr></tbody></table></div>
+<div style="clear: both;"></div>
+<div style="padding: 2px; border: 1px solid #aaa; text-align: center; border-collapse: collapse; font-size: 100%;--dbd:#4b433c">
+<div style="height: 1.6em; font-weight: bold; font-size: 105%; background-color: #efefef;--dbg:#474441"><b><a class="mw-selflink selflink">机制</a></b></div>
+<div style="font-size:0.9em;">
+<table style="font-size: 11px; margin: 0px 0px -2px -2px; width: 100%;">
+
+<tbody><tr>
+<td style="width: 15%; background: #EDEDED; font-weight: bold; text-align: right; padding: 2px 5px;--dbg:#474340">角色 </td>
+<td style="text-align: left; padding: 2px 5px;"><a href="../wiki/Character.html" title="角色">角色</a> • <a href="../wiki/Attributes.html" title="属性">属性</a> • <a href="../wiki/Traits.html" title="特质">特质</a> • <a href="../wiki/Resources.html" title="资源">资源</a> • <a href="../wiki/Modifiers.html" title="Modifiers">修正</a> • <a href="../wiki/Lifestyle.html" title="生活方式">生活方式</a> • <a href="https://ck3.paradoxwikis.com/Family_(relation)" title="英文原站：Family (relation)" class="orig-link" target="_blank" rel="noopener">家庭</a> • <a href="../wiki/Dynasty.html" title="王朝">王朝</a> • <a href="../wiki/Schemes.html" title="阴谋">阴谋</a> • <a href="../wiki/Hooks.html" title="把柄">把柄</a> • <a href="../wiki/Activity.html" title="Activity">活动</a> • <a href="../wiki/Artifacts.html" title="宝物">宝物</a> • <a href="https://ck3.paradoxwikis.com/Interactions" title="英文原站：Interactions" class="orig-link" target="_blank" rel="noopener">互动</a> • <a href="../wiki/Travel.html" title="旅行">旅行</a> • <a href="../wiki/Adventurer.html" title="冒险者">冒险者</a> • <a href="../wiki/Prisoner.html" title="Prisoner">囚犯</a> </td></tr></tbody></table>
+<table style="font-size: 11px; margin: 0px 0px -2px -2px; width: 100%;">
+
+<tbody><tr>
+<td style="width: 15%; background: #EDEDED; font-weight: bold; text-align: right; padding: 2px 5px;--dbg:#474340">国度与治理 </td>
+<td style="text-align: left; padding: 2px 5px;"><a href="../wiki/Council.html" title="Council">御前会议</a> • <a href="../wiki/Court.html" title="Court">宫廷</a> • <a href="../wiki/Power_sharing.html" title="权力分享">权力分享</a> • <a href="../wiki/Subjects.html" title="臣属">臣属</a> • <a href="https://ck3.paradoxwikis.com/Succession" title="英文原站：Succession" class="orig-link" target="_blank" rel="noopener">继承</a> • <a href="../wiki/Government.html" title="政体">政体</a> • <a href="../wiki/Laws.html" title="法律">法律</a> • <a href="../wiki/Decisions.html" title="Decisions">决策</a> • <a href="../wiki/Titles.html" title="头衔">头衔</a> • <a href="../wiki/Barony.html" title="男爵领">男爵领</a> • <a href="../wiki/County.html" title="伯爵领">伯爵领</a> • <a href="../wiki/Building.html" class="" title="建筑">建筑</a> • <a href="../wiki/Royal_court.html" title="御前宫廷">王廷</a> • <a href="../wiki/Domicile.html" title="居所">居所</a> • <a href="../wiki/Great_projects.html" title="伟大工程">伟大工程</a> </td></tr></tbody></table>
+<table style="font-size: 11px; margin: 0px 0px -2px -2px; width: 100%;">
+
+<tbody><tr>
+<td style="width: 15%; background: #EDEDED; font-weight: bold; text-align: right; padding: 2px 5px;--dbg:#474340">战争 </td>
+<td style="text-align: left; padding: 2px 5px;"><a href="../wiki/Warfare.html" title="战争">战争</a> • <a href="../wiki/Casus_belli.html" title="宣战理由">宣战理由</a> • <a href="../wiki/Alliance.html" title="联盟">联盟</a> • <a href="../wiki/Army.html" title="军队">军队</a> • <a href="../wiki/Hired_forces.html" title="雇佣军">雇佣部队</a> • <a href="../wiki/Knight.html" title="骑士 (Knight)">骑士</a> • <a href="../wiki/Duel.html" title="决斗">决斗</a> • <a href="../wiki/Situation.html" title="局势">局势</a> </td></tr></tbody></table>
+<table style="font-size: 11px; margin: 0px 0px -2px -2px; width: 100%;">
+
+<tbody><tr>
+<td style="width: 15%; background: #EDEDED; font-weight: bold; text-align: right; padding: 2px 5px;--dbg:#474340">文化与信仰 </td>
+<td style="text-align: left; padding: 2px 5px;"><a href="../wiki/Culture.html" title="文化">文化</a> • <a href="https://ck3.paradoxwikis.com/Traditions" title="英文原站：Traditions" class="orig-link" target="_blank" rel="noopener">传统</a> • <a href="https://ck3.paradoxwikis.com/Innovation" title="英文原站：Innovation" class="orig-link" target="_blank" rel="noopener">革新</a> • <a href="https://ck3.paradoxwikis.com/Form_of_address" title="英文原站：Form of address" class="orig-link" target="_blank" rel="noopener">称谓</a> • <a href="https://ck3.paradoxwikis.com/Faith" class="mw-redirect orig-link" title="英文原站：Faith" target="_blank" rel="noopener">信仰</a> • <a href="https://ck3.paradoxwikis.com/Doctrines" title="英文原站：Doctrines" class="orig-link" target="_blank" rel="noopener">教义</a> • <a href="../wiki/Tenet.html" class="" title="教条">教条</a> • <a href="../wiki/Holy_sites.html" title="圣地">圣地</a> </td></tr></tbody></table>
+<table style="font-size: 11px; margin: 0px 0px -2px -2px; width: 100%;">
+
+<tbody><tr>
+<td style="width: 15%; background: #EDEDED; font-weight: bold; text-align: right; padding: 2px 5px;--dbg:#474340">元信息 </td>
+<td style="text-align: left; padding: 2px 5px;"><a href="../wiki/Modding.html" title="模组制作">模组制作</a> • <a href="../wiki/Patches.html" title="补丁">补丁</a> • <a href="../wiki/Downloadable_content.html" title="可下载内容">可下载内容（DLC）</a> • <a href="https://ck3.paradoxwikis.com/Developer_diaries" title="英文原站：Developer diaries" class="orig-link" target="_blank" rel="noopener">开发日志</a> • <a href="../wiki/Achievement.html" title="成就">成就</a> • <a href="../wiki/Jargon.html" title="术语与缩写">术语</a> • <a href="https://ck3.paradoxwikis.com/Bookmarks" title="英文原站：Bookmarks" class="orig-link" target="_blank" rel="noopener">开局剧本</a> • <a href="../wiki/Interesting_characters.html" title="有趣的角色">有趣的角色</a> • <a href="https://ck3.paradoxwikis.com/Ruler_Designer" title="英文原站：Ruler Designer" class="orig-link" target="_blank" rel="noopener">统治者设计器</a> • <a href="../wiki/Game_rules.html" title="游戏规则">游戏规则</a> </td></tr></tbody></table>
+</div></div>
+
+
+
+
+</div>
+<footer class="page-footer">
+<p>本页译自 Paradox Wikis 社区《Crusader Kings III Wiki》的条目「<a href="https://ck3.paradoxwikis.com/Mechanics" target="_blank" rel="noopener">Mechanics</a>」（修订版本 22574）。原文采用 <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.zh-hans" target="_blank" rel="noopener">CC BY-SA 3.0</a> 协议授权；本译文对原文作了翻译修改，同样以 CC BY-SA 3.0 协议发布。</p>
+<p>译文由 AI 辅助翻译生成，可能存在错误或疏漏，请以英文原文为准。游戏图片版权归 Paradox Interactive 所有，本站不转载，以占位框标示，可前往原站查看。</p>
+<p>游戏内容及素材的商标与版权归 Paradox Interactive 及其许可方所有。本站为爱好者非官方翻译项目，与 Paradox Interactive 无关。 · <a href="../about.html">关于本站</a> · <a href="https://github.com/williamlorder/Translation_CK3" target="_blank" rel="noopener">GitHub</a></p>
+</footer>
+</main>
+</div>
+</body>
+</html>

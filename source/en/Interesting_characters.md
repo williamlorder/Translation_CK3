@@ -1112,7 +1112,7 @@ Unlanded characters may vary between courts upon starting the game. Although the
 - Rodrigo 'the Campeador' de Vivar, Courtier of Castille: Also known as El Cid, a Castilian knight who would become a Spanish historical folk hero and national icon.
 - Robert de Brus, Courtier of Apulia: Founder of the “Bruis/Bruce” clan, sailed and fought with William the conqueror. Later he became lord of Annandale and vassal of William. He was ancestor to the king of Scotland Robert the Bruce.
 - Omar Khayyam: Persian mathematician, astronomer and poet who created a dynasty of hedonistic mathematician-poets.
-- Hassan i-Sabbah: Nothing is absolute in reality, everything is permitted. Where other men blindly follow the truth, remember, nothing is true. Where other men are limited by morality or law, remember, everything is permitted. We work in the dark to serve the light. We are Assassins. Founder of the Hashashins in the mountain fort of Alamut, he would overthrow the king of Daylam in the year 1090 A.D., following the Shia sect.
+- Hassan i-Sabbah: Founder of the Hashashins in the mountain fort of Alamut, he would overthrow the king of Daylam in the year 1090 A.D., following the Shia sect.
 
 # 1178 starts
 
