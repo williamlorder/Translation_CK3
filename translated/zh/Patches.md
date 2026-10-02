@@ -11,11 +11,11 @@
 
 版本历史
 
- [[DLC By God Alone.png]](https://ck3.paradoxwikis.com/By_God_Alone) 唯凭神意 
+ [[DLC By God Alone.png]](https://ck3.paradoxwikis.com/By_God_Alone) 唯主是依 
 
  [1.20](https://ck3.paradoxwikis.com/Patch_1.20) 
 
- [[DLC All Under Heaven.png]](https://ck3.paradoxwikis.com/All_Under_Heaven) 天下一统 
+ [[DLC All Under Heaven.png]](https://ck3.paradoxwikis.com/All_Under_Heaven) 溥天之下 
 
  [1.19](https://ck3.paradoxwikis.com/Patch_1.19) • [1.19.0.4](https://ck3.paradoxwikis.com/Patch_1.19.X#1.19.0.4) • [1.19.0.5](https://ck3.paradoxwikis.com/Patch_1.19.X#1.19.0.5) • [1.19.0.6](https://ck3.paradoxwikis.com/Patch_1.19.X#1.19.0.6) 
 
@@ -163,7 +163,7 @@
 | 2025-10-28 
 |  
 | 重大补丁（代号"Crane"） 
-| [天下一统](https://ck3.paradoxwikis.com/All_Under_Heaven) |
+| [溥天之下](https://ck3.paradoxwikis.com/All_Under_Heaven) |
 
 | [1.17.1](https://ck3.paradoxwikis.com/Patch_1.17.X#1.17.1) 
 | 2025-09-16 

@@ -51,4 +51,4 @@
 - "WN" ——《流浪贵族》（Wandering Nobles）
 - "MM" ——《中世纪丰碑》（Medieval Monuments）
 - "KoS" 或 "KotS" ——《草原之汗》（Khans of the Steppe）
-- "AUH" ——《天下一统》（All Under Heaven）
+- "AUH" ——《溥天之下》（All Under Heaven）

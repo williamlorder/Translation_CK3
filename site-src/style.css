@@ -194,3 +194,9 @@ a.orig-link::after { content: "↗"; font-size: .7em; vertical-align: super; mar
 a.orig-link:has(.img-ph)::after { content: none; }
 .legacy-notice { padding: 6px 10px; border-left: 3px solid var(--orig-link); background: var(--table-alt); border-radius: 2px; }
 .mw-parser-output.legacy table.wikitable td, .mw-parser-output.legacy table.wikitable th { min-width: 4em; }
+/* Inline float/width styles from the wiki would otherwise win over the narrow-screen rules */
+@media (max-width: 900px) {
+  .mw-parser-output [style*="float"] { float: none !important; margin-left: 0 !important; margin-right: 0 !important; }
+  .mw-parser-output [style*="width"], .mw-parser-output .eu4box { max-width: 100% !important; }
+  .mw-parser-output .eu4box[style*="width"] { width: auto !important; }
+}

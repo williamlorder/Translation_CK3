@@ -46,7 +46,7 @@
 
 ## 游戏与元信息
 - Game rules → 游戏规则；Ironman → 铁人模式；Achievement → 成就；Bookmark → 开局剧本；Start date → 开局日期；Ruler Designer → 统治者设计器；Console command → 控制台命令；Mod → 模组；Modding → 模组制作；DLC / Downloadable content → 可下载内容（DLC）；Expansion → 资料片；Flavor pack → 风味包；Event pack → 事件包；Patch → 补丁；Hotfix → 热修复；Developer diary / Dev diary → 开发日志；Version → 版本；Tutorial → 教程
-- DLC 名称：Northern Lords → 北方领主；Royal Court → 王廷；Fate of Iberia → 伊比利亚之命运；Friends & Foes → 亦敌亦友；Tours & Tournaments → 巡游与锦标赛；Wards & Wardens → 监护与被监护；Legacy of Persia → 波斯遗产；Legends of the Dead → 亡者传说；Roads to Power → 权力之路；Wandering Nobles → 漂泊贵族；Khans of the Steppe → 草原可汗；Coronations → 加冕礼；All Under Heaven → 天下一统；By God Alone → 唯凭神意
+- DLC 名称：Northern Lords → 北方领主；Royal Court → 王廷；Fate of Iberia → 伊比利亚之命运；Friends & Foes → 亦敌亦友；Tours & Tournaments → 巡游与锦标赛；Wards & Wardens → 监护与被监护；Legacy of Persia → 波斯遗产；Legends of the Dead → 亡者传说；Roads to Power → 权力之路；Wandering Nobles → 漂泊贵族；Khans of the Steppe → 草原可汗；Coronations → 加冕礼；All Under Heaven → 溥天之下（官方中文名）；By God Alone → 唯主是依（官方中文名）
 - 难度：VE / Very Easy → 极易；E / Easy → 简单；M / Medium → 中等；H / Hard → 困难；VH / Very Hard → 极难
 
 ## 保持原样、不翻译
