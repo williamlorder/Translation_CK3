@@ -1,0 +1,298 @@
+{
+ "pages": {
+  "Crusader_Kings_III_Wiki": {
+   "pageName": "Crusader_Kings_III_Wiki",
+   "title": "Crusader Kings III Wiki",
+   "displayTitle": "Crusader Kings III Wiki",
+   "revid": 36400,
+   "categories": [
+    "Wiki"
+   ],
+   "lastmod": "This page was last edited on 30 September 2026, at 13:02.",
+   "requested": [
+    "Crusader_Kings_III_Wiki"
+   ],
+   "fetchedAt": "2026-10-02T09:36:52.041Z"
+  },
+  "Crusader_Kings_III": {
+   "pageName": "Crusader_Kings_III",
+   "title": "Crusader Kings III",
+   "displayTitle": "Crusader Kings III",
+   "revid": 24009,
+   "categories": [
+    "Timeless",
+    "Crusader Kings III"
+   ],
+   "lastmod": "This page was last edited on 4 October 2024, at 12:50.",
+   "requested": [
+    "Crusader_Kings_III"
+   ],
+   "fetchedAt": "2026-10-02T09:38:10.733Z"
+  },
+  "Beginner's_guide": {
+   "pageName": "Beginner's_guide",
+   "title": "Beginner's guide",
+   "displayTitle": "Beginner's guide",
+   "revid": 36001,
+   "categories": [
+    "Potentially outdated",
+    "1.18"
+   ],
+   "lastmod": "This page was last edited on 13 September 2026, at 09:28.",
+   "requested": [
+    "Beginner's_guide"
+   ],
+   "fetchedAt": "2026-10-02T09:39:28.139Z"
+  },
+  "Mechanics": {
+   "pageName": "Mechanics",
+   "title": "Mechanics",
+   "displayTitle": "Mechanics",
+   "revid": 22574,
+   "categories": [
+    "Potentially outdated",
+    "1.4",
+    "Game concepts"
+   ],
+   "lastmod": "This page was last edited on 21 August 2024, at 05:31.",
+   "requested": [
+    "Mechanics"
+   ],
+   "fetchedAt": "2026-10-02T09:40:50.710Z"
+  },
+  "Character": {
+   "pageName": "Character",
+   "title": "Character",
+   "displayTitle": "Character",
+   "revid": 36526,
+   "categories": [
+    "1.20",
+    "Character"
+   ],
+   "lastmod": "This page was last edited on 30 September 2026, at 14:51.",
+   "requested": [
+    "Characters"
+   ],
+   "fetchedAt": "2026-10-02T09:42:12.205Z"
+  },
+  "Attributes": {
+   "pageName": "Attributes",
+   "title": "Attributes",
+   "displayTitle": "Attributes",
+   "revid": 36429,
+   "categories": [
+    "1.20",
+    "Character",
+    "Pages that use a deprecated format of the math tags"
+   ],
+   "lastmod": "This page was last edited on 30 September 2026, at 13:16.",
+   "requested": [
+    "Attributes"
+   ],
+   "fetchedAt": "2026-10-02T09:43:31.667Z"
+  },
+  "Traits": {
+   "pageName": "Traits",
+   "title": "Traits",
+   "displayTitle": "Traits",
+   "revid": 36454,
+   "categories": [
+    "1.20",
+    "Character"
+   ],
+   "lastmod": "This page was last edited on 30 September 2026, at 13:31.",
+   "requested": [
+    "Traits"
+   ],
+   "fetchedAt": "2026-10-02T09:44:53.694Z"
+  },
+  "Resources": {
+   "pageName": "Resources",
+   "title": "Resources",
+   "displayTitle": "Resources",
+   "revid": 36512,
+   "categories": [
+    "1.20",
+    "Character"
+   ],
+   "lastmod": "This page was last edited on 30 September 2026, at 14:24.",
+   "requested": [
+    "Resources"
+   ],
+   "fetchedAt": "2026-10-02T09:46:08.598Z"
+  },
+  "Lifestyle": {
+   "pageName": "Lifestyle",
+   "title": "Lifestyle",
+   "displayTitle": "Lifestyle",
+   "revid": 36537,
+   "categories": [
+    "1.20",
+    "Character"
+   ],
+   "lastmod": "This page was last edited on 30 September 2026, at 15:07.",
+   "requested": [
+    "Lifestyle"
+   ],
+   "fetchedAt": "2026-10-02T09:47:31.247Z"
+  },
+  "Dynasty": {
+   "pageName": "Dynasty",
+   "title": "Dynasty",
+   "displayTitle": "Dynasty",
+   "revid": 36432,
+   "categories": [
+    "1.20",
+    "Character"
+   ],
+   "lastmod": "This page was last edited on 30 September 2026, at 13:17.",
+   "requested": [
+    "Dynasty"
+   ],
+   "fetchedAt": "2026-10-02T09:48:51.340Z"
+  },
+  "Schemes": {
+   "pageName": "Schemes",
+   "title": "Schemes",
+   "displayTitle": "Schemes",
+   "revid": 36577,
+   "categories": [
+    "1.20",
+    "Character"
+   ],
+   "lastmod": "This page was last edited on 1 October 2026, at 01:06.",
+   "requested": [
+    "Schemes"
+   ],
+   "fetchedAt": "2026-10-02T09:50:10.685Z"
+  },
+  "Hooks": {
+   "pageName": "Hooks",
+   "title": "Hooks",
+   "displayTitle": "Hooks",
+   "revid": 36442,
+   "categories": [
+    "1.20",
+    "Character"
+   ],
+   "lastmod": "This page was last edited on 30 September 2026, at 13:25.",
+   "requested": [
+    "Hooks"
+   ],
+   "fetchedAt": "2026-10-02T09:50:16.943Z"
+  },
+  "Artifacts": {
+   "pageName": "Artifacts",
+   "title": "Artifacts",
+   "displayTitle": "Artifacts",
+   "revid": 36671,
+   "categories": [
+    "1.20",
+    "Character"
+   ],
+   "lastmod": "This page was last edited on 1 October 2026, at 15:05.",
+   "requested": [
+    "Artifacts"
+   ],
+   "fetchedAt": "2026-10-02T09:50:24.298Z"
+  },
+  "Modifiers": {
+   "pageName": "Modifiers",
+   "title": "Modifiers",
+   "displayTitle": "Modifiers",
+   "revid": 36433,
+   "categories": [
+    "1.20",
+    "Character"
+   ],
+   "lastmod": "This page was last edited on 30 September 2026, at 13:18.",
+   "requested": [
+    "Modifiers"
+   ],
+   "fetchedAt": "2026-10-02T09:51:38.234Z"
+  },
+  "Council": {
+   "pageName": "Council",
+   "title": "Council",
+   "displayTitle": "Council",
+   "revid": 36566,
+   "categories": [
+    "1.20",
+    "Realm"
+   ],
+   "lastmod": "This page was last edited on 30 September 2026, at 18:05.",
+   "requested": [
+    "Council"
+   ],
+   "fetchedAt": "2026-10-02T09:52:58.473Z"
+  },
+  "Court": {
+   "pageName": "Court",
+   "title": "Court",
+   "displayTitle": "Court",
+   "revid": 36541,
+   "categories": [
+    "1.20",
+    "Realm",
+    "Character"
+   ],
+   "lastmod": "This page was last edited on 30 September 2026, at 15:10.",
+   "requested": [
+    "Court"
+   ],
+   "fetchedAt": "2026-10-02T09:54:13.075Z"
+  },
+  "Government": {
+   "pageName": "Government",
+   "title": "Government",
+   "displayTitle": "Government",
+   "revid": 36619,
+   "categories": [
+    "1.20",
+    "Realm",
+    "Governments"
+   ],
+   "lastmod": "This page was last edited on 1 October 2026, at 09:02.",
+   "requested": [
+    "Government"
+   ],
+   "fetchedAt": "2026-10-02T09:54:21.664Z"
+  },
+  "Laws": {
+   "pageName": "Laws",
+   "title": "Laws",
+   "displayTitle": "Laws",
+   "revid": 36572,
+   "categories": [
+    "1.20",
+    "Realm",
+    "Laws"
+   ],
+   "lastmod": "This page was last edited on 1 October 2026, at 00:27.",
+   "requested": [
+    "Laws"
+   ],
+   "fetchedAt": "2026-10-02T09:55:41.339Z"
+  },
+  "Prisoner": {
+   "pageName": "Prisoner",
+   "title": "Prisoner",
+   "displayTitle": "Prisoner",
+   "revid": 36542,
+   "categories": [
+    "1.20",
+    "Realm",
+    "Character"
+   ],
+   "lastmod": "This page was last edited on 30 September 2026, at 15:11.",
+   "requested": [
+    "Prisoners"
+   ],
+   "fetchedAt": "2026-10-02T09:55:49.432Z"
+  }
+ },
+ "aliases": {
+  "Characters": "Character",
+  "Prisoners": "Prisoner"
+ }
+}

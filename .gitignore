@@ -1,2 +1,4 @@
 node_modules/
 package-lock.json
+work/
+site-src/wiki-content.css
